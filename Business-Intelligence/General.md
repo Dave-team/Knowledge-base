@@ -4,4 +4,4 @@
 -	Focus on small things that we can deliver that add value. Get that live and implemented and tested and used by users. Then continue to build incrementally and continue to have momentum with user adaption.
 
 
-![Alt text](/Users/davevanheukelom/Images/Screenshot.textClipping?raw=true "Optional Title")
+![Alt text](https://user-images.githubusercontent.com/28791247/85018807-aec23d80-b165-11ea-94c1-016e7c327acc.jpg "Optional Title")
