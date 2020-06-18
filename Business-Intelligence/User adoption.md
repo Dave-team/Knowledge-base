@@ -29,20 +29,15 @@ Set up training sessions specific to the requirements of the end user to be trai
 Monthly updates with new data / features in Looker Main purpose here is that people find common things they weren’t aware of and now can use. Example framework of such a newsletter: 
 - What’s new
 - How can you find and use it?
-- What does it look like?
+- What's coming by when?
 
 Really sell the results you’re getting – at all hands and in emails. You want to be able to ask anyone what meaningful achievement you did lately and they should be able to answer this for you.  
 
 ### User feedback
-Gather user feedback from end users to increase the value that Looker adds. 
-- How are they using Looker? 
-    - Goals
-    - Frequency of interaction
-    - Action in Looker > explore, schedule, check data?
-    - Output - export, create dashboard
-- Does Looker help answering their questions? Why (not)?
-- What is their experience using Looker? What are their likes and dislikes?
-- Is there anything they’d like to see (e.g. more fields to explore, more complex data modelling, more complex visualizations etc.)
+Gather user feedback from end users to increase the value that Looker adds. Send this to inactive users
+- Has Looker been useful to you? If not, what could we add or change that would make it more useful?
+- Have you experienced anything frustrating or confusing in Looker that I could help with?
+- Do you have any other questions or requests about Looker or data at the company more broadly?
 
 ### Data champions
 Create a hub and spoke model where each team has data champions. 
@@ -59,10 +54,33 @@ Get Looker into the lives of our end users.
 - Embed Looker (iFrames) into the tools that end users are already using (e.g. Wiki)
 
 ## User adoption techniques when user adoption is hard
-1. Replace the reports of your stakeholder
-    - Talk to stakeholders and offer to do their reporting. This makes sure you start to understand data sources, the business logic and the underlying complexity. Now once you’ve seen this, you can start to think about how you can optimize this and make it faster to build
-    - Evolve the report. You have full understanding of the data. Can this report be improved in any way? Make it more accurate, comprehensive and impactful - which may also mean that reports can change KPIs because something else is more impactful 
-    - Start to build out insights. Start off by adding comments to an email used to send reports. Proactively answer questions that your stakeholders always seem to have. Then layer on more robust analysis that builds off the existing report. This is evolving yourself into a trusted partner 
-    - Repeat this often 
-2. Proactively be much deeper involved in the business – pick up things that need to build and then proactively build things and then presenting to stakeholders. You need to realize that people often don’t know what is available; unless you show people they will never know. This can be a Look that you made or perhaps a dashboard made for someone else that might be relevant to other stakeholders as well 
-3. Go ‘integrate’ in another team to get context around their data and their business operations. At the same time, start to implement their Looker explores by regularly asking questions (there will be plenty) and by looking at their existing data 
+1. Replace the reports of your stakeholders
+    - Email team leads: we are doing BI and would like to see how your team uses data and see if we can support in any way. Support could come in automation of reports to reduce load on team 
+    - Meet with team leads and look at all reports done in last 3 monhts 
+    - Meet with report owners and shadow them. Clarify how automation can help
+    - Get access to the reports and aim to automate this. If we can't, it's an item for the backlog
+    - Regularly communicate and build the relationship with the stakeholder during this process
+    
+
+
+
+## NPS survey
+These questions are rated on 1-5 scale: 
+1. Strongly Disagre
+2. Disagree
+3. Neutral
+4. Agree
+5. Strongly Agree
+
+**How do you use data today?** 
+-	I rely on data to make decisions in my job
+-	I can easily and independently answer my own questions with data
+-	I am confident that I understand the meaning of the metrics and the data fields I use
+-	I trust the data 
+
+**How is the analytics team doing?** 
+-	The analytics team is a reliable resource of information about our data 
+-	The analytics team helps me understand our data and how to access it 
+-	The analytics team is responsive to my requests 
+-	I am satisfied with the performance of the analytics team overall 
+

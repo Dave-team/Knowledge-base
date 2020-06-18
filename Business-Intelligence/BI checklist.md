@@ -63,11 +63,12 @@
     - We apply DRY principles to the code 
 - End users find Looker easy to use 
     - Naming conventions are applied
-    - Explores are as short as possible, with groupings applied
-    - All relevant fields have a useful description 
+    - Explores are as short as possible, with groupings applied. Each explore answers specific questions
+    - All relevant fields have a name used in the business and a useful description 
     - The labels are clear and describe the data 
+    - Dashboards are easily accessible to end users 
 
-Changes checklist 
+### Changes checklist 
 - Changes to LookML 
     - Before pushing anything to live, make sure that all best practices are implemented (definitions, tests, good UX) 
     - Validate LookML 
@@ -81,3 +82,5 @@ Changes checklist
     - Do the dashboards still work as expected? 
     - Do I find Looker easy to use – am I following my best practices? Would a new joiner be able to easily get to everything he / she needs?
     - Is LookML still clean? Is there code that can be made redundant, do we group logically, is everything DRY? Can we combine some explores? 
+
+
