@@ -9,6 +9,15 @@
 - Who will be interested in the data and needs access? 
 - Any visualization requirements? 
 
+### Delivery process
+- Have ticket with requirements. Potentially detailed with:
+    - List of fields
+    - Mock-up of dashboard
+- Regular check-ins during the incremental build 
+- Check-in prior to final delivery to ensure required impact is delivered. Always close the BI cycle. 
+
+
+
 ### Dashboard checklist
 - Good design: 
     - Test for the use case – is the sizing correct? 
@@ -27,7 +36,7 @@
     - Can the user perform actions, filters, drill down, links as required?
 
 ### Testing
-- Never assume data to be correct – check it. Check it when it is in the source as the source might be wrong. Check manual input from other. Check own logic. 
+- Never assume data to be correct – check it and be confident its correct. Check it when it is in the source as the source might be wrong. Check manual input from other. Check own logic. 
 - Ideal scenario: proof that data is in line with source 
 - If we can’t check vs source, does the data make sense? 
     - Look at the graph itself 
