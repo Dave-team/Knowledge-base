@@ -6,7 +6,7 @@
 - A calm mind 
 
 ## Important elements of life 
-There are 6 things that matter most in my life: family, love, friends, health, career and experiences. 
+There are 6 things that matter most in my life: family, love, friends, health, career and experiences. It is important these are all in balance. 
 
 ### Family
 - Always be there for the family and be responsibe
@@ -16,7 +16,7 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 
 ### Love
 - Be the best partner I can be 
-- Always be present 
+- Always be present - seperate work stress from private time
 - Show that you care 
 - Do fun things and take initiative here  
 
@@ -37,7 +37,7 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 ### Career
 - Be enthusiastic and energetic around creating impact
 - Embrace the challenges with confidence and optimism 
-- Be resourceful and curious
+- Be resourceful, solution oriented and curious
 - Build meaningful relationships 
 
 ### Experiences 
@@ -49,7 +49,8 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 ## My ideal being   
 - Happy 
 - Confident
-- Calm and patient
+- Calm 
+- Patient
 - Positive 
 - High energy 
 - Honest
@@ -65,7 +66,7 @@ Nights
 - Reflect on the day 
 - Practice gratefullness
 - Set goals for the next day
-- Journal. 
+- Journal 
     - Reflect on how you performed against principles - look at yourself objectively
     - How do you feel and why?
     - What are you grateful for?
@@ -88,11 +89,16 @@ Monthly
 - Review life admin and take actions accordingly 
 - Am I living the life that I want to be living? Have I done some amazing things this last month? 
 
-
-
-
-
-
+General 
+- Think about how others would handle situations. Learn about them and try to emulate their characteristics  
+    - Strong thinkers: Naval, Paul Graham
+    - Strong leaders: Navy seals 
+- Think bigger picture: it’s not about where you are currently; it is about where you are going. By focusing on the bigger picture, you realize your current problem is tiny in the grand scheme of things
+- The more often I am uncomfortable, the thicker the skin and the more character is built 
+- Be more interested into a wide range of things: Wikipedia, fiction, documentaries
+- Seek out criticism. That's how character is built 
+- Spend more time with great people to become their average
+- Having the ability to answer tough live questions. What’s you earliest childhood memory? Biggest failure? What are your parents like? Most emotional moment? Most happy/ proud moment? Etc.
 
 
 Life brings challenges. Be enthusiastic, optimistic and confident we can figure things out
@@ -100,6 +106,9 @@ Life brings challenges. Be enthusiastic, optimistic and confident we can figure 
 Don't assume things to be true. Check for yourself and clarify with others 
 
 Be curious
+
+-	Be very experimental when it comes down to health but also more in general. See life as periodic sprints where you try out new things and learn new things. This will make life interesting and it is supposed to slow time down. 
+-	In general, file is about fulfillment – becoming better at things. This leads to happiness. When people are complacent and comfortable, suicide rates go up as people start to wonder: is this all there is? Instead, pick a new thing to learn and use discipline to get better at it. Be disciplined, be active, get better at things. 
 
 To live by: 
 - At some point, life will flash you by. Make sure it is worth watching. 
@@ -115,3 +124,37 @@ To live by:
 - Life is like a box of chocolates - you never know what you're gonna get. But you just make the most of it  
 - See who you can become and how far you can go – become the very best version of yourself
 - We survive and conquer one day after the next and we try to make each day better than the last. We also never know what is going to happen and that is exciting. This is what makes life worth living. 
+- Sometimes you feel like you need to discover your life’s purpose but all you really need is just some nuts and a cold fucking shower. In other words, sometimes you just shouldn’t overthink everything. 
+- Learn to operate within your circle of competence. What is crucial is the you understand the boundaries of that circle and the size of the circle is irrelevant. Honestly define what you know and then stick to those areas. If you're outside, say 'I don't know'  
+- Strong opinions, loosely held 
+
+## Doing hard things
+- It's important to do hard things that stretch me as they are great opportunities to learn and improve. Seek this challenge continiously. Get critical feedback to improve further
+- Think about the bigger picture. Always believe the current strugles are small compared to where you want to go. 
+- Realize that performance will be best in a confident and calm state
+- Treat hard things as learning experiences. Rather than approaching it with anxiety, think: let’s see what happens. You approached the experience in a certain way. Then you evaluate how it went and you can be better next time 
+- Evaluate how others do it and try to emulate this 
+- Prepare well in advance 
+- Visualize doing it
+- Bring it back to the person you want to be and realize that is just another step to getting there. 
+- Depending on the situation:
+    - Be grateful for the opportunity
+    - Realize it needs to be done and there is no other option 
+- Realize that it matters now, not in the future
+- This too, shall pass. I had many struggles before and it all turned out fine. 
+
+
+On the day of execution: 
+- Stay focused on other goals before the moment
+- Realize is it okay and natural to be nervous
+- Just before presentation: 
+    - Find a way to relax – e.g. listen to music beforehand 
+    - Power pose in a bathroom and make yourself as big possible 
+    - Heavy breathing for a short while
+
+
+
+
+10.	Avoid things the best version of yourself will regret.
+19.	Avoiding stupidity is easier than seeking brilliance.
+26.	They reduce the trivial choices in their lives so they can focus on making their essential choices well. They know that they are the sum of their decisions — and they want to make the right decisions at every juncture.

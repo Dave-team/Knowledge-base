@@ -3,27 +3,43 @@
 ## Elements of user adoption
 
 ### Data availability
-Make sure that Looker has the data available for end users so they can answer their questions. This often means helping the business out by building initial dashboards 
+Make sure that Looker has the data available for end users so they can answer their questions. This often means helping the business out by building initial dashboards. It also consists of ensuring the data is complete and current  
 
 ### Data reliability
 Make sure that end users can trust the data in Looker is reliable. Especially at the start we need to ensure the source data and Looker matches, otherwise people might lose trust
 
 ### User Experience
-Make Looker easy to use for end users. 
+Make sure that end users have a great experience using the data platform. It should:
+- Be correct – end users trust that the data is correct 
+- Have good documentation so that end users can self-serve their analytics needs. 
+- Perform well. Queries should return results fast 
+- Be easy to use. 
+- Look good. Tools and reports should be clear and attractive. Implement the company's colour pallete 
+
 
 ### Support
 Provide great support to end users. 
-- Have a dedicated channel used for Looker questions
+- Have a dedicated Slack channel used for Looker questions
 - Make sure response times are practically instant
 - Create custom homepages for end users with links to helpful documents. The homepage can also have the main KPIs compared to target and with last six months trended with really strong drill down functionality 
 - Emphasize that people can reach out for more training, check their work or sit together and build something 
 
 ### Onboarding
-Set up training sessions specific to the requirements of the end user to be trained. Train early and often
-- Train them day one of joining to make sure Looker is directly ingrained in their habits and workflows 
-- Show end users what is possible in Looker - show dashboards we built for others and show how we explore from what already exists in Looker and show ‘Looker Blocks’ with dashboards that relate to their function
+Set up training sessions specific to the requirements of the end user to be trained. Train early and often to make sure Looker is directly ingrained in their habits and workflows.  
+- Train end users
+    - Kickoff: intro of me, and overview of what we’re going to do and get an understanding of how users want to use the data  
+    - Introduction: what is Looker and how is it helpful? 
+    - Looker demo: tour of what we have built so far in Looker 
+    - Essentials of Looker - dimension, measures, filters, pivots 
+    - Practical exercises for users to try: 
+        - Explore an existing dashboard 
+        - Build a relevant use case from scratch and save it to a dashboard  
+    - Explanations of different Looker use cases and how this relates to what the users wanted to get out of the session. Show ‘Looker Blocks’ with dashboards that relate to their function
+    - Table calculations, scheduling
+    - Building dashboards 
 - Provide great documentation (training recordings / slides, FAQs, data dictionary) and make this easily available to end users. For developers, have a best practice LookML document 
 - Regularly check in with new users as they go through the change curve to ensure they remain enthusiastic and positive about what Looker can provide them. Track their usage in iLooker.
+- Hold regular office hours where people can book a slot to go through something data related
 
 ### Evangelize BI
 Monthly updates with new data / features in Looker Main purpose here is that people find common things they weren’t aware of and now can use. Example framework of such a newsletter: 
@@ -40,9 +56,11 @@ Gather user feedback from end users to increase the value that Looker adds. Send
 - Do you have any other questions or requests about Looker or data at the company more broadly?
 
 ### Data champions
-Create a hub and spoke model where each team has data champions. 
-- They arise organically because they are keen on diving in data and gathering data for their respective teams 	
+Create a hub and spoke model where each team has data champions that can help answering questions and drive adoption in their teams. 
+- They arise organically because they are keen on diving in data and gathering data for their respective teams. Keen an eye out via the Looker user engagement dashboards 	
 - We will provide them with the support they need and we’ll hold regular feedback session and get their input to guide our roadmap. E.g. regular consulting 1:1 work 
+
+
 
 ### Measure engagement
 - Measure Looker engagement in iLooker and proactively reach out to see any changes in engagement or general disengagement. 
