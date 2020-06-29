@@ -127,6 +127,7 @@ To live by:
 - Sometimes you feel like you need to discover your life’s purpose but all you really need is just some nuts and a cold fucking shower. In other words, sometimes you just shouldn’t overthink everything. 
 - Learn to operate within your circle of competence. What is crucial is the you understand the boundaries of that circle and the size of the circle is irrelevant. Honestly define what you know and then stick to those areas. If you're outside, say 'I don't know'  
 - Strong opinions, loosely held 
+- Live with a feedback loop: reflect on how you did something and then think about how it should have been done better so that can be done next time 
 
 ## Doing hard things
 - It's important to do hard things that stretch me as they are great opportunities to learn and improve. Seek this challenge continiously. Get critical feedback to improve further

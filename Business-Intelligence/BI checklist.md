@@ -30,9 +30,12 @@
     - If there are outliers, is the analysis clarified in the dashboard? 
 - Good data:
     - The data doesn’t raise any questions (e.g. no null values) 
+    - Is the data correct? 
+    - Is the data in line with other sources?
 - Has impact: 
     - Does the dashboard deliver the required impact? This is checked with the stakeholder 
     - Can the user perform actions, filters, drill down, links as required?
+    - Are the definitions in line with the business definitions?
 
 ### Testing
 - Never assume data to be correct – check it and be confident its correct. Check it when it is in the source as the source might be wrong. Check manual input from other. Check own logic. 
@@ -54,6 +57,7 @@
     - Be consistent 
 - General: 
     - Use snake_case
+    - Everything is lowercase
     - Table names are dim_, fact_, stg_
     - Tables names are singular: dim_customer
     - IDs are described as: object_id
@@ -109,7 +113,7 @@
     - Content validation 
     - Push to production so all Looker users use most current models  
     - Quickly check most used dashboards 
-    - Update model sets where required 
+    - Update model sets where required - make sure that relevant stakeholders still have relevant access 
 - Spend time each week for Looker management: 
     - Access control: do the right people have access to the right models?
     - Do the dashboards still work as expected? 

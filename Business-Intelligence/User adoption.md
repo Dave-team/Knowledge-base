@@ -25,7 +25,7 @@ Provide great support to end users.
 - Emphasize that people can reach out for more training, check their work or sit together and build something 
 
 ### Onboarding
-Set up training sessions specific to the requirements of the end user to be trained. Train early and often to make sure Looker is directly ingrained in their habits and workflows.  
+Set up training sessions specific to the requirements of the end user to be trained. Train early and often to make sure Looker is directly ingrained in their habits and workflows. When a tool is hard to use, they'll go back to the tools they know 
 - Train end users
     - Kickoff: intro of me, and overview of what we’re going to do and get an understanding of how users want to use the data  
     - Introduction: what is Looker and how is it helpful? 

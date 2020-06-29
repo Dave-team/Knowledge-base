@@ -21,6 +21,7 @@
 - Make use of highlights and callouts to draw the eye.
 - The combined headers in your slides should tell a coherent story  
 - A good reference is that we can spend 1-2 minutes on each slide  
+- When you introduce a more complex visual, make sure it gets loaded on the slides step by step. Add new elements one by one whilst explaining each individually to the audience.
 
 ## Preparation
 - First, write down the high level outline - the high level story you want to tell 

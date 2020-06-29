@@ -31,33 +31,43 @@ Principles
 
 ## Presentation
 - Go through the presentation with a peer prior to sending it 
+- Before sending it, make sure that anything that could raise questions is either deleted or clearly explained
 - Make sure to consider the audience: 
-    - What do they already know?
+    - Who is the decision maker?
+    - What do they already know? What background information is relevant?
     - What do they want to get out of it? 
     - What questions may they have and what should I convince them of? 
+    - What biases do they have I should be aware of? 
+    - Where are the risks: what factors could weaken our case and do we need to proactively address them?  
     - Often, the audience wants to know two things: 
         - What’s your point? Give me value, not data
         - Based on your point, what do you want me to do? 
 - Send an email clearly stating the results, approach and any supporting data / analysis and suggest the actions you’d recommend based off the analysis. This is impact focused and answers the question: what should the business do now? Be very clear on definitions and what calculations you have used 
 - Offer to take them through it 
+- Present the big idea first. Tell your main story within 3 minutes 
 - Go through slides and answer any questions
 - Present things as simple as possible 
 - Have strong reasons for why you approached it in a certain way 
+- Powerpoint:
+    - Title page
+    - Introduction slide: goal of analysis and executive summary (main points from your analysis: this also shows what will be covered within the presentation). This answers: why should I pay attention and what's in it for me? 
+    - Main analysis following a story. This gives proof for the need of action - you are convincing them why they should accept the solution you are proposing
+    - Recommendations / executive summary with the key points from the analysis (i.e. repeating the executive summary at the start). Then, you specify the actions or decisions you need the audience to take. It answers the goal of the analysis. A good analysis deck will have a specific call to action here – this should the answer the ‘Now What’ as well as ‘So what – what is the business value here?’
+
 
 
 ## Good analysis 
 ### Add context to analysis 
-- Compare data over time. Potentially show moving averages to show the trend more clearly
-- Segment the data. An overall trend isn't actionable. What specific segments can you identify that show actionable insights? Segments can include: 
-    - Marketing channels/campaigns
-    - Cohort
-    - Device 
+- Compare data over time. Potentially show moving averages to show the trend more clearly. A good way is to show trend across multiple time frames: e.g. 2019 and 2020 over one another
+- Segment the data. An overall trend isn't actionable. What specific segments can you identify that show actionable insights? 
 - Add context from business initiatives. Avoid sending an analysis where a stakeholder looks at it and says 'That's because of Y'. Have the business understanding to say this proactively 
 - A good way to present data is by showing changes 
+-	It can be handy to also display future plan values in a graph – this will show the stakeholders what is expected to happen in the near future 
 
+Keep a log of business initiatives. Any time something happens that causes data to shift, keep a note of this in a Google Sheet that gets pipelined into the warehouse. Columns could be data, type, notes. Things to include could be: marketing campaigns, feature releases, bugs, holidays,  
 
-
-
+### Show business value
+- Don't present numbers - present actions and/or recommendations and show significance. Both practical and statistical 
 
 
 
@@ -75,9 +85,33 @@ Presenting insights
 
 
 
-Issues process
--	Is it a problem worth investigating? 
--	Do I know the cause / it is known? If yes, explain
--	If not, do some initial analysis that is searching for the obvious. Part of this is performing segmentation analysis 0
--	If that doesn’t answer it, ask around to understand context. Perhaps it is expected, perhaps it’s part of a bigger picture. Do you know why X could be the case? Have there been any changes that could have causes X? 
--	If that doesn’t answer it, will need to go deep and look at like for like comparisons on a granular level comparing different data sources 
+## Issues process
+First, consider whether it is a problem worth investigating. If it is, consider: 
+- Do I know the cause? If yes, just explain it to the stakeholder. Domain expertise is the critical factor in this. Once you really know you're data it'll be easy to understand where problems occur
+- If it's not an apparent issue, do some initial analysis. 
+    - Segment the data (see segmentation ideas below) 
+    - Look for any of the more obvious potential causes (see list below)
+    - What can you see in the past? Does it line up with the trend?
+- If analysis doesn't solve the problem, ask the relevant stakeholders for context and if they know why it happened. Perhaps it is expected, perhaps it’s part of a bigger picture. 'Do you know why X could be the case? Have there been any changes that could have caused X?' 
+- If that doesn’t answer it, will need to go deep and look at like for like comparisons on a granular level comparing different data sources 
+
+**Potential issues sources**
+- Holidays – people might use something more or less during holiday periods
+- Seasonality
+- Marketing activities (e.g. campaigns, press release)
+- Feature releases
+- Feature changes
+- Bugs in features
+- Bugs in analytics tracking
+- Broken ELT 
+
+**Segmentation ideas**
+- Products 
+- Countries
+- Marketing channels/campaigns
+- Cohort
+- Device 
+- Customer segment
+
+
+

@@ -2,24 +2,23 @@
 
 ## Principles
 - You are responsible for the team's output - give credit to the team when things go well  and take full responsibility when they don't
--	Make your employees feel comfortable with you – they should feel free to share their thoughts and recommendations 
-- -	Don’t be the manager you wish you had – be the manager that your team needs. Everyone is different and everyone is at different stages 
+- Make your employees feel comfortable with you – they should feel free to share their thoughts and recommendations 
+- Don’t be the manager you wish you had – be the manager that your team needs. Everyone is different and everyone is at different stages 
 - People want to know: 
     - Do you have insights and steadiness to make tough decisions?
     - Do you have values they relate to admire and want to emulate
     - Do you have the right kind of energy?
     - Do you demand high levels of performance from yourself and others? 
 - Lead by example
+- Always track and measure whether we are on the right track – what can we improve on? 
 
 ## Six foundations to leadership
-- Clarity: communicate goals, strategy and vision over and over
+- Clarity: communicate goals, strategy and vision over and over 
 - Commitment: make sure everyone is in and buys the goals
 - Translation: translate the goals, vision strategy to the people within the organization and their day to day activities 
 - Enabling: make sure that the people are able to perform their jobs well
 - Synergy: people have to get along well
-- Accountability: make sure everyone feels accountable (themselves and each other)
-
-
+- Accountability: make sure everyone feels accountable (themselves and each other) to the mission, vision and strategy
 
 
 ## How to get things done 
@@ -41,7 +40,6 @@
 - Ask them how you can help
 - You’re a facilitator, not a doer
     
-
 ## Difficult conversations
 -	Have difficult conversations in person and stick to the facts 
 
@@ -56,6 +54,20 @@
 ## Feedback
 - Praise people often and recognize people's good work. Praise them publicly and in front of other senior people 
 - Give little criticism. When you do give critisism, be honest and specific and work towards improvements 
+- Create a culture where any feedback is welcome by and from everyone in the business 
+
+## Evangelize
+You want to communicate what the team is going to work on: 
+- explain the goals - why is this gonna be awesome?
+- explain who’s affected by the project
+- talk about the risks
+- talk about timelines
+
+This is important because: 
+- It helps planning accross teams as projects overlap on depend on each other
+- Advertising a plan might cause someone to notice an important problem with it and tell us!
+- It helps setting a bar - when you seel amazing projects people realize the value you bring and it holds you to high standards 
+
 
 
 ## Team values 

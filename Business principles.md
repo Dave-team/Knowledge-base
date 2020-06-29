@@ -4,7 +4,7 @@
 - Don't wait and ask: what can be done now? Walk up > Slack > Call > Email
 - Don’t aim for perfection – aim for making it good enough
 - Build incrementally: build, launch, get feedback, repeat 
-- -	If we had to actually complete this in two weeks, what would our approach be?
+- If we had to actually complete this in two weeks, what would our approach be?
 
 ## Do the right thing
 - Get a good problem definition
@@ -23,9 +23,7 @@
 - Always test things when you implement a change. Don’t make a change but then don’t confirm that it works
 
 ## Solve problems /
-
 Solve a problem by asking: could it be X? Then try X and see if it works. Think if I can fix it before asking others or before thinking it can’t be done. 
-
 When dealing with a hard problem, let it be and sleep on it to get support from the subconscious mind 
 
 ## Decision making 
@@ -50,11 +48,17 @@ Do the bare minimum to solve the problem.
 - Think strategically 
     - Define the problem and what decision needs to be made
     - What are we trying to accomplish? What is the goal?
-    - Do we need to do it?
+    - Do we need to do it? Is it a big enough thing to solve?
+    - Do we need to do it now?
     - Do we have something similar already that might do the same thing?
     - Can we do it better (more efficient, less costs)
-    - Can we do something else? 
+    - Can we do something else? Always be ready to eleborate on different approaches you considered
     - Especially when deeply involved in a project, take these steps back and look at the issue holistically 
+    - What are the risks involved and how can we mitigate those? Think about
+        - Known-knowns: project scope and requirements
+        - Known-unknowns: recognized risks to the project
+        - Unknown-unknowns: where we get blind-sided - things we don't know and might hit us 
+        - Unknown-knowns: bad assumptions, the things you think you know but actually don't 
     - Think about second and subsequent order effects. 
         - What is involved with this decision 
         - How do these things interact? 

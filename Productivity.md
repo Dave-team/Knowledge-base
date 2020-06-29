@@ -1,5 +1,5 @@
 # Productivity
-
+ 
 ## Principles
 -	Do as little as needed, not as much as possible 
 o	Working on the wrong thing is the worst waste of all 
@@ -82,7 +82,7 @@ o	Reward: feel better about yourself
 - Look at it first and last thing of the day
 - Answer or file all emails – inbox 0 is the goal
 - Structure: 
-    - Emails to answer soon are left unread
+    - Emails to answer soon are left unread and a note is added to my to do list
     - Pending: emails you know you’ll have to deal with again, but later
     - Review: emails with things you want to read in depth 
     - Individual folders for everything else to archive the emails 

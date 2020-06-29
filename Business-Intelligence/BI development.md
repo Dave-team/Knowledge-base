@@ -1,7 +1,7 @@
 # BI development
 
 ## Project charter
-Create an initial high level project charter with the project objectives, scope, approach, involved parties and team staffing, success criteria, constraints, assumptions, and risks. This should include a high level architecture of the different data sources and ideally the most important dimensions (high level bus matrix). It should also have a list of high level priorities: teams / processes to get BI for and in what phase these will be implemented. Note that this starts of as a draft and will be updated incrementally 
+Create an initial high level project charter with the project objectives, scope, approach, involved parties and team staffing, success criteria, constraints, assumptions, and risks. This should include a high level architecture of the different data sources and ideally the most important dimensions (high level bus matrix). It should also have a list of high level priorities: teams / processes to get BI for and in what phase these will be implemented - this could be a high level gannt chart out of which individual tasks will be added to a backlog / PM tool. Note that this starts of as a draft and will be updated incrementally 
 
 ## Requirements gathering 
 
@@ -57,8 +57,8 @@ Create a business requirements doc that answers all questions asked including an
 
 ## Kickoff (optional)
 Speak to the executives of the team whose process is prioritized:
-- Clarify the goal of the project.
-- Understand who in their team uses data. Goal here is to really discover who to talk to and whether I could talk to multiple people at once. 
+- Clarify the goal of the project
+- Stakeholder mapping: understand who in their team uses data. Goal here is to really discover who to talk to and whether I could talk to multiple people at once. 
 - Make sure that they are supportive of me spending time with their team members to gather data requirements. My job is here to be specific as to whom I’ll be meeting for how long and how often
 - Clarify the deadlines that need to be met so full support is available from the start
 - Make sure the expectations are set and met for everyone involved

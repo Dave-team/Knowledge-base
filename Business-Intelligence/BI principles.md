@@ -65,7 +65,7 @@ Once I have the context, I can establish myself as a business partner. This can 
 Build strong realtionship with the tech and the business teams. The goal is to establish trust that makes me a business partner they want to work with to achieve their goals. 
 
 **What to discuss**
-- What the team is working on 
+- What the team is working on - updates on projects
 - What is in the roadmap
 - Whether data support is needed
 - Anything that could influence data: new product / campaign releases, A/B tests, new KPIs 

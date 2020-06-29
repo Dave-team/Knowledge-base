@@ -18,17 +18,18 @@ General
 - Also, make sure you really understand the question and why that person is asking that question. -	Seek for to understand, before being understood. -	To make sure you agree on something, ask probing questions and get it in writing (ideally get them to write it down). Ask them what their understanding of the matter is  
 
 ## Helpful tactics
--	Repeat the last words someone has said
--	Repeating the question
--	“If I understood you correctly, you are saying that”
--	“Don’t you think that we should do this and this?”
--	“What do you mean?”
--	“What do you think?”
--	“Really”?
--	“Wow, that’s interesting”
--	“I see what you mean”
--	“Help me understand”
--	“Can you tell me more about your views?”
+- Repeat the last words someone has said
+- Repeating the question
+- It can be helpful to let the other person summarize the main points
+- “If I understood you correctly, you are saying that”
+- “Don’t you think that we should do this and this?”
+- “What do you mean?”
+- “What do you think?”
+- “Really”?
+- “Wow, that’s interesting”
+- “I see what you mean”
+- “Help me understand”
+- “Can you tell me more about your views?”
 
 
 

@@ -67,3 +67,18 @@ General
 -	When end users create a ticket, make sure it includes a relevant tag and let them assign a person from their relevant data team 
 -	Include a Slack channels where requests are automatically posted. Then review these requests and ask the necessary questions in a thread. 
 -	When something requires back and forth, consider setting up a Google doc to work cross functionally
+
+
+
+•	Make sure WIP is in the dashboard title whilst working on it 
+•	When a dashboard has been updated, make a note in the Slack channel to keep people up to date
+•	Add a badge to a dashboard when it is approved 
+
+
+Keep dashboards up to date 
+1.	Review your KPIs – track only what makes sense and what is important to the business 
+2.	Track usage of your dashboard. If something used to be used but no longer, it has possibly become obsolete. Sometimes, the dashboard might not actually answer the relevant questions. Maybe people don’t understand it. Talk to people and understand their requirements 
+3.	Speak to your users – what do they think of the dashboards? Talk through the users and identify how it is actually used 
+4.	Build starter dashboards. Create different dashboards depending on the seniority of the people in the org. 
+
+- Always make sure dashboards are up to date and relevant. Clean up anything that is no longer relevant or not used
