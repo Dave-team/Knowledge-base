@@ -83,19 +83,7 @@
 - The audience will never be aware of the things you’re doing wrong 
 - When nervous, think not of yourself. Instead, think of the audience
 - Over time, I will be established as an authority and need to speak frequently both at the company as well as larger events – each presentation is small compared to the next. And at each presentation I am representing my own brand
--	Focus on the fact that you want to give value to the audience – that is the main goal of me talking – the audience needs to come out smarter. They don’t actually care about the presentation in and off itself 
+- Focus on the fact that you want to give value to the audience – that is the main goal of me talking – the audience needs to come out smarter. They don’t actually care about the presentation in and off itself 
 - Look into good public speakers and see how they do it and then try to replicate their behaviour 
 - A great tactic is to start off with interaction with the audience. This should massively drop the nerves during the rest of the presentation
-
-
-
- 
-
-
--	Be grateful for opportunities you get (e.g. when presenting to be higher up the foodchain). Have the strong tendency to prove yourself and get the word out 
--	Imagine being a great public speaker
-o	I love to speak in public and have the opportunity to educate and influence 
-o	Body language
-o	Tone: loud volume, slow speed, and pause / breath 
-
--	My life and career are very personal to me. I represent my own brand in the best way I can 
+- Be grateful for opportunities you get (e.g. when presenting to be higher up the foodchain). Have the strong tendency to prove yourself and get the word out 

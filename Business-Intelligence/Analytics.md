@@ -1,9 +1,5 @@
 # Analytics
-Principles
-- Make sure to keep the raw data with the analysis somewhere well documented as you will always need to do the analysis again or remember your assumptions
-
 ## SQL development 
-
 ### SQL query checks
 - After every step, check to see whether there are duplicates (count or count distinct) introduced. Also, see if you added null values in your data. If so, understand why and make a decision as to delete or keep them 
 - Make sure to keep the same number of rows when this should be the case
@@ -38,7 +34,7 @@ Principles
     - What do they want to get out of it? 
     - What questions may they have and what should I convince them of? 
     - What biases do they have I should be aware of? 
-    - Where are the risks: what factors could weaken our case and do we need to proactively address them?  
+    - Where are the risks: what factors could weaken our case and do we need to proactively address them? 
     - Often, the audience wants to know two things: 
         - What’s your point? Give me value, not data
         - Based on your point, what do you want me to do? 
@@ -54,36 +50,18 @@ Principles
     - Main analysis following a story. This gives proof for the need of action - you are convincing them why they should accept the solution you are proposing
     - Recommendations / executive summary with the key points from the analysis (i.e. repeating the executive summary at the start). Then, you specify the actions or decisions you need the audience to take. It answers the goal of the analysis. A good analysis deck will have a specific call to action here – this should the answer the ‘Now What’ as well as ‘So what – what is the business value here?’
 
-
-
 ## Good analysis 
 ### Add context to analysis 
 - Compare data over time. Potentially show moving averages to show the trend more clearly. A good way is to show trend across multiple time frames: e.g. 2019 and 2020 over one another
 - Segment the data. An overall trend isn't actionable. What specific segments can you identify that show actionable insights? 
 - Add context from business initiatives. Avoid sending an analysis where a stakeholder looks at it and says 'That's because of Y'. Have the business understanding to say this proactively 
 - A good way to present data is by showing changes 
--	It can be handy to also display future plan values in a graph – this will show the stakeholders what is expected to happen in the near future 
-
-Keep a log of business initiatives. Any time something happens that causes data to shift, keep a note of this in a Google Sheet that gets pipelined into the warehouse. Columns could be data, type, notes. Things to include could be: marketing campaigns, feature releases, bugs, holidays,  
+- It can be handy to also display future plan values in a graph – this will show the stakeholders what is expected to happen in the near future 
 
 ### Show business value
 - Don't present numbers - present actions and/or recommendations and show significance. Both practical and statistical 
-
-
-
-
-o	Trim the fat. Make your insights clear and concise and focus only on what matters most. The more you add, the less clear the main point becomes. 
-
-Presenting insights
--	Presented simply so the business users understand it without too many issues and the business accepts the end result 
-
-
--	There is good context surrounding the analysis: is something up or down, is it relevant, is it specific to a certain segment, is it expected to happen – why did it happen, is it significant?
-
-
--	From these requirements, come up with a list of hypothesis for the questions/problems. Prioritize these and check in order of priority. 
-
-
+- Trim the fat. Make your insights clear and concise and focus only on what matters most. The more you add, the less clear the main point becomes. 
+- Insights need to be presented simply so the business users understand it without too many issues and the business accepts the end result 
 
 ## Issues process
 First, consider whether it is a problem worth investigating. If it is, consider: 
@@ -113,5 +91,6 @@ First, consider whether it is a problem worth investigating. If it is, consider:
 - Device 
 - Customer segment
 
-
-
+## Other
+- Make sure to keep the raw data with the analysis somewhere well documented as you will always need to do the analysis again or remember your assumptions
+- Keep a log of business initiatives. Any time something happens that causes data to shift, keep a note of this in a Google Sheet that gets pipelined into the warehouse. Columns could be data, type, notes. Things to include could be: marketing campaigns, feature releases, bugs, holidays

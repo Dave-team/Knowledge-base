@@ -20,7 +20,6 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 - Show that you care 
 - Do fun things and take initiative here  
 
-
 ### Friends
 - Meet at least 1 friend a week 
 - Make a commitment to stay in touch with friends globally 
@@ -55,7 +54,6 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 - High energy 
 - Honest
 
-
 ## Rituals 
 Mornings
 - Medidate
@@ -89,7 +87,7 @@ Monthly
 - Review life admin and take actions accordingly 
 - Am I living the life that I want to be living? Have I done some amazing things this last month? 
 
-General 
+## General 
 - Think about how others would handle situations. Learn about them and try to emulate their characteristics  
     - Strong thinkers: Naval, Paul Graham
     - Strong leaders: Navy seals 
@@ -99,18 +97,16 @@ General
 - Seek out criticism. That's how character is built 
 - Spend more time with great people to become their average
 - Having the ability to answer tough live questions. What’s you earliest childhood memory? Biggest failure? What are your parents like? Most emotional moment? Most happy/ proud moment? Etc.
+- Life brings challenges. Be enthusiastic, optimistic and confident we can figure things out
+- Don't assume things to be true. Check for yourself and clarify with others 
+- Be curious
+- Be very experimental when it comes down to health but also more in general. See life as periodic sprints where you try out new things and learn new things. This will make life interesting and it is supposed to slow time down. 
+- In general, file is about fulfillment – becoming better at things. This leads to happiness. When people are complacent and comfortable, suicide rates go up as people start to wonder: is this all there is? Instead, pick a new thing to learn and use discipline to get better at it. Be disciplined, be active, get better at things. 
+- Avoid things the best version of yourself will regret.
+- Avoiding stupidity is easier than seeking brilliance.
+- They reduce the trivial choices in their lives so they can focus on making their essential choices well. They know that they are the sum of their decisions — and they want to make the right decisions at every juncture.
 
-
-Life brings challenges. Be enthusiastic, optimistic and confident we can figure things out
-
-Don't assume things to be true. Check for yourself and clarify with others 
-
-Be curious
-
--	Be very experimental when it comes down to health but also more in general. See life as periodic sprints where you try out new things and learn new things. This will make life interesting and it is supposed to slow time down. 
--	In general, file is about fulfillment – becoming better at things. This leads to happiness. When people are complacent and comfortable, suicide rates go up as people start to wonder: is this all there is? Instead, pick a new thing to learn and use discipline to get better at it. Be disciplined, be active, get better at things. 
-
-To live by: 
+## To live by: 
 - At some point, life will flash you by. Make sure it is worth watching. 
 - What do you want people to say at your funeral? And who would be there even?
 - You only live once, but if you do it right, once is enough
@@ -156,6 +152,3 @@ On the day of execution:
 
 
 
-10.	Avoid things the best version of yourself will regret.
-19.	Avoiding stupidity is easier than seeking brilliance.
-26.	They reduce the trivial choices in their lives so they can focus on making their essential choices well. They know that they are the sum of their decisions — and they want to make the right decisions at every juncture.

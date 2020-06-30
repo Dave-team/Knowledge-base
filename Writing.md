@@ -1,5 +1,4 @@
 # Writing
-
 - Find a subject you care about
 - Write version 1 as soon/fast as you can 
 - Do not ramble

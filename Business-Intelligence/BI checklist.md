@@ -84,11 +84,11 @@
 
 ### Changes checklist
 - Run all models (low – high in DAG) include testing in Dev
-- Look at the tables in Dev – does it make sense and did we not change the data?
+- Look at the tables in Dev – does it make sense and did we not change the data? Is the data requested and accurate?
 - Run all models (low – high in DAG) include testing in Prod
 - Push the changes in the models to Github so DBT Cloud runs updated jobs
 - Check the data pre and post change: are the differences expected? 
-- Depending on changes, make relevant changes in LookML (e.g. renamed fields or new columns in the table) 
+- Depending on changes, make relevant changes in LookML (e.g. renamed fields or new columns in the table). Also drop anything that is now outdated from Snowflake 
 - Run the new fields in Looker and make sure they run as expected 
 
 ## Looker
@@ -109,7 +109,7 @@
 - Changes to LookML 
     - Before pushing anything to live, make sure that all best practices are implemented (definitions, tests, good UX) 
     - Validate LookML 
-    - Test Looker explores with new changes (no errors in dimension / measures)
+    - Test Looker explores with new changes (no errors in dimension / measures). When possible, compare new dev vs old prod
     - Content validation 
     - Push to production so all Looker users use most current models  
     - Quickly check most used dashboards 

@@ -13,8 +13,6 @@
     - Status: how are we doing. Are we doing well – compare against targets 
     - Trend: are we going up, down, or are we constant
     - Projection: given where we are and what is likely to happen, will we reach our objective in time? 
-
-
 - Analysis: ad hoc queries that try to understand the why behind the metrics / KPIs. Understanding the why behind performance should indicate where improvements can be made. E.g. improvements to increase marketing performance (conversion rates, channel performance), reduction in operational costs thanks to optimizations, etc.  Enabling ad-hoc querying and analysis of our complete dataset by technical and non-technical users. Providing a trusted, integrated analysis-ready data platform for other internal projects
 - Statistical analysis: consider how different actions impact the business and try to understand how the business can be improved. This can also include things like customer segmentation to get a better idea of the distribution of the customer groups and often it will include hypothesis testing as we test different options to improve the business. 
 - Forecasting: understand different scenarios that are likely to happen and make strategic decisions of the back of these 

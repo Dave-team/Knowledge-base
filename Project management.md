@@ -13,11 +13,11 @@
 
 ## Scrum
 ### Timeline
-•	Wednesday sprint start
-•	2nd Tuesday - Midpoint: Any issues that are at risk of slipping from the milestone must be raised by the assignee
-•	2nd Friday: request need to be ready for review including documentation and testing - nothing is pushed to live 
-•	2nd Monday - everything is merged /pushed 
-•	2nd Tuesday: sprint planning 
+- Wednesday sprint start
+- 2nd Tuesday - Midpoint: Any issues that are at risk of slipping from the milestone must be raised by the assignee
+- 2nd Friday: request need to be ready for review including documentation and testing - nothing is pushed to live 
+- 2nd Monday - everything is merged /pushed 
+- 2nd Tuesday: sprint planning 
 
 ### Sprint planning 
 - Review open tickets: they are either deleted, moved into the backlog or moved into the next sprint 
@@ -59,9 +59,7 @@
     - Adjust your understanding based on what you learned
     - Repeat
 
-
-
-Other
+## Other
 - Have visibility in status of tickets. Both in own team as well as other teams - gain access to their ticketing systems
 - The tickets are always the SSOT for each task including requirements and acceptance criteria
 - Everything always takes longer than expected: start working on projects early 

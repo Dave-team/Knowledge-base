@@ -25,9 +25,8 @@
 - Monitor jobs within DBT and set up alerts for when jobs fail 
 - Data quality testing: Set up constraints tests within DBT: 
     - unique
-    - primary key
-    - referential integrity
     - not null 
+    - referential integrity
     - accepted values
 - Custom schema tests in DBT. For example: 
     - Revenue always being smaller than or equal to the gross revenue

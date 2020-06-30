@@ -1,3 +1,4 @@
+# Career
 ## Starting a new job
 - Create a 90 day plan with priorities, goals and milestones. Gets this approved by your boss. When you prepare, think about what you want to get done day 1, day 2, week 1, month 1, month 2, month 3. Ideally set up specific success criteria here
 - Key deliverables in the first stage should be: 
@@ -11,17 +12,13 @@
     - First impressions are important 
 - Promote yourself. Have a goal in mind around how you'd like to be perceived. This includes having a pith 
 
-
--	Make sure to create a plan of attack around your initial engagement strategy. Who to talk to? When? How often> In which medium? What message do I want to convey to them? 
-
 ## Pitch example
 From: “I am helping teams reaching their objectives by making using their data”. 
 
 To: “Most teams are currently struggling with their analytics. The data sits in Google Sheets, doing the analysis is taking a lot of time and most teams are not currently getting the most value from their analysis. What I will help you with is getting a centralized solution in place, that combines the data from the various source systems. All your reports will then sit in a BI tool that gets automatically updated. The benefits include:
-o	You can analyse more things as we bring various sources together and we can combine data from these sources
-o	Creating your reports goes from hours to seconds 
-o	Because it’s centralized, there won’t be any differences between definitions and calculations, meaning that teams won’t be reporting on different numbers for the same things. Practical introductions to new company:
-
+- You can analyse more things as we bring various sources together and we can combine data from these sources
+- Creating your reports goes from hours to seconds 
+- Because it’s centralized, there won’t be any differences between definitions and calculations, meaning that teams won’t be reporting on different numbers for the same things. Practical introductions to new company:
 
 ## Job negotiation
 ### Principles
@@ -30,7 +27,8 @@ o	Because it’s centralized, there won’t be any differences between definitio
 - Companies get invested in hiring you once they spent substantial time with you (interviews, tests, etc.). They’re invested not only time, but also money. Realize they want you and you can ask for some more
 - Aim to do your negotiation over email – things are directly in writing and it gives you time to really think through the process 
 - What you’re negotiating for is a total compensation package, consisting of base salary, equity, signing bonus, and annual bonus (and benefits). 
--	In the negotiation, make sure to keep emphasizing how happy you are to be have the opportunity to join the company 
+- In the negotiation, make sure to keep emphasizing how happy you are to be have the opportunity to join the company 
+- Know your desired, expected and minimal amount you'd be willing to accept 
 
 ### Negotiation tactics
 - Don't give them your salary: 
@@ -41,15 +39,6 @@ o	Because it’s centralized, there won’t be any differences between definitio
 - When you get a reasonable offer, add 10% (no specific reason why you’re the one) to 20% (there is a reason why you’re the one) higher
 - Take time to think about the offer and say that a second person is involved to decide with (e.g. family / spouse)
 -	The easiest way to negotiate is to have competing offers from multiple companies
-
-
-Preparation
-- Know your desired, expected and minimal amount you'd be willing to accept 
-
-
-
-
-    
 
 ### Templates 
 **Expected salary**

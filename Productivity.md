@@ -1,15 +1,13 @@
 # Productivity
  
 ## Principles
--	Do as little as needed, not as much as possible 
-o	Working on the wrong thing is the worst waste of all 
-Focus on most important tasks and cut the rest
--	Think harder about what to spend time on and about what to actually work on
-
--	What 20% generates 80% of the outcome, but also: what 80% is mostly useless? 
--	Learn to say no – that will get you the most done in the long term, which matters most 
+- Do as little as needed, not as much as possible 
+- Working on the wrong thing is the worst waste of all 
+- Focus on most important tasks and cut the rest
+- Think harder about what to spend time on and about what to actually work on
+- What 20% generates 80% of the outcome, but also: what 80% is mostly useless? 
+- Learn to say no – that will get you the most done in the long term, which matters most 
 - Listen to your body and mind. Rest and take a step back when it's needed 
-
 
 ## Process
 - Planning in the morning: 
@@ -39,12 +37,12 @@ Focus on most important tasks and cut the rest
     - Heavy breathing
 
 ## Habits
--	Give yourself specific triggers to implement your new habits. E.g.: ‘when I get home, first thing is putting on running shoes and go for a run’. 
--	Set up systems to take care of day to day tasks (e.g. eating the same every morning) 
--	To change or build habits: 
-o	Have a cue (e.g. waking up in the morning)
-o	Have a routine: first thing you do is meditate
-o	Reward: feel better about yourself 
+- Give yourself specific triggers to implement your new habits. E.g.: ‘when I get home, first thing is putting on running shoes and go for a run’. 
+- Set up systems to take care of day to day tasks (e.g. eating the same every morning) 
+- To change or build habits: 
+    - Have a cue (e.g. waking up in the morning)
+    - Have a routine: first thing you do is meditate
+    - Reward: feel better about yourself 
 
 ## Working from home
 - Take it easy in the morning. Exercise, read a book and have breakfast. This will get you in the right mood - you are trying to build a commute in your way as a way of getting ready for work 

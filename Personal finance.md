@@ -28,8 +28,7 @@
 ## Expenditure
 - Travel
 - Fun things arranged for family 
-o	Travel 
-o	Experiences: fancy dinners, theatre
-o	Health: massage, therapy 
-o	Convenience: easily order an Uber when the trains are cancelled
+- Experiences: fancy dinners, theatre
+- Health: massage, therapy 
+- Convenience: easily order an Uber when the trains are cancelled
 

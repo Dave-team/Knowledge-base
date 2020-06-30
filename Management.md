@@ -20,7 +20,6 @@
 - Synergy: people have to get along well
 - Accountability: make sure everyone feels accountable (themselves and each other) to the mission, vision and strategy
 
-
 ## How to get things done 
 - Make sure the interests of the team are aligned with the company’s
 - Put people in the right position
@@ -29,7 +28,7 @@
 - Confirm that they know what they do 
 - Get out of their way. Believe in them to come up with good solutions
 
-## Empoyer your team
+## Empoyer your team
 - If someone has an idea that you think might not work, ask how long it’ll take them to see if it works out?
 - Sometimes, you just let the team decide even when you think you have the right answer. There are often many right answers and your job is to ensure that the team doesn’t choose the wrong answer. 
 
@@ -41,7 +40,7 @@
 - You’re a facilitator, not a doer
     
 ## Difficult conversations
--	Have difficult conversations in person and stick to the facts 
+- Have difficult conversations in person and stick to the facts 
 
 ## Develop the team  
 - People seek: 
@@ -68,17 +67,13 @@ This is important because:
 - Advertising a plan might cause someone to notice an important problem with it and tell us!
 - It helps setting a bar - when you seel amazing projects people realize the value you bring and it holds you to high standards 
 
-
-
 ## Team values 
--	Competence. Does this person have the technical competence and experience to do the job effectively? 
--	Judgment. Does this person exercise good judgment, especially under pressure or when faced with making sacrifices for the greater good? 
--	Energy. Does this team member bring the right kind of energy to the job, or is he or she burned out or disengaged? 
--	Focus. Is this person capable of setting priorities and sticking to them, or prone to “riding off in all directions”? 
--	Relationships. Does this individual get along with others on the team and support collective decision making, or is he or she difficult to work with? 
--	Trust. Can you trust this person to keep his or her word and follow through on commitments? 
-
-Other
+- Competence. Does this person have the technical competence and experience to do the job effectively? 
+- Judgment. Does this person exercise good judgment, especially under pressure or when faced with making sacrifices for the greater good? 
+- Energy. Does this team member bring the right kind of energy to the job, or is he or she burned out or disengaged? 
+- Focus. Is this person capable of setting priorities and sticking to them, or prone to “riding off in all directions”? 
+- Relationships. Does this individual get along with others on the team and support collective decision making, or is he or she difficult to work with? 
+- Trust. Can you trust this person to keep his or her word and follow through on commitments? 
 
 ## 1 on 1s
 - Held weekly 
@@ -91,12 +86,10 @@ Other
     - Open discussion
 - Agenda to be set by employee 
 - Employee does 80% of the talking 
--	‘Seek first to understand before being understood’
-
-
+- ‘Seek first to understand before being understood’
 
 ## Goal setting 
--	Management by Objectives (MBO)
+- Management by Objectives (MBO)
     - Establish unambiguous and realistic objectives.
     - Periodically evaluate if objectives are being met.
     - Implement corrective action
@@ -105,13 +98,9 @@ Other
     - Key results are easily measurable and lead to achievement of the objective. 'How would we know if we met our objective'? Ideally it's a KPI measurement. Otherwise it could be a project completed or for example a survey result
     - OKRs should be difficult to obtain 
 
-
-
-
-Other
--	Only delegate what you really understand
--	Use 360 degrees feedback
-
+## Other
+- Only delegate what you really understand
+- Use 360 degrees feedback
 
 ## 12 questions employees ask themselves
 - Do I know what is expected of me at work?

@@ -8,18 +8,13 @@
 - Always ask for more than you expect 
 - Never agree with a first offer / never say yes the first time around
 - When asked for a concession, always ask for something in return
--	Play good cop bad cop – someone really excited and then someone who is really struggling with the pricing 
--	Show that you are willing to eat shit to get to the right price and conditions – be very critical and demanding 
-•	Generally, AE’s can give up to 40% discount. Any higher discounts would need to be approved by those above the AE’s
-•	Hold ground as long as possible 
-o	Make sure you’re talking to the right person around the table 
--	Always double check anything in writing, especially contracts. Often, it is not actually the same as what you both agreed upon 
-
--	When someone says no: what about this doesn’t work for you? Or it seems like something is bothering you
-
-
-
-
+- Play good cop bad cop – someone really excited and then someone who is really struggling with the pricing 
+- Show that you are willing to eat shit to get to the right price and conditions – be very critical and demanding 
+- Generally, AE’s can give up to 40% discount. Any higher discounts would need to be approved by those above the AE’s
+- Hold ground as long as possible 
+- Make sure you’re talking to the right person around the table 
+- Always double check anything in writing, especially contracts. Often, it is not actually the same as what you both agreed upon 
+- When someone says no: what about this doesn’t work for you? Or it seems like something is bothering you
 
 ## Process
 Preparation
@@ -55,8 +50,7 @@ Meeting
     - Negotiate deals at month end / quarter end to get good deals 
     - Clarify that you want to move quickly and any investments that are larger than X would require you to go to the board, which would be a slower process. Both parties want to sign the deal ASAP
 
-
-Phrases to use
+## Phrases to use
 - “You have to do better than that”. Then, shut up
 - “Why?”
 - “How is that?”

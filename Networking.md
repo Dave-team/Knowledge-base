@@ -28,7 +28,6 @@
     - What got you interested in X?
 - Get contact details and after the event, make sure to follow up. Also add them to LinkedIn and other ways of storing your contacts. 
 
-
 ## Reaching out to people
 - Use a good approach: 
     - Aim for a warm intro

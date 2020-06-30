@@ -18,17 +18,14 @@
 - Check in with others to stress test your thinking and see if there is a better way. Get feedback early and often. Socializing your work will help you refine, develop, and evangelize it. Don't overthink things
 - Remember that I don't need to solve all problems. Often, the problem should be handed to someone else.  
 
-
 ## Quality matters
 - Always test things when you implement a change. Don’t make a change but then don’t confirm that it works
 
-## Solve problems /
+## Solve problems / Decision making
 Solve a problem by asking: could it be X? Then try X and see if it works. Think if I can fix it before asking others or before thinking it can’t be done. 
 When dealing with a hard problem, let it be and sleep on it to get support from the subconscious mind 
 
-## Decision making 
-
-## Helpful tactics
+**Helpful tactics**
 - Scoring model when evaluation larger decisions 
 - Pros and cons 
 - Costs benefits analysis 
@@ -36,7 +33,6 @@ When dealing with a hard problem, let it be and sleep on it to get support from 
 - Best / Expected / Worst outcome scenario planning
 - The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
 - Systematically assess future risks. Always ask yourself: what if the project failed. Please explain in 5-10 minutes how we would look back on it. This will really help seeing the identified and unidentified risks
-
 
 ## Be flexible
 - Things change. Be ready to adapt
@@ -84,11 +80,6 @@ Do the bare minimum to solve the problem.
     - Reverse engineer by starting with the end in mind 
     - Think from first principles? What do we know to be absolutely true and then reason from there. This is very hard as we're taught to reason from convention. 
 
-Other
--	‘You are not entitled to take a view, unless and until you can argue better against that view than the smartest guy who holds that opposite view. 
-- 13.	If you’re outside your circle of competence and still have to make a decision, ask experts HOW they would make the same decision not WHAT they would decide.
-
-
 ## Meetings
 **Running meetings**
 - Define clear objectives before any meeting and make sure the right people are attending 
@@ -106,11 +97,6 @@ Other
 - Send a follow-up e-mail, with a summary and especially action items specifically outlined (who, what, when) and SMART
 - Start the next meeting with the action items of last meeting
 
-
-
-
-
-
 **Prep for meeting set by others**
 - What is the goal? Why are we doing this? 
 - Who is involved and what is their role? 
@@ -124,16 +110,14 @@ Other
 - Prepare questions that I want to ask also 
 - Scout first: Do everything you can to avoid a meeting where you don’t know what the stakeholders expect from you. A quick 5-minute sit-down a few days before the “real” meeting goes a long way to making sure everyone is on the same page when the meeting happens.
 
-
-
-
-Other
--	Make sure to connect to the right people. Account manager instead of support when things need doing 
--	Always be available – but when needing others ask whether they are available 
--	Whenever you come into a new role, don’t directly think you know better and wanting to change how things are done. Instead, understand why things are done this way and identify whether this works or whether the team (not you!) would benefit from making the change. 
+## Other
+- ‘You are not entitled to take a view, unless and until you can argue better against that view than the smartest guy who holds that opposite view. 
+- If you’re outside your circle of competence and still have to make a decision, ask experts HOW they would make the same decision not WHAT they would decide.
+- Make sure to connect to the right people. Account manager instead of support when things need doing 
+- Always be available – but when needing others ask whether they are available 
+- Whenever you come into a new role, don’t directly think you know better and wanting to change how things are done. Instead, understand why things are done this way and identify whether this works or whether the team (not you!) would benefit from making the change. 
 - Keep a running document of all projects you're working on. It'll help in performance reviews and its great to review and reflect on achievements, what I like and what I'd like to change 
 - Get things in writing
-o	Only after you learned about the company, you can start thinking about what you would need to change or where your specific actions should focus on. At all costs, try to avoid making changes for change’s sake 
--	Make sure that at standup, everything I will be working on is measurable 
-
-Don’t come in and change things because you have seen something done a certain way in the past. Rather, learn about the current processes long enough to identify its pains and strengths. Then work with the team to evaluate whether change is required. This will massively increase credibility. Really stop and listen to what is happening and go on the learning curve as quickly as possible. Potentially make a learning plan for this. Ask ‘how did you get to this point’? Why are things done this way? Are these reasons still valid? Are things changing such that we might need to change to meet current requirements? 
+- Only after you learned about the company, you can start thinking about what you would need to change or where your specific actions should focus on. At all costs, try to avoid making changes for change’s sake 
+- Make sure that at standup, everything I will be working on is measurable 
+- Don’t come in and change things because you have seen something done a certain way in the past. Rather, learn about the current processes long enough to identify its pains and strengths. Then work with the team to evaluate whether change is required. This will massively increase credibility. Really stop and listen to what is happening and go on the learning curve as quickly as possible. Potentially make a learning plan for this. Ask ‘how did you get to this point’? Why are things done this way? Are these reasons still valid? Are things changing such that we might need to change to meet current requirements? 

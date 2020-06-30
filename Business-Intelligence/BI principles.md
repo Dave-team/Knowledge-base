@@ -18,7 +18,7 @@ Think about BI as if it's a SaaS product and the users are your customers. Appro
 - Great support, documentation, onboarding / training
 - Great business partnering to help improve business
 - Code is version controlled and development is approved through pull requests with code review
-- Code is modular - there should be one version that is used throughout an entire project
+- Code is modular - there should be one version that is used throughout an entire project - data needs to be conformed
 - We work incrementally: 
     - Deliver continiously 
     - Demonstrate early
