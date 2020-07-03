@@ -28,7 +28,13 @@
 ## Expenditure
 - Travel
 - Fun things arranged for family 
-- Experiences: fancy dinners, theatre
+- Experiences: fancy dinners, shows, concerts, taking on new activities such as dancing
 - Health: massage, therapy 
-- Convenience: easily order an Uber when the trains are cancelled
-
+- Convenience: Uber, cleaner, 
+- Day to day: Headphones , Smartphone, Laptop, E-reader
+- Comfort: Good bed, Nice house, Nice clothing 
+- Food & drinks: Fresh fruit and veg, Chocolate, Tea / coffee/ whisky / beer
+- Education: courses, Books
+- Sports: MMA, Group classes, Personal trainer, Gym membership
+- Mental health: Meditation app, Therapy
+- Health: Massages, Skincare

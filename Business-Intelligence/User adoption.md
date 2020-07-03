@@ -16,7 +16,6 @@ Make sure that end users have a great experience using the data platform. It sho
 - Be easy to use. 
 - Look good. Tools and reports should be clear and attractive. Implement the company's colour pallete 
 
-
 ### Support
 Provide great support to end users. 
 - Have a dedicated Slack channel used for Looker questions
@@ -41,6 +40,14 @@ Set up training sessions specific to the requirements of the end user to be trai
 - Regularly check in with new users as they go through the change curve to ensure they remain enthusiastic and positive about what Looker can provide them. Track their usage in iLooker.
 - Hold regular office hours where people can book a slot to go through something data related
 
+#### Onboarding / training tips
+- Really get people involved
+    - Allow lots of time for questions 
+    - Make the data related to their daily life
+    - Ask them to show for something and check what they've done - e.g. a completed dashboard
+- Answer their business questions live - focus on their specific use cases
+- Make sure they are set up will all the right access prior to the session 
+
 ### Evangelize BI
 Monthly updates with new data / features in Looker Main purpose here is that people find common things they weren’t aware of and now can use. Example framework of such a newsletter: 
 - What’s new
@@ -60,8 +67,6 @@ Create a hub and spoke model where each team has data champions that can help an
 - They arise organically because they are keen on diving in data and gathering data for their respective teams. Keen an eye out via the Looker user engagement dashboards 	
 - We will provide them with the support they need and we’ll hold regular feedback session and get their input to guide our roadmap. E.g. regular consulting 1:1 work 
 
-
-
 ### Measure engagement
 - Measure Looker engagement in iLooker and proactively reach out to see any changes in engagement or general disengagement. 
 - Executive support - Get executives to buy into Looker and have them use it in their meetings 
@@ -72,16 +77,13 @@ Get Looker into the lives of our end users.
 - Embed Looker (iFrames) into the tools that end users are already using (e.g. Wiki)
 
 ## User adoption techniques when user adoption is hard
-1. Replace the reports of your stakeholders
-    - Email team leads: we are doing BI and would like to see how your team uses data and see if we can support in any way. Support could come in automation of reports to reduce load on team 
-    - Meet with team leads and look at all reports done in last 3 monhts 
-    - Meet with report owners and shadow them. Clarify how automation can help
-    - Get access to the reports and aim to automate this. If we can't, it's an item for the backlog
-    - Regularly communicate and build the relationship with the stakeholder during this process
+Replace the reports of your stakeholders - work with them on building out the solution. Key here might be to really first just replicate what they have even when it's not perfect. This will win over their trust
+- Email team leads: we are doing BI and would like to see how your team uses data and see if we can support in any way. Support could come in automation of reports to reduce load on team 
+- Meet with team leads and look at all reports done in last 3 monhts 
+- Meet with report owners and shadow them. Clarify how automation can help
+- Get access to the reports and aim to automate this. If we can't, it's an item for the backlog
+- Regularly communicate and build the relationship with the stakeholder during this process
     
-
-
-
 ## NPS survey
 These questions are rated on 1-5 scale: 
 1. Strongly Disagre

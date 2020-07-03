@@ -68,13 +68,20 @@ Comment SQL code that handles transformations
 ## Looker
 Comment any LookML transformations
 
+## SQL
+When writing a complex query, on the top of the editor, break it down: one sentence with the end goal and your approach below that
+
 
 ## Other queries and scripts
 Create a Github branch will all code from the data team (analysts and scientists). It shows:
 - Examples of how to use data
 - A great way to compare logic 
-- Version control as you or someone else will probably need the same code again 
+- Version control: 
+    - You or someone else will probably need the same code again
+    - Queries change over time so we need the ability to update them
+    - The code will be useful to others  
 - Make sure to create logically organized folders in the systems to ensure everyone has easy access to data – use a good naming convention with dates
+
 
 
 

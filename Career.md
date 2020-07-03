@@ -51,3 +51,52 @@ To: “Most teams are currently struggling with their analytics. The data sits i
 "I was more looking in the direction of X, is this something that works for you?"
 
 Negotiate on salary first: mention that what they’re offering is too low considering what you’ve been able to do at other companies and considering the range you know these roles are going for. Mention the number you’re looking to get and make them match is as close as possible. If they come closer but not perfect, mention total compensation package and negotiate on things like bonus, stock and finally, make sure that you can get an extended review cycle. 
+
+## Achievements doc
+This is very helpful to keep track of what you've accomplished in your role, it should be used during performance reviews and it gives great understanding of what you like doing, want to more/less of
+
+### Goals
+List your goals for the year and for the quarter here. Everything should ultimately tie back to this
+
+### Projects
+For each one, go through: 
+- What your contributions were (did you come up with the design? Which components did you build? Was there some useful insight like “wait, we can cut scope and do what we want by doing way less work” that you came up with?)
+- The impact of the project – who was it for? Are there numbers you can attach to it? (saved X dollars? shipped new feature that has helped sell Y big deals? Improved performance by X%? Used by X internal users every day?). Did it support some important non-numeric company goal (required to pass an audit? helped retain an important user?)
+
+### Collaboration & mentorship
+Examples of things in this category:
+- Helping others in an area you’re an expert in 
+- Mentoring interns / helping new team members get started
+- Foundational code that other people built on top of
+- Improving monitoring / dashboards / on call
+- Any code review that you spent a particularly long time on / that you think was especially important
+- Important questions you answered
+- Mentoring someone on a project 
+- Giving an internal talk or workshop
+
+### Design & documentation
+- List design docs & documentation that you worked on, why you worked on them and their impact
+
+### Company building
+This is anything not directly related to your role but other things that you supported with. Some things that go in here:
+- Going above & beyond with interviewing or recruiting (doing campus recruiting, etc)
+- Improving important processes, like the interview process or writing better onboarding materials
+
+### What you learned
+Try listing important things you learned or skills you’ve acquired recently. Some examples of skills you might be learning or improving:
+- how to do performance analysis & make code run faster
+- internals of an important piece of software (like the JVM or Postgres or Linux)
+- how to use an important tool (like the command line or Firefox dev tools)
+- about a specific area of programming (like localization or timezones)
+- an area like product management / UX design
+- how to write a clear design doc
+- a new programming language
+
+### Outside of work
+It’s also often useful to track accomplishments outside of work, like:
+- blog posts
+- talks/panels
+- open source work
+- Industry recognition
+
+

@@ -23,6 +23,10 @@
 - Limit the number of fields in the field picker: group measures / dimension together when they strongly relate to each other. E.g. use a group label Address and then within that is Town, Country, Post code etc. 
 - Add descriptions to fields and explores to clarify what fields mean to end users. 
 - Hide non relevant fields 
+- Spaces are named after business function: e.g. Marketing 
+- Dashboards are named as business function - specific. E.g. Marketing - Channel Overview
+- The explore pane should by by business function and then more granular - this is depending on the natural groupings and expectations of the business users  
+
 
 ## Looker Debugging
 - Run the generated SQL in Snowflake 
@@ -51,7 +55,6 @@
 ## Looker common gotchas
 -	Remember that Looker is case sensitive – e.g. strings should be single quotes, as per Snowflake SQL 
 -	When doing Snowflake calculations, make sure to include the nullif statement to avoid that the calculation breaks 
-
 
 ## Looker checklist 
 - Regularly check the content validator. Make it a habit to check the content validator any time you have made significant changes to the LookML. Simple things like name changes can really mess things up
@@ -84,7 +87,6 @@ Looker drill fields
 - PDT (Persistent Derived Table) – basically a table transformation that can be scheduled 
 - Dimension: columns in a table, or a computed value based on other fields (e.g. case whens, bins, concats). They usually provide context and are used to filter/group. 
 - Measure: aggregations like sums, count or calculations defined in LookML. Measures compute values across multiple rows. 
-
 
 ## Looker homepages
 - Change settings to recently viewed rather than 2 static folders 

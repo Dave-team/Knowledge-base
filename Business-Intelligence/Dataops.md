@@ -41,10 +41,6 @@
     - Do we count the same number of rows when we look at the same data in a different table or different environment?
     - Where required, perform unit tests compared to source. Any completely new model should have extensive checks like these - especially for the business cases that are non standard (as outlined in the 'common gotchas' document). 
 
-
-
-
-
 ### BI tool testing
 **Automated tests**
 - Create QA dashboards with tests on some commonly used metrics that should show whether your data makes correct. E.g. total revenue. Total number of employees in seat. Total customers. 
