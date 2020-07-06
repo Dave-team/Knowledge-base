@@ -1,5 +1,5 @@
 # Business principles 
-test
+test 2
 ## My guidelines
 - Speed matters: work fast and do things right now - don't delay 
 - Quality matters: never assume and always check
