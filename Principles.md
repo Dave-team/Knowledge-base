@@ -56,18 +56,15 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 
 ## Rituals 
 Mornings
-- Medidate
+- Medidate: see below
 - Review goals for the day
-- Workout
+- Stretch session / Workout
 
 Nights 
 - Reflect on the day 
 - Practice gratefullness
 - Set goals for the next day
-- Journal 
-    - Reflect on how you performed against principles - look at yourself objectively
-    - How do you feel and why?
-    - What are you grateful for?
+- Journal: see below
 - Visualize yourself as the person you want to be and use affirmations
 
 Weekly (e.g. Sundays) 
@@ -86,6 +83,19 @@ Monthly
 - Review performance against goals month before (journal)
 - Review life admin and take actions accordingly 
 - Am I living the life that I want to be living? Have I done some amazing things this last month? 
+
+## Journal
+- Txt file that is backed up to Github 
+- Each month I might summarize the main findings in a Markup file and push to the knowdlege base
+
+Questions to answer in a journal: 
+- How do I feel today? This can be split between happiness levels, stress and energy. Rate between 1-10 and provide notes. Go deep and ask why 
+- 3 things I am grateful for 
+- 3 great things that happened yesterday
+- What's one thing op top of mind today? 
+- Anything else? 
+
+Also, it is wort repeating the most important focus points at that time in my life in the journal which fores me to see the priorities each day 
 
 ## General 
 - Think about how others would handle situations. Learn about them and try to emulate their characteristics  
