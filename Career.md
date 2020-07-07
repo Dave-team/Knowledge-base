@@ -13,6 +13,12 @@
 - Promote yourself. Have a goal in mind around how you'd like to be perceived. This includes having a pith 
 
 ## Pitch example
+Intro to company: 
+
+Hi everyone. My name is Dave and I;m very excited to join Papier in these challenging times. I'll be joining Will and Ibu in the BI team. As you might be able to tell from my accent, I am Dutch from origin and I've been in London for 4.5 years now. Prior to Papier I was at Tessian where I set up the BI function and I;m very excited to meet you all in the coming weeks!
+
+When asked the question 'where were you before?' the answer is: I was at Tessian, which is an email security company. They protect business such as law and financial firms from internal and external email threats using machine learning. 
+
 From: “I am helping teams reaching their objectives by making using their data”. 
 
 To: “Most teams are currently struggling with their analytics. The data sits in Google Sheets, doing the analysis is taking a lot of time and most teams are not currently getting the most value from their analysis. What I will help you with is getting a centralized solution in place, that combines the data from the various source systems. All your reports will then sit in a BI tool that gets automatically updated. The benefits include:
