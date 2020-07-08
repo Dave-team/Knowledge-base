@@ -11,7 +11,7 @@ Relationship:
 Work: 
 - build relationships
 - be enthusiastic
-- be social 
+- be social. Show interest and want to get to know others and also allow them to get to know me 
 - sell yourself
 
 Social: 

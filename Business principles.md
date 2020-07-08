@@ -4,6 +4,7 @@
 - Quality matters: never assume and always check
 - Be flexible: things will always change. Be prepared to adapt.
 - Keep things simple: do the bare minimum to solve the problem. 
+- Work incrementally: build, launch, get feedback, repeat 
 
 ## Think strategically 
 - Define the problem and what decision needs to be made
@@ -13,18 +14,18 @@
 - Do we need to do it now?
 - Do we have something similar already that might do the same thing?
 - Can we do it better (more efficient, less costs, simpler)
-- Can we do something else? Always be ready to eleborate on different approaches you considered
+- Can we do something else? Always be ready to elaborate on different approaches you considered
 - Especially when deeply involved in a project, take these steps back and look at the issue holistically 
 - What are the risks involved and how can we mitigate those? Think about
     - Known-knowns: project scope and requirements
-    - Known-unknowns: recognized risks to the project
+    - Known-unknowns: recognised risks to the project
     - Unknown-unknowns: where we get blind-sided - things we don't know and might hit us 
     - Unknown-knowns: bad assumptions, the things you think you know but actually don't 
 - Think about second and subsequent order effects. 
     - What is involved with this decision 
     - How do these things interact? 
     - What effects will the decision have? Think about what might happen if I were wrong
-- Check in with others to stress test your thinking and see if there is a better way. Get feedback early and often. Socializing your work will help you refine, develop, and evangelize it. Don't overthink things
+- Check in with others to stress test your thinking and see if there is a better way. Get feedback early and often. Socialising your work will help you refine, develop, and evangelise it. Don't overthink things
 - Remember that I don't need to solve all problems. Often, the problem should be handed to someone else.  
 
 ## Think critically
@@ -37,6 +38,7 @@
     - Is that true?  
 - Always ask why
 - Assess your own thinking - do I think this because I know the facts or because X person thinks this?
+- ‘You are not entitled to take a view, unless and until you can argue better against that view than the smartest guy who holds that opposite view.'
 
 ## Think structured
 - Break down your thinking into small pieces and map it out. Clarify your own thinking by putting it into writing
@@ -61,7 +63,7 @@
     - Lead the meeting and get it back on track if we went on a tangent
     - Conclude agenda points prior to moving on with a decision and an action and the person taking it is onboard and doesn't need any clarification to start working on it 
     - Ask if there are any concerns
-- Summarize the action items (SMART)
+- Summarise the action items (SMART)
 - Thank the participants 
 - Send a follow-up e-mail, with a summary and especially action items specifically outlined (who, what, when) and SMART
 - Start the next meeting with the action items of last meeting
@@ -94,19 +96,11 @@ When dealing with a hard problem, let it be and sleep on it to get support from 
 
 
 ## Other
-- ‘You are not entitled to take a view, unless and until you can argue better against that view than the smartest guy who holds that opposite view. 
-- If you’re outside your circle of competence and still have to make a decision, ask experts HOW they would make the same decision not WHAT they would decide.
 - Make sure to connect to the right people. Account manager instead of support when things need doing 
 - Always be available – but when needing others ask whether they are available 
-- Whenever you come into a new role, don’t directly think you know better and wanting to change how things are done. Instead, understand why things are done this way and identify whether this works or whether the team (not you!) would benefit from making the change. 
-- Keep a running document of all projects you're working on. It'll help in performance reviews and its great to review and reflect on achievements, what I like and what I'd like to change 
-- Get things in writing
-- Only after you learned about the company, you can start thinking about what you would need to change or where your specific actions should focus on. At all costs, try to avoid making changes for change’s sake 
+- When starting a new role, first understand why things are done a certain way. Only then consider whether the business would be positively impacted by a change  
 - Make sure that at standup, everything I will be working on is measurable 
-- Don’t come in and change things because you have seen something done a certain way in the past. Rather, learn about the current processes long enough to identify its pains and strengths. Then work with the team to evaluate whether change is required. This will massively increase credibility. Really stop and listen to what is happening and go on the learning curve as quickly as possible. Potentially make a learning plan for this. Ask ‘how did you get to this point’? Why are things done this way? Are these reasons still valid? Are things changing such that we might need to change to meet current requirements? 
-- Speed matters: 
+- Speed things up by:
     - Don't wait and ask: what can be done now? Walk up > Slack > Call > Email
-    - Don’t aim for perfection – aim for making it good enough
-    - Build incrementally: build, launch, get feedback, repeat 
     - If we had to actually complete this in two weeks, what would our approach be?
 - Always test things when you implement a change. Don’t make a change but then don’t confirm that it works

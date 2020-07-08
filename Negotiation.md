@@ -15,6 +15,7 @@
 - Make sure you’re talking to the right person around the table 
 - Always double check anything in writing, especially contracts. Often, it is not actually the same as what you both agreed upon 
 - When someone says no: what about this doesn’t work for you? Or it seems like something is bothering you
+- Always get everything in writing 
 
 ## Process
 Preparation
