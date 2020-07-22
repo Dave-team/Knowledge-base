@@ -27,6 +27,7 @@
     - What effects will the decision have? Think about what might happen if I were wrong
 - Check in with others to stress test your thinking and see if there is a better way. Get feedback early and often. Socialising your work will help you refine, develop, and evangelise it. Don't overthink things
 - Remember that I don't need to solve all problems. Often, the problem should be handed to someone else.  
+- What would you like to see if you were owner of the company? A good way to think about this is to think of the business as a process. And then think hard how each of these inidividial pieces can be improved. 
 
 ## Think critically
 - Before escalating, make sure that there aren't any obvious answers to your issues. Asking someone else is often the quickest way to get the necessary info
@@ -82,8 +83,9 @@
 - Scout first: Do everything you can to avoid a meeting where you don’t know what the stakeholders expect from you. A quick 5-minute sit-down a few days before the “real” meeting goes a long way to making sure everyone is on the same page when the meeting happens.
 
 ## Problem solving / Decision making
-Solve a problem by asking: could it be X? Then try X and see if it works. Think if I can fix it before asking others or before thinking it can’t be done. 
-When dealing with a hard problem, let it be and sleep on it to get support from the subconscious mind 
+- Solve a problem by asking: could it be X? Then try X and see if it works. Think if I can fix it before asking others or before thinking it can’t be done. 
+- When dealing with a hard problem, let it be and sleep on it to get support from the subconscious mind 
+- Do not ever forget to know your reasons for why you made a decision. 
 
 **Helpful tactics**
 - Scoring model when evaluation larger decisions 
@@ -94,13 +96,18 @@ When dealing with a hard problem, let it be and sleep on it to get support from 
 - The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
 - Systematically assess future risks. Always ask yourself: what if the project failed. Please explain in 5-10 minutes how we would look back on it. This will really help seeing the identified and unidentified risks
 
-
 ## Other
 - Make sure to connect to the right people. Account manager instead of support when things need doing 
 - Always be available – but when needing others ask whether they are available 
-- When starting a new role, first understand why things are done a certain way. Only then consider whether the business would be positively impacted by a change  
 - Make sure that at standup, everything I will be working on is measurable 
 - Speed things up by:
     - Don't wait and ask: what can be done now? Walk up > Slack > Call > Email
     - If we had to actually complete this in two weeks, what would our approach be?
 - Always test things when you implement a change. Don’t make a change but then don’t confirm that it works
+- Be more of an idea factory - regularly just writing down my ideas 
+- Take the lead and initiative
+- When making a recommendation, break it down: what does it take to get there? What are our next steps? What are the alternatives? What are the risks? 
+- Remind yourself of the goal of your role and see everything in that perspective
+- Ideally, you should always have a strategic opinion on matters. And then you're also able to argument for that opinion
+- Finding quick solutions to problem: strong critical thinking skills combined with resourcefulness to solve problems. 
+- Being able to speak on the spot – i.e. respond to random questions/comments 

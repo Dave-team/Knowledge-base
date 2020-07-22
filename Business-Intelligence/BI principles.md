@@ -61,6 +61,12 @@ Once I have the context, I can establish myself as a business partner. This can 
     - I can also start to provide insights to various reports we send out. Add comments to analysis, proactively answer questions and become a trusted business partner. As long as data team is being updated on this, we can follow the crumbs, go deeper in the analysis and provide insights 
     - I can start to find new use cases for high impact data analytics project based on knowing the goals of the stakeholders. For example, are we doing manual forecasting? The data team could support. Or I can explore some data that leads to new insights and present this to the business 
 
+*Case in point*
+- Reactive: Stakeholder: ‘Please give me data on X’. Me: Okay – here it is. End of discussion. This is extremely entry level 
+- Good analyst: Stakeholder: ‘Please give me data on X.’ Me: ‘What do you want to get out of the data? Is it to help guiding a decision? Why are you looking at this specifically? Them: For reason X,Y,Z. Me: Okay so you want to know whether X? Stakeholder confirms. Me: okay, there are some other things you might want to consider and previously we’ve seen this. Them: okay, can you show? Me: yes. Then get back and agree on some additional analysis required to solve the problem at hand. 
+
+
+
 ## Relationships
 Build strong realtionship with the tech and the business teams. The goal is to establish trust that makes me a business partner they want to work with to achieve their goals. 
 

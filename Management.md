@@ -54,6 +54,13 @@
 - Praise people often and recognize people's good work. Praise them publicly and in front of other senior people 
 - Give little criticism. When you do give critisism, be honest and specific and work towards improvements 
 - Create a culture where any feedback is welcome by and from everyone in the business 
+- Performance reviews: 
+    - Be specific about their strenghts and how this has helped in practice 
+    - Talk about impact. Why is this person’s work important to the organization? Did they do an especially good job on a specific project they worked on?
+    - Talk about the future: what could the person be doing better? 
+        - Suggest an ambitious goal that would be interesting to reach
+        - Suggest to do more of something they do little of right now 
+        - Pick something you know the person wants to do more of
 
 ## Evangelize
 You want to communicate what the team is going to work on: 
@@ -79,7 +86,11 @@ This is important because:
 - Held weekly 
 - Focus on the employee
     - How is he/she finding it
-    - What is he/she working on
+    - What is he / she thinking about? 
+    - What is he/she working on and what are the priorities? 
+    - What's woorying you about the team? 
+    - Are you happy with your current project?
+    - Do you feel like you;re learning? Are there things you're not learning, but would like to? 
     - Any problems?
     - How is development going – my aim is to help employees reach potential 
     - Room for honest feedback
@@ -87,6 +98,8 @@ This is important because:
 - Agenda to be set by employee 
 - Employee does 80% of the talking 
 - ‘Seek first to understand before being understood’
+- Keep adding notes in a shared 1:1 doc. It avoids not having things to speak about 
+- Add notes to 1:1 doc after to spot patterns and see if you haven't discussed a topic in a while but maybe should 
 
 ## Goal setting 
 - Management by Objectives (MBO)
@@ -101,6 +114,8 @@ This is important because:
 ## Other
 - Only delegate what you really understand
 - Use 360 degrees feedback
+- Make others feel really valued. Fo up to their desk and ask for help. Check in on progress. Once a project is finished, thank them sincerely and make them feel good
+
 
 ## 12 questions employees ask themselves
 - Do I know what is expected of me at work?

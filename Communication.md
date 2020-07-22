@@ -1,7 +1,5 @@
 # Communication 
 
-
-
 ## Speaking
 - Deep voice
 - Speak up 
@@ -50,3 +48,4 @@
 - When meeting people, think of interesting questions you could ask them (this could become a standard practice when meeting people) 
 - When seeking help (from anyone, really) always start with the goal; this opens you up to a wider range of inputs. So do this instead of asking a very specific question - just because one solution is one of many and rather than focusing on keep doing what you’re doing, you want to get input and understand if there might be an even better way of doing what you are doing 
 - Can you explain your job to someone at a party? 
+- Think about writing a newspaper article. Write/ say the headline, the subtitle and from there on say the most important stuff. Make sure to eliminate all of the noise that is surrounding.

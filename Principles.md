@@ -28,8 +28,9 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 - Be nice to strangers
 
 ### Health
-- Extremely fit: flexible, strong endurance, speed and strength
-- Eat healthy and drinks lots of water 
+- Physical activity: Extremely fit: flexible, strong endurance, speed and strength
+- Heathy diet: Eat healthy and drinks lots of water 
+- Get good quality sleep
 - Take care of appearance/body/skin and hygiene 
 - Appearance with strong body language and voice
 
@@ -61,10 +62,11 @@ Mornings
 - Stretch session / Workout
 - Journal
 - Work: review goals for the day
-
+- Learn from knowledge base
 
 Nights 
 - Work: set goals for the next day
+- Cook
 - Reflect on the day 
 - Practice gratefulness
 - Visualise yourself as the person you want to be and use affirmations
@@ -102,11 +104,11 @@ Also, it is wort repeating the most important focus points at that time in my li
 ## Doing hard things
 - It's important to do hard things that stretch me as they are great opportunities to learn and improve. Seek this challenge continiously. Get critical feedback to improve further
 - Think about the bigger picture. Always believe the current strugles are small compared to where you want to go. 
-- Realize that performance will be best in a confident and calm state
+- Realize that performance and clarity of thought will be best in a confident and calm state
 - Treat hard things as learning experiences. Rather than approaching it with anxiety, think: let’s see what happens. You approached the experience in a certain way. Then you evaluate how it went and you can be better next time 
 - Evaluate how others do it and try to emulate this 
 - Prepare well in advance 
-- Visualize doing it
+- Visualize doing it succesfully in the way you'd idealize it. 
 - Bring it back to the person you want to be and realize that is just another step to getting there. 
 - Depending on the situation:
     - Be grateful for the opportunity
@@ -132,12 +134,13 @@ On the day of execution:
     - Visualize how others would handle situations and emulate these situations (Naval, Paul G, Jocko)
 - Be more curious in day to day: let your mind wonder and explore. Read more wikipedian, fiction and watch more docus      
 - What life is about:
-    - Becoming better at things: in life, try to become good at things you enjoy doing and be experimental. Six month sprints to try to become good at e.g. dancing, boxing, chess, badminton - this will slow time
+    - Becoming better at things: in life, try to become good at things you enjoy doing and be experimental. Six month sprints to try to become good at e.g. dancing, boxing, chess, badminton - this will slow time. Same for personal projects
     - Being calm, in the moment and enjoying the little things in life 
     - We don't know what tomorrow will bring which is exciting. And then we'll always aim to make today better than yesterday and face the days with great enthusiasm. 
+    - Creating lasting memories with people we love 
+    - Family, friends, love, experiences, health, career and other than those, it's the little things: sex, hugs, nice drinks, good food, good books / films, good workouts
 - Be experimental in life: try things and test if they improve my quality of life  
 - Think bigger picture: it’s not about where you are currently; it is about where you are going. By focusing on the bigger picture, you realize your current problem is tiny in the grand scheme of things
-- Have the ability to answer tough live questions. What’s you earliest childhood memory? Biggest failure? What are your parents like? Most emotional moment? Most happy/ proud moment? Etc.
 
 ## To live by: 
 - What's important in life: 
@@ -147,11 +150,14 @@ On the day of execution:
     - You only live once, but if you do it right, once is enough
     - Life is a test and a game – don’t take things too seriously and have fun - nobody gets out alive anyway
     - The days are long but the decades are short 
+    - Life passes most people by while they’re making plans for it
+    - Work to live, don’t live to work.
 - You and you alone are responsible:     
     - No one owes you anything and nobody gives a fuck about your feelings 
     - Own your life, no one else will. You are responsible for how you handle everything that happens to you. You just pick yourself up, learn and go on. 
 - Relationships are incredibly important
     - Treat everyone like they can put you on the front page on the New York Times 
+    - Be someone others would like to be around with
 - Become a better version of yourself 
     - Who you are today is not who you have to be tomorrow 
     - See who you can become and how far you can go – become the very best version of yourself

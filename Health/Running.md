@@ -1,0 +1,23 @@
+# Running
+
+## Proper form
+- The 'lean': Lean forward from your ankles. Stand up straight, "proud and tall," then put your elbows back with arms bent (like you're running), and stick your chest straight forward ever so slightly. This is like you're giving a chest bump to someone. Your weight should shift to your toes and you will feel like you're falling forward. Note that the lean is coming from the ankles, not e.g. the waist or the back.
+- Land on the balls of the feet and aim to have the feet land under your centre of gravity instead of in front of you.
+- Never fully straighten your legs. Keep a slight bend in your legs at all times to prevent push-off.
+- Pull each foot off the ground and towards your buttocks (rather than pushing off) using the hamstrings as soon as it passes under your centre of gravity. For the pull off the ground, imagine pulling the heel up to your buttocks at a 45-degree forward angle instead of straight up off the ground. If I thought of pulling the leg straight up off the ground, I subconsciously leaned less, which was self-defeating. Lean at an angle, and envision pulling the heel up at an angle.
+- Maintain at least a 180 step per minute rate, which means at least 90 steps per minute with each leg. This will use muscle elasticity to your advantage. Michael Johnson, who held the 200-meter world record for an astonishing 12 years, and also won four Olympic gold medals at different distances, was known for eschewing a high knee lift in favour of short steps. His per-minute step rate? Around 300.
+Focus on at least 90 steps per minute with each leg. Particularly if fatigued, focus on this stride rate, which automatically produces the other characteristics of good running mechanics (landing on the balls of the feet, fast pull, etc.). Scott Jurek reinforced this: “If you focus on higher stride rate, much of the rest corrects itself.
+It’s like running on hot coals
+- Use minimal arm movement and consider keeping your wrists near your nipples the entire time. During the initial 100-meter repeats, I purposefully ran directly behind the best ultra-distance runner in our group, matching his tempo and form. He ran with the shortest, most contained arm movements of all. I noticed it was infinitely easier to maintain a high stride rate when mimicking this. Reflecting afterward, it made perfect sense: we are contra-lateral in motion. 
+
+## Drills to practice: 
+- High knees: once your weight is on your toes and you're leaning forward do high knees. When you land make sure they are right below you. If you are doing this correctly you will be moving forward only with your lean and your feet landing are only holding you up from falling.
+- Jogging in place: Jog in place with your feet landing directly below you, then apply the lean. Voila, you will start moving (similar to high knees). Let the lean drive you forward, nothing else
+
+## Other tips:
+- DON'T focus on HOW the foot lands. Too many people focus on the foot landing on their forefoot, which causes them to overcompensate and start running on their toes = calf problems. Just focus on location of the foot landing below you. If your heel hits the ground first that is OK, however, if your weight lands on your heel you are doing it wrong. Key is where, not how, the foot lands.
+- Constantly think about your form until it becomes a habit (stand tall and "proud," that slight lean so your weight goes to your toes, and landing right below you). Keep in mind when you put your weight on the landed foot you should feel two things: 1) like you're back to the standing "tall and proud" position (right below you is the highest you will be with a foot on the ground), and 2) like your leg is already going to push you (with the lean + landing below you, your leg will feel like its continuing to move you forward, weightless almost).
+- When you extend your leg out to touch the ground, aim low under your nose. Think of squishing a bug under you with your foot. As it swings back it will fall into place. This could be another drill where you thrust your leg into the ground to jump whenever your leg touches the ground, like little jumps while moving forward.
+- Your power comes from your lean and your kick back. Landing directly below you and kicking back makes it feel like your hips are forward. Focusing on your hips feeling forward or pushed out may help as well 
+- If you want to run further, make sure to do many intervals (e.g. 400 meter sprints). To improve sprinting, make sure to do sprints on very short distances. 
+- Whilst running, aim to be as quiet as possible. You shouldn’t make a lot of noise at all

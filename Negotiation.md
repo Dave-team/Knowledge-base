@@ -24,16 +24,17 @@ Preparation
 - Anticipate what questions might pop up 
 - Know your goals and best, expected and worst outcome for the negotiation
 - Establish a walk away point 
-- Do your homework: benchmark prices vs competitors, know what’s happening in the markets, understand their price structure and where there margins are at 
+- Do your homework: benchmark prices vs competitors, know the prices competitors are getting, know what’s happening in the markets, understand their price structure and where there margins are at 
 - Have a best alternative: if negotiations don’t go through, know that you have things left in the pipeline. This is your BATNA
 - Always have multiple factors on the table to negotiate on. So not only price but e.g. online	delivery times
 
 Meeting
 - Establish common ground and interests
 - Never assume you understand what the other side means – ask many questions to understand, even stupid questions 
+- Ask for reasons why things are the way they are 
 - Understand their pricing structure deeply which can help leverage down the line
 - Lead communication and steer it into the direction you need it to go to. Don’t be afraid of cutting people short 
-- Never directly believe what someone says: we cannot do this, we cannot give you this. Dig deeper here and find workarounds to get what you want. 
+- Never directly believe what someone says: we cannot do this, we cannot give you this. Dig deeper here and find workarounds to get what you want. Don't be afraid to say that you don't believe them and dig deeper to understand where they get their numbers from 
 - Don't believe any numbers thrown on the table - they will be overstated
 - Show surprise when they mention e.g. their price, even when it doesn’t actually surprise you. This will help later on in the negotiation 
 

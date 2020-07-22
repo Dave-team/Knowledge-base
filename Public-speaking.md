@@ -9,6 +9,7 @@
 - Spend more time on key topics – don’t rush through and let it sink in
 - Make sure to avoid possible obvious questions
 - When you use memes, reference them to actually make it funny 
+- A good is where the audience learns something new or comes away with a change in perspective 
 
 ## Slides
 - Only use slides that provide value
@@ -18,18 +19,25 @@
     - Use few, big words
     - If you do really need bullet points, limit them to 3
     - If you do need to provide text, make it appear one at a time so people will still listen instead of read
+    - When seated, sit relaxed and backwards
+    - Don't fiddle with something
 - Make use of highlights and callouts to draw the eye.
 - The combined headers in your slides should tell a coherent story  
 - A good reference is that we can spend 1-2 minutes on each slide  
 - When you introduce a more complex visual, make sure it gets loaded on the slides step by step. Add new elements one by one whilst explaining each individually to the audience.
+- A longer presentation can have topic header slides throughout 
 
 ## Preparation
+- Consider the audience: 
+    - Who are they?
+    - What is an important question we can answer for them?
+    - What would I like them to remember from the talk a year from now? 
 - First, write down the high level outline - the high level story you want to tell 
 - Then write out the entire presentation 
 - Practice: 
     - First practice until you can present a coherent story with the main points
     - Then record yourself
-    - Then do a dry run in front of others 
+    - Then do a dry run in front of others. Ask them what they got out of it. If not much, back to drawing board  
     - Constantly reiterate and improve during this process
 - Create cue cards 
 - Really know your topic to be conversational - this also eliminates the need to memorize 
@@ -84,6 +92,10 @@
 - When nervous, think not of yourself. Instead, think of the audience
 - Over time, I will be established as an authority and need to speak frequently both at the company as well as larger events – each presentation is small compared to the next. And at each presentation I am representing my own brand
 - Focus on the fact that you want to give value to the audience – that is the main goal of me talking – the audience needs to come out smarter. They don’t actually care about the presentation in and off itself 
-- Look into good public speakers and see how they do it and then try to replicate their behaviour 
+- Look into good public speakers and see how they do it and then try to replicate their behaviour. Focus on: 
+    - Storytelling approaches you like (lessons learned, “here’s something I did!”, best practices, etc…)
+    - Speaking styles that resonate with you (formal/informal, witty/dry, etc…)
+    - Structure of the talk and how slides are designed
 - A great tactic is to start off with interaction with the audience. This should massively drop the nerves during the rest of the presentation
 - Be grateful for opportunities you get (e.g. when presenting to be higher up the foodchain). Have the strong tendency to prove yourself and get the word out 
+- Visualize yourself as being someone who loves being right in the centre of attention because everybody is keep on listening to you and understand what it is you have to say. Be more influential and funny – be who you want to be

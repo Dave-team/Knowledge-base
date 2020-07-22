@@ -1,0 +1,8 @@
+# Swimming
+- To propel yourself forward with the least effort, focus on shoulder roll and keeping your body horizontal (least resistance), not pulling with your arms or kicking with your legs. 
+- Keep yourself horizontal by keeping your head in line with your spine—you should be looking straight down. 
+- Think of swimming freestyle as swimming on alternating sides, not on your stomach. “Actively streamline” the body throughout the stroke cycle through a focus on rhythmically alternating “streamlined right side” and “streamlined left side” positions and consciously keeping the bodyline longer and sleeker than is typical for human swimmers.
+- Penetrate the water with your fingers angled down and fully extend your arm well beneath your head. Extend it lower and farther than you think you should. This downward water pressure on the arms will bring your legs up and decrease drag. It will almost feel like you’re swimming downhill. So really go angled into the water (more like 130 rather than 180 degrees/flat on the water)
+- Focus on increasing stroke length (SL) instead of stroke rate (SR).
+- Stretch your extended underwater arm and turn your body (not just your head) to breathe. For each breath, you should feel the stretch in your lats (back) on your lower side, as if you were reaching for a cookie jar high on a shelf a few inches out of reach. In your first practices, breathe on every other stroke. Remember to exhale fully and slowly while your face is underwater. If you don’t, you’ll need to exhale and inhale when you bring your head out, which will mean feeling rushed, swallowing water, and exhausting yourself.
+

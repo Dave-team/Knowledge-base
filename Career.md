@@ -10,7 +10,8 @@
     - Meet with key stakeholders and take initiative here. Build relationships accross the entire organization  
     - Discuss who you are, the value and goals you represent, your style and how you plan to conduct business. 
     - First impressions are important 
-- Promote yourself. Have a goal in mind around how you'd like to be perceived. This includes having a pith 
+- Promote yourself. Have a goal in mind around how you'd like to be perceived. This includes having a pitch 
+- When starting a new role, first understand why things are done a certain way. Only then consider whether the business would be positively impacted by a change  
 
 ## Pitch example
 Intro to company: 
