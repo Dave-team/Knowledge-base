@@ -1,0 +1,15 @@
+# Self defense
+- Focus on escaping the situation. You never know if they carry a gun or a knife – it can be in their sleeve and you might not even notice it 
+- If you can’t escape, the second option is to be completely calm and try to talk to them 
+- The hardest part of street fights is that someone is coming at you wild and with a lot of anger and energy. At that point, your brain will most likely not remember what you’ve learned 
+- When you don’t or can’t run away:
+- Keep enough distance from your opponent and don’t get hit. Missing shots will tire them out 
+- Make sure to hit the vulnerable places
+    - Crotch
+    - Chest
+    - Eyes
+    - Nose
+    - Ears
+    - Knees
+    - Ankles
+- Be even crazier than your opponent – scare them off 

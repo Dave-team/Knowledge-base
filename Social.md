@@ -11,6 +11,11 @@
 - A human touch often goes a very long way, don’t be afraid to touch. Especially when meeting someone and saying goodbye: shake hands, hug, kiss 
 - A social interaction takes preparation:  consider who you want to talk about, what you’d and the other person would likely want to talk about  
 - Don’t judge people 
+- Be kind
+- Consider the other person's point of view 
+- When going to a social event, make it worthwhile or don't go at all 
+- Thank people for the impact they’ve had on your life: teachers, early managers. Track them down and write a genuine note
+
 
 ## Conversations
 - A good conversation consists of: 

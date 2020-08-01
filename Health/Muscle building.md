@@ -1,12 +1,14 @@
 # Muscle building 
 
 ## Principles
+- Lift consistently heavier, eat correctly and sleep well 
 - How muscles grow: by lifting, you are causing tiny tears in the muscle fibres. The body then repairs these (with enough rest and nutrients), and thereby adapts the muscles to better handle the stimulus that caused the damage (also called hypertrophy).
 - Muscles grow from overload: heavy weights, short intense sets of relatively low reps. 
 - The repair of the body is what determines the growth: repair is done using food and rest 
 - Keep a training journal. If you can’t measure it, you don’t know it 
 - You need to consistently lift heavier than before. Either heavier weights or 1-2 more reps  
 - Make sure to keep tracking against goals. Whether it’s increase in muscle mass, decrease in fat, increase in weight/flexibility/speed. Tracking will keep you motivated and focused on the goal 
+- Don't forget to train wrist and neck muscles
 
 ## Workout principles 
 - Establish the mind muscle connection, make sure to breath and go hard when doing the exercises and slow down on the way back

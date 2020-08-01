@@ -21,3 +21,11 @@ Breath in for 4 seconds through the nose quietly. Hold for 7 seconds. Out for 8 
 - Hold your lungs full for 4 seconds
 - Exhale for 4 seconds 
 - Make your lungs empty for 4 seconds 
+
+## Diaphragmatic breathing
+Sit in a comfortable position or lie flat on the floor, your bed, or another comfortable, flat surface.
+Relax your shoulders.
+Put a hand on your chest and a hand on your stomach.
+Breathe in through your nose for about two seconds. You should experience the air moving through your nostrils into your abdomen, making your stomach expand. During this type of breathing, make sure your stomach is moving outward while your chest remains relatively still.
+Purse your lips (as if you’re about to drink through a straw), press gently on your stomach, and exhale slowly for about two seconds.
+Repeat these steps several times for best results.

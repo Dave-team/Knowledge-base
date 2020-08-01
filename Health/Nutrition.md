@@ -7,6 +7,14 @@
 - Cheat meals can speed up metabolic rate and should be kept to 1 or 2 per week. 
 - 1 g of protein = 4 kcal. 1 g of carbs = 4 kcal. 1 g of fat = 9 kcal 
 
+## Drinks
+- Lots of water
+- Lots of tea
+- Matte
+- Matcha
+- Limit coffee
+
+
 ## Pre and post workout 
 30 minutes before workout: 30 grams of high GI carbs, 30 grams of fast digesting protein (e.g. whey). Carbs for energy and triggers insulin which counteracts cortisol and increases blood flow to muscles and protein synthesis. Protein will get amino acids into blood stream, available for repair as you start breaking down muscle by lifting weights. 
 

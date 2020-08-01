@@ -7,3 +7,5 @@ Increase test long term and sustained:
 4.	Brazil nuts—3 nuts upon waking, 3 nuts before bed (see important footnote).15”
 
 Get rid of the phone in your jeans pocket – put it elsewhere
+No fap
+

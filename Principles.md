@@ -51,7 +51,7 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 - Confident
 - Calm 
 - Patient
-- Positive 
+- Positive (no complaining)
 - High energy 
 - Enthusiastic
 - Honest
@@ -60,9 +60,11 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 Mornings
 - Meditate
 - Stretch session / Workout
+- Breathing excercise 
 - Journal
-- Work: review goals for the day
 - Learn from knowledge base
+- Work: review goals for the day
+
 
 Nights 
 - Work: set goals for the next day
@@ -87,19 +89,6 @@ Monthly
 - Review performance against goals month before (journal)
 - Review life admin and take actions accordingly 
 - Am I living the life that I want to be living? Have I done some amazing things this last month? 
-
-## Journal
-- Txt file that is backed up to Github 
-- Each month I might summarise the main findings in a Markup file and push to the knowledge base
-
-Questions to answer in a journal: 
-- How do I feel today? This can be split between happiness levels, stress and energy. Rate between 1-10 and provide notes. Go deep and ask why 
-- 3 things I am grateful for 
-- 3 great things that happened yesterday
-- What's one thing op top of mind today? 
-- Anything else? 
-
-Also, it is wort repeating the most important focus points at that time in my life in the journal which forces me to see the priorities each day 
 
 ## Doing hard things
 - It's important to do hard things that stretch me as they are great opportunities to learn and improve. Seek this challenge continiously. Get critical feedback to improve further
@@ -146,6 +135,7 @@ On the day of execution:
 - What's important in life: 
     - At some point, life will flash you by. Make sure it is worth watching. 
     - What do you want people to say at your funeral? And who would be there even?
+    - You are on your death bed, surrounded by family and loved ones, reflecting on a life well lived. You've lived a long, successful life, and you feel at peace as you look on at your posterity... As you pass on from this this world, you find yourself waking up, surrounded by aliens. One of them asks, "how was the trip, man?"
 - Life is short: 
     - You only live once, but if you do it right, once is enough
     - Life is a test and a game – don’t take things too seriously and have fun - nobody gets out alive anyway

@@ -5,6 +5,7 @@
 - Be flexible: things will always change. Be prepared to adapt.
 - Keep things simple: do the bare minimum to solve the problem. 
 - Work incrementally: build, launch, get feedback, repeat 
+- Be consistent in performance
 
 ## Think strategically 
 - Define the problem and what decision needs to be made
@@ -25,7 +26,7 @@
     - What is involved with this decision 
     - How do these things interact? 
     - What effects will the decision have? Think about what might happen if I were wrong
-- Check in with others to stress test your thinking and see if there is a better way. Get feedback early and often. Socialising your work will help you refine, develop, and evangelise it. Don't overthink things
+- Check in with others to stress test your thinking and see if there is a better way. Get feedback early and often. Socialising your work will help you refine, develop, and evangelise it. Don't overthink things - ask for help instead
 - Remember that I don't need to solve all problems. Often, the problem should be handed to someone else.  
 - What would you like to see if you were owner of the company? A good way to think about this is to think of the business as a process. And then think hard how each of these inidividial pieces can be improved. 
 
@@ -47,6 +48,9 @@
     - Why do I think that?  
 - Reverse engineer by starting with the end in mind 
 - Think from first principles. What do we know to be absolutely true and then reason from there. This is very hard as we're taught to reason from convention. 
+- Solve each step prior to moving on to the next 
+- Map or draw out the situation for better understanding
+- Think through problems together with others 
 
 ## Think inside their shoes
 - What might be their reason for doing things? 
@@ -85,7 +89,8 @@
 ## Problem solving / Decision making
 - Solve a problem by asking: could it be X? Then try X and see if it works. Think if I can fix it before asking others or before thinking it can’t be done. 
 - When dealing with a hard problem, let it be and sleep on it to get support from the subconscious mind 
-- Do not ever forget to know your reasons for why you made a decision. 
+- Do not ever forget to know your reasons for why you made a decision. Every time you make a decision, write down your reasons for the decision. Document the underlying thoughts
+- Research everything you don't know. Think in terms of models you understand
 
 **Helpful tactics**
 - Scoring model when evaluation larger decisions 
@@ -111,3 +116,7 @@
 - Ideally, you should always have a strategic opinion on matters. And then you're also able to argument for that opinion
 - Finding quick solutions to problem: strong critical thinking skills combined with resourcefulness to solve problems. 
 - Being able to speak on the spot – i.e. respond to random questions/comments 
+- Be proactive
+- Take complete ownership
+- Give lots of honest feedback
+

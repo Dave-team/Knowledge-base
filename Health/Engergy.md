@@ -1,3 +1,5 @@
+Aim to have energy after work 
+
 Eliminate tiredness in afternoon
 - Nap
 - Drink a lot of water at once
@@ -9,6 +11,8 @@ Eliminate tiredness in afternoon
 - Do breathing excercises 
 - Do some physical activity 
 - Stretch
+- Bulletproof coffee
+- Change environment for inspiration
 
 # Health
 

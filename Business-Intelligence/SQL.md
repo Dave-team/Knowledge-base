@@ -29,6 +29,7 @@
 - Avoid subqueries as much as possible. 
 - Don’t use SELECT *
 - In a fact table, use SELECT count(1) instead of count(*). Only use this when you trust the granularity of the fact table
+- Write clear code. Explicit over implicit
 
 ## SQL order of operations
 - In the WHERE clauses, there can be multiple clauses. The top priority will always go to what is between parenthesis. The order of operations follows that of arithmetic, so AND gets priority over OR (but still only after evaluating the parenthesis)

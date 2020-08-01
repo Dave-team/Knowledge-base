@@ -28,7 +28,8 @@ Communicate feelings better
 - Sell yourself
 
 ## Health: 
-Become more flexible by following a stretching routine 
+- Have an all round more calm mindß
+- Become more flexible by following a stretching routine 
 
 ## Experiences: 
 - Look for opportunities for experiences

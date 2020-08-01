@@ -10,3 +10,6 @@
 - Make sure the first sentence grabs the reader
 - Write short sentences
 - Avoid putting multiple thoughts in a sentence
+- Be clear in what you want to share
+- Choose your words: say love instead of really like
+

@@ -1,6 +1,9 @@
 # Meditation
 ## Principles
--	Make it a habit – e.g. first thing in the morning and have a determined place where you meditate
+- Make it a habit – e.g. first thing in the morning and have a determined place where you meditate
+- One thing to realize here is that you are not in control of your thinking. You are simply an observer to whatever happens and whatever your mind produces
+- Reduce screen time 
+- Don't look at phone prior to bed and first thing when waking up 
 
 ## Preparation
 - Set your intention for the session and focus on what's coming. Treat it as a workout and a learning session. Don’t expect anything and just see what happens

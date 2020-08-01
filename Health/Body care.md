@@ -1,9 +1,15 @@
 # Body care
 General
-1.	Use Perspirex 3X a week
-2.	Floss teeth daily after brushing tooth 
-3.	Use chalk powder for the feet
-4.	Clean face with oil before bed and moisturise in the morning 
+- Use Perspirex 3X a week
+- Floss teeth daily after brushing tooth 
+- Use chalk powder for the feet
+- Don't frown
+- Limit touching the face
+
+Skincare
+- Clean and moisterize face each morning and evening  
+- Apply sun screen before going out on sunny days
+- Apply occasional face mask 
 
 Brushing teeth:
 1.	Do not brush horizontally, especially not over the gum

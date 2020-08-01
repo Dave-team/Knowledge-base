@@ -1,5 +1,5 @@
 Nootropics stack
-- Fish oil
+- Omega 3
 - Vitamin D3
 - Magnesium
 - Creatine

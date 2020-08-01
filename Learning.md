@@ -19,6 +19,7 @@ The best way to learn is by practicing deliberately. Key characteristict:
 - Explain things to others - a good test is to teach it to a 10 year old. This really forces you to simplify your thinking 
 - Racall what you learned 
 - When recalling, identify gaps, fill these and recall again until mastered
+- Consult multiple sources around the same topic to enhance understanding
 - Use a sequence to learning 
     - Start with something hard 
     - When stuck, shift to something simpler

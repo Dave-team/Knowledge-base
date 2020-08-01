@@ -17,6 +17,8 @@
 - Execution 
     - Do the most important thing first 
     - Do things based on your energy levels - do the hardest things early in the morning 
+    - Finish a task completely prior to moving on to the next task 
+    - Eliminate distractions
 - Reflect on performance at the end of each day and set goals for the next day (3 things max)
 
 ## Techniques
@@ -74,7 +76,7 @@
 - Back-up system: 
     - Important docs: local machine, Github, markdown stored in Drive, backup on harddrive
     - Photos: top photos stored in local machine, Google Drive, backup on hard drive
-    - 
+- Make the bed each morning to set a good start of the day 
 
 ## Email 
 - Look at it first and last thing of the day
