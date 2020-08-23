@@ -46,6 +46,7 @@ useful_name__transformation_in_past_tense.sql - for example order_payments__join
 - Only staging models should select from source
 - Each model needs a primary key 
 - Make sure to comment transformation code 
+- Always define the data types whilst modelling 
 - A new dbt model is not complete without tests and documentation.
 - All {{ ref('...') }} statements should be placed in CTEs at the top of the file. (Think of these as import statements.). This makes the code modular with the following benefits: 
     - It clarifies the order in which models need to be run

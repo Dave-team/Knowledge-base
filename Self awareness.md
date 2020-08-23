@@ -34,10 +34,25 @@ I overthink scenarios even before they are relevant - perhaps this is my stoicis
 I’d like to have a more calm mind and more optimism and confidence that things will be okay 
 
 ### Social
-I am nervous when speaking in front of others - i.e. I get uncorfortable when the attention is on me 
+- I am nervous when speaking in front of others - i.e. I get uncorfortable when the attention is on me 
+- I'm not the biggest fan of speaking about myself. Often, group conversations are about sharing personal stories and I'm not the biggest fan of that. Other than personal stories, a big part of group conversations is on the spot spontaneous comments and I also need to work on that as my creative out of the box thinking is currently limited.  As a consequence I'm often quiet in group conversations. In 1-1 talks, there is often a more purposeful topic so I'm fine. To do: 
+    - Improve creative thought
+    - Think more about own life and what is worth talking about and mentally prepare talking about these things 
+    - If this doesn't flow/work, realize its okay to realize I'm more queiet in social group settings 
+- I sometimes feel like missing out on life experiences such as weddings because of a limited social circle. 
+
+
 
 ### Minimalism
 - I know that watches (or any materialistic things for that matter) ultimately won't bring happiness. They are a risk to keep for theft or damage, they need to be serviced, the search for watches is time consuming that perhaps could be better spent elsewhere. It's a constant race to reach the next thing  
+
+### Build personality
+- So far, my lifestyle has been very square with very few extremely crazy things. To break out of that, I need to do more wild things and spice up my life. 
+- Focus less on doing only things that make sense for my development or only finding the 'best' ways to do things. Do things more just for the sake of doing them and don't put so many rules and boundaries.
+- Get rid of the checklist mentally and be more freeriding through life 
+- Avoid living a life that is textbook 'this is how you should life'. Instead, try some things that non standard 
+- Avoid being too goal oriented. Once a goal is reached, the same empty feeling will be back and you can start again. 
+- Don't keep busy for the sake of being busy - that's a very narrow life. Instead, try to purposefully be imperfect. Read that book that you don't follow. Watch a bad movie. Do something you would usually consider not worth doing and stick to it.  
 
 ## Interesting facts about me:
 - I’m allergic to most fruits and nuts
@@ -45,7 +60,7 @@ I am nervous when speaking in front of others - i.e. I get uncorfortable when th
 - I once went jungle trekking on flip flops after it rained. Needless to say, it was slippery
 
 ## Hobbies
-Gym, reading, eating out and exploring London, travelling
+Gym, reading, eating out and exploring London, travelling, music 
 
 ## Memories and experiences
 ### Early memories 

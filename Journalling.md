@@ -1,6 +1,13 @@
 ## Journal
-- Txt file that is backed up to Github 
+- Sublime text txt file that is backed up to Github 
+- Each month is a different .txt file 
+- Top of file: focus of things I need to work on 
+- Below is a list of questions to copy for each day 
+- Then one entry each day 
+- Anything that comes up on daily basis, put it in a separate ToDoIst folder
 - Each month I might summarise the main findings in a Markup file and push to the knowledge base
+- Alternative app: Day One 
+
 
 Questions to answer in a journal: 
 - How do I feel today? This can be split between happiness levels, stress and energy. Rate between 1-10 and provide notes. Go deep and ask why 

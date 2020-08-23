@@ -1,4 +1,27 @@
 # Career
+
+## Be more valuable 
+**For the company** 
+- Develop new ideas and deliver end to end that have a positive impact on the business. 
+    - This can be on a strategic business level
+    - This can be an improved to our infrastructure or how the team operates 
+- Automate things to increase quality and save time 
+- Improve any ineffiencies you find
+- Earn trust and build cross functional relationships that help getting buy in and help move projects forward. It also helps getting a name for yourself where people start considering: we should ask Dave. To do this: 
+    - Help those around you in whatever way you can.
+    - Get to know the functions, what they do on a daily basis, their pain points. If not to help them then at least to empathize with them.
+- Problem solving 
+    - Coming up with creative solutions to business problems 
+    - Being able to take a complex project and translating that to a clear actionable action plan
+    - Have the resourcefulness and confidence to bring projects across the finish line independently
+
+**For yourself and the team**
+- Become really good with the tools of your trade 
+- Document everything you have worked on which comes in handy for review time
+- Continiously work on documentation. You and others will need it. Make sure you remember why you did things so record your decisioning somewhere (e.g. clear comments in SQL logic)
+- Really understand the data 
+- Implement best practices and educate the business on best practices where needed 
+
 ## Starting a new job
 - Create a 90 day plan with priorities, goals and milestones. Gets this approved by your boss. When you prepare, think about what you want to get done day 1, day 2, week 1, month 1, month 2, month 3. Ideally set up specific success criteria here
 - Key deliverables in the first stage should be: 
@@ -10,8 +33,11 @@
     - Meet with key stakeholders and take initiative here. Build relationships accross the entire organization  
     - Discuss who you are, the value and goals you represent, your style and how you plan to conduct business. 
     - First impressions are important 
+    - Use an org chart to help familiraize with the company 
 - Promote yourself. Have a goal in mind around how you'd like to be perceived. This includes having a pitch 
 - When starting a new role, first understand why things are done a certain way. Only then consider whether the business would be positively impacted by a change  
+- Get a good understanding of the most important metrics used in the business 
+- Understand the roadmap
 
 ## Pitch example
 Intro to company: 

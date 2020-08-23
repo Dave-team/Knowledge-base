@@ -41,6 +41,20 @@
 - Good questions are brief and to the point (respectful of the reader’s time), leaving a call to action as the last part. Often, I’ll get pretty long emails including every single detail that’s not relevant to the question at hand. We’re all super busy and get hundreds of emails. The ones we’re more likely to answer are short and easily-skimmable.
 - When asking questions, start off by saying what you already know – the others can then correct or fill in gaps 
 
+## Emails 
+- When sending an email, make it standalone. Make sure that it tells a story that is completely clear for the other party 
+- Highlight what's relevant 
+- Ask for actions 
+- Write to the point of view of the person/people receiving the message
+
+### Email example snippets
+- 'I imagine you’re all over this but wanted to double check'
+- 'They haven’t yet had a response and because we’re looking to move quite quickly in terms of finalising the set up, I wonder if you are able to give the integration team a nudge on our behalf?  I’ve attached the queries that Joe has for ease of reference – anything you can do would be much appreciated.'
+
+
+
+
+
 ## Other
 - Use STAR approach (Situation, Task, Approach, Result)
 - Take time before speaking to think things through. 
@@ -50,3 +64,5 @@
 - When seeking help (from anyone, really) always start with the goal; this opens you up to a wider range of inputs. So do this instead of asking a very specific question - just because one solution is one of many and rather than focusing on keep doing what you’re doing, you want to get input and understand if there might be an even better way of doing what you are doing 
 - Can you explain your job to someone at a party? 
 - Think about writing a newspaper article. Write/ say the headline, the subtitle and from there on say the most important stuff. Make sure to eliminate all of the noise that is surrounding.
+- When explaining complex things, visualize it with an easy to understand example. Explain your logic step by step. 
+- When I'm not in a clear thought process I tend to end what I was saying with 'Yeah'. Instead end withm ‘Does that make sense?’ (especially because you already know your logic wasn't spot on any longer)

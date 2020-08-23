@@ -12,7 +12,7 @@
 - Lots of tea
 - Matte
 - Matcha
-- Limit coffee
+- Limit coffee (Heavy cream and MCT oil in morning coffee)
 
 
 ## Pre and post workout 
@@ -57,3 +57,6 @@ Start point: 1.2 gram of protein per pound. 1 gram of carbs per pound. 1 gram of
 
 ### Maintenance 
 Maintaining mass rules: 1 gram of protein per pound of body weight. 1.5 grams of carbs per pounds of body weight. 1 gram of fat per 4 pounds of body weight. Indicators of progress: weight roughly the same, a little stronger each week, better mirror look and clothing fit. Good energy, good sleep. Again, make changes by taking or adding 50 grams of carbs (200 kcal)
+
+## Other
+- We can get food allergies checked

@@ -3,12 +3,12 @@
 - Conform dimensions: make sure that the same customer table is used accross the entire infrastructure
 - Aim for long fact tables and wide dimension tables
 - Think about the grain of a table and in development, ensure this grain doesn't change
+- When designing a data warehouse, start simple. Use the data for a while and then the design will be more apparent. Only worry about design when a simple design doesn't work for the business or is non performant. 
 
 ## Guidelines for fact or dimension
 - When a value is used for aggregations, fact table. When a value is used to group and filter, it's a dimension. Good example here is price. 
 - If a value changes frequently, it's a fact.
 - If a value needs to be used accross multiple fact tables, put it in a dimension 
-
 
 ## Relationship cardinality
 Relationship cardinality is the number of instances of an entity in relationship with another entity. There are: 

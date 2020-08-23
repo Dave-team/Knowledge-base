@@ -1,5 +1,10 @@
 # BI development
 
+## Principles
+- Always work incrementally. Build out a single metric. Then move on to the next. Keep your SQL simple until it works for one use case. Then add additional complexity only when the simple proofs to work
+- Never make a change promptly. Keep different versions and decide what’s best over time
+- Don’t build something slightly complex in SQL until the approach is confirmed across the board. Whenver you're code starts to look complex, take a step back and see if we can prove an easier solution and whether we can simplify the complexity
+
 ## Project charter
 Create an initial high level project charter with the project objectives, scope, approach, involved parties and team staffing, success criteria, constraints, assumptions, and risks. This should include a high level architecture of the different data sources and ideally the most important dimensions (high level bus matrix). It should also have a list of high level priorities: teams / processes to get BI for and in what phase these will be implemented - this could be a high level gannt chart out of which individual tasks will be added to a backlog / PM tool. Note that this starts of as a draft and will be updated incrementally 
 
@@ -78,7 +83,7 @@ Speak to the executives of the team whose process is prioritized:
     - Is it accurate?
 
 ### Explore data from Fivetran (or custom sources)
-- Pipeline the data from Fivetran into Snowflake 
+- Pipeline the data from Fivetran into Snowflake. If the data isn't too large, pipeline all fields and transform less as people often change their mind as to what fields they want  
 - Explore this data in Snowflake 
     - Is there any PII? If so, we can either build a transformation in Fivetran to remove the PII or we work with the stakeholders to change name of certain fields to e.g. IS_PII (this avoids us having to remove an entire column which might be needed to analyze some data) 
     - Go through the data and make sure it makes sense:
@@ -103,8 +108,7 @@ The steps in this process:
 After the initial reports are replicated correctly, I should have a good understanding of the data structures to now model the final tables.  
 - Build incrementally: only build out the required fields and tables to answer the questions
 - Test the data thoroughly before pushing to live and communicate test results with stakeholders
-
-
+- Update a company wide Slack channel with the additions or changes to the data 
 
 ## WIP: If all this was a migration
 If this was a migration: 
@@ -124,3 +128,24 @@ If this was a migration:
     - Excel worksheet with details on each table
     - Open issues log highlighting unresolved issues
     - Discussion of known limitations in the design 
+
+## Updates from Papier
+When people don't know the data yet: 
+- Quick sessions to understand high level requirements
+- BI team to develop what makes sense as we understand roughly what the business is looking for 
+- This gets sent to the stakeholder for review 
+
+When there is existing data: 
+- Quick sessions to understand high level requirements, KPIs
+- Use existing reports to replicate the data 
+- Send to stakeholders for review and build from there 
+
+When business knows data well: 
+- Send spreadsheet with all API fields 
+- Do they want this as:
+    - Dimension
+    - Measure?
+        - What measure type?
+- What calculated fields would they like to see?
+
+With all of this, remember it's iterative and the business will get back to BI if they want things changed 

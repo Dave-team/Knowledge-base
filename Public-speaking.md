@@ -10,6 +10,7 @@
 - Make sure to avoid possible obvious questions
 - When you use memes, reference them to actually make it funny 
 - A good is where the audience learns something new or comes away with a change in perspective 
+- Focus on the value you're bring to the audience. Rather than providing your credibility, articulate a questions they'd love to have an answer to. 
 
 ## Slides
 - Only use slides that provide value
@@ -89,7 +90,7 @@
 ## Dealing with nerves
 - Similar to the notes in principles but some additions below
 - The audience will never be aware of the things you’re doing wrong 
-- When nervous, think not of yourself. Instead, think of the audience
+- When nervous, think not of yourself. Instead, think of the audience. Focus on what they will experience - you are not important in this. The goal of your talk is to give something useful to your audience. E.g. a perspective, new idea, a refreshing explanation, tips, new insights? After the talk, the audience should come away with something they didn't have before. 
 - Over time, I will be established as an authority and need to speak frequently both at the company as well as larger events – each presentation is small compared to the next. And at each presentation I am representing my own brand
 - Focus on the fact that you want to give value to the audience – that is the main goal of me talking – the audience needs to come out smarter. They don’t actually care about the presentation in and off itself 
 - Look into good public speakers and see how they do it and then try to replicate their behaviour. Focus on: 
@@ -99,3 +100,7 @@
 - A great tactic is to start off with interaction with the audience. This should massively drop the nerves during the rest of the presentation
 - Be grateful for opportunities you get (e.g. when presenting to be higher up the foodchain). Have the strong tendency to prove yourself and get the word out 
 - Visualize yourself as being someone who loves being right in the centre of attention because everybody is keep on listening to you and understand what it is you have to say. Be more influential and funny – be who you want to be
+
+## Virtual meetings
+- Ask people to add questions in the chat to avoid distractions 
+- People don’t interact, but e.g. can say: ‘I see some nodds, which is good 

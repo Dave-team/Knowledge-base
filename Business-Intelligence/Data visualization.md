@@ -25,6 +25,10 @@
 - Data is sorted: e.g. sort bar charts from high to low. Order data tables logically and include the ordering in the title 
 - Annotate anything that would raise questions in the graph
 - Remove anything that could raise questions - e.g. don't show NULL values 
+- Column charts should be sorted such that the largest values are at the bottom
+- Hide a legend when the legend is too big - people will just hover over 
+- Add a total on top of column charts 
+
 
 ### Good dashboards
 - Good dashboards are interactiove: 
@@ -45,6 +49,7 @@
 - Only show the critical few metrics to portray the story. 6 metrics by dashboard is a good starting point  
 - Data is logically laid out and well alligned 
 - Leverage white space
+- Similar timeframe across all visualizations 
 
 
 

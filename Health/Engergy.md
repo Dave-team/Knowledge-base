@@ -13,6 +13,7 @@ Eliminate tiredness in afternoon
 - Stretch
 - Bulletproof coffee
 - Change environment for inspiration
+- Drink coffee around peaks of productivity. Aim for higher peaks rather than trying to fight the tiredness
 
 # Health
 

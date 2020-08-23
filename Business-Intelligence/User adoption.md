@@ -39,6 +39,7 @@ Set up training sessions specific to the requirements of the end user to be trai
 - Provide great documentation (training recordings / slides, FAQs, data dictionary) and make this easily available to end users. For developers, have a best practice LookML document 
 - Regularly check in with new users as they go through the change curve to ensure they remain enthusiastic and positive about what Looker can provide them. Track their usage in iLooker.
 - Hold regular office hours where people can book a slot to go through something data related
+- Always leave them with training docs that explain the Looker basics 
 
 #### Onboarding / training tips
 - Really get people involved
@@ -47,6 +48,7 @@ Set up training sessions specific to the requirements of the end user to be trai
     - Ask them to show for something and check what they've done - e.g. a completed dashboard
 - Answer their business questions live - focus on their specific use cases
 - Make sure they are set up will all the right access prior to the session 
+- In bigger team, team managers can be responsible for onboarding. BI preps a training doc for the high level Looker overview and then the data champion in the team guides through Looker - which is often specific by team  
 
 ### Evangelize BI
 Monthly updates with new data / features in Looker Main purpose here is that people find common things they weren’t aware of and now can use. Example framework of such a newsletter: 
@@ -55,6 +57,8 @@ Monthly updates with new data / features in Looker Main purpose here is that peo
 - What's coming by when?
 
 Really sell the results you’re getting – at all hands and in emails. You want to be able to ask anyone what meaningful achievement you did lately and they should be able to answer this for you.  
+
+
 
 ### User feedback
 Gather user feedback from end users to increase the value that Looker adds. Send this to inactive users

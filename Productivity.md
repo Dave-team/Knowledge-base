@@ -8,6 +8,9 @@
 - What 20% generates 80% of the outcome, but also: what 80% is mostly useless? 
 - Learn to say no – that will get you the most done in the long term, which matters most 
 - Listen to your body and mind. Rest and take a step back when it's needed 
+- Being productive is about optimizing time to spend more time on things you enjoy doing 
+- Consider time boxing what you're working on to avoid situations where you spent too much time 
+- Write down your most important goals and regularly check against these notes to ensure you're working on the most important thing 
 
 ## Process
 - Planning in the morning: 
@@ -37,6 +40,7 @@
     - Do some form of excercise
     - Drink lots of water
     - Heavy breathing
+
 
 ## Habits
 - Give yourself specific triggers to implement your new habits. E.g.: ‘when I get home, first thing is putting on running shoes and go for a run’. 
@@ -68,16 +72,6 @@
 - Support: what support do I need to deliver this change?
 - By when: what date do we need this by?  
 
-### Other
-- Quick notes, to-dos and grocery lists go into to-doist 
-- Long form notes go into a Google Doc to be reconciled later
-- Cleaned up notes are version controlled in the knowledge base
-- Reminders and events go into Google Calendar 
-- Back-up system: 
-    - Important docs: local machine, Github, markdown stored in Drive, backup on harddrive
-    - Photos: top photos stored in local machine, Google Drive, backup on hard drive
-- Make the bed each morning to set a good start of the day 
-
 ## Email 
 - Look at it first and last thing of the day
 - Answer or file all emails – inbox 0 is the goal
@@ -89,3 +83,21 @@
 - Never leave an email unread for more than a week. It should be in a different folder if so 
 - Go through pending and review at least once a week and either archieve or action the items 
 
+
+### Other
+- Make the bed each morning to set a good start of the day 
+- Projects to work on that take time (i.e. not checklist to dos) go into a Notes txt file seperated by To do - Today and To do - This week. 
+- To do this month and to do this year (i.e. bucket list not sure yet) 
+- I like keeping work and private separate so I wouldn't want to combine these To - Dos in Evernote
+- Quick notes, reminders, books to download and checklist to-dos and grocery lists go into a simple To Do app that is seamless between Mac and iOs 
+- Articles to read are saved in Chrome bookmarks that sync between work and private
+- Twitter / Reddit to read are currently screenshots. See if there is a better solution here. 
+- Long form notes go into a Google Doc to be reconciled later. This is also where I copy snippets from articles / books I read 
+- Cleaned up notes are version controlled in the knowledge base
+- Reminders and events go into Google Calendar 
+- Long term notes that are not knowledge base but that need to be readily accessed go into Evernote 
+    - Recipes
+    - Packing list 
+- Back-up system: 
+    - Important docs: local machine, Github, markdown stored in Drive, backup on harddrive
+    - Photos: top photos stored in local machine, Google Drive, backup on hard drive

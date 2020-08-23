@@ -3,8 +3,8 @@
 - Speed matters: work fast and do things right now - don't delay 
 - Quality matters: never assume and always check
 - Be flexible: things will always change. Be prepared to adapt.
-- Keep things simple: do the bare minimum to solve the problem. 
-- Work incrementally: build, launch, get feedback, repeat 
+- Keep things simple: do the bare minimum to solve the problem prior to making things more complex  
+- Work incrementally: build, launch, get feedback, repeat. 
 - Be consistent in performance
 
 ## Think strategically 
@@ -26,21 +26,32 @@
     - What is involved with this decision 
     - How do these things interact? 
     - What effects will the decision have? Think about what might happen if I were wrong
+    - What are the consequences of this decisions in 10 minutes, 10 months, 10 years 
 - Check in with others to stress test your thinking and see if there is a better way. Get feedback early and often. Socialising your work will help you refine, develop, and evangelise it. Don't overthink things - ask for help instead
 - Remember that I don't need to solve all problems. Often, the problem should be handed to someone else.  
 - What would you like to see if you were owner of the company? A good way to think about this is to think of the business as a process. And then think hard how each of these inidividial pieces can be improved. 
+- Improve abstract thinking by studying mathematics and philosophy 
 
 ## Think critically
 - Before escalating, make sure that there aren't any obvious answers to your issues. Asking someone else is often the quickest way to get the necessary info
 - Challenge your assumptions 
+    - Why am I assuming this?
     - What are some reasons I might be wrong?
     - How do I know this is true?
 - Never assume things to be true. Do your own research and confirm. Ask:
-    - What does this actually mean?
+    - What does this actually mean? Are there any other meanings this could have?
     - Is that true?  
 - Always ask why
 - Assess your own thinking - do I think this because I know the facts or because X person thinks this?
+- Always consider alternative ways of doing things. Your solution is one way - how else could it be done? 
 - ‘You are not entitled to take a view, unless and until you can argue better against that view than the smartest guy who holds that opposite view.'
+- Socratic questioning
+    - Clarification – "What do you mean by...?"
+    - Probing assumptions – "What could we assume instead?"
+    - Probing reasons/evidence – "Why do you think this is true?"
+    - Implications and consequences – "What effect would that have?"
+    - Different viewpoints – "What would be an alternative?"
+    - Questioning the original question – "What was the point of this question?"
 
 ## Think structured
 - Break down your thinking into small pieces and map it out. Clarify your own thinking by putting it into writing
@@ -51,6 +62,9 @@
 - Solve each step prior to moving on to the next 
 - Map or draw out the situation for better understanding
 - Think through problems together with others 
+- Type out your thoughts process to help improve and structure thoughts 
+- What did I ignore or didn't pay attention to? 
+
 
 ## Think inside their shoes
 - What might be their reason for doing things? 
@@ -87,19 +101,40 @@
 - Scout first: Do everything you can to avoid a meeting where you don’t know what the stakeholders expect from you. A quick 5-minute sit-down a few days before the “real” meeting goes a long way to making sure everyone is on the same page when the meeting happens.
 
 ## Problem solving / Decision making
-- Solve a problem by asking: could it be X? Then try X and see if it works. Think if I can fix it before asking others or before thinking it can’t be done. 
-- When dealing with a hard problem, let it be and sleep on it to get support from the subconscious mind 
+- Make sure to fully understand the issue instead of making assumptions. Research everything you don't know. Write things down as you learn them to get a full picture of the problem 
+- Think about the real problem to solve. This is can be different from what others say - don't just parrot people.
+- Understand how important it is - "How important is this, really?" 
+- Do we have the solution or something similar from the past already? 
+- Scientific method. Why are hypotheses for an issue? Then try the most obvious potential reasons first and see if it works. Narrow the list of hypothesis down as fast as possible. Think if I can fix it before asking others or before thinking it can’t be done. 
+- When dealing with a hard problem, let it be and sleep on it to get support from the subconscious mind. It's the 'obsess and let go strategy'. Work intensely on problem and if there's no progress, let go and do something else to switch the context.   
+- If there's time, solve a problem multiple ways and se what works best 
 - Do not ever forget to know your reasons for why you made a decision. Every time you make a decision, write down your reasons for the decision. Document the underlying thoughts
-- Research everything you don't know. Think in terms of models you understand
+- Think about your mistakes: what could you have done differently? What were the signs that you got in that situation?
+- Talk about the problem with others - things can bring in new perspectives that help getting unstuck. Even consider rubber duck debugging. This can help: 
+    - Fresh perspective that you probably wouldn't have gotten by just thinking for yourself
+    - Learn something new: how would someone else solve the problem you're having? How is their thinking different from yours?
+    - Solve the problem quicker. When stuck, things are very inefficient. Interrupting someone for help is net net more efficient 
+    - Build relationships with teammates 
+    - Learn how to unblock yourself in the future by learning new ways of thinking 
+- If you're stuck when debugging a problem, think about all the assumptions you're making, and then test each one of them, no matter how obvious.
+
 
 **Helpful tactics**
-- Scoring model when evaluation larger decisions 
+- Scoring model when evaluation larger decisions. Also called a decision matrix where we list options, score/weight and then rank them 
 - Pros and cons 
 - Costs benefits analysis 
 - 5 whys
 - Best / Expected / Worst outcome scenario planning
 - The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
 - Systematically assess future risks. Always ask yourself: what if the project failed. Please explain in 5-10 minutes how we would look back on it. This will really help seeing the identified and unidentified risks
+- Issue trees: maps of problems
+    - Problem tree: 
+        - Break the problem down into branches
+        - Branches are MECE: mutually exclusive, collectively exhaustive. Mutually exclusive means there is no overlap between different parts of the tree. Collectively exhaustive means they cover the whole problem.
+    - Solution tree
+        - Focus on the most impactful parts of the problem
+        - Map categories of the solution
+        - Brainstrom / generate ideas to improve in those categories 
 
 ## Other
 - Make sure to connect to the right people. Account manager instead of support when things need doing 
@@ -119,4 +154,5 @@
 - Be proactive
 - Take complete ownership
 - Give lots of honest feedback
-
+- Force yourself to slow done before diving into a project. Do research, make sure you understand the problem deeply and document learnings you create for future references. Build mental maps and think ahead. 
+- Don't get stuck in a rabbit hole though - focus on a broad generalized concept understanding. When in a rabbit hole, recognise your position. Take a step back. Realize that what you’re obsessed about probably doesn’t matter and then move on

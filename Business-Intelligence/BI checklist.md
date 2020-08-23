@@ -8,6 +8,12 @@
 - How and when will you use the data? E.g. in a dashboard shown in weekly meeting, to import into email tool, to put in slides, to send as schedule, to create alerts from, to put into spreadsheet that then does further transformation?
 - Who will be interested in the data and needs access? 
 - Any visualization requirements? 
+- How does this fit in the grander scheme of things? 
+    - Will future business changes change this model again? 
+    - Are we testing if something is even possible at all? Should we MVP? 
+    - How important is it to get perfect? 
+    - Any downstream effects? 
+
 
 ### Delivery process
 - Have ticket with requirements. Potentially detailed with:
@@ -62,6 +68,7 @@
     - Tables names are singular: dim_customer
     - IDs are described as: object_id
     - CTE names should be specific to the table it represents
+    - The same field name across objects should get a label that is object specfic: "Ad Status" and "Campaign Status"
 - Fields: 
     - Count (measures): Number of  
     - Sum: Total
@@ -97,11 +104,14 @@
 - LookML is well organized 
     - Good grouping of related dimensions and measures 
     - We apply DRY principles to the code 
-    - Users have the minimum access to the data to not create cognitive overload
+    - Users have the minimum access to the data to not create cognitive overload. At the same time, when something could be relevant, keep it. 
+    - In explore join design, aim to have all joins going to the initial explore to limit joins required to get data 
+    - Keep in relevant IDs so that end users can troubleshoot where required
+    - Always keep a number of measures for easy troubleshooting as well 
 - End users find Looker easy to use 
     - Naming conventions are applied
     - Explores are as short as possible, with groupings applied. Each explore answers specific questions
-    - All relevant fields have a name used in the business and a useful description 
+    - All relevant fields have a name used in the business and a useful description. Make sure this description makes all sense standalone and covers enough context. Always ensure that every single field has a description - even when seemingly obvious and hidden. Good way of getting descriptions is from the API docs
     - The labels are clear and describe the data 
     - Dashboards are easily accessible to end users 
 
@@ -111,6 +121,7 @@
     - Validate LookML 
     - Test Looker explores with new changes (no errors in dimension / measures). When possible, compare new dev vs old prod
     - Content validation 
+    - When changing fields, do a run on the previous field name and make sure to update all old references with the new version
     - Push to production so all Looker users use most current models  
     - Quickly check most used dashboards 
     - Update model sets where required - make sure that relevant stakeholders still have relevant access 
@@ -120,4 +131,24 @@
     - Do I find Looker easy to use – am I following my best practices? Would a new joiner be able to easily get to everything he / she needs?
     - Is LookML still clean? Is there code that can be made redundant, do we group logically, is everything DRY? Can we combine some explores? 
 
+## Github 
+### Pull request design 
+- Title. E.g. "Feature", "Fix", "Update": X
+- Description: 
+    - What are you changing 
+    - Why are you changing it? 
+    - Link to the source ticket of the feature - e.g. in Notion
+- Screenshot of updated part of the DAG
+- Validation of models: 
+    - include output that confirms model does what is expected. E.g. link to in development Look, or a query that compares the data. 
+    - Perhaps a screeenshot of content valdiator and LookML validator 
+    - Screenshot of the dimensions and measures in action with their relevant links
+    - Where possible, comparison between source data 
+    - Where relevant, add any other QA relevant information here. 
+- Always add a reviewer to a PR 
+- Include table granularity when building a new PDT / table 
+
+### PR principles 
+- Each PR is one logical piece of work
+- Continiuosly integrate PRs. Don't wait to complete a project. Instead, break the project down to manageable pieces that get their individual PRs
 

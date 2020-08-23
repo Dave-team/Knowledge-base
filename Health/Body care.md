@@ -2,12 +2,21 @@
 General
 - Use Perspirex 3X a week
 - Floss teeth daily after brushing tooth 
-- Use chalk powder for the feet
+- Use chalk powder for the feet to avoid sweaty feet 
 - Don't frown
 - Limit touching the face
 
 Skincare
-- Clean and moisterize face each morning and evening  
+Mornings 
+- Face wash in shower 
+- Niacinamide lightly applied on pad 
+- Moisterize 
+
+Evenings 
+- Face wash 
+- Moisterize 
+
+Other 
 - Apply sun screen before going out on sunny days
 - Apply occasional face mask 
 

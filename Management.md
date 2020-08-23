@@ -1,9 +1,10 @@
 # Management 
 
 ## Principles
-- You are responsible for the team's output - give credit to the team when things go well  and take full responsibility when they don't
+- You are responsible for the team's output 
+- Give credit to the team when things go well and take full responsibility when they don't
 - Make your employees feel comfortable with you – they should feel free to share their thoughts and recommendations 
-- Don’t be the manager you wish you had – be the manager that your team needs. Everyone is different and everyone is at different stages 
+- Don’t be the manager you wish you had – be the manager that your team needs. Everyone is different and everyone is at different stages. Some people need more feedback and deadlines whereas others can just be left alone 
 - People want to know: 
     - Do you have insights and steadiness to make tough decisions?
     - Do you have values they relate to admire and want to emulate
@@ -11,6 +12,10 @@
     - Do you demand high levels of performance from yourself and others? 
 - Lead by example
 - Always track and measure whether we are on the right track – what can we improve on? 
+- Demonstrate best practice by showing best practice and guide them through your thinking 
+- Treat your team like your family. Do not stress them out with too much work. Be respectful of their time and effort. Give them breaks post completion of major tasks. Every second that you let them rest and breathe is a second you have invested in the future. They will recharge and put their best in the next task. Realize that you most often don't know what's going on in their lives and adding stress to it might get adverse effects
+- Where required, step in to tackle a big challenge with a teammate
+- Provide lots of positive feedback and be genuine and enthusiatic when doing so 
 
 ## Six foundations to leadership
 - Clarity: communicate goals, strategy and vision over and over 
@@ -24,13 +29,27 @@
 - Make sure the interests of the team are aligned with the company’s
 - Put people in the right position
 - Give people challenging projects 
-- Give people information and context required to do their job 
-- Confirm that they know what they do 
+- Give people information and context required to do their job. 
+    - What? What are we doing?
+    - So what? Why are we doing it?
+    - Now what? What are the next steps?
+- Confirm that they know what they do. A good idea here is to have them create an action plan that then is discussed. Here, be criticial and provide context in your way of thinking
 - Get out of their way. Believe in them to come up with good solutions
+
+## Roadmap building 
+You're responsbile over the creation of the roadmap. This is a cross functional excercise with the execs in the business 
+
+## Backlog managment 
+This is how we track the progress across the team and it's how team time spend is being measures 
+- Be ahead of the game in terms of what the team could/should be working on next
 
 ## Empoyer your team
 - If someone has an idea that you think might not work, ask how long it’ll take them to see if it works out?
 - Sometimes, you just let the team decide even when you think you have the right answer. There are often many right answers and your job is to ensure that the team doesn’t choose the wrong answer. 
+- Empower the quiet people in the team to speak up during meetings: 'X': what do you think? then thank him. This will help: 
+    - It removes the internal conflict Jim was having if he should speak up or not. 
+    - It gives him 'the floor' so he knows for a minute he will be heard. 
+    - His answer might not be directly related, however it often sets off a chain of conversation that often does lead to creative answers.
 
 ## Servant leadership 
 - Protect them from politics 
@@ -116,7 +135,6 @@ This is important because:
 - Use 360 degrees feedback
 - Make others feel really valued. Fo up to their desk and ask for help. Check in on progress. Once a project is finished, thank them sincerely and make them feel good
 
-
 ## 12 questions employees ask themselves
 - Do I know what is expected of me at work?
 - Do I have the equipment and material I need to do my work right?
@@ -130,3 +148,13 @@ This is important because:
 - Do I have a best friend at work?
 - In the last six months, have I talked to someone about my progress?
 - This last year, have I had opportunities at work to learn and grow?
+
+
+## Phrases
+- What I would do is
+- If you know of a better way then let me know - I’m sure what we have is not perfect
+- I really like X / X is great 
+- How would you do it? What do you think is the best way?
+- “I don’t love this”
+- EOD 'do you need anything from me'
+- Practice empathy: 'I’m sorry to hear that'

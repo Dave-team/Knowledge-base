@@ -7,7 +7,7 @@
 - Limit table calculations and pivots as they are quite heavy 
 - Limit the number of data points returned 
 
-**Looker modelling**
+**Looker modeling**
 - The initial table in the explore should contain measures and it should be the most granular table. For any subsequent joined tables we lose trust (unless there's a 1:1 relationship). 
     - Fields can become duplicated is there's a many to one relationship
     - Fanouts happen when there is a one to many relationship as we increase the number of rows within the Looker model. Avoid fanouts by starting with the most granular data table
@@ -17,7 +17,7 @@
 - Use value format names to ensure data shows up in the right format
 
 **Looker organization / design**
-- Each explore should describe seperate process. 
+- Each explore should describe a separate process. 
 - Make sure to group explores / models that relate together. So Activities, Opportunities and Pipeline History are all under Salesforce 
 - Restrict user thinking – create measures with filters
 - Limit the number of fields in the field picker: group measures / dimension together when they strongly relate to each other. E.g. use a group label Address and then within that is Town, Country, Post code etc. 
@@ -26,6 +26,7 @@
 - Spaces are named after business function: e.g. Marketing 
 - Dashboards are named as business function - specific. E.g. Marketing - Channel Overview
 - The explore pane should by by business function and then more granular - this is depending on the natural groupings and expectations of the business users  
+- Get fields into Looker and then describe and hide them. You can always unhide later 
 
 
 ## Looker Debugging
@@ -77,6 +78,10 @@ Looker drill fields
 - Important notes:
     - Drill fields can only be applied to fields that are also in the same model. E.g. pipeline history can’t take fields from the opportunities field 
     - We cannot drill into table calculations at the moment - that’s why attended to S1 is not showing up as a drill field. Also SDR ramping performance 
+- View labels can be the same as different views to ensure they are listed under one view header 
+- Images are brought in via a URL combined with some HTML 
+- A good rule of thumb could be to only persist tables when they are referenced by other views or when they require the performance of a materialized table 
+
 
 ## Glossary 
 - LookML: language to describe LookML models in database
@@ -120,3 +125,10 @@ In the folder access within Looker, the idea is to:
 - Dashboards in personal folders shouldn’t be visible to others 
 
 Final tip: check what others users can and can’t see by sudo’ing them
+
+## Looker and Github 
+Looker has local branches. Deleting remote still shows up in local Looker. Anyone who interacted with the branch (i.e. checkout by switching to the branch in Looker) will also have the branch locally.  
+To delete local, developers need to clean up their own branches in Looker. 
+
+    By default, we work on our own dev branch in Looker. This personal dev branch is read only to all other Looker users. 
+Because dev branch is read only, we’d want to collaborate on different branches that are newly created for each project and based off master. This means that other Looker users can switch to the branch and review changes as well (e.g. compare your newly created branch against prod) 

@@ -15,6 +15,10 @@
 - Consider the other person's point of view 
 - When going to a social event, make it worthwhile or don't go at all 
 - Thank people for the impact they’ve had on your life: teachers, early managers. Track them down and write a genuine note
+- Remember peoples names and make you note when you find out their name. Then study to not forget
+
+## Being social at work
+
 
 
 ## Conversations

@@ -69,7 +69,7 @@ Comment SQL code that handles transformations
 Comment any LookML transformations
 
 ## SQL
-When writing a complex query, on the top of the editor, break it down: one sentence with the end goal and your approach below that
+When writing a complex query, on the top of the editor, break it down: one sentence with the end goal and your approach below that. This should explain the purpose of the model 
 
 
 ## Other queries and scripts

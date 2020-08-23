@@ -9,7 +9,7 @@
     - If the data gets used, you'll find out where we need to strengthen the test suite and this is where we apply specific testing tactics to the data 
 - Implement testing at the lowest level so issues don't continue downstream
 - Automate as much as possible 
-
+- Think about how logic handles edge cases 
 
 ### Source data testing
 - Create an initial gap analysis between source and BI data. This includes 
@@ -20,6 +20,7 @@
 ### Extract and Load testing 
 - Monitor jobs within Fivetran and set up alerts when anything goes wrong with these jobs
 - Check that data got loaded in the raw schemas (or staging environment): count by day within raw schemas. Even better is to count by day compared to source data. This will identify missing values, but also any duplicates. Another option is to compare row counts relative to previous days (new vs old). We’d expect this to be fairly consistent over time 
+- Get proof of missing data from the business teams and then provide a screenshot
 
 ### Transformation testing
 - Monitor jobs within DBT and set up alerts for when jobs fail 
@@ -56,6 +57,7 @@
 - When required, perform unit testing: look at one instance and compare DWH vs source and identify where issues occur 
 - Measure the same metrics in different ways – the data returned should be equal. E.g. worm graph today vs all opps in S2 today. 
 - If something uses logic that has the potential of going wrong, make sure that someone else sense checks the logic I have implemented. Believe things are wrong until proven correct. 
+- Comapre dev vs prod in the BI tool 
 
 ## Monitoring
 The easiest way to promote data quality is to have as many eyes on as many pieces of data as possible – this way potential issues are quickly identified and fixed rather than “festering” and slowly degrading trust in the entire system. There is monitoring responsibility for the data team but also the business. 
@@ -89,7 +91,31 @@ You don't want a single person to be the only one capable of solving issues that
 - Train someone in the team to solve these issues 
 - Intermediate solution could be to not develop anything new prior to responsible person going on leave 
 
+## Git process  
+New project
+- Start a new branch off master. Name of branch is similar to title of ticket
+- Commit and create PR. Also add a reviewer to a PR 
 
+Changes to project: 
+- Create a branch off the original branch to ensure only the improved and the to-improve version are compared by reviewer 
+- When that branch is approved, merge back to the original branch and then merge to master  
+
+Keep in mind: 
+- Make sure to pull changes from production when working in a branch. When you created a branch off a branch, make sure to pull the changes first in the original branch. Otherwise, the changes made in different branches will show up as changes in the current branch. This should go in sequence from the most original branch upward. E.g. working in branch 4? Pull from remote first in origin, 1,2,3 before pulling from remote in 4 
+
+Solving merge conflicts
+- Usually done in Looker by selecting which parts of the code to keep 
+
+## PR review checklist 
+- Does the table run? 
+- Does primary key constraint hold? : count(*), count (distinct PK should be the same)
+- Check the joins: how many rows in the newly created table? Make a comment of that. Then, start with the FROM table. How many rows? Comment that. Then add each join to it and keep commenting the rows to see if something changes. 
+    - If there are differences in row count, it could be a timing issue. Look into data quality dashboard and see if the tables are up to date. Perhaps the DQ dashboard shows a potentially different reason why the data might be out of sync? Otherwise, look into the cases that are different and see what characteristics they have 
+- Go into the explore and run the data - does this make sense?
+- Segment the data, compute aggregates and compare between dev and prod. This might mean we’d need to get this data into Excel to compare more accurately 
+- Are the row counts and min and max values between prod and dev the same or explainable? 
+- Spot check a few values to sanity check the logic of the model  
+- Depending on the changes introduced, stress test these changes and see if anything breaks anywhere. 
 
 
 

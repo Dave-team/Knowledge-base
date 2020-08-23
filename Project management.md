@@ -2,6 +2,9 @@
 
 ## Stakeholder management
 - When I need others to do things, always ask when something can be completed by. Make sure to indicate clearly how important it is to get done
+- When important, can follow up on this with an email with actions. If so, mention in the meeting that you'll send this follow up to keep track of actions and to keep people in the loop. Do this when: 
+    - There are numerous actions to take between people. Having them in an email helps each other stay organized and it means that they can confirm whether they agree with the actions 
+    - If and when it is a large ongoing project, consider setting up a Google Doc with minutes and actions by person
 - Once we know when something can be completed by, I can follow up around that time to check in - after all, it should be done.
     - 'Hey I wanted to check in and see if there is an update on X'?
     - 'Hey I am planning my week - do you think progress will be made on X'?
@@ -10,6 +13,9 @@
 - When working on something, block out 15 minutes to go through things - otherwise it won't happen. Asking them over email / Slack is just less effective
 - Follow up - Blocked on stakeholder project: Hey. I currently have an open ticket for X. I am blocked on it because I have a few questions that I sent over on X. Just wanted to see if you saw those. If this project is currently not too of priority, let me know so I’ll deprioritize on my end
 - Follow up - Blocked on data project: Hey we are currently working on the board pack and part of that is ramp. It would be ideal if we could get this in Looker but I am blocked with a few open questions I sent on X. Do you think this could be looked into by you / Tom in the short term or should we plan on doing ramp manually in this board pack?
+- Emails can get lost in a clutter and Slacks get lost too
+    - Email is sent but no reply: follow up on Slack few days after 
+    - Really important: send email and directly follow up in Slack 
 
 ## Scrum
 ### Timeline

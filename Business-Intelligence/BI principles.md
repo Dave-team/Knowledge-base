@@ -93,6 +93,7 @@ Build strong realtionship with the tech and the business teams. The goal is to e
 - Stakeholders should feel ownership over the data they use. If they see issues, it should be communicated with the data team
 - Underpromise and overdeliver. Because of the nature of data it's hard to estimate how long projects will take. Give an estimate that assumes that everything will take longer than plannedand keep the stakeholders in the loop throughout the project
 - Make sure to create understanding that data projects take long and that we need to prioritize what to work on 
+- People want more than is asked for? Mention that wasn’t scoped - for now we focus on smaller scope
 
 
 **Ways to build relationships:**
@@ -122,14 +123,14 @@ Hub and spoke model works well, where some analysts are part of the central data
 
 ### Workload 
 - 60% of time is spent on achieving the OKRs, 40% is spent on ad hoc / exploratory analyses
+- Use a ticketing system and insist anything that takes 30+ minutes is in there. This is to track performance of BI team and to see where the time goes 
+- Add stakeholder teams and owner and any tags to tickets 
 
 ### Sources for work 
 - Communication with the business - both formal and informal that can lead to projects or insights 
 - Being up date on business initivates can spark investigations where data can help. 
 - Explore something that could lead to insights. Look where no one else is looking
 - BI platform optimization - testing, automation, documentation, identify best practices and new tools
-
-
 
 ### Communication
 - Analytics weekly

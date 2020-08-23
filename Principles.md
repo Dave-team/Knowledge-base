@@ -113,6 +113,19 @@ On the day of execution:
     - Power pose in a bathroom and make yourself as big possible 
     - Heavy breathing for a short while
 
+## Happiness and purpose
+Happiness is a state of fullfilment and calm mind. It's the absence of anxiety and fear and a general feeling 
+of satisfaction. 
+
+To achieve this state of calm, it's important to throw away any expectations or grand goals you may have. 
+Striving for the end goal and doing the right thing in the process will distress tranquility. All that matters is here and now. 
+Meaning to life is personal and the key is to be happy in the moment 
+
+Techniques for happiness: 
+- Mindfullness
+- Expressing your feelings (with others, in therapy, in a journal, through art) 
+- Enjoying the little things in life 
+- Having a balance in the six fundamentals in life 
 
 ## General 
 - Build character and get a thicker skin: 
@@ -121,21 +134,34 @@ On the day of execution:
 - Spend time with great people 
     - You are the average of the five people you spend most time with
     - Visualize how others would handle situations and emulate these situations (Naval, Paul G, Jocko)
-- Be more curious in day to day: let your mind wonder and explore. Read more wikipedian, fiction and watch more docus      
+- Become more well rounded (practice curiosity in a great many fields). 
+    - Find and watch interesting documentaries and films: Reddit and Google
+    - Explore more music: Spotify playlists, Reddit, forums
+    - Read fiction and short stories 
+    - Read about lots of different topics 
+    - Watch and learn more about comedians 
+    - Work on projects 
+    - Pick up calming hobbies: puzzles, video games, colouring books, play an instrument, chess 
+    - Dive into Wikipedia
+    - Practice Martial Arts
+    - Practice arts: colouring, sketching
+    - Take walks in inspirational places (museums, nature, new cities)
 - What life is about:
-    - Becoming better at things: in life, try to become good at things you enjoy doing and be experimental. Six month sprints to try to become good at e.g. dancing, boxing, chess, badminton - this will slow time. Same for personal projects
+    - Becoming better at things (and just becoming a better person): in life, try to become good at things you enjoy doing and be experimental. Six month sprints to try to become good at e.g. dancing, boxing, chess, badminton - this will slow time. Same for personal projects
     - Being calm, in the moment and enjoying the little things in life 
     - We don't know what tomorrow will bring which is exciting. And then we'll always aim to make today better than yesterday and face the days with great enthusiasm. 
     - Creating lasting memories with people we love 
     - Family, friends, love, experiences, health, career and other than those, it's the little things: sex, hugs, nice drinks, good food, good books / films, good workouts
 - Be experimental in life: try things and test if they improve my quality of life  
 - Think bigger picture: it’s not about where you are currently; it is about where you are going. By focusing on the bigger picture, you realize your current problem is tiny in the grand scheme of things
+- Even when you are doing everything well and have achieved great things, you may still be lost. If that is the case, go from doing things for yourself to helping others. This is where real fulfillment lies 
 
 ## To live by: 
 - What's important in life: 
     - At some point, life will flash you by. Make sure it is worth watching. 
     - What do you want people to say at your funeral? And who would be there even?
     - You are on your death bed, surrounded by family and loved ones, reflecting on a life well lived. You've lived a long, successful life, and you feel at peace as you look on at your posterity... As you pass on from this this world, you find yourself waking up, surrounded by aliens. One of them asks, "how was the trip, man?"
+    - There is no such thing as enough achievement to then say 'I am now ready to live'. Keep busy with anything other than the fundamental parts of living a good life is just procrastion to living that later will cause regret. 
 - Life is short: 
     - You only live once, but if you do it right, once is enough
     - Life is a test and a game – don’t take things too seriously and have fun - nobody gets out alive anyway
