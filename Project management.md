@@ -73,3 +73,4 @@
 - Be proactive when you're about to miss a deadline
 - Keep a lessons learned document
 - Every project should end with a post mortem: what have we learned? What went well / what could have been done better? 
+- Deliver things that are small and look ahead to see if anything requires per-work early on. This will uncover whether you’ll be blocked or not and it can pre-ampt future actions

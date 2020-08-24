@@ -10,6 +10,8 @@
 - Implement testing at the lowest level so issues don't continue downstream
 - Automate as much as possible 
 - Think about how logic handles edge cases 
+- First build anything that is high priority. Then, over time we just keep adding new things. 
+- Always prioritize pushing projects live that you're working on prior to moving on to the next project 
 
 ### Source data testing
 - Create an initial gap analysis between source and BI data. This includes 
@@ -41,6 +43,12 @@
     - Are there any values that seem incorrect? Nulls, especially high or low values, weird dates etc. 
     - Do we count the same number of rows when we look at the same data in a different table or different environment?
     - Where required, perform unit tests compared to source. Any completely new model should have extensive checks like these - especially for the business cases that are non standard (as outlined in the 'common gotchas' document). 
+- Compare the dashboard pre and post change 
+- Validate changes with audit macros. Compare columns and use the dbt equality utils macro to compare record by record. Consider using dbt helper. Things to compare can include: 
+    - Row count
+    - Sum of key column (e.g. revenue)
+    - Distinct values in column 
+- If a business user is impacted, involve them with the review process
 
 ### BI tool testing
 **Automated tests**
@@ -116,6 +124,36 @@ Solving merge conflicts
 - Are the row counts and min and max values between prod and dev the same or explainable? 
 - Spot check a few values to sanity check the logic of the model  
 - Depending on the changes introduced, stress test these changes and see if anything breaks anywhere. 
+- Never allow untested code to go into production. If you don’t have existing reports to replicate, talk to the end- user and ask about their feelings of the data 
+
+## Project Management
+Flow of tickets: 
+- Create ticket for any task expected to take more than 30 minutes
+  - Tickets should be created as as checklis
+  - Tickets should be tagged to ensure we can track how BI supports the business 
+- Move ticket along its stages (backlog, in progress, in review, done)
+- In review is when the business reviews. Completed is only after business approved functionality 
+- Notify Slack after work is completed 
+
+Business ticket creation:
+- Done in a form with required fields in the project management tool (avoid working from questions posted in e.g. Slack)
+-  
+
+### Prioritization
+- How important is this?
+- Is there a deadline? Here, also try to get to know whether there are dependencies involved 
+- How accurate do you need the answer to be?
+- What type of end result are you looking for?
+- How feasbile is this to be implemented as requested?
+
+## Dashboard management 
+- Make sure WIP is in the dashboard title whilst working on it 
+- When a dashboard has been updated, make a note in the Slack channel to keep people up to date
+- Add a badge to a dashboard when it is approved and actively managed by data team 
+- Track usage of your dashboard. If a dashboard is no longer used, find out why. Find out why they used it, how they get that info now
+- Always make sure dashboards are up to date and relevant. Clean up anything that is no longer relevant or not used
+
+
 
 
 

@@ -21,9 +21,10 @@ Think about BI as if it's a SaaS product and the users are your customers. Appro
 - Code is modular - there should be one version that is used throughout an entire project - data needs to be conformed
 - We work incrementally: 
     - Deliver continiously 
-    - Demonstrate early
+    - Demonstrate early success 
     - Communicate results 
     - Get feedback 
+    - Improve
 
 ## Values
 - Humility. Be humble and nice. Realize we are not the domain expert - the stakeholder is. When we make mistakes, be honest and build a deep of trust. 
@@ -143,8 +144,34 @@ Hub and spoke model works well, where some analysts are part of the central data
         - Allows cross team input
         - More opportunity for review and it can catch errors (‘I have done something similar before with different end results’)
     - Discuss blockers
-- Slack channel
+- BI Slack channel
     - Open channel for anything - it is a safe place to ask questions and discuss shortcomings 
+- BI Business Slack 
+    - Inform about updates to e.g. Looker
+    - Inform about outings
+    - General BI questions 
+- Quarterly check-ins with power users / data champions in each team
+
+### Issue communication 
+**Stakeholder identifies issue**
+First, understand the problem
+
+- Wrong data doesn’t always mean wrong. It’s often just a mismatch between expectation and reality. ‘Wrong’ means a difference between expected and presented or with both, backed up with evidence. 
+- Begin with questions. 
+    - What results would I / you expect to see?
+    - Where would I / you check this number to know it is correct? (i.e., source of truth)
+- This often leads to three different buckets: 
+    - The data is confusing (but not wrong). E.g. the definition of what is measured isn’t very clear. 
+    - There might also be a delay in the data - it’s perhaps not completely recent. Make sure to always include the calculation and the data freshness when communicating with end users 
+    - The stakeholder is using a faulty source to “check” the data (which is not wrong). E.g. different web tools might calculate things differently. It is not wrong, just different and this can be proofed looking at historical differences in the data 
+    - The data really is wrong - this can happen and it’s normal given the complexity involved around data. Our goal is not to prevent all errors from happening, it’s to make sure that errors are small and get caught / resolved quickly 
+
+If there is a problem, we need to go to issue communication
+
+**Issue communication**
+The most efficient way to inform your stakeholders is through the platforms / methods they use to consume the data. If your stakeholders consume the data through an automated report emailed to the team every morning, reply all with an explanation of the issue and the estimated time to resolution. If your stakeholders consume the data through your business intelligence tool, display a warning at the top of business intelligence tool (this is a very effective method of communication, but is not available on many systems). If the issue is severe, send out an email, send out a Slack message and even go round to people to tell them about the issue. It is your duty to ensure stakeholders are aware. 
+
+When you catch a problem and correct it, notify the stakeholders in case they also saw something funny and didn’t mention it, and to demonstrate the pro-active monitoring to build trust.
 
  ## Other
  ### Data readiness
