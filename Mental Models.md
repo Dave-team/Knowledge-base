@@ -55,6 +55,10 @@ Influence of Stress (Including Breaking Points): Stress causes both mental and p
 
 Appeal to authority - You said that because an authority thinks something, it must therefore be true.
 
+Pluralistic Ignorance:  Phenomenon where a group goes along with a norm, even though all of the group members secretly hate it, because each mistakenly believes that the others approve of it.
+
+Subselves: We use different mental processes in different situations, so each of us is not a single character but a collection of different characters, who take turns to commandeer the body depending on the situation. There is an office “you”, a lover “you”, an online “you”, etc.
+
 
 ## Negotiation
 The Third Story — The Third Story is one an impartial observer, such as a mediator, would tell; it’s a version of events both sides can agree on.
@@ -291,6 +295,10 @@ Economies of Scale — The cost advantages that enterprises obtain due to si
 Exit Strategy — A means of leaving one’s current situation, either after a predetermined objective has been achieved, or as a strategy to mitigate failure.
 
 Churn: Churn is present in many business and human systems: A constant figure is periodically lost and must be replaced before any new figures are added over the top.
+
+Peter Principle: People in a hierarchy such as a business or government will be promoted until they suck at their jobs, at which point they will remain where they are. As a result, the world is filled with people who suck at their jobs.
+
+Goodhart’s Law: When a measure becomes a goal, it ceases to become a measure. E.g. British colonialists tried to control snakes in India. They measured progress by number of snakes killed, offering money for snake corpses. People responded by breeding snakes & killing them.
 
 
 ## Economics
@@ -533,3 +541,12 @@ Reactance - You'd rather do the opposite of what someone is trying to make you d
 
 The spotlight effect - You overestimate how much people notice how you look and act.
 
+Causal Reductionism: Things rarely happen for just 1 reason. Usually, outcomes result from many causes conspiring together. But our minds cannot process such a complex arrangement, so we tend to ascribe outcomes to single causes, reducing the web of causality to a mere thread.
+
+Focusing Illusion: Nothing is ever as important as what you’re thinking about while you’re thinking about it. E.g. worrying about a thing makes the thing being worried about seem worse than it is. As Marcus Aurelius observed, “We suffer more often in imagination that in reality.”
+
+Streetlight Effect: People tend to get their information from where it’s easiest to look. E.g. the majority of research uses only the sources that appear on the first page of Google search results, regardless of how factual they are. 
+
+Matthew Principle: Advantage begets advantage, leading to social, economic, and cultural oligopolies. The richer you are the easier it is to get even richer, the more recognition a scientist receives for a discovery the more recognition he’ll receive for future discoveries, etc.
+
+Shifting Baseline Syndrome: Frog says to Fish, “how’s the water?”Fish replies, “what’s water?” We become blind to what we’re familiar with. And since the world is always changing, and we're always getting used to it, we can even become blind to the slow march of catastrophe.

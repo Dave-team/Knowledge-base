@@ -17,6 +17,10 @@ Kindle
 Todoist 
 - All checkbox kind of to-dos 
 - Quick notes that pop up in my mind 
+- Reminders
+- Books to download 
+- List of things to buy
+- Notes to put in journal
 - Great because it seemingly works between macOS and iOS
 
 Google Docs 
@@ -50,6 +54,7 @@ Other productivity tools
 - Things - nice UI but just a simple task manager - pricing is divided between different devices
 - Bear: more of a writing app but it's sync between devices make it great for notes - probably a paid for alternative to Evernote 
 - Notion: could have a homepage with all most important priorities. Would be a good place to host knowledge base for easy access (i.e. apps on mulyiple devices)
+- Google Calendar for reminders and events. 
 
 ## Writing 
 Text Editor 
@@ -58,6 +63,10 @@ Text Editor
   - Show Preview (right upper side icons)
 - Sublime Text for other long form notes that are git compatible. Prefer to not mix Knowledge Base with other content 
 - Other options: Atom, Typora, Zettlr, IA Writer 
+
+## Backups
+- Important docs: local machine, Github, markdown stored in Drive, backup on harddrive
+- Photos: top photos stored in local machine, Google Drive, backup on hard drive
 
 ### Reading
 - PDFs:
@@ -90,6 +99,7 @@ Text Editor
 - Colour 
 - Darkmode / light app: Nightowl
 - Change colour scheme: Midnight Lizard 
+- Articles to read are saved in Chrome bookmarks that sync between work and private
 
 ### Media 
 Media Center 

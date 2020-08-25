@@ -20,7 +20,6 @@
 - When circles have formed, look for the circles with the people you engaged with earlier during the event. Another option is to seek out 1 or 2 people who aren’t really engaged in the conversation and start your own circle that way 
 - Make it easy for other people to jump in the conversation. Make a small hole in the circle and once people come by and stand there, introduce yourself. 
 
-
 ### Conversation
 - Potential starters: 
     - What brings you here?

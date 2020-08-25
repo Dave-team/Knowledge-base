@@ -149,7 +149,6 @@ This is important because:
 - In the last six months, have I talked to someone about my progress?
 - This last year, have I had opportunities at work to learn and grow?
 
-
 ## Phrases
 - What I would do is
 - If you know of a better way then let me know - I’m sure what we have is not perfect

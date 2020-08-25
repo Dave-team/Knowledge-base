@@ -19,6 +19,7 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 - Always be present - separate work stress from private time
 - Show that you care 
 - Do fun things and take initiative here  
+- Communicate feelings 
 
 ### Friends
 - Meet at least 1 friend a week 
@@ -29,16 +30,18 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 
 ### Health
 - Physical activity: Extremely fit: flexible, strong endurance, speed and strength
-- Heathy diet: Eat healthy and drinks lots of water 
+- Heathy diet: Eat healthy and drinks lots of water. Take supplements and eat lots of fruits and veg. Cook meals fresh as much as possible  
 - Get good quality sleep
 - Take care of appearance/body/skin and hygiene 
-- Appearance with strong body language and voice
+- Good ergonomic posture and general confident body language 
+- Mental health: strong self awareness (e.g. through journalling and reflecting on life) and meditation 
 
 ### Career
 - Be enthusiastic and energetic around creating impact
 - Embrace the challenges with confidence and optimism 
 - Be resourceful, solution oriented and curious
 - Build meaningful relationships 
+- Be social. Show interest and want to get to know others and also allow them to get to know me 
 
 ### Experiences 
 - Travel
@@ -61,10 +64,11 @@ Mornings
 - Meditate
 - Stretch session / Workout
 - Breathing excercise 
+- Take supplements
+- Skincare routine
 - Journal
 - Learn from knowledge base
 - Work: review goals for the day
-
 
 Nights 
 - Work: set goals for the next day
@@ -114,8 +118,7 @@ On the day of execution:
     - Heavy breathing for a short while
 
 ## Happiness and purpose
-Happiness is a state of fullfilment and calm mind. It's the absence of anxiety and fear and a general feeling 
-of satisfaction. 
+Happiness is a state of fullfilment and calm mind. It's the absence of anxiety and fear and a general feeling of satisfaction. 
 
 To achieve this state of calm, it's important to throw away any expectations or grand goals you may have. 
 Striving for the end goal and doing the right thing in the process will distress tranquility. All that matters is here and now. 

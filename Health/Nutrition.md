@@ -14,7 +14,6 @@
 - Matcha
 - Limit coffee (Heavy cream and MCT oil in morning coffee)
 
-
 ## Pre and post workout 
 30 minutes before workout: 30 grams of high GI carbs, 30 grams of fast digesting protein (e.g. whey). Carbs for energy and triggers insulin which counteracts cortisol and increases blood flow to muscles and protein synthesis. Protein will get amino acids into blood stream, available for repair as you start breaking down muscle by lifting weights. 
 
@@ -44,6 +43,7 @@ Nuts, seeds, oils (olive, sesame, flax seed, and others), animal fat (e.g. steak
 **Fibre**: bread, beans, bananas, onions, oats, and broccoli.
 **Vitamins**: eggs, liver, oil from fish, some fruits and vegetables, supplements 
 **Minerals**: Salt, calcium, iron, aluminium, supplements, spinach 
+**Other superfoods** Turmeric
 
 ## Nutrition principles by goal
 There’s three goals: bulking, cutting and maintaining. Best practice generally for gaining muscle mass is to bulk till you are a bit bigger than you want and then cut as here you’ll lose some size. 

@@ -41,7 +41,8 @@ I’d like to have a more calm mind and more optimism and confidence that things
     - If this doesn't flow/work, realize its okay to realize I'm more queiet in social group settings 
 - I sometimes feel like missing out on life experiences such as weddings because of a limited social circle. 
 
-
+### Privileged
+Extremely lucky being white male and grew up in Netheralnds. Worst thing that can happen isn’t that bad - could always go back to Netherlands
 
 ### Minimalism
 - I know that watches (or any materialistic things for that matter) ultimately won't bring happiness. They are a risk to keep for theft or damage, they need to be serviced, the search for watches is time consuming that perhaps could be better spent elsewhere. It's a constant race to reach the next thing  

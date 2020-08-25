@@ -118,7 +118,6 @@
     - Learn how to unblock yourself in the future by learning new ways of thinking 
 - If you're stuck when debugging a problem, think about all the assumptions you're making, and then test each one of them, no matter how obvious.
 
-
 **Helpful tactics**
 - Scoring model when evaluation larger decisions. Also called a decision matrix where we list options, score/weight and then rank them 
 - Pros and cons 

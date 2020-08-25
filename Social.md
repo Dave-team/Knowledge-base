@@ -17,10 +17,6 @@
 - Thank people for the impact they’ve had on your life: teachers, early managers. Track them down and write a genuine note
 - Remember peoples names and make you note when you find out their name. Then study to not forget
 
-## Being social at work
-
-
-
 ## Conversations
 - A good conversation consists of: 
     - Asking each other questions - be curious about the other

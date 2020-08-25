@@ -51,10 +51,6 @@
 - 'I imagine you’re all over this but wanted to double check'
 - 'They haven’t yet had a response and because we’re looking to move quite quickly in terms of finalising the set up, I wonder if you are able to give the integration team a nudge on our behalf?  I’ve attached the queries that Joe has for ease of reference – anything you can do would be much appreciated.'
 
-
-
-
-
 ## Other
 - Use STAR approach (Situation, Task, Approach, Result)
 - Take time before speaking to think things through. 
