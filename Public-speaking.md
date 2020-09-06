@@ -11,6 +11,7 @@
 - When you use memes, reference them to actually make it funny 
 - A good is where the audience learns something new or comes away with a change in perspective 
 - Focus on the value you're bring to the audience. Rather than providing your credibility, articulate a questions they'd love to have an answer to. 
+- Take every opportunity to speak in public 
 
 ## Slides
 - Only use slides that provide value
@@ -36,8 +37,8 @@
 - First, write down the high level outline - the high level story you want to tell 
 - Then write out the entire presentation 
 - Practice: 
-    - First practice until you can present a coherent story with the main points
-    - Then record yourself
+    - First practice until you can present a coherent story with the main points. Each time, focus on thibngs you could improve
+    - Then record yourself and practice in front of a mirror 
     - Then do a dry run in front of others. Ask them what they got out of it. If not much, back to drawing board  
     - Constantly reiterate and improve during this process
 - Create cue cards 
@@ -46,6 +47,7 @@
     - Where will I stand
     - Will I have a microphone
     - How large is the audience? 
+    - What tools will be avaiable - make sure to test with those tools
 
 ## Presenting
 - Use cue cards
@@ -90,6 +92,9 @@
 ## Dealing with nerves
 - Similar to the notes in principles but some additions below
 - The audience will never be aware of the things you’re doing wrong 
+- Visualize giving the talk
+- Realize it's okay to be nervous. Being anxious about being nervous will only make things worse
+- People are wrapped up in their own lives far too much anyway
 - When nervous, think not of yourself. Instead, think of the audience. Focus on what they will experience - you are not important in this. The goal of your talk is to give something useful to your audience. E.g. a perspective, new idea, a refreshing explanation, tips, new insights? After the talk, the audience should come away with something they didn't have before. 
 - Over time, I will be established as an authority and need to speak frequently both at the company as well as larger events – each presentation is small compared to the next. And at each presentation I am representing my own brand
 - Focus on the fact that you want to give value to the audience – that is the main goal of me talking – the audience needs to come out smarter. They don’t actually care about the presentation in and off itself 

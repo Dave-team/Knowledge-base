@@ -102,12 +102,17 @@ Monthly
 - Evaluate how others do it and try to emulate this 
 - Prepare well in advance 
 - Visualize doing it succesfully in the way you'd idealize it. 
+- Use affirmations to convince yourself that you can do it 
 - Bring it back to the person you want to be and realize that is just another step to getting there. 
 - Depending on the situation:
     - Be grateful for the opportunity
     - Realize it needs to be done and there is no other option 
 - Realize that it matters now, not in the future
 - This too, shall pass. I had many struggles before and it all turned out fine. 
+- Think about the situation in the grand scheme of things: 
+  - Most things don't matter
+  - What is the worst that could happen
+  - 
 
 On the day of execution: 
 - Stay focused on other goals before the moment
@@ -158,6 +163,7 @@ Techniques for happiness:
 - Be experimental in life: try things and test if they improve my quality of life  
 - Think bigger picture: it’s not about where you are currently; it is about where you are going. By focusing on the bigger picture, you realize your current problem is tiny in the grand scheme of things
 - Even when you are doing everything well and have achieved great things, you may still be lost. If that is the case, go from doing things for yourself to helping others. This is where real fulfillment lies 
+- Be able to switch mindset and focus depending on the surrounding. I.e. never taking my shit to places where it shouldn’t be – collect your headaches and shift the right gears
 
 ## To live by: 
 - What's important in life: 

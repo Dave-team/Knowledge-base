@@ -6,6 +6,7 @@
 - Much of your carbs intake should come before and after training. Do not eat carbs before bed. The insulin created by the body to process and absorb carbs eaten stops the use of fat as an energy source, as well as hindering the production of growth hormone. Fats can be consumed throughout the day. 
 - Cheat meals can speed up metabolic rate and should be kept to 1 or 2 per week. 
 - 1 g of protein = 4 kcal. 1 g of carbs = 4 kcal. 1 g of fat = 9 kcal 
+- Consider getting tested for food allergies 
 
 ## Drinks
 - Lots of water

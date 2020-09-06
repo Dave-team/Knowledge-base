@@ -16,8 +16,21 @@
 - Emails can get lost in a clutter and Slacks get lost too
     - Email is sent but no reply: follow up on Slack few days after 
     - Really important: send email and directly follow up in Slack 
+- A big part of the job is managing expectation. You have responsibilities but so do their team. Make sure this is clearly defined. 
 
 ## Scrum
+The most popular project management methodology that follows agile principles. 
+Here is how it works: 
+1. Backlog refinement / backlog grooming: look at the backlog of tasks / projects and prioritize these. 
+2. Sprint Planning Meeting: plan the next two week sprint. This is making sure the tasks get estimated properly (based on effort) and assigned an owner to fulfil the requirements within the sprint. The requirements are often defined as user stories. 
+3. Daily Scrum Meetings: Daily meetings to discuss what is done, what will be done and any blockers. An alternative approach is:
+- Did anyone work on this item yesterday? Did anyone managed to push it closer to Done?
+- Will anyone work on this item today? Will anyone push it closer to Done?
+- Does anyone see anything blocking this item? Do we all think it's still feasible to get it done by the end of the Sprint?
+4. Sprint Review: Goal here is that the individual tasks have been presented and are approved by the various stakeholders. Scrum is about constant development, releasing quickly and getting feedback quickly 
+5. Sprint Retrospective: After a sprint is completed, review it: what has been completed, how did it go, what are the next steps and what can be done better? 
+
+
 ### Timeline
 - Wednesday sprint start
 - 2nd Tuesday - Midpoint: Any issues that are at risk of slipping from the milestone must be raised by the assignee
@@ -43,7 +56,7 @@
 - Regularly bring in stakeholders to review the backlog priorities. 
 - The backlog is always closely linked to the data roadmap based on business priorities 
 - Have a rough indication of priority per ticket in the backlog
-
+- The ticketing tool is always the single source of truth for all projects/tasks you're working on 
 
 ### Best practices
 - Apply scrum loosely: 
@@ -57,7 +70,7 @@
     - Write next AC for a subsequent story 
 - The most important thing is generating valuable work, and whatever process you use should be subordinate to that goal. To the extent the process helps you generate valuable work, you should use it, and to the extent that it distracts you from that prime directive, you should adjust it!
 - Tickets can still be deprioritized during the sprint: ill defined tickets or technically not feasible, internal data team work is priority, lack of resources 
-- Agile approach: 
+- Agile is a set of values and principles around how to develop software. It's iterative project maanagement where a big project is split into smaller tasks and each task is delivered continiously: 
     - Do analysis – what should be built 
     - Design that solution
     - Write code and testing. These 3 steps make up one iteration
@@ -74,3 +87,36 @@
 - Keep a lessons learned document
 - Every project should end with a post mortem: what have we learned? What went well / what could have been done better? 
 - Deliver things that are small and look ahead to see if anything requires per-work early on. This will uncover whether you’ll be blocked or not and it can pre-ampt future actions
+- Always ask yourself: what if the project failed. Please explain in 5-10 minutes how we would look back on it. This will really help seeing the identified and unidentified risks
+- If we had to actually complete this in two weeks, what would our approach be?
+
+## Project approach
+1. Define the problem
+2. Get the requirements (what do we need) in a requirements document. Split this between functional (what it should do) and non functional requirements (how it needs to be done). Requirements should be: 
+- Clear
+- Complete
+- Concise
+- Achievable
+- Unambiguous (more people shouldn’t be able to interpret the requirements differently)
+- Verifiable (include measurable goals)
+- Prioritized 
+3. Feasibility study (can we do it)
+4. Develop a business case (should we do it)
+5. Set up a kick-off meeting: 
+- What are our goals for this project? (aka purpose)
+- Who are the stakeholders, and how to best get them involved?
+- What deadlines do we have to meet?
+- What roles will team members play? Does everyone know their role?
+- Have expectations been set clearly for everyone involved?
+6. Develop a charter. Goals / objectives, scope, approach, stakeholders, risks, constraints, acceptance criteria etc. 
+7. Create a project plan with specific tasks, efforts, dependencies. This can be as simple as a Gantt chart with clear owners. 
+8. Execution: From this plan, start with the priorities in scrum – kept within a PM tool
+9. Meet daily with the key stakeholders for catch-ups on progress and update PM tool 
+10. Meet weekly with business stakeholders to update and change course where need be  
+11. Keep an issues log / lessons learned document
+12.	Testing / customer acceptance 
+13.	Closure of the project
+14.	Review: what have we learned? What went well / what could have been done better? 
+
+## Kanban
+Kanban is an agile methodology – things are separated by Backlog – In Progress and Done. It is about doing incremental development but unlike scrum, it focused on less meetings and less on deadlines. The Kanban cards should be users stories with a checklist to sign things off. The cards are ordered in terms of priority 

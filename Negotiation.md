@@ -5,7 +5,7 @@
 - If you don't like the agreement, simply back off. 'We’d love to do business with you but this deal is just not for us. Let’s get together on something else later'
 - Give and take: we reciprociate each other. Try to get what matters most and give what matters least 
 - Never take on any problems and transfer as many problems as possible to their side
-- Always ask for more than you expect 
+- Always ask for more than you expect - you can always lower afterwards 
 - Never agree with a first offer / never say yes the first time around
 - When asked for a concession, always ask for something in return
 - Play good cop bad cop – someone really excited and then someone who is really struggling with the pricing 
@@ -16,11 +16,17 @@
 - Always double check anything in writing, especially contracts. Often, it is not actually the same as what you both agreed upon 
 - When someone says no: what about this doesn’t work for you? Or it seems like something is bothering you
 - Always get everything in writing 
+- If you don’t come to an agreement about something, set the issue aside and go on to another topic
+- Always keep the north star in mind (what is it that we are really after) 
+- When given a no, dig deeper for the why. what about this doesn’t work for you? Or it seems like something is bothering you
+- Always understand pricing structure as this can be used to your advantage. 
+- If you can’t negotiate on price, negotiate on something else: free period, different payment terms, etc. 
+- Work in terms of percentage discounts. E.g. they give a quote below the list price. Figure out what percentage discount that this (e.g. 30%) and then set aims as to how much you’re willing to pay. In this case, aim for 40% discount so say the number that represents that percentage discount
 
 ## Process
 Preparation
 - Understand first what the other party wants. Put yourself in their shoes
-- Establish a clear agenda prior to the agenda 
+- Establish a clear agenda prior to the meeting 
 - Anticipate what questions might pop up 
 - Know your goals and best, expected and worst outcome for the negotiation
 - Establish a walk away point 
@@ -47,6 +53,7 @@ Meeting
     - New 'logo' for their client base - perhaps a new industry or vertical for them
     - Promise to provide a case study
     - Ability to sign a longer term contract
+    - Can sign quickly
 - Practical tips:
     - Mention your total budget and that you need to fit in that budget for things to work
     - Negotiate deals at month end / quarter end to get good deals 

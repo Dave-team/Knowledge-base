@@ -109,6 +109,7 @@ Media Center
 Youtube 
 - Subscribe to channels
 - Create playlists with videos to watch later 
+  - Add playlists for high potential channels I subscribed to. Add past videos to this playlist 
 
 Torrents
 - Popcorn Time works great e.g. on laptop and maybe to test whether I like films / series / documentaries. Always make sure VPN is enabled. 
@@ -147,7 +148,12 @@ Reddit
 - We can see what we upvoted 
 - We can track our posts and comments 
 - Sort saved items by subreddit using https://updoot.app/app
+- Rather than using Google to search Reddit, consider searching within Reddit as well 
 
+Twitter
+- To save a Tweet to be read later, make it a bookmark
+- Use Twitter list: group accounts by a topic in a list to better organize Twitter timelines. Interesting here is that we can follow lists created by others as well. See lists / topics that others follow by going on their account page 
+- Use Twitter search to find out more about topics. E.g. 'books' or 'Naval + meditation' or 'mental models'. Use Advanced Search to narrow down the results as the default algorithm for selecting top Tweets isn't great 
 
 
 

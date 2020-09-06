@@ -16,6 +16,7 @@
 - Do we have something similar already that might do the same thing?
 - Can we do it better (more efficient, less costs, simpler)
 - Can we do something else? Always be ready to elaborate on different approaches you considered
+- What would this look like it it were easy? 
 - Especially when deeply involved in a project, take these steps back and look at the issue holistically 
 - What are the risks involved and how can we mitigate those? Think about
     - Known-knowns: project scope and requirements
@@ -25,7 +26,7 @@
 - Think about second and subsequent order effects. 
     - What is involved with this decision 
     - How do these things interact? 
-    - What effects will the decision have? Think about what might happen if I were wrong
+    - What effects will the decision have? Think about what might happen if I were wrong. Think about how this would impact different parties 
     - What are the consequences of this decisions in 10 minutes, 10 months, 10 years 
 - Check in with others to stress test your thinking and see if there is a better way. Get feedback early and often. Socialising your work will help you refine, develop, and evangelise it. Don't overthink things - ask for help instead
 - Remember that I don't need to solve all problems. Often, the problem should be handed to someone else.  
@@ -46,34 +47,38 @@
 - Always consider alternative ways of doing things. Your solution is one way - how else could it be done? 
 - ‘You are not entitled to take a view, unless and until you can argue better against that view than the smartest guy who holds that opposite view.'
 - Socratic questioning
-    - Clarification – "What do you mean by...?"
-    - Probing assumptions – "What could we assume instead?"
-    - Probing reasons/evidence – "Why do you think this is true?"
-    - Implications and consequences – "What effect would that have?"
-    - Different viewpoints – "What would be an alternative?"
-    - Questioning the original question – "What was the point of this question?"
+    - Clarification – "What do you mean by...?". Clarifying your thinking and explaining the origins of your ideas (Why do I think this? What exactly do I think?)
+    - Probing assumptions – "What could we assume instead?". Challenging assumptions (How do I know this is true? What if I thought the opposite?)
+    - Probing reasons/evidence – "Why do you think this is true?". Looking for evidence (How can I back this up? What are the sources?)
+    - Implications and consequences – "What effect would that have?". Examining consequences and implications (What if I am wrong? What are the consequences if I am?)
+    - Different viewpoints – "What would be an alternative?". Considering alternative perspectives (What might others think? How do I know I am correct?)
+    - Questioning the original question – "What was the point of this question?" Questioning the original questions (Why did I think that? Was I correct? What conclusions can I draw from the reasoning process?)
 
 ## Think structured
 - Break down your thinking into small pieces and map it out. Clarify your own thinking by putting it into writing
     - What do I think, exactly?
     - Why do I think that?  
 - Reverse engineer by starting with the end in mind 
-- Think from first principles. What do we know to be absolutely true and then reason from there. This is very hard as we're taught to reason from convention. 
+- Think from first principles. What do we know to be absolutely true and then reason from there. This is very hard as we're taught to reason from convention / by analogy. 
 - Solve each step prior to moving on to the next 
 - Map or draw out the situation for better understanding
 - Think through problems together with others 
 - Type out your thoughts process to help improve and structure thoughts 
 - What did I ignore or didn't pay attention to? 
 
-
 ## Think inside their shoes
 - What might be their reason for doing things? 
 - Always assume that fundamentally, people want to help and assume the best from people. If they don’t get back to you, who knows what might have happened? You don’t control them and they’ll always do what they want 
+- What else might this mean?
 
 ## Meetings
 **Running meetings**
 - Define clear objectives before any meeting and make sure the right people are attending 
 - Create an agenda and share it within the team attending the meeting
+  - Date 
+  - Invites
+  - Topics
+  - AOB
 - Have an ending time for any meeting, to avoid off-topics
 - Pre meeting: brief about the goal, agenda
 - Tips to host a good meeting: 
@@ -86,6 +91,16 @@
 - Thank the participants 
 - Send a follow-up e-mail, with a summary and especially action items specifically outlined (who, what, when) and SMART
 - Start the next meeting with the action items of last meeting
+- Minutes: 
+  - Date
+  - Invites
+  - Previous To-Dos 
+  - New To-Dos
+  - Meeting notes 
+  - Consider the RAID method: Risks, Actions, Issues, Decisions
+  - Consider taking minutes during the meeting whilst everyone can see what is being typed 
+  - When a meeting is longer or more complicated, ask two other to also take notes so you have a backup for when you are busy interacting with others
+
 
 **Prep for meeting set by others**
 - What is the goal? Why are we doing this? 
@@ -105,11 +120,13 @@
 - Think about the real problem to solve. This is can be different from what others say - don't just parrot people.
 - Understand how important it is - "How important is this, really?" 
 - Do we have the solution or something similar from the past already? 
+- Is there a different way of doing it? 
 - Scientific method. Why are hypotheses for an issue? Then try the most obvious potential reasons first and see if it works. Narrow the list of hypothesis down as fast as possible. Think if I can fix it before asking others or before thinking it can’t be done. 
 - When dealing with a hard problem, let it be and sleep on it to get support from the subconscious mind. It's the 'obsess and let go strategy'. Work intensely on problem and if there's no progress, let go and do something else to switch the context.   
 - If there's time, solve a problem multiple ways and se what works best 
 - Do not ever forget to know your reasons for why you made a decision. Every time you make a decision, write down your reasons for the decision. Document the underlying thoughts
 - Think about your mistakes: what could you have done differently? What were the signs that you got in that situation?
+- Only focus on making the most important decisions, don't spend much time on trivial decisions - reduce as many trivial choices as possible 
 - Talk about the problem with others - things can bring in new perspectives that help getting unstuck. Even consider rubber duck debugging. This can help: 
     - Fresh perspective that you probably wouldn't have gotten by just thinking for yourself
     - Learn something new: how would someone else solve the problem you're having? How is their thinking different from yours?
@@ -117,10 +134,12 @@
     - Build relationships with teammates 
     - Learn how to unblock yourself in the future by learning new ways of thinking 
 - If you're stuck when debugging a problem, think about all the assumptions you're making, and then test each one of them, no matter how obvious.
+- When stuck, take a step back and look at the situation from multiple angels. Realize you might be stuck on a solution and need to think more holistically about the problem 
 
 **Helpful tactics**
 - Scoring model when evaluation larger decisions. Also called a decision matrix where we list options, score/weight and then rank them 
 - Pros and cons 
+- Brainstorming sessions 
 - Costs benefits analysis 
 - 5 whys
 - Best / Expected / Worst outcome scenario planning
@@ -155,3 +174,6 @@
 - Give lots of honest feedback
 - Force yourself to slow done before diving into a project. Do research, make sure you understand the problem deeply and document learnings you create for future references. Build mental maps and think ahead. 
 - Don't get stuck in a rabbit hole though - focus on a broad generalized concept understanding. When in a rabbit hole, recognise your position. Take a step back. Realize that what you’re obsessed about probably doesn’t matter and then move on
+- Under promise and over deliver
+- Always confirm things in writing 
+- Make use of issue logs and post mortems in projects 

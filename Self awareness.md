@@ -5,6 +5,7 @@
     - What do I want out of life?
     - What do I value in life? 
 - Keep good memories close to you 
+- Have the ability to answer tough live questions. What’s you earliest childhood memory? Biggest failure? What are your parents like? Most emotional moment? Most happy/ proud moment? Etc.
 
 ## Findings 
 ### Action over content consumption

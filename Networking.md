@@ -42,6 +42,7 @@
     - For example you found a job, reach out and thank them. 
     - Ask them if they know anyone else that might know about the topic and are worth chatting with. 
     - Ask what you can do for them
+    - What you can do if e.g. give a recommendation of a book/article, or an introduction to someone in your network 
 
 ### Templates
 Hi XXX, I am building out an Analytics team and would love to chat with you to learn about how you’ve gone about building your team at YYY company. I can imagine you have similar challenges (e.g., interfacing with stakeholders and deciding on the generalist vs specialist model). Happy to work around your schedule and come to you. Let me know when works best.

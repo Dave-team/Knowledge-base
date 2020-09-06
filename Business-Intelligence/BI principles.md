@@ -111,6 +111,12 @@ Build strong realtionship with the tech and the business teams. The goal is to e
 **Evangelize - always evangelize**
 Sell your work – have a pitch ready at all times. Explain the value of data and what we’re working on. Once we build something useful, share with others who might benefit from this data too 
 
+From: “I am helping teams reaching their objectives by making using their data”. To: “Most teams are currently struggling with their analytics. The data sits in Google Sheets, doing the analysis is taking a lot of time and most teams are not currently getting the most value from their analysis. What I will help you with is getting a centralized solution in place, that combines the data from the various source systems. All your reports will then sit in a BI tool that gets automatically updated. The benefits include:
+- You can analyse more things as we bring various sources together and we can combine data from these sources
+- Creating your reports goes from hours to seconds 
+- Because it’s centralized, there won’t be any differences between definitions and calculations, meaning that teams won’t be reporting on different numbers for the same things. Practical introductions to new company:
+
+
 ## BI team 
 ### Organization
 Hub and spoke model works well, where some analysts are part of the central data team (hub) while others are embedded (spoke) or distributed (spoke) throughout the organization.

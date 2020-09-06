@@ -6,6 +6,7 @@
 - Invest in a global equity fund for the long term - remember compound interest 
 - Ideally, find ways to generate passive income
 - Pay yourself first: make sure to allocate assets when money comes in before using the money to spend on other things
+- Make sure to make full use of the ISA allowance of £20,000 annualy to avoid paying tax on investments
 
 ## Locations 
 - Running account: 
@@ -18,7 +19,7 @@
 
 ## Asset allocation
 - £15,000 in emergency fund 
-- £500 a month into investments
+- £500 a month into investments (global equity tracker)
     - £400 in Developed World ex UK each month
     - £100 in Vanguard ISA each each
     - When £500 in ISA: put into FTSE UK All Shares / Emerging Markets funds  

@@ -16,17 +16,20 @@
 - When going to a social event, make it worthwhile or don't go at all 
 - Thank people for the impact they’ve had on your life: teachers, early managers. Track them down and write a genuine note
 - Remember peoples names and make you note when you find out their name. Then study to not forget
+- Everybody is either a poetntial friend or we can help one another out in some way 
 
 ## Conversations
 - A good conversation consists of: 
     - Asking each other questions - be curious about the other
     - Exchanging stories and saying interesting things 
+    - Flow in conversation: give an invitation to speak = ask an interesting question. Give inspiration to speak = tell something interesting yourself
 - Keep a converstion going by making statements that allow someone else to jump in and continue the conversation. Of course this also works the other way where I jump on a hook in the conversation
 - Use the other person's name during a conversation 
 - It doesn’t matter what you say, just have something to add in a conversation. It’s about adding value to a group convo. If you don’t, you’re invincible. Work on being more creative to then come up with more things to say 
 - Good questions to ask: 
     - What have you been thinking about recently? 
     - What interesting things have you done or seen recently? 
+- Always be prepared to answer the ‘what about you?’ question
 
 ## Making friends
 - Go to places you enjoy being. This is where you'll meet like minded people
@@ -38,8 +41,10 @@
 
 ## Friendships 
 - We should be vulnerable: open to discuss our issues and allow others to support us. This will help establish trust
-- Don’t give unsolicited advice. Realize that people are not waiting for your advice until they ask for it - understand them instead
+- Don’t give unsolicited advice. Realize that people are not waiting for your advice until they ask for it - understand them instead. Just be there for them. Instead: that must be horrible. It reminds me of when (vulnerable, how did it make you feel and make sound smaller than their issue). Then: what are you doing about it?
 - Surround yourself with people with good values - you are the average of the people you spend most time with 
+- Friendships are about being there for others but most defintely also about allowing others to be there for us. Be open to receive the love
+- Great friendships could come from couple friends
 
 ## Relationships
 - A good relationship is about being there for them when they need us. Be understanding and let them share their emotions. A good relationship is bonding on an emotional level. The ideal is when you are part of the other person reaching their goals 
@@ -86,5 +91,6 @@
 - Look after yourself 
 - Fit
 - Know how to deal with people and make people feel good 
+- Sharing my feelings and being honest and open in communication 
 
 

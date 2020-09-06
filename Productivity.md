@@ -11,6 +11,7 @@
 - Being productive is about optimizing time to spend more time on things you enjoy doing 
 - Consider time boxing what you're working on to avoid situations where you spent too much time 
 - Write down your most important goals and regularly check against these notes to ensure you're working on the most important thing 
+- Listen to your body: there will be times when you feel low energy - pushing through this is likely counterproductive. Instead, recharge and realize you can be productive again a different time 
 
 ## Process
 - Planning in the morning: 
@@ -22,11 +23,12 @@
     - Do things based on your energy levels - do the hardest things early in the morning 
     - Finish a task completely prior to moving on to the next task 
     - Eliminate distractions
+    - Actions to perform from email are left unread and put in to do list
 - Reflect on performance at the end of each day and set goals for the next day (3 things max)
 
 ## Techniques
 - Deep work: work in chunks of time without interruption
-- Pomodoro technique: work for 25 minutes and then take 5 minutes break  
+- Pomodoro technique: work for 25 minutes and then take 5 minutes break - do something completely different in these breaks  
 - Plan your time: 
     - Plan your days in Google Calendar. This is your ideal week
     - Record how you actually spent your time
@@ -86,3 +88,5 @@
 
 ### Other
 - Make the bed each morning to set a good start of the day
+
+![Productivity Matrix](https://user-images.githubusercontent.com/28791247/92321110-432e9480-f01f-11ea-910f-3198f8b87add.png)

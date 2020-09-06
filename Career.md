@@ -32,12 +32,14 @@
 - Building initial relationships that help establish credibility 
     - Meet with key stakeholders and take initiative here. Build relationships accross the entire organization  
     - Discuss who you are, the value and goals you represent, your style and how you plan to conduct business. 
+    - Prepare the agenda and get to know their objectives, processes and goals. 
     - First impressions are important 
     - Use an org chart to help familiraize with the company 
 - Promote yourself. Have a goal in mind around how you'd like to be perceived. This includes having a pitch 
-- When starting a new role, first understand why things are done a certain way. Only then consider whether the business would be positively impacted by a change  
+- When starting a new role, first understand why things are done a certain way. Only then consider whether the business would be positively impacted by a change. Don’t come in and change things because you have seen something done a certain way in the past. Rather, learn about the current processes long enough to identify its pains and strengths. Then work with the team to evaluate whether change is required. This will massively increase credibility. Really stop and listen to what is happening and go on the learning curve as quickly as possible. Potentially make a learning plan for this. Ask ‘how did you get to this point’? Why are things done this way? Are these reasons still valid? Are things changing such that we might need to change to meet current requirements?   
 - Get a good understanding of the most important metrics used in the business 
 - Understand the roadmap
+- Become very familiar with the tools 
 
 ## Pitch example
 Intro to company: 
@@ -62,16 +64,18 @@ To: “Most teams are currently struggling with their analytics. The data sits i
 - What you’re negotiating for is a total compensation package, consisting of base salary, equity, signing bonus, and annual bonus (and benefits). 
 - In the negotiation, make sure to keep emphasizing how happy you are to be have the opportunity to join the company 
 - Know your desired, expected and minimal amount you'd be willing to accept 
+- After given an offer, mention that you need more time and will respond with an email 
+- Be willing to walk away. Mention that you're still ikn talks with other companies and would only consider the role if the package is met 
 
 ### Negotiation tactics
-- Don't give them your salary: 
+- Don't give them your salary (it gives them a benchmark that's too easy): 
     - A previous salary isn't representative of current skills 
     - Salary indications on website: write N/A
     - When asked for expectations clarify that you want to make sure there is a mutual fit first 
     - If they insists: “From my research and past experience, my understanding is a base salary of $95k to $120k is standard, but I’m most interested in the fit with the position and overall compensation package.”
 - When you get a reasonable offer, add 10% (no specific reason why you’re the one) to 20% (there is a reason why you’re the one) higher
 - Take time to think about the offer and say that a second person is involved to decide with (e.g. family / spouse)
--	The easiest way to negotiate is to have competing offers from multiple companies
+- The easiest way to negotiate is to have competing offers from multiple companies
 
 ### Templates 
 **Expected salary**
@@ -147,3 +151,17 @@ Work specific
 - Don't assume you know the logic behind things when the logic isn't on the lowest level. Instead, verify. 
 - Only ask questions when you can’t figure out something yourself. Default should be to be investigative yourself
 - Don’t be upset about what others say just because they say something have the confidence to stick through your plan and only when you’re stuck ask for help . If something will take considerate time or you're not completely sure, sense check your approach
+
+## Aanounce your work / seel your projects
+- Explain the goals (why is this gonna be awesome?)
+- Explain who’s affected by the project
+- Maybe talk about the risks a little
+- Talk a little about timelines
+
+A few reasons announcing plans is useful:
+- Everyone else is trying to plan their work all the time. If I announce what I’m planning, that helps people who are working on related projects! For example, my team just announced a project that interacts a lot with another team’s work, so that team is going to allocate someone to work on it!
+- If we advertise a plan maybe someone will notice an important problem with it and tell us!
+- Writing a plan forces your clarify your goals
+- Communicating clear plans helps management… manage.
+- I think announcing ambitious plans can help kind of.. inspire the people around you? Like I sometimes see that someone else is kicking off a Very Important Project and I think, wow, that’s really cool, maybe we can do something cool like that.
+- It’s exciting to see people starting and finishing projects, like it creates momentum for the whole company if everyone talks about what they’re doing!

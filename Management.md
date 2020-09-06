@@ -52,11 +52,13 @@ This is how we track the progress across the team and it's how team time spend i
     - His answer might not be directly related, however it often sets off a chain of conversation that often does lead to creative answers.
 
 ## Servant leadership 
+- You are at the service or your team and your sole objective is to make the team perform well. 
 - Protect them from politics 
 - Make sure they don't get distracted
 - Unblock them 
 - Ask them how you can help
 - You’re a facilitator, not a doer
+- Always be available to your team
     
 ## Difficult conversations
 - Have difficult conversations in person and stick to the facts 
@@ -73,6 +75,7 @@ This is how we track the progress across the team and it's how team time spend i
 - Praise people often and recognize people's good work. Praise them publicly and in front of other senior people 
 - Give little criticism. When you do give critisism, be honest and specific and work towards improvements 
 - Create a culture where any feedback is welcome by and from everyone in the business 
+- When giving feedback, make it specific and constructive.
 - Performance reviews: 
     - Be specific about their strenghts and how this has helped in practice 
     - Talk about impact. Why is this person’s work important to the organization? Did they do an especially good job on a specific project they worked on?
@@ -126,14 +129,28 @@ This is important because:
     - Periodically evaluate if objectives are being met.
     - Implement corrective action
 - OKRs
-    - Objectives are concise and high level 
-    - Key results are easily measurable and lead to achievement of the objective. 'How would we know if we met our objective'? Ideally it's a KPI measurement. Otherwise it could be a project completed or for example a survey result
+    - Objectives are concise and high level - it's like an exciting statement
+    - Key results are easily measurable and lead to achievement of the objective. 'How would we know if we met our objective'? Ideally it's a KPI measurement. Otherwise it could be a project completed or for example a survey result. Users are happy vs we measured their satisfaction rate and we reached an average CSAT of 80% and higher. Also make sure that the key results specifically drive business value and avoid that the key results are too tightly related to activities. E.g. don’t say implement Looker but say a BI tool has been implemented 
     - OKRs should be difficult to obtain 
 
 ## Other
 - Only delegate what you really understand
 - Use 360 degrees feedback
 - Make others feel really valued. Fo up to their desk and ask for help. Check in on progress. Once a project is finished, thank them sincerely and make them feel good
+- Be aware of the organizational architecture: 
+  - Strategy: The core approach the organization will use to accomplish its goals
+  - Structure: How people are situated in units and how their work is coordinated
+  - Systems: The processes used to add value
+  - Skills: The capabilities of the various groups of people in the organization
+  - Culture: The values, norms, and assumptions that shape behavior 
+- You need to be willing to make unpopular decisions 
+- Create a culture where feedback is encouraged - e.g. make it an essential part of the daily standup
+- Have an opinion about things and have conviction to follow through unless a better counter example has been provided 
+- Develop your team 
+- Always consider continguency when someone in the team is away 
+- Always be highly aware of what's happening in your sprint as well as with tickets in other team's sprints 
+- Lead communication and steer it into the direction you need it to go to. Don’t be afraid of cutting people short 
+
 
 ## 12 questions employees ask themselves
 - Do I know what is expected of me at work?
@@ -157,3 +174,30 @@ This is important because:
 - “I don’t love this”
 - EOD 'do you need anything from me'
 - Practice empathy: 'I’m sorry to hear that'
+
+## Onboarding
+Prior to starting: Make others aware of the new hire and make sure everyone knows that the new projects are high priority 
+
+Day 1
+- Sit with HR induction
+- Set up IT 
+- Provide high level context and update on status, vision, challenges
+- Provide access to tools, set up machine etc. 
+
+Day 2:
+- Plan of action and prioritization of projects 
+- Introductions to key people in the business
+- Schedule in meetings with the key people 
+- Start looking at the existing data to get a good grip on how the business works 
+
+Early weeks
+- Work on projects that are faily easy to complete, engage with multiple teams and allow learning of the data model 
+
+## Starting as a manager in an existing team 
+Ask your direct reports: 
+- What are the biggest challenges the organization is facing (or will face) in the near future? 
+- Why is the organization facing (or going to face) these challenges?
+- What are the most promising unexploited opportunities for growth?
+- What would need to happen for the organization to exploit the potential of these opportunities? 
+- If you were me, what would you focus attention on? 
+- How can we improve the team works together? 

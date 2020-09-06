@@ -1,4 +1,12 @@
 # DBT
+
+## Links
+- DBT best practices: https://docs.getdbt.com/docs/guides/best-practices/
+- DBT viewpoint: https://docs.getdbt.com/docs/about/viewpoint/
+- How we configure Snowflake: https://blog.getdbt.com/how-we-configure-snowflake/
+- How we structure our DBT projects: https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
+
+
 ## DBT architecture
 ### Data Warehouse 
 Three databases:
