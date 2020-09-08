@@ -58,8 +58,6 @@ Monthly updates with new data / features in Looker Main purpose here is that peo
 
 Really sell the results you’re getting – at all hands and in emails. You want to be able to ask anyone what meaningful achievement you did lately and they should be able to answer this for you.  
 
-
-
 ### User feedback
 Gather user feedback from end users to increase the value that Looker adds. Send this to inactive users
 - Has Looker been useful to you? If not, what could we add or change that would make it more useful?
@@ -67,7 +65,8 @@ Gather user feedback from end users to increase the value that Looker adds. Send
 - Do you have any other questions or requests about Looker or data at the company more broadly?
 
 ### Data champions
-Create a hub and spoke model where each team has data champions that can help answering questions and drive adoption in their teams. 
+Create a hub and spoke model where each team has data champions
+- They can: support with training, business analytics support, answering questions on Slack, minimal changes to LookML, and drive adoption in their teams. 
 - They arise organically because they are keen on diving in data and gathering data for their respective teams. Keen an eye out via the Looker user engagement dashboards 	
 - We will provide them with the support they need and we’ll hold regular feedback session and get their input to guide our roadmap. E.g. regular consulting 1:1 work 
 
@@ -87,6 +86,8 @@ Replace the reports of your stakeholders - work with them on building out the so
 - Meet with report owners and shadow them. Clarify how automation can help
 - Get access to the reports and aim to automate this. If we can't, it's an item for the backlog
 - Regularly communicate and build the relationship with the stakeholder during this process
+- Optional: Evolve the report. You have full understanding of the data. Can this report be improved in any way? Make it more accurate, comprehensive and impactful - which may also mean that reports can change KPIs because something else is more impactful 
+- Optional: Start to build out insights. Start off by adding comments to an email used to send reports. Proactively answer questions that your stakeholders always seem to have. Then layer on more robust analysis that builds off the existing report. This is evolving yourself into a trusted partner 
     
 ## NPS survey
 These questions are rated on 1-5 scale: 

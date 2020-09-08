@@ -41,10 +41,12 @@ Here is how it works:
 ### Sprint planning 
 - Review open tickets: they are either deleted, moved into the backlog or moved into the next sprint 
 - Pull items from backlog into the new sprint depending on priority and complexity. This priority is set:
+    - Goal: rank sprint items in terms of priority. Often, it is the business stakeholders to discuss to ensure the organization’s needs are prioritized. Data can tune in around feasibility / difficulty but this shouldn’t be decisive 
     - The relevant business stakeholder should have a say in how important individual tasks are. If there is no business representation, data team decides on priority. Business involvement has great benefits: 
         - Stakeholders know what’s worked on 
         - Ticket quality will increase the more things are discussed with people from around the business 
     - In general, aim for high impact and urgent issues.  
+    - Tickets can still be deprioritized during the sprint: ill defined tickets or technically not feasible, internal data team work is priority, lack of resources 
 - Point issues depending on the amount of complexity
     - Very complex projects should be broken down 
     - Projects that are very new shouldn't be scoped too much. Instead, make it a task to understand the problem more deeply
@@ -63,6 +65,7 @@ Here is how it works:
     - Allow lots of time for exploration. This is often high impact for the business and should be prioritized. An example could be that Fridays are not spent on sprint items - the team just clarifies what they're working on at the beginning of the day and share results at end of day 
     - Allow decent amount of time BAU support  
     - Often, the objective and scope of a task changes after looking into an issue. There might be data issues that need investigating or solving, there might be a better way of looking at things that takes longer. Be flexible in the scrum approach
+    - Time box activities when it's unclear how long things take. Include research activities in the sprint. The goal is to either find best practices, understand whether something is worth pursuing further or making a draft of something. With these, set a max time that should be spend on the task. If it is about to take longer, discuss with a wider group whether this is worth spending more time on  
 - Assign estimated efforts for each task. Once we are going over significantly, discuss with a wider grouper whether it's worth it and reprioritize accordingly. Especially research projects should be strictly timed to avoid spending too much time going down a rabbit hole.
 - Include acceptance criteria in each ticket. AC from business requests are clear. Here is what to include for research projects: 
     - Write up results from research
@@ -89,6 +92,14 @@ Here is how it works:
 - Deliver things that are small and look ahead to see if anything requires per-work early on. This will uncover whether you’ll be blocked or not and it can pre-ampt future actions
 - Always ask yourself: what if the project failed. Please explain in 5-10 minutes how we would look back on it. This will really help seeing the identified and unidentified risks
 - If we had to actually complete this in two weeks, what would our approach be?
+- Make sure to connect to the right people. Account manager instead of support when things need doing 
+- Issues are not assigned to team members until someone is ready to work on it. Instead, every person works on the top priority for their job type. The disadvantage is that it may take time to get up to speed with new things, but any analyst can pick up anything 
+- Scrum is not ideal for analytics: 
+  - Investigate interesting things that are not part of the sprint. The analytics team purpose is to generate novel insights so allow time for unplanned investigations  
+  - EDA where the analysis objective changes as you explore the data. This might require changes to sprint item and there should be flexibility to allow for this  
+  - BUA work that needws to be done (e.g. month end reporting) as well as BAU support (e.g. fixing things, answering questions, training)
+  - 
+
 
 ## Project approach
 1. Define the problem

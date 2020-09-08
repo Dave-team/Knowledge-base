@@ -1,4 +1,9 @@
 # Looker
+
+## Links
+- Creating Looker Explores Your Users Will Love: https://looker.com/blog/creating-looker-explores-your-users-will-love
+
+
 ## Best practices
 **Performance optimization** 
 - Aim to model with many to one joins: starting with the most granular level tends to have the best performance 
@@ -52,6 +57,7 @@
 - People keep booleans in the DWH: TRUE / FALSE. This is converted to yes/No in Looker. Also: You can also easily cast a boolean to an integer and take the average. All of that seems like an acceptable amount of work in order to keep the legibility of true/false as the values
 - User attributes to create custom experiences for each Looker user. E.g. a dashboard with automatically set filters depending on user. E.g. each manager sees dashboard with only their team mates. Can also be used to switch between dev and prod connection details. 
 - We can change Looker dashboards and pages using HTML. E.g. adding custom HTML / CSS headers in dashboard, adding links to a WIKI on each employee’s Looker homepage 
+- Use iLooker to track how users use Looker and to delete non relevant content 
 
 ## Looker common gotchas
 -	Remember that Looker is case sensitive – e.g. strings should be single quotes, as per Snowflake SQL 
@@ -132,3 +138,14 @@ To delete local, developers need to clean up their own branches in Looker.
 
     By default, we work on our own dev branch in Looker. This personal dev branch is read only to all other Looker users. 
 Because dev branch is read only, we’d want to collaborate on different branches that are newly created for each project and based off master. This means that other Looker users can switch to the branch and review changes as well (e.g. compare your newly created branch against prod) 
+
+## Looker training
+Looker training: 
+- Kickoff: intro of me, and overview of what we’re going to do and get an understanding of how users want to use the data  
+- Introduction: what is Looker and how is it helpful? 
+- Looker demo: tour of what we have built so far in Looker  
+- Essentials of Looker - dimension, measures, filters, pivots 
+- Practical exercises for users to try. One can be guided by me and then they try themselves. Make sure they save it in own dashboard
+- Explanations of different Looker use cases and how this relates to what the users wanted to get out of the session  
+- Table calculations, scheduling
+- Building dashboards 

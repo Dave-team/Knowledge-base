@@ -1,6 +1,13 @@
 # BI checklist
 
 ## General
+- Get context and deep understanding of the problem / request. Only start when you're confident you have a good understanding
+- Build solutions asking yourself 'so what' - what are we trying to achieve here?
+- Whilst developing, break it down and build incrementally so it's easy to spot where things break. If things break, perform unit tests. 
+- Check the data multiple ways - does this make sense and does this answer the question?
+- When in doubt, ask others too
+- Communicate a lot with the stakeholder throughout the analysis - the goal is impact. Don't go all rough 
+- Follow up with the staekholder and close the loop 
 
 ### Requirements gathering
 - What is the question we are trying to answer?
@@ -64,11 +71,13 @@
 - General: 
     - Use snake_case
     - Everything is lowercase
-    - Table names are dim_, fact_, stg_
+    - Table names are dim_, fact_, stg_ (always snake case with pre-fixes)
     - Tables names are singular: dim_customer
     - IDs are described as: object_id
     - CTE names should be specific to the table it represents
     - The same field name across objects should get a label that is object specfic: "Ad Status" and "Campaign Status"
+    - Explores: names indicate type of information contained in the Explore
+    - Always be descriptive
 - Fields: 
     - Count (measures): Number of  
     - Sum: Total
@@ -76,7 +85,6 @@
     - Average: Average
     - Ratios: Over or Per, E.g. Revenue per number of items
     - Booleans: Is_ of Has_. E.g. Is_sold
-    - Always be descriptive
     - Time: <event>_at
     - Time zones: suffix: created_at_utc. This helps keeping things organized in BI tool (which is alphabetical after all)
     - Currency – suffix with *_usd 

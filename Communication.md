@@ -27,9 +27,9 @@
 - “Can you tell me more about your views?”
 
 ## Asking good questions
-- Try to solve the problem prior to asking for help
+- Try to solve the problem prior to asking for help - use debug logs
 - Do you own research first - check the documentation and Google the problem
-- When you don't have the answer by now - make it an experiment and test things
+- When you don't have the answer by now - make it an experiment and test things and see what happens
 - If you need to ask someone: 
     - make it obvious that you have done some basic research - the answer shouldn't be found in a quick Google search - state what you already know
     - Ask your question in a way that helps others understand the issue quickly 

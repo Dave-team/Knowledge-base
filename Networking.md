@@ -9,6 +9,7 @@
 - Always follow up - even if just to say a thank you 
 - Connect to the most connected people who can introduce you to many others
 - Remember that people like to help and give advice
+- When getting a meeting in, have a specific knowledge goal: e.g. I am building an analytics team from scratch and you have done the same before. Then break this down: how analytics works with the rest of the org, who to hire, what seniority, 
 
 ## Conference tips 
 ### Preparation and logistics
@@ -31,7 +32,7 @@
 ## Reaching out to people
 - Use a good approach: 
     - Aim for a warm intro
-    - If that's not possible, options include LinkedIn, Twitter, Slack, messaging boards, Meetup pages
+    - If that's not possible, options include LinkedIn, Twitter, Slack, messaging boards, Meetup pages - people you have something in common with 
 - Be specific about what they have done and relate that to something interesting you are doing yourself. Find something you have in common. A good excuse for reaching out is because someone recommend you to reach out (make sure the other person is a mutual connection)  
 - Ask specifically for something:
     - Have an agenda for what you want to discuss (i.e. the opposite of ‘picking their brain’)

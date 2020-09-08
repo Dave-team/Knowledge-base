@@ -26,6 +26,7 @@ With a good warm up you can increase strength whilst reducing the risk of injury
 - Fourth set: 1 rep with 90% of your heavy weight. Then rest 2-3 minutes 
 - 5th, 6th and 7th set: heavy, muscle building sets. 
 - As you then move to a new exercise within the same muscle group, don’t do a warm-up again, why bother as your muscle group is already fully warmed up. 
+- When doing bodyweight excercises, do a warmup consisting of some cardio and mobilitiy excercises 
 
 ## Muscle building sets
 - Use free weights as they stimulate the muscles much more – focus on compounds exercises that involve multiple muscle groups. The other type are isolated exercises. Heavy compound exercises will give you a solid foundation. Isolation exercises will sculpt your body once the basis is there 
@@ -48,14 +49,6 @@ With a good warm up you can increase strength whilst reducing the risk of injury
 - Kettlebells are a great addition to a workout for alteration
 - Cross fit excercises such as Power clean, snatch, double under, box jumps, start rowing
 
-**Chest**: Dumbbell and barbell press (incline and flat), dips
-**Back**: deadlift, pull-up, one arm dumbbell rows, t bar rows, bent over barbell rows, front lat pulldown, close grip pulldown, seated cable row (wide and close grip)
-**Shoulders**: seated or standing barbell military press, seated dumbbell press, arnold dumbbell press, dumbbell front raise, side lateral raise, bent over rear delt raise, seated rear delt raise, barbell shrugs
-**Legs**: barbell squat, hack squat, leg press, Romanian deadlift, leg extension, leg curl, calf raise, leg press calf raise 
-**Biceps**: barbell curl, straight bar curl, EZ bar curl, dumbbell curl, hammer curl
-**Triceps**: close grip bench press, seated triceps press, triceps pushdown, lying triceps extension, weighted dip. 
-**Abs**: cable crunch, captain’s chair leg raise, bicycles, abs roller, decline crunch, hanging leg raise
-
 ## Cardio
 Add cardio to your workout plan, even when bulking. 
 - Do cardio 3-5 times per week (3 when bulking, 5 when cutting)
@@ -67,4 +60,11 @@ How to lose fat: make your body burn more energy that it gets from food. Cardio 
 - Eat less that you expend = lose weight. Your body makes up for the deficit in calories by burning fat. Key is to ensure that you lose fat and not also muscle. When you eat less, your metabolic rate will slow down and then when you eat more again, you’ll quickly gain the fat back (yo-yo’ing)
 - Eat small, frequent meals. Why? It increases metabolism (not 100% conclusion on this) but it does ensure that you can control your calorie intake better throughout the day. 
 - Use cardio to help burn fat. 
+
+## Become better at bodyweight excercises
+- Increase repetitions / length of sets 
+- Do as many sets as you can and increase this volume over time. Start with 10-10-10 then 11-10-10 etc. 
+- Alternatively, do a high number of sets with low repetitions – e.g. 20 sets of 2 pull-ups 
+You won’t be able to do all exercises from the start – do progression. Start off with easy exercises up to a number of reps with perfect form. Then you move on until you reach the end goal exercise you want to master 
+- When stuck, do alternative exercise or do other progression exercises before coming back 
 

@@ -1,9 +1,16 @@
 # BI development
 
 ## Principles
-- Always work incrementally. Build out a single metric. Then move on to the next. Keep your SQL simple until it works for one use case. Then add additional complexity only when the simple proofs to work
+- Always work incrementally. Build out a single feature. Get that live and in front of the end user. Get their feedback and then go on to improve the product. 
+- Keep your SQL simple until it works for one use case. Then add additional complexity only when the simple proofs to work
 - Never make a change promptly. Keep different versions and decide what’s best over time
 - Don’t build something slightly complex in SQL until the approach is confirmed across the board. Whenver you're code starts to look complex, take a step back and see if we can prove an easier solution and whether we can simplify the complexity
+- Don’t aim for perfection – aim for making it good enough (i.e. meeting requirements) and prioritize speed. Realize that it’s hard to make a perfect model that works for all cases. Build it for 80% of the cases first. You can always make it better 
+- BI in short: 
+  - Manage expectations
+  - Demonstrate small success
+  - Communicate the results 
+
 
 ## Project charter
 Create an initial high level project charter with the project objectives, scope, approach, involved parties and team staffing, success criteria, constraints, assumptions, and risks. This should include a high level architecture of the different data sources and ideally the most important dimensions (high level bus matrix). It should also have a list of high level priorities: teams / processes to get BI for and in what phase these will be implemented - this could be a high level gannt chart out of which individual tasks will be added to a backlog / PM tool. Note that this starts of as a draft and will be updated incrementally 
@@ -11,7 +18,7 @@ Create an initial high level project charter with the project objectives, scope,
 ## Requirements gathering 
 
 ### Introductions (optional)
-- Informal intro: how long at company? What they did previosuly?
+- Informal intro: What they did previosuly?	Journey so far at Tessian? Experience with data / BI tools at prior companies?
 - Clarify goal of project and set high level expectations. BI has some capacity to work with teams – this team might have a strong need for analytics support 
 
 ### Get context around business area
@@ -60,6 +67,13 @@ Examples:
 ## Business requirements doc
 Create a business requirements doc that answers all questions asked including an initial feasibility assessment and potential acceptance criteria. 
 
+## Prioritization
+Prioritize specific use cases (there will be different use cases even within a team). This prioritization will be around the table brainstorming session with the relevant stakeholders (most likely executives). In general, what gets prioritized is: 
+- High impact
+- Currently very time consuming and/or error prone or not possible
+- The solution is technically feasible  
+
+
 ## Kickoff (optional)
 Speak to the executives of the team whose process is prioritized:
 - Clarify the goal of the project
@@ -92,7 +106,7 @@ Speak to the executives of the team whose process is prioritized:
         - What are min and max dates? 
         - Basically, perform EDA on the data set
     - Make initial high level transformation jobs in SQL and identify where fields are joined (where obvious joins are required, get these in directly) 
-    - Ask yourself: Do I understand what the data tells me? If not, go to the documentation and look up fields. Otherwise, when the data seems relevant, prepare a list of questions to ask stakeholder 
+    - Ask yourself: Do I understand what the data tells me and does it make sense? Is the data in line with other tables? Really sanity check the data here. If not, go to the documentation and look up fields. Otherwise, when the data seems relevant, prepare a list of questions to ask stakeholder 
 - Understand the high level architecture 
     - Draft a rough dimensional model from the source to identify what the fundamental tables are and their related dimensions 
 
@@ -100,7 +114,7 @@ Speak to the executives of the team whose process is prioritized:
 Using the existing reports from the stakeholders, see if you can get to the same numbers. This might uncover source data issues and defintion questions. Keep a running record of any potential issues I find that should be discussed with stakeholders
 
 The steps in this process: 
-- Compare raw data first without transformations 
+- Compare raw data first without transformations - i.e. just write SQL queries that should output the same results.
 - Understand the logic deeply and verify with users
 - Implement the new logic step by step - don't change too much at the same time
 

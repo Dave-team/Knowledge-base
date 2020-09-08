@@ -38,7 +38,7 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 
 ### Career
 - Be enthusiastic and energetic around creating impact
-- Embrace the challenges with confidence and optimism 
+- Embrace the challenges with confidence and optimism - be confident we can figure things out 
 - Be resourceful, solution oriented and curious
 - Build meaningful relationships 
 - Be social. Show interest and want to get to know others and also allow them to get to know me 

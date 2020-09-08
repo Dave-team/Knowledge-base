@@ -13,18 +13,18 @@ Three databases:
 - Raw: this is where all the source tables are. Access is restricted to data loaders. Each source has its own schema: Salesforce, Google Sheets etc. 
 - DBT_DEV restricted to DBT developers. This very much functions as a testing environment. Each developer here has a separate schema which is named after their own name. 
 - Analytics. This is the prod target. Here we have: 
-    - One schema for staging and intermediate models
+    - One schema for staging and intermediate models (stg_ and int_)
     - One schema for core data models 
     - Different schemas that represent data marts by functional area 
 
 ### DBT models
 **Source**
-Schemas and tables in a source-conformed structure (i.e. tables and columns in a structure based on what an API returns), loaded by a third party tool. 
+Schemas and tables in a source-conformed structure (i.e. tables and columns in a structure based on what an API returns), loaded by a third party tool. They are the only tables that should directly reference a raw table
 With sources, we can add definitions, tests and documentation
 
 **Staging**
 The atomic unit of data modeling. Each model bears a one-to-one relationship with the source data table it represents. Staging models have the same granularity as sources, but columns have have been: 
-- Fields have been renamed and recast in a consistent way.¹
+- Fields have been renamed and recast in a consistent way. (use :: to recast to keep things clean and simple)- cast as much as possible as explicit is better than implicit 
 - Datatypes, such as timezones, are consistent.
 - Light cleansing, such as replacing empty string with NULL values, has occurred.
 - If useful, flattening of objects might have occurred.
@@ -74,3 +74,43 @@ useful_name__transformation_in_past_tense.sql - for example order_payments__join
 - Snapshots: Follow the naming convention {source_name}_{source_table_name}_snapshots for your file name
 - Seeds: loading CSV files into the DWH using DBT
 - DBT debugging: Run the compiled SQL in the data warehouse
+- Run fewer models using model selection syntax - this greatly helps when testing models in dev: 
+  - Run tests for a single model: dbt test --models opportunity_line_item --target dev
+  - Run a single model in DBT: dbt run --models sales_forecast --target dev
+  - Run all child relationship models: dbt run --models +Marts.Xero --target dev 
+  - Run all models in a schema: 
+    - dbt run --models Xero --target dev
+    - dbt run --models Staging.Xero.*
+  - We can also use the excluded syntax to not run certain models 
+- Limit the data being processed while in dev to speed up table creation jobs (and to limit storage in the warehouse): {% if target.name == 'dev' %}
+where created_at >= dateadd('day', -3, current_date)
+{% endif %}
+- We can add a better Continious Integration process to our workflow: https://docs.getdbt.com/docs/dbt-cloud/using-dbt-cloud/cloud-enabling-continuous-integration-with-github/
+- Generate docs by enabling the setting on the DBT Cloud job 
+- We have the option to add Redshift customizations to improve model performance in DBT 
+
+## DBT set-up
+
+
+
+with {{ distinct_source(source=source('gitlab_dotcom', 'gitlab_subscriptions'))}}, 
+
+renamed AS (
+    SELECT DISTINCT
+
+      id::INTEGER                    AS gitlab_subscription_id,
+      start_date::DATE               AS gitlab_subscription_start_date,
+      end_date::DATE                 AS gitlab_subscription_end_date,
+      trial_starts_on::DATE          AS gitlab_subscription_trial_starts_on,
+      trial_ends_on::DATE            AS gitlab_subscription_trial_ends_on,
+      namespace_id::INTEGER          AS namespace_id,
+      hosted_plan_id::INTEGER        AS plan_id,
+      max_seats_used::INTEGER        AS max_seats_used,
+      seats::INTEGER                 AS seats,
+      trial::BOOLEAN                 AS is_trial,
+      created_at::TIMESTAMP          AS created_at,
+      updated_at::TIMESTAMP          AS updated_at,
+      valid_from -- Column was added in distinct_source CTE
+  
+    FROM distinct_source
+    WHERE gitlab_subscription_id != 572635 -- This ID has NULL values for many of the important columns.

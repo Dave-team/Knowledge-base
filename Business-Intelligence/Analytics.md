@@ -2,16 +2,18 @@
 ## SQL development 
 ### SQL query checks
 - After every step, check to see whether there are duplicates (count or count distinct) introduced. Also, see if you added null values in your data. If so, understand why and make a decision as to delete or keep them 
-- Make sure to keep the same number of rows when this should be the case
+- Make sure to keep the same number of rows when this should be the case - e.g. compare against different tables
 - Regularly refer to a few sample cases where you know the source of truth value. As you develop, ensure that this value doesn't change 
 
 ### SQL query investigation
-- Run individual CTEs and see where the error creeps in 
-- If the issue is more detailed, follow an individual case throughout your CTEs and identify where the issue creeps in. Break it down and go small
+- Run individual CTEs and see where the error creeps in - go step by step
+- If the issue is more detailed, follow an individual case throughout your CTEs and identify where the issue creeps in. Break it down and go small (unit testing)
 - If that doesn't work, try to rewrite the query differently 
 - Ask others to sanity check as a final resort 
 
 ## Data checking 
+- Does the data include all data (e.g. dates) required or are there gaps? 
+- Does it make sense? Are the numbers intuitive, not many unexpected NULL values etc?
 - Are the numbers consistent with what we got in the past? 
 - Do the numbers match different sources?
 - Ask yourself: 
@@ -93,4 +95,8 @@ First, consider whether it is a problem worth investigating. If it is, consider:
 
 ## Other
 - Make sure to keep the raw data with the analysis somewhere well documented as you will always need to do the analysis again or remember your assumptions
-- Keep a log of business initiatives. Any time something happens that causes data to shift, keep a note of this in a Google Sheet that gets pipelined into the warehouse. Columns could be data, type, notes. Things to include could be: marketing campaigns, feature releases, bugs, holidays
+- Keep a log of business initiatives. Any time something happens that causes data to shift, keep a note of this in a Google Sheet that gets pipelined into the warehouse. Columns could be data, type, notes. Things to include could be: marketing campaigns, feature releases, bugs, holidays, press. It also helps generally keep a log of events that happened as a source of truth
+
+![Analysis context ](https://user-images.githubusercontent.com/28791247/92440452-7189ac80-f1a4-11ea-8f92-3898c3f2cad0.png)
+
+![Analysis context ](https://user-images.githubusercontent.com/28791247/92440681-caf1db80-f1a4-11ea-8e08-a8aa5049c447.png)

@@ -56,14 +56,19 @@ Columns:
 ## Data dictionairy 
 Create a data dictionary that ideally is automated (e.g. from DBT and LookML combined). Items in data dictionary:  
 - Desciption
+- Data type
+- Keys 
 - Whether null values are accepted
 - Sample values
 - Source: source system, source table, source field name, source datatype
+- Example data
 - Transformation 
 - Notes
 
 ## DBT 
-Comment SQL code that handles transformations
+- Comment SQL code that handles transformations
+- Add table / fields descriptions 
+- Other metadata will be added automatically by DBT 
 
 ## Looker
 Comment any LookML transformations

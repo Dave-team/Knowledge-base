@@ -12,6 +12,11 @@
 - Think about how logic handles edge cases 
 - First build anything that is high priority. Then, over time we just keep adding new things. 
 - Always prioritize pushing projects live that you're working on prior to moving on to the next project 
+- Make sure to test properly on a few critical reports 
+- Create a playbook for some of the most often occurring issues 
+- When checking data, keep things constant to compare like for like and to be correct on principles. Only after, make change to logic. When trying to replicate something existing, make sure to first completely understand the logic. Look at the spreadsheet, map your thinking and then verify with users. Only then start to aim a replication
+- Don't change too many things at the same time. 
+- Keep a running log of interesting cases: e.g. opportunities that have something unique about them that makes them hard to work with. In your models, check what happens to these opportunities. These cases are very useful in future tests you perform 
 
 ### Source data testing
 - Create an initial gap analysis between source and BI data. This includes 
@@ -39,8 +44,8 @@
 - Run the entire DBT test and DBT run command regularly to make sure nothing is breaking. Do this as well just before pushing transformation logic to live.   
 - Always sense check the table: 
     - Is the data what is expected and do they make sense? Look at the values in the columns 
-    - Is all data there? For example, check that all dates are loaded correctly 
-    - Are there any values that seem incorrect? Nulls, especially high or low values, weird dates etc. 
+    - Is all data there? For example, check that all dates are loaded correctly - between source and transformed table
+    - Are there any values that seem incorrect? Nulls, especially high or low values (validation tests - e.g. weird dates, weird prices), weird dates etc. 
     - Do we count the same number of rows when we look at the same data in a different table or different environment?
     - Where required, perform unit tests compared to source. Any completely new model should have extensive checks like these - especially for the business cases that are non standard (as outlined in the 'common gotchas' document). 
 - Compare the dashboard pre and post change 
@@ -52,7 +57,7 @@
 
 ### BI tool testing
 **Automated tests**
-- Create QA dashboards with tests on some commonly used metrics that should show whether your data makes correct. E.g. total revenue. Total number of employees in seat. Total customers. 
+- Create QA dashboards with tests on some commonly used metrics that should show whether your data makes correct. E.g. total revenue. Total number of employees in seat. Total customers. Last date a certain data source was updated
 - Similarly to the above, we can extend this dashboard to show changes by time period. E.g. new revenue since yesterday / last week. If values are outside of telerated values, send out an alert. 
 - Run a script with the API that regularly validates all our user-facing content and posts any errors in our #data-qa slack channel
 
@@ -82,10 +87,10 @@ The easiest way to promote data quality is to have as many eyes on as many piece
 Use Service Level Objectives (SLO), Service Level Indicators (SLI) and Service Level Agreements (SLA). Only apply these standards to things that users actually care about. Examples of things to include: 
 - Functionality: what reporting functionalities will we provide? 
 - Accessibility: how can people access the data? 
-- Performance: how fast are the individual processes (ETL, how long do queries take) 
+- Performance: how fast are the individual processes (ETL, how long do queries take). E.g. any query in Looker should take < 1 minute, if webapp < 5 minutes. X % of queries finish in < Y seconds  
 - Delivery: how fast and predictable are turnaround times from request to working functionality)
 - Quality: how accurate do we expect the data to be? If there are very complex models, can we do with slightly less quality for the sake of speed? 
-- Availability of the BI team: how easy is it to reach them when questions arise? 
+- Availability of the BI team: how easy is it to reach them when questions arise? What is the response time?
 - Business relevance: what can BI do for the business? 
 - Data freshness: how current is the data? 
 - Support speed: how quickly are tickets turned around? Use a severity scale with associated response times. Severity is depending on impact (e.g. who is impacted, what is the effect, how urgent is it) 
@@ -97,6 +102,7 @@ Use an issue tracker. This can be as simple as a Google Sheet and over time, you
 You don't want a single person to be the only one capable of solving issues that break things. So instead: 
 - Create a doc around most common issues and how to fix them
 - Train someone in the team to solve these issues 
+- MAke sure communication channels have been set up to inform the right people if things go wrong
 - Intermediate solution could be to not develop anything new prior to responsible person going on leave 
 
 ## Git process  
