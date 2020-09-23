@@ -121,7 +121,7 @@ where created_at >= dateadd('day', -3, current_date)
   -	Git commit –m “Commit message”
   -	Git push
 
-
+```
 with {{ distinct_source(source=source('gitlab_dotcom', 'gitlab_subscriptions'))}}, 
 
 renamed AS (
@@ -144,9 +144,9 @@ renamed AS (
     FROM distinct_source
     WHERE gitlab_subscription_id != 572635 -- This ID has NULL values for many of the important columns.
 
+```
 
-
-
+```
 -- Load the results of our statement and select the first column
 {%- set states = load_result('states')['data'] | map(attribute=0)-%}
 
@@ -165,3 +165,4 @@ select
     {% endfor %}
 
 from {{ ref('users') }}
+```
