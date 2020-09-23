@@ -53,6 +53,32 @@ Here is how it works:
     - Include research tasks (i.e. research how to analyze effectiveness of TV campaign in R) 
 - Inform stakeholders around what is in the next sprint 
 
+### Issue pointing 
+Issue pointing captures the complexity of an issue, not the time it takes to complete an issue. That is why pointing is independent of who the issue assignee is.
+- 0: should not be used.
+- 1 – The simplest possible change including documentation changes. We are confident there will be no side effects.
+- 2 – A simple change (minimal code changes), where we understand all of the requirements.
+- 3 – A typical change, with understood requirements but some complicating factors
+- 5 A more complex change. Requirements are probably understood or there might be dependencies outside the data-team.
+- 8 – A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements.
+- 13 – A significant change that has dependencies and we likely still don’t understand all of the requirements. It’s unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break into smaller Issues
+
+### Issue labeling 
+- Who (Purple): Team for which work is primarily for (Data, Finance, Sales, etc.)
+- What – Data or Tool
+  - Data (Light Green): Data being touched (Salesforce, Zuora, Zendesk, Gitlab.com, etc.)
+  - Tool (Light Blue) (Sisense, dbt, Stitch, Airflow, etc.)
+- Where (Brown): Which part of the team performs the work (Analytics, Infrastructure, Housekeeping)
+- How (Orange): Type of work (Documentation, Break-fix, Enhancement, Refactor, Testing, Review)
+- Optional: 
+  - State (Red) (Won’t Do, Blocked, Needs Consensus, etc.)
+  - Workflow Status (Workflow::Triage, Workflow::Ready, Workflow:: In Progress, Workflow:: Verification, Workflow:: Waiting)
+  - Inbound: For issues created by folks who are not on the data team; not for asks created by data team members on behalf of others
+
+
+
+
+
 ### Backlog grooming: 
 - Constantly keep your ears open for things that people want built and add these items to the backlog
 - Regularly bring in stakeholders to review the backlog priorities. 
@@ -71,6 +97,11 @@ Here is how it works:
     - Write up results from research
     - Recommend a strategy for our company
     - Write next AC for a subsequent story 
+    - Example: investigation into how a new email campaign impacted the business, ACs can include: 
+      - Compare the open rate, click rate, and conversion rate to a similar email from last year
+      - Compare the email unsubscribe rate with a control group receiving business-as-usual emails to check if we drove unsubscribes
+      - Compare the average cumulative gross profit per customer for thirty days following the email send with the control group to check if we just “pulled forward” sales or if we actually drove truly incremental profit.
+
 - The most important thing is generating valuable work, and whatever process you use should be subordinate to that goal. To the extent the process helps you generate valuable work, you should use it, and to the extent that it distracts you from that prime directive, you should adjust it!
 - Tickets can still be deprioritized during the sprint: ill defined tickets or technically not feasible, internal data team work is priority, lack of resources 
 - Agile is a set of values and principles around how to develop software. It's iterative project maanagement where a big project is split into smaller tasks and each task is delivered continiously: 

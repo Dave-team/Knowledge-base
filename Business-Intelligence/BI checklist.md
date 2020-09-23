@@ -8,6 +8,8 @@
 - When in doubt, ask others too
 - Communicate a lot with the stakeholder throughout the analysis - the goal is impact. Don't go all rough 
 - Follow up with the staekholder and close the loop 
+- When making important changes, e.g. in LookML, consider making multiple versions (old and new) of the metric until this is checked by the business (e.g. v0 and v1)
+- 
 
 ### Requirements gathering
 - What is the question we are trying to answer?
@@ -25,7 +27,7 @@
 ### Delivery process
 - Have ticket with requirements. Potentially detailed with:
     - List of fields
-    - Mock-up of dashboard
+    - Mock-up/wireframe of dashboard
 - Sign this ticket off with the stakeholder prior to development
 - Regular check-ins during the incremental build 
 - Check-in prior to final delivery to ensure required impact is delivered. Always close the BI cycle. Remember to answer questions: 'So what' and 'Now what'?
@@ -41,6 +43,8 @@
     - Is the data logically grouped (high level at top, more granular at the end)? 
     - Does it look at one specific area of the business? 
     - If there are outliers, is the analysis clarified in the dashboard? 
+    - Is good and bad clearly separated?
+    - Are tooltips / notes added where relevant?
 - Good data:
     - The data doesn’t raise any questions (e.g. no null values) 
     - Is the data correct? 
@@ -49,6 +53,9 @@
     - Does the dashboard deliver the required impact? This is checked with the stakeholder 
     - Can the user perform actions, filters, drill down, links as required?
     - Are the definitions in line with the business definitions?
+- Other
+  - User permissions are reviewed
+  - Are axes labelled correctly? 
 
 ### Testing
 - Never assume data to be correct – check it and be confident its correct. Check it when it is in the source as the source might be wrong. Check manual input from other. Check own logic. 
@@ -90,12 +97,48 @@
     - Currency – suffix with *_usd 
     - Include type of measurement in column name: duration_in_secs, weight_in_kgs
 
+## DBT model organization 
+1. Primary data - Primary data is the key information describing the table. The primary key should be in this group along with other relevant unique attributes such as name.
+2. Foreign keys - Foreign keys should be all the columns which point to another table.
+3. Logical data - Logical data is for additional data dimensions that describe the object in reference. For a Salesforce opportunity this would be the opportunity owner or contract value. Further logical groupings are encouraged if they make sense. For example, having a group of all the variations of contract value would make sense. Within any group, the columns should be alphabetized on the alias name.
+4. Metadata
+
+Example is here: 
+
+` SELECT
+   id                    AS account_id,
+   name                  AS account_name,
+     
+   -- Foreign Keys
+   ownerid               AS owner_id,
+   pid                   AS parent_account_id,
+   zid                   AS zuora_id,
+     
+   -- Logical Info
+   opportunity_owner__c  AS opportunity_owner,  
+   account_owner__c      AS opportunity_owner_manager,
+   owner_team_o__c       AS opportunity_owner_team,
+     
+   -- metadata
+   isdeleted             AS is_deleted,
+   lastactivitydate      AS last_activity_date
+ FROM table`
+
+## Looker view organization 
+- Keys 
+- Dates
+- Dimensions (grouped together with comments on top)
+- Measures (grouped together with comments on top)
+- Within each group, order alphabetically 
+
+
 ## DBT
 ### Development 
 - Everything is developed with proper naming conventions
 - The SQL has a good style 
 - The code is well documented – a new joiner should understand what is happening 
 - Every model in production has tests running on a schedule 
+- Be explicity rather than implicity: define data types and ensure they are as small as possible 
 
 ### Changes checklist
 - Run all models (low – high in DAG) include testing in Dev
@@ -142,7 +185,7 @@
 ## Github 
 ### Pull request design 
 - Title. E.g. "Feature", "Fix", "Update": X
-- Description: 
+- Description provides context. Should be able to understand the PR without looking at the code: 
     - What are you changing 
     - Why are you changing it? 
     - Link to the source ticket of the feature - e.g. in Notion
@@ -153,10 +196,19 @@
     - Screenshot of the dimensions and measures in action with their relevant links
     - Where possible, comparison between source data 
     - Where relevant, add any other QA relevant information here. 
+    - Ideally, CI tests are set up and these are completed successfully
 - Always add a reviewer to a PR 
 - Include table granularity when building a new PDT / table 
 
-### PR principles 
-- Each PR is one logical piece of work
+### PR checklist 
+- Each PR is one logical piece of work - don't solve multiple problems in one PR. Reasons: 
+  - understanding multiple unrelated changes is an enormous pain for your reviewer,
+  - rolling back changes becomes much more challenging,
+  - and any delays in getting part of the PR approved end up delaying the entire batch of changes.
+- Style guide is applied with the right naming conventions 
+- Tests are added and run sucessfully 
+- Documentation is added 
+- Code is DRY
+- Data returns expected results 
 - Continiuosly integrate PRs. Don't wait to complete a project. Instead, break the project down to manageable pieces that get their individual PRs
 

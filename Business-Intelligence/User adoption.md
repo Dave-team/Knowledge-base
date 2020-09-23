@@ -1,5 +1,15 @@
 # User adoption
 
+## Links
+What does “self-serve” in analytics mean to you?: https://discourse.getdbt.com/t/what-does-self-serve-in-analytics-mean-to-you/712
+
+## Principles
+- If you build it, they might come, but they probably won’t unless you’ve stepped into their shoes and answered, “Why should I use this?” and “Okay, so how do I use this?”
+- If you teach someone to use a tool and they don’t get it or they later find it frustrating, they’ll look for another way to answer their questions. Before you know it, their alternate path to a solution will become a habit. Good luck getting them back to your tool!
+- Be more proactive and figure out how you can support the teams by talking to them
+- Take it step by step: sit with one team, work on a problem and solve that problem only. Rinse and repeat with different departments 
+
+
 ## Elements of user adoption
 
 ### Data availability

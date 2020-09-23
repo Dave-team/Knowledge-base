@@ -2,31 +2,37 @@
 
 ## Links
 - Creating Looker Explores Your Users Will Love: https://looker.com/blog/creating-looker-explores-your-users-will-love
+- How to teach Looker: https://discourse.looker.com/t/how-to-teach-looker-intro-to-looker-using-the-explore-interface-and-sharing-content/3696
+- LookML best practices: https://discourse.looker.com/t/lookml-best-practices/1636
+- Considerations when Building Performant Looker Dashboards: https://help.looker.com/hc/en-us/articles/360038233334-Considerations-When-Building-Performant-Looker-Dashboards
+- How to design your Looker explores: https://blog.getdbt.com/how-to-design-your-looker-explores/
 
 
 ## Best practices
 **Performance optimization** 
 - Aim to model with many to one joins: starting with the most granular level tends to have the best performance 
 - Use datagroups to cache data in dashboards - make sure that dashboards get refreshed early in the morning so people have fresh data when they come in.
-- Limit the number of tiles on a dashboard
-- Limit table calculations and pivots as they are quite heavy 
-- Limit the number of data points returned 
+- Limit the number of tiles on a dashboard. If needed, there could be an option to link to other dashboards to finish the story
+- Limit table calculations and pivots as they are quite heavy. Instead, aim to have filters on the dashboards  
+- Limit the number of data points returned. More data point are expensive in memory 
+- Use system activity / i__looker to track performance 
 
 **Looker modeling**
 - The initial table in the explore should contain measures and it should be the most granular table. For any subsequent joined tables we lose trust (unless there's a 1:1 relationship). 
     - Fields can become duplicated is there's a many to one relationship
-    - Fanouts happen when there is a one to many relationship as we increase the number of rows within the Looker model. Avoid fanouts by starting with the most granular data table
+    - Fanouts happen when there is a one to many relationship as we increase the number of rows within the Looker model. Avoid fanouts by starting with the most granular data table. Looker solves for these with symmetric aggregates: sum distinct and count distinct on tables avoiding the risk of duplicates if they are entered into the data model. The problem would still be seeing duplicate dimensions if explored seperately  
 - Always have a primary key in your view
 - Only use {TABLE} once – from there you always want to reference that field. Reason: keeping things DRY 
 - Add relevant drill downs in the models 
 - Use value format names to ensure data shows up in the right format
 
 **Looker organization / design**
-- Each explore should describe a separate process. 
+- Each explore should describe a separate process. In terms of development, you can either start bigger and once you understand use cases go smaller, or you start small and go bigger once people ask for it. 
 - Make sure to group explores / models that relate together. So Activities, Opportunities and Pipeline History are all under Salesforce 
 - Restrict user thinking – create measures with filters
 - Limit the number of fields in the field picker: group measures / dimension together when they strongly relate to each other. E.g. use a group label Address and then within that is Town, Country, Post code etc. 
 - Add descriptions to fields and explores to clarify what fields mean to end users. 
+- Add labels to views and explores to avoid confusion for end users 
 - Hide non relevant fields 
 - Spaces are named after business function: e.g. Marketing 
 - Dashboards are named as business function - specific. E.g. Marketing - Channel Overview
@@ -43,7 +49,7 @@
     - Run content validator and see what breaks
 
 ## Looker uses 
-- Embedding 
+- Embedding Looker looks / dashboards into different applications
 - Alerts e.g. when customer is about to churn
 - Easily share data via Slack 
 - Scheduled dashboards
@@ -58,10 +64,12 @@
 - User attributes to create custom experiences for each Looker user. E.g. a dashboard with automatically set filters depending on user. E.g. each manager sees dashboard with only their team mates. Can also be used to switch between dev and prod connection details. 
 - We can change Looker dashboards and pages using HTML. E.g. adding custom HTML / CSS headers in dashboard, adding links to a WIKI on each employee’s Looker homepage 
 - Use iLooker to track how users use Looker and to delete non relevant content 
+- Remember that we can literally name / alias anything: dimension,measure,view,explore and we can so differently between different explores (e.g. a view can be called differently between different explores). Similarly, we can give two views the same name and they will be consolidated in the Looker explore 
+-   
 
 ## Looker common gotchas
--	Remember that Looker is case sensitive – e.g. strings should be single quotes, as per Snowflake SQL 
--	When doing Snowflake calculations, make sure to include the nullif statement to avoid that the calculation breaks 
+- Remember that Looker is case sensitive – e.g. strings should be single quotes, as per Snowflake SQL. However, case sensitivty can be turned off  
+- When doing Snowflake calculations, make sure to include the nullif statement to avoid that the calculation breaks 
 
 ## Looker checklist 
 - Regularly check the content validator. Make it a habit to check the content validator any time you have made significant changes to the LookML. Simple things like name changes can really mess things up
@@ -72,18 +80,18 @@
 ## LookML
 - LookML is SQL but it adds version control, it’s extensible (i.e. you can enrich with HTML) and modular. Rather than having to rewrite complicated SQL scripts, you define things once for the entire company  
 - Liquid is a templating language used to create dynamic content. E.g. to have links to external tools from within Looker. We used it combined with HTML to calculate USD or GBP depending on parameter values. This uses the if, elseif construct and it included the rendered value to show formatted data 
-- Parameter: they create a filter-only field users can use to provide input to a liquid parameter tag. It can be used to filter, but it cannot be added to the result set. Often used to create interactive query results, labels, URLs combined with liquid. Other use cases of parameters can include how users would like to aggregate a certain measure: sum, count, average – this is then all included in the liquid of the measure to select the right aggregation. Also to select how users want to show a date without including all options in the field picker    
+- Parameter: they create a filter-only field users can use to provide input to a liquid parameter tag. It can be used to filter, but it cannot be added to the result set. Often used to create interactive query results, labels, URLs combined with liquid. Other use cases of parameters can include how users would like to aggregate a certain measure: sum, count, average – this is then all included in the liquid of the measure to select the right aggregation. Also to select how users want to show a date without including all options in the field picker. Parameters can be used to as filters that can make measures dynamic. E.g. we use a parameter to select how we want to show our amount metrics. We then a liquid variable with the parameter in a measure to actually make it dynamic. We also use some HTML to change how we visualize the rendered values     
 - HTML parameter: specify HTML contained by a field. Did we use this for the custom tooltip?  
-- Constants: an unchanging value provided that can be used throughout the project 
+- Constants: an unchanging value provided that can be used throughout the project - e.g. a hardcoded currency that you don't need to repeat
 - Sets: list that defines a group of fields that are used together 
-Looker drill fields
-- Can be set on dimension, measure or view. 
-- At the view level, it applies to all measures, unless a measure has unique drill fields applied to it 
-- Drill fields can take sets (of fields) or individual fields 
-- There are options to have visual drills. There are also options to have include e.g. custom filters, drill into different dashboards, different explores, etc. 
-- Important notes:
-    - Drill fields can only be applied to fields that are also in the same model. E.g. pipeline history can’t take fields from the opportunities field 
-    - We cannot drill into table calculations at the moment - that’s why attended to S1 is not showing up as a drill field. Also SDR ramping performance 
+- Looker drill fields
+  - Can be set on dimension, measure or view. 
+  - At the view level, it applies to all measures, unless a measure has unique drill fields applied to it 
+  - Drill fields can take sets (of fields) or individual fields 
+  - There are options to have visual drills. There are also options to have include e.g. custom filters, drill into different dashboards, different explores, etc. 
+  - Important notes:
+      - Drill fields can only be applied to fields that are also in the same model. E.g. pipeline history can’t take fields from the opportunities field 
+      - We cannot drill into table calculations at the moment - that’s why attended to S1 is not showing up as a drill field. Also SDR ramping performance 
 - View labels can be the same as different views to ensure they are listed under one view header 
 - Images are brought in via a URL combined with some HTML 
 - A good rule of thumb could be to only persist tables when they are referenced by other views or when they require the performance of a materialized table 
@@ -149,3 +157,129 @@ Looker training:
 - Explanations of different Looker use cases and how this relates to what the users wanted to get out of the session  
 - Table calculations, scheduling
 - Building dashboards 
+
+## Open source tools
+- Lookmlint: catch style issues, unused views, semicolons in derived table SQL, raw SQL references in joins, and more.
+- LAMS (Look at Me Sideways): official LookML styler and linter
+- WW tech: https://github.com/ww-tech/lookml-tools
+
+## Looker technical
+- Looker: create a calculated field that only applies to a single field: pivot_where(${opportunities.pipeline_attribution}="Marketing", ${plan_sal.total_SALs}*1.0). We can then show that calculation as a line in an otherwise stacked column chart.  Similarly: pivot_where(${opportunities.opportunity_funnel_stage} = "SAO", ${opportunities.number_of_opportunities}) / ${opportunities.number_of_opportunities:row_total}
+- We can turn off ‘plot null values’ to only show relevant data 
+- Looker filters: show dates until today needs to be done using two filters 
+- Hide null values from a Look viz but not plotting null values. Note that for now, this is only available for line graphs
+- Looker value format in graphs that show GBP: [$£-en-GB]#,##0
+- Moving average: mean(offset_list(pivot_where(${opportunities.opportunity_funnel_stage} = "SAO",${opportunities.number_of_opportunities}), -2,3))
+- When LookML errors occur but we still want to commit: Shift click on the arrow next to validate again - here we can actually commit the code 
+- We can create usage and metadata reports with i__looker: https://tessian.eu.looker.com/explore/i__looker/history?qid=qrQxWuqEwUSOG7DqJW33iu
+
+
+**Parameters and liquid for displaying currencies:**
+
+```
+  parameter: select_region {
+    description: "Advanced use only - used to seperate USD and GBP conversions"
+    type: unquoted
+    default_value: "none"
+    allowed_value: {
+      value: "all"
+      label: "All"
+    }
+    allowed_value: {
+      value: "namer"
+      label: "NAMER"
+    }
+    allowed_value: {
+      value: "emea"
+      label: "EMAE"
+    }
+  }
+
+  dimension: amount_usd_only {
+    hidden: yes
+    type: number
+    sql: CASE WHEN ${currency} = 'USD' THEN ${amount_salesforce} ELSE 0 END ;;
+    value_format_name: usd
+  }
+
+  dimension: amount_gbp_only {
+    hidden: yes
+    type: number
+    sql: CASE WHEN ${currency} = 'GBP' THEN ${amount_salesforce} ELSE 0 END ;;
+    value_format_name: gbp
+  }
+
+  dimension: amount_gbp_converted {
+    hidden: yes
+    type: number
+    sql: CASE WHEN ${currency} = 'USD' THEN ${amount_salesforce} / 1.25  ELSE ${amount_salesforce} END ;;
+    value_format_name: gbp
+  }
+
+  measure: total_amount_dynamic {
+    description: "Advanced use only - used to seperate USD and GBP conversions"
+    type: sum
+    value_format_name: decimal_0
+    sql:
+    {% if select_region._parameter_value == 'namer' %} ${amount_usd_only}
+    {% elsif select_region._parameter_value == 'emea' %} ${amount_gbp_only}
+    {% else %} ${amount_gbp_converted}
+    {% endif %}
+    ;;
+    html:
+      {% if select_region._parameter_value == 'namer' %}
+            ${{ rendered_value }}
+          {% else %}
+            £{{ rendered_value }}
+          {% endif %}
+      ;;
+  }
+  ```
+
+
+**Extensive calculation in Looker.**
+```
+ index(${historic_sales_forecast.value}, max(offset_list(if(is_null(${historic_sales_forecast.value}), null, row()), -1 * row() + 1, row())))
+```
+
+- Get the row number for each non-null row using the row() function
+- Use offset_list to get a list of all of those row numbers from the first row to the current row
+- Take the max of that list of values, which will be the row number of the last non-null row
+- Use the index function to get the value of the field for that row number
+
+**Links in Looker**
+```
+dimension: merchant_name {
+    group_label: "Monzo Transactions"
+    label: "Merchant Name"
+    type: string
+    sql: ${TABLE}.merchant_name ;;
+    link: {label:"Merchant Website"
+           url:"https://{{ fluentd_monzo.merchant_metadata_website._value }}"
+           icon_url: "https://www.google.com/s2/favicons?domain=google.com"
+          }
+    link: {label:"Merchant Twitter Profile"
+           url:"https://twitter.com/{{ fluentd_monzo.merchant_metadata_twitter_id._value }}"
+           icon_url: "
+https://www.google.com/s2/favicons?domain=twitter.com"
+      }
+
+
+link: {label:"View in Google Maps"
+       url: "https://www.google.com/maps/search/?api=1&query={{ fluentd_monzo.merchant_address_latitude._value }},{{ fluentd_monzo.merchant_address_longitude._value }}&query_place_id={{ fluentd_monzo.merchant_metadata_google_places_id._value }}"
+       icon_url: "https://www.google.com/s2/favicons?domain=maps.google.com"}
+link: {label:"View in Foursquare"
+       url: "{{ fluentd_monzo.merchant_metadata_foursquare_website._value }}"
+       icon_url: "https://www.google.com/s2/favicons?domain=foursquare.com"
+    }
+
+dimension: opportunity_name {
+    type: string
+    sql: $.dealname ;;
+    link: {
+      label: "View Deal in Hubspot"
+      url: "https://app.hubspot.com/contacts/4402794/deal/{  }/"
+      icon_url: "http://app.hubspot.com/favicon.ico"
+    }
+}
+```

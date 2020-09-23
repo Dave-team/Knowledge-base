@@ -1,5 +1,9 @@
 # BI principles
 
+## Links
+- Gitlab data team: https://about.gitlab.com/handbook/business-ops/data-team/
+- 
+
 ## Mindset
 Think about BI as if it's a SaaS product and the users are your customers. Approach it as running the growth team where you improve your offering step by step by running experiments and analysing the results and always solving solutions for your end users first. 
 
@@ -8,11 +12,13 @@ Think about BI as if it's a SaaS product and the users are your customers. Appro
 - Data is correct and quality controlled. Shipping out bad data quickly destroys the team's credibility. The business needs to trust the data 
 - Data is available to answer relevant questions 
 - Data is current 
+- Data is consistent when looking at it in different ways 
 - Data tools are fast and easy to use 
 - Data is democratized and the BI tool is self service
 - Data is well documented 
 - Automate as much as possible 
 - As much as possible is defined in code
+- DAta is version controlled
 
 ### Process principles
 - Great support, documentation, onboarding / training
@@ -209,6 +215,19 @@ When you catch a problem and correct it, notify the stakeholders in case they al
 - Source data has been looked at as is in a fairly good state 
 - Available resources: people are in a state where they know that BI is needed and spend time on it 
 - The available data needs to warrant a BI system and the implementation needs to be feasible 
+
+### Indicators that BI is needed 
+- Out of the box reporting by tools is no longer sufficient and creates knowledge silos
+- Heavy maintenance to sustain in Google Sheets / Excel
+- Increase in data volume exceeds limits of current solutions
+- Unclear definitions of core KPIs resulting in conflicting analysis and communication
+- Growing demand for more advanced analytics
+- Frequent data inconsistencies issues and consequent lack of trust in reports
+- Increased complexity of calculations / logic due to more advanced business logic
+- Requirements to create dashboards visualize performance from multiple sources. Or in general: requirements to combine data from multiple sources 
+- Lots of time consumed on data analysis
+- Many manual tasks such as manual historicizing of KPIs per week
+
 
 
 ### Measuring BI success 

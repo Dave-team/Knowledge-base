@@ -180,3 +180,7 @@ Scope of Influence: Company
 **Planning & Infrastructure**	
 - Sets Analytics priorities and roadmap: Creates & executes against a long term (12+ mo) plan to improve the company's analytics capabilities
 - Proactively identifies how to improve Analytics team operations and increase productivity (tools, processes, etc)
+
+**Other**
+- Identify opportunities for innovation across the entire customer journey.
+- Cultivate cross-functional relationships between business units to ensure insights become actionable.

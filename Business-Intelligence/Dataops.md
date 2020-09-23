@@ -17,6 +17,12 @@
 - When checking data, keep things constant to compare like for like and to be correct on principles. Only after, make change to logic. When trying to replicate something existing, make sure to first completely understand the logic. Look at the spreadsheet, map your thinking and then verify with users. Only then start to aim a replication
 - Don't change too many things at the same time. 
 - Keep a running log of interesting cases: e.g. opportunities that have something unique about them that makes them hard to work with. In your models, check what happens to these opportunities. These cases are very useful in future tests you perform 
+- Test requirements
+  - Specific, so it’s clear what a test failure means. One test that tests three conditions will always be harder to debug than three tests for individual conditions.
+  - Automated, so it can be put into a test suite and run easily. Having an automated test suite means you can quickly assess the data warehouse-wide impact of introducing new SQL.
+  - Fast, so you’re not waiting forever for the test suite to finish. If a test takes longer than a minute or so, I’ll attempt to break it up into multiple tests or I’ll test a smaller sample.
+  - Independent, so it can be run at any time and in any order.
+
 
 ### Source data testing
 - Create an initial gap analysis between source and BI data. This includes 
@@ -54,6 +60,13 @@
     - Sum of key column (e.g. revenue)
     - Distinct values in column 
 - If a business user is impacted, involve them with the review process
+- DBT <> Looker flow: 
+  - Build and test dbt models locally
+  - Change references to tables in Looker to point to your local schema
+  - Run the Content Validator in Looker to ensure that everything still works. This is great for catching other reports that depend on the table you just changed. Also compare dev to prod and make sure data and dashboards all still work. 
+  - Invvolve stakeholder is the dev vs prod comparison when the changes are very significant 
+  - Change references back to prod schema, and deploy to master
+
 
 ### BI tool testing
 **Automated tests**
@@ -146,11 +159,21 @@ Business ticket creation:
 -  
 
 ### Prioritization
-- How important is this?
+BI work on a high level is split between ad hoc requests and projects. You'll need to find a balance between the two. 
+
+For each ad-hoc ticket: 
+- Scope out how long they should take first thing in the morning. 
+- If it's <2 hours, do it first thing 
+- If it takes more research, consider the urgency, otherwise put it in the backlog and communicate with stakeholder
+
+
+- How important is this? Does knowing the result of this analysis materially affect the company? 
 - Is there a deadline? Here, also try to get to know whether there are dependencies involved 
-- How accurate do you need the answer to be?
+- How accurate do you need the answer to be? Making something approximately correct can save lots of time
 - What type of end result are you looking for?
 - How feasbile is this to be implemented as requested?
+- Key is to keep your stakeholders informed. Both on what you're doing with ad-hoc projects and during longer term projects. They might feel that a project for example shouldn't quite take as much time
+- 
 
 ## Dashboard management 
 - Make sure WIP is in the dashboard title whilst working on it 
@@ -159,6 +182,63 @@ Business ticket creation:
 - Track usage of your dashboard. If a dashboard is no longer used, find out why. Find out why they used it, how they get that info now
 - Always make sure dashboards are up to date and relevant. Clean up anything that is no longer relevant or not used
 
+## Dataops manifesto 
+“DataOps is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics.”
+
+DataOps Principles
+1. Continually satisfy your customer:
+Our highest priority is to satisfy the customer through the early and continuous delivery of valuable analytic insights from a couple of minutes to weeks.
+
+2. Value working analytics:
+We believe the primary measure of data analytics performance is the degree to which insightful analytics are delivered, incorporating accurate data, atop robust frameworks and systems.
+
+3. Embrace change:
+We welcome evolving customer needs, and in fact, we embrace them to generate competitive advantage. We believe that the most efficient, effective, and agile method of communication with customers is face-to-face conversation.
+
+4. It's a team sport:
+Analytic teams will always have a variety of roles, skills, favorite tools, and titles. A diversity of backgrounds and opinions increases innovation and productivity.
+
+5. Daily interactions:
+Customers, analytic teams, and operations must work together daily throughout the project.
+
+6. Self-organize:
+We believe that the best analytic insight, algorithms, architectures, requirements, and designs emerge from self-organizing teams.
+
+7. Reduce heroism:
+As the pace and breadth of need for analytic insights ever increases, we believe analytic teams should strive to reduce heroism and create sustainable and scalable data analytic teams and processes.
+
+8. Reflect:
+Analytic teams should fine-tune their operational performance by self-reflecting, at regular intervals, on feedback provided by their customers, themselves, and operational statistics.
+
+9. Analytics is code:
+Analytic teams use a variety of individual tools to access, integrate, model, and visualize data. Fundamentally, each of these tools generates code and configuration which describes the actions taken upon data to deliver insight.
+
+10. Orchestrate:
+The beginning-to-end orchestration of data, tools, code, environments, and the analytic teams work is a key driver of analytic success.
+
+11. Make it reproducible:
+Reproducible results are required and therefore we version everything: data, low-level hardware and software configurations, and the code and configuration specific to each tool in the toolchain.
+
+12. Disposable environments:
+We believe it is important to minimize the cost for analytic team members to experiment by giving them easy to create, isolated, safe, and disposable technical environments that reflect their production environment.
+
+13. Simplicity:
+We believe that continuous attention to technical excellence and good design enhances agility; likewise simplicity--the art of maximizing the amount of work not done--is essential.
+
+14. Analytics is manufacturing:
+Analytic pipelines are analogous to lean manufacturing lines. We believe a fundamental concept of DataOps is a focus on process-thinking aimed at achieving continuous efficiencies in the manufacture of analytic insight.
+
+15. Quality is paramount:
+Analytic pipelines should be built with a foundation capable of automated detection of abnormalities (jidoka) and security issues in code, configuration, and data, and should provide continuous feedback to operators for error avoidance (poka yoke).
+
+16. Monitor quality and performance:
+Our goal is to have performance, security and quality measures that are monitored continuously to detect unexpected variation and generate operational statistics.
+
+17. Reuse:
+We believe a foundational aspect of analytic insight manufacturing efficiency is to avoid the repetition of previous work by the individual or team.
+
+18. Improve cycle times:
+We should strive to minimize the time and effort to turn a customer need into an analytic idea, create it in development, release it as a repeatable production process, and finally refactor and reuse that product.
 
 
 

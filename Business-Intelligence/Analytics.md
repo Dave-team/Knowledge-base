@@ -44,7 +44,7 @@
 - Offer to take them through it 
 - Present the big idea first. Tell your main story within 3 minutes 
 - Go through slides and answer any questions
-- Present things as simple as possible 
+- Present things as simple as possible and don't leave the interpretation to the audience. 
 - Have strong reasons for why you approached it in a certain way 
 - Powerpoint:
     - Title page
@@ -59,6 +59,7 @@
 - Add context from business initiatives. Avoid sending an analysis where a stakeholder looks at it and says 'That's because of Y'. Have the business understanding to say this proactively 
 - A good way to present data is by showing changes 
 - It can be handy to also display future plan values in a graph – this will show the stakeholders what is expected to happen in the near future 
+- Can also show business goals/targets as a reference line
 
 ### Show business value
 - Don't present numbers - present actions and/or recommendations and show significance. Both practical and statistical 
@@ -93,9 +94,81 @@ First, consider whether it is a problem worth investigating. If it is, consider:
 - Device 
 - Customer segment
 
+## Web analytics
+Look into: 
+- Long term trends in visitors / unique visitors
+- Where are visitors coming from? Look at Referring URLs and Search Keywords 
+- What do I want visitors to do on the website?
+  - Why does the website exist?
+  - What are the top 3 acquisition strategies? 
+  - What do you think should be happening on your website?
+- What are visitors actually doing? Look at: 
+  - Top entry pages. Most likely, these won’t actually be the homepage as direct traffic isn’t that much any more 
+  - Top viewed pages 
+  - Site overlay analysis – for the top viewed pages, analyze the click patterns. This will help understand navigational challenges, help understand visitor intent and suggest optimization actions 
+  - Abandonment analysis – check the funnels and see where the highest abandonment is happening – visitor behavior there identify opportunities that can improve outcomes fast 
+
+**Actionable tips:**
+- Look at top entry pages and analyze their bounce rates
+- Look at top keywords and analyze their bounce rates. Here you have visitor intent – why do they visit? Maybe you’re ranked for the wrong keywords or you might e.g. not have the right CTAs. Key here of course is to test different versions  
+- Look at the site overlay report to get an idea of where your users are clicking on your pages. 
+  - Look at where the people click the most and compare that to where you want / expect people to click. 
+  - Also, compare above and below the fold clicks. 
+  - Look at where people went to before the likelihood of conversions increases.
+  - Really put yourself in your users shoes and see how they are clicking 
+- Look at visits to purchase and days to purchase – how many visits need to be made, on average before your users decide to purchase something? Learn what it takes to convince people to buy 
+
+**Sessions**
+- A visit is basically someone entering the website
+- Whatever this person does within 30 minutes on the website is called a session
+- Time on page is measured from entering the page to going to a next page. If they never go to a next page, time on page is null. If they do the dishes and come back > 30 minutes later, its a new session 
+- Unique visitors are identified by their cookies. This makes it harder to identify them when they don't accept cookies 
+
+**Different tools will provide different results**
+- Data collected from web logs vs Javascript tags
+- First party or third party cookies (determined generally by the tool)
+- Imprecise Website Tagging 
+- Different definitions of different metrics. Ask your vendor e.g. how conversion rates are defined
+- Sessionization: different tools define sessions differently
+- URL parameters: make sure all tools identify the right parameters you set 
+- Campaign parameters: make sure all tools identify the right parameters you set. Marketing campaigns are tracked using campaign tags. You also need to include additional information to the links used in the marketing campaign. See below. There is a url building tool and supports creating these marketing activity related links 
+
+**User research**
+With user research, there are three basic questions that probably should be asked:
+- What is the purpose of your visit to our website today?
+- Were you able to complete the task?
+- If you were not able to complete your task, why not? 
+
+## Attribution modelling 
+There are several attribution strategies
+To pick to one right for the company, consider:  
+- Media Mix Modelling: run tests with different mixes of channels (e.g. by area). Then, compare the conversion numbers and calculate the CAC 
+- Marginal Attribution Analysis. Spend X amount more on a certain channel than before and calculate the differences in conversion rates. With this, it is crucial to only change one variable. 
+
+**Marketing parameters**
+- “Medium” communicates the mechanism, or how you sent your message to the user. You could include “email” for an email campaign, “cpc” for paid search ads, or “social” for a social network.
+- “Source” communicates where the user came from. This could be a specific web page or a link in an email. Source could also differentiate the type of medium. So if the medium was “cpc” (or “cost per click” paid traffic), the source might be “google,” “bing,” or “yahoo.” If the medium was “email,” the source might be “newsletter”.
+- “Campaign” can communicate the name of your marketing campaign such as “2015-Back-To-School” or “2015-Holiday-Sale”.
+- “Content” can be used to differentiate versions of a promotion. This is useful when you want to test which version of an ad or promotion is more effective. If you’re running a test between two different versions of a newsletter, you might want to label these tags “v1-10dollars-off” and “v2-nopromo” to help differentiate which newsletter the data is associated with in Google Analytics.)
+
+
+
+
+## Multichannel analysis (Nonline world)
+Here are some tricks:
+- Use vanity URLs (also called redirects). E.g. create a simple URL that you put in a TV ad. Then, when someone searches for the URL, it redirects to  www.quickbooks.intuit.com/?campaign=tv_nbc_dec_2009
+- Use unique redeemable coupons and offer codes that are specific to the channel. E.g. TV, TUBE, or Taxi
+- Online surveys (‘How did you hear from us?’)
+- Correlating Traffic Patterns and Offline Ad Schedules. We know where and when ads run. This helps setting up a baseline and we can then measure the impact when campaigns are live. In addition, you can also correlate the impact from offline channels (use vanity URLs) with visits to website via other channels (such as organic, or PPC). You want to compare the reach of the ad to direct traffic to vanity URL, When you do this type of analyses, try to minimize the impact of other things – so when you compare radio, make sure to keep other channels at least equal. 
+- Leveraging controlled experiments. Plan an experiment. Then, collect data 30 days worth of data before and after the experiment. You want to see uplift during the experiment and ideally you’d also want to see permanent uplift after the experiment.
+
+
 ## Other
 - Make sure to keep the raw data with the analysis somewhere well documented as you will always need to do the analysis again or remember your assumptions
 - Keep a log of business initiatives. Any time something happens that causes data to shift, keep a note of this in a Google Sheet that gets pipelined into the warehouse. Columns could be data, type, notes. Things to include could be: marketing campaigns, feature releases, bugs, holidays, press. It also helps generally keep a log of events that happened as a source of truth
+- When showing data over time, consider comparing different time periods in the same graph 
+- Similarly, show the future plan 
+- Never show data that looks off/raises questions. Either remove these things or have a clear simple explanation ready. Where required, make clear that things are an outlier.  
 
 ![Analysis context ](https://user-images.githubusercontent.com/28791247/92440452-7189ac80-f1a4-11ea-8f92-3898c3f2cad0.png)
 

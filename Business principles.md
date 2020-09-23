@@ -177,3 +177,8 @@
 - Under promise and over deliver
 - Always confirm things in writing 
 - Make use of issue logs and post mortems in projects 
+- Be aware of the hype cycle (see below)
+
+![Hype cycle](https://user-images.githubusercontent.com/28791247/93708362-6718cc80-fb2d-11ea-8988-476b29214bbd.png)
+
+

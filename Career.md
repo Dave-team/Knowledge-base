@@ -22,6 +22,16 @@
 - Really understand the data 
 - Implement best practices and educate the business on best practices where needed 
 
+## Be curious
+- Google around Snowflake, DBT, Fivetran, Looker etc
+- Google around practical data science use cases, such as experimentation, forecasting, predictive analytics
+- Stay up to date with release notes
+- Think about what metrics are relevant for different industries / functions / use cases. Also, how to decide on metrics to track when running different tests?  
+- Search for good ETL examples where actual SaaS data is extracted from APIs
+- Find some great datasets online and play with them
+- Find great analysis online and understand them and replicate to practice
+
+
 ## Starting a new job
 - Create a 90 day plan with priorities, goals and milestones. Gets this approved by your boss. When you prepare, think about what you want to get done day 1, day 2, week 1, month 1, month 2, month 3. Ideally set up specific success criteria here
 - Key deliverables in the first stage should be: 

@@ -12,6 +12,7 @@
 - A good is where the audience learns something new or comes away with a change in perspective 
 - Focus on the value you're bring to the audience. Rather than providing your credibility, articulate a questions they'd love to have an answer to. 
 - Take every opportunity to speak in public 
+- 
 
 ## Slides
 - Only use slides that provide value

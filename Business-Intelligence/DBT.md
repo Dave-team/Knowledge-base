@@ -5,6 +5,16 @@
 - DBT viewpoint: https://docs.getdbt.com/docs/about/viewpoint/
 - How we configure Snowflake: https://blog.getdbt.com/how-we-configure-snowflake/
 - How we structure our DBT projects: https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
+- Untangle the SQL mess with Jinja: https://changhsinlee.com/pyderpuffgirls-ep5/
+- 
+
+## Benefits
+- Version control transformation code 
+- Improved data quality through automated tests 
+- Great platform to document data infrastructure 
+- Create modular data models through the ref function and the DAG.  
+- Custom scheduling using DBT Cloud. 
+- It is more powerful than normal SQL as we write it in the python language (Jinja)
 
 
 ## DBT architecture
@@ -88,9 +98,28 @@ where created_at >= dateadd('day', -3, current_date)
 - We can add a better Continious Integration process to our workflow: https://docs.getdbt.com/docs/dbt-cloud/using-dbt-cloud/cloud-enabling-continuous-integration-with-github/
 - Generate docs by enabling the setting on the DBT Cloud job 
 - We have the option to add Redshift customizations to improve model performance in DBT 
+-	Always remember that all models need to be run before the final query can be run – e.g. stg, then inter and only then dim or fact 
 
 ## DBT set-up
+### Command line
+**General**
+-	Install DBT in my user directory on my local machine. This creates a .dbt folder that is hidden by default (go to folder to find it)
+-	Set up a profile: this contains info on how DBT connects to DWH, it is stored in profiles.yml and should sit within the .dbt directory. This is for both dev and prod – when using DBT Cloud, only Dev as that’s the only thing we run on the local machine. Becomes it lives on my local machine, there is no need to worry about security here 
+-	Create a project: DBT init. This creates a new folder in the path. Each project folder in DBT consists of: 
+  -	Models: .sql files (each model is a single SELECT statement) 
+  -	A project file: dbt_project.yml which species how DBT operates on the project
+  -	Macros: this is logic that can be applied throughout the project 
 
+**Git** 
+-	In Github, create a repo for DBT. This does not need to include anything
+-	Clone that repo to your local machine – this creates a new folder
+-	Copy the DBT project folder (i.e. what was created after dbt init) into the local repo folder 
+-	Create new DBT models, macros, update project etc. in the repo folder. Note here that we can do the same thing if we use Atom <> Github integration 
+-	DBT run after the directory is changed to the dbt repo folder. This should be a dev run 
+-	Then, in the same local repo folder we want to commit to master (and the master branch is the one connected to DBT Cloud):
+  -	Git add .
+  -	Git commit –m “Commit message”
+  -	Git push
 
 
 with {{ distinct_source(source=source('gitlab_dotcom', 'gitlab_subscriptions'))}}, 
@@ -114,3 +143,25 @@ renamed AS (
   
     FROM distinct_source
     WHERE gitlab_subscription_id != 572635 -- This ID has NULL values for many of the important columns.
+
+
+
+
+-- Load the results of our statement and select the first column
+{%- set states = load_result('states')['data'] | map(attribute=0)-%}
+
+select
+    *,
+
+    -- Loop over each state
+    {% for state in states | list -%}
+    
+        case
+            when state = '{{ state }}' then 1
+            else 0
+        end as "is_{{ state }}"
+
+        {% if not loop.last %} , {% endif %}
+    {% endfor %}
+
+from {{ ref('users') }}

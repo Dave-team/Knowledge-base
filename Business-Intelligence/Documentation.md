@@ -61,9 +61,25 @@ Create a data dictionary that ideally is automated (e.g. from DBT and LookML com
 - Whether null values are accepted
 - Sample values
 - Source: source system, source table, source field name, source datatype
-- Example data
+- Link to report 
 - Transformation 
 - Notes
+
+Steps to create a dictionairy: 
+- Collect dimensions and measures from the vairous reports people use
+- Send the list to relevant business owners and ask to complete with remaining metrics. 
+- Add defitions - use existing documentation, spreadsheets
+- Send this back to the business and ask for help with the definitions not yet captured and improving existing defitions. Importantly, don’t ask “what is the current definition?” but “how should this be defined?” 
+- Identify conflicts: This is a key step: root out any terms where its definition differs among teams.
+- Get alignment: For those terms that differ among teams, bring the relevant teams into the same room (and lock the door). Have them discuss how and why they differ. For this meeting, there should be agreement with only 2 outcomes:
+  - one team agrees to adopt definition of the other team.
+  - they have legitimate reasons why they differ. In this case, agree on a new name for one or both terms.
+- Get Sign off. Have the team heads sign off. This is crucial. 
+- Publish the dictionairy in a central spaceaccessible to the whole company 
+- If there are changes in definitions:
+  - prepare a chart showing the metric with both the old and new definition of the metric to set expectations of how the numbers might change.
+  - Treat that definition change like a product release: communicate the definition change in advance, tell people what to expect, and document the change in the data dictionary, such as with a change log at the bottom of the document.
+
 
 ## DBT 
 - Comment SQL code that handles transformations
