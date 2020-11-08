@@ -91,6 +91,13 @@ Data Modelling is the diagrammatic representation showing how the entities are r
 - Logical Model will be showing up entity names, entity relationships, attributes, primary keys and foreign keys in each entity. It is used for the implementation of the DBMS
 - Physical Data Model will be showing primary keys, foreign keys, table names, column names and column data types. This is the final design blueprint to be implemented 
 
+## Why data types matter
+- Data is stored in a consistent and known format
+- Knowing the data type allows you to know which calculations and formulations you can use on the column.
+- Data types affect storage. Some values take up more space when stored in one data type versus another
+- Data types affect performance. The less time the database has to infer values or convert them the better.
+
+
 ## Glossary 
 - Facts: measurement of business activity, e.g. business event or transaction, and it’s often numeric (and additive). Fact tables essentially describe a process. Fact tables consist of two types of columns: keys and measures. The keys are foreign keys that point to the primary keys of dimensional tables that are associated with the fact table to enable business analysis. The primary key of a fact table is often a combination of foreign keys that combined can identify a unique row in the fact table. We can create a surrogate key for the fact tables but this often has low business added value.
 - Dimension: an entity that establishes the business context for the measures/facts. They define the who, what, where, and why of the dimensional model. Measures are numeric, dimensions are descriptive. A key concept in dim tables is that each row should be unique. A dimension table consists of a primary key and attributes 

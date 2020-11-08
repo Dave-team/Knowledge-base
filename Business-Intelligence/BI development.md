@@ -6,6 +6,9 @@
 - Never make a change promptly. Keep different versions and decide what’s best over time
 - Don’t build something slightly complex in SQL until the approach is confirmed across the board. Whenver you're code starts to look complex, take a step back and see if we can prove an easier solution and whether we can simplify the complexity
 - Don’t aim for perfection – aim for making it good enough (i.e. meeting requirements) and prioritize speed. Realize that it’s hard to make a perfect model that works for all cases. Build it for 80% of the cases first. You can always make it better 
+- The worst thing in data is sending out bad numbers. Don't skip tests, don't skip peer reviews, don't take shortcuts and make sure you fully understand what you're doing, what that means and the impact that has. It takes an experienced data analyst to know when to slow down. Even when facing large amounts of pressure and urgency.
+- When changing something, try not to change too many things at the same time. Be able to keep track of and audit changes one by one 
+- When changing infrastructure, don't change business logic as you want to compare like for like first 
 - BI in short: 
   - Manage expectations
   - Demonstrate small success
@@ -142,6 +145,15 @@ If this was a migration:
     - Excel worksheet with details on each table
     - Open issues log highlighting unresolved issues
     - Discussion of known limitations in the design 
+
+## DBT development 
+- Look at existing PDTs: how are they used? 
+  - If joined in Explore, its a fact / dimension table 
+  - If not joined, its an intermediate table 
+- Recreate the tables in DBT 
+- Keep an eye out on them and ensure there are no differences between PDT logic and DBT 
+- Publish the table as is - don't change any logic
+- Over time, work on performancec improvement and improving the logic 
 
 ## Updates from Papier
 When people don't know the data yet: 

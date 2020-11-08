@@ -85,8 +85,16 @@
 - Never leave an email unread for more than a week. It should be in a different folder if so 
 - Go through pending and review at least once a week and either archieve or action the items 
 
+## Getting things done
+- Aim: get everything out of your head to reduce cognitive load. Everything is organized / grouped to make it easiest to action 
+- 
+
 
 ### Other
 - Make the bed each morning to set a good start of the day
+- A good way to tag/group tasks is based on levels of energy: Focus - Long. Focus Short. Brain Dead Long
+- If today only had 2 hours, what would I do that has the most impact?
+- What is the one thing I can do today that makes everything easier or even unneccessary?
+- 
 
 ![Productivity Matrix](https://user-images.githubusercontent.com/28791247/92321110-432e9480-f01f-11ea-910f-3198f8b87add.png)

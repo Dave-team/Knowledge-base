@@ -27,7 +27,7 @@
 - Use value format names to ensure data shows up in the right format
 
 **Looker organization / design**
-- Each explore should describe a separate process. In terms of development, you can either start bigger and once you understand use cases go smaller, or you start small and go bigger once people ask for it. 
+- Each explore should describe a separate process. In terms of development, you can either start bigger and once you understand use cases go smaller, or you start small and go bigger once people ask for it. In general, avoid people feeling overwhelmed. Start small and let people request data as and when they need it
 - Make sure to group explores / models that relate together. So Activities, Opportunities and Pipeline History are all under Salesforce 
 - Restrict user thinking – create measures with filters
 - Limit the number of fields in the field picker: group measures / dimension together when they strongly relate to each other. E.g. use a group label Address and then within that is Town, Country, Post code etc. 
@@ -147,7 +147,10 @@ To delete local, developers need to clean up their own branches in Looker.
     By default, we work on our own dev branch in Looker. This personal dev branch is read only to all other Looker users. 
 Because dev branch is read only, we’d want to collaborate on different branches that are newly created for each project and based off master. This means that other Looker users can switch to the branch and review changes as well (e.g. compare your newly created branch against prod) 
 
-## Looker training
+## Looker onboarding
+- Send Looker intro, Looker worksheet and worksheet answers
+- They should work with the data champions in their team 
+
 Looker training: 
 - Kickoff: intro of me, and overview of what we’re going to do and get an understanding of how users want to use the data  
 - Introduction: what is Looker and how is it helpful? 
@@ -161,7 +164,14 @@ Looker training:
 ## Open source tools
 - Lookmlint: catch style issues, unused views, semicolons in derived table SQL, raw SQL references in joins, and more.
 - LAMS (Look at Me Sideways): official LookML styler and linter
+- Finding unused content: Henry
+- Find/prevent broken LookML <> dwh references: Spectacles 
 - WW tech: https://github.com/ww-tech/lookml-tools
+
+## Other
+- Self service is supported - people should build their own things 
+- However, make sure there still are SSOT dashbaords that are maintained by the data team and heavily socialized. Also consider putting these on Looker's homepage 
+- 
 
 ## Looker technical
 - Looker: create a calculated field that only applies to a single field: pivot_where(${opportunities.pipeline_attribution}="Marketing", ${plan_sal.total_SALs}*1.0). We can then show that calculation as a line in an otherwise stacked column chart.  Similarly: pivot_where(${opportunities.opportunity_funnel_stage} = "SAO", ${opportunities.number_of_opportunities}) / ${opportunities.number_of_opportunities:row_total}

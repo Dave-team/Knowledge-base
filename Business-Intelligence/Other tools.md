@@ -1,3 +1,13 @@
+## Tools to explore
+- Great Expectations
+- Looker open source tools
+  - Look At Me Sideways 
+  - Henry
+
+
+
+
+
 ### Stitch
 - Free plan based on row counts 
 - Incremental tables need to be backfilled with their data and how to do this is depending on the replication method. This is done by resetting the start date of the table 

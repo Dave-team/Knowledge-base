@@ -13,7 +13,7 @@
 
 ### Requirements gathering
 - What is the question we are trying to answer?
-- What is the impact of this question and how will it help the company?
+- What is the impact of this question and how will it help the company? (This can be different from what's asked for)
 - How and when will you use the data? E.g. in a dashboard shown in weekly meeting, to import into email tool, to put in slides, to send as schedule, to create alerts from, to put into spreadsheet that then does further transformation?
 - Who will be interested in the data and needs access? 
 - Any visualization requirements? 
@@ -30,7 +30,8 @@
     - Mock-up/wireframe of dashboard
 - Sign this ticket off with the stakeholder prior to development
 - Regular check-ins during the incremental build 
-- Check-in prior to final delivery to ensure required impact is delivered. Always close the BI cycle. Remember to answer questions: 'So what' and 'Now what'?
+- Check-in prior to final delivery to ensure required impact is delivered. Always close the BI cycle. Remember to answer questions: 'So what' and 'Now what'? The end result should not be a deck summarizing findings, the end result should be recommendations or action items that lead to real impact. Closing the loop means pushing action items through, and following up after implementation to measure real impact.
+
 
 ### Dashboard checklist
 - Good design: 

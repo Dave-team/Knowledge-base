@@ -52,6 +52,14 @@
     - Main analysis following a story. This gives proof for the need of action - you are convincing them why they should accept the solution you are proposing
     - Recommendations / executive summary with the key points from the analysis (i.e. repeating the executive summary at the start). Then, you specify the actions or decisions you need the audience to take. It answers the goal of the analysis. A good analysis deck will have a specific call to action here – this should the answer the ‘Now What’ as well as ‘So what – what is the business value here?’
 
+## Analysis doc 
+- Objective
+- Approach
+- Summary
+- Recommendations
+- Analysis 
+- 
+
 ## Good analysis 
 ### Add context to analysis 
 - Compare data over time. Potentially show moving averages to show the trend more clearly. A good way is to show trend across multiple time frames: e.g. 2019 and 2020 over one another
@@ -93,6 +101,15 @@ First, consider whether it is a problem worth investigating. If it is, consider:
 - Cohort
 - Device 
 - Customer segment
+
+## Analysis that changes metrics significantly
+When big changes are about to happen you want to make sure the business knows about it. Prepare a slide deck with:
+- Exec summary
+- Changes in detail
+- Approach
+
+Then send an email clarifying approach, Exec Summary. Add more details in PPT and offer to go through in a call 
+
 
 ## Web analytics
 Look into: 
@@ -151,9 +168,6 @@ To pick to one right for the company, consider:
 - “Campaign” can communicate the name of your marketing campaign such as “2015-Back-To-School” or “2015-Holiday-Sale”.
 - “Content” can be used to differentiate versions of a promotion. This is useful when you want to test which version of an ad or promotion is more effective. If you’re running a test between two different versions of a newsletter, you might want to label these tags “v1-10dollars-off” and “v2-nopromo” to help differentiate which newsletter the data is associated with in Google Analytics.)
 
-
-
-
 ## Multichannel analysis (Nonline world)
 Here are some tricks:
 - Use vanity URLs (also called redirects). E.g. create a simple URL that you put in a TV ad. Then, when someone searches for the URL, it redirects to  www.quickbooks.intuit.com/?campaign=tv_nbc_dec_2009
@@ -162,6 +176,9 @@ Here are some tricks:
 - Correlating Traffic Patterns and Offline Ad Schedules. We know where and when ads run. This helps setting up a baseline and we can then measure the impact when campaigns are live. In addition, you can also correlate the impact from offline channels (use vanity URLs) with visits to website via other channels (such as organic, or PPC). You want to compare the reach of the ad to direct traffic to vanity URL, When you do this type of analyses, try to minimize the impact of other things – so when you compare radio, make sure to keep other channels at least equal. 
 - Leveraging controlled experiments. Plan an experiment. Then, collect data 30 days worth of data before and after the experiment. You want to see uplift during the experiment and ideally you’d also want to see permanent uplift after the experiment.
 
+## Lead and lag indicators
+A lag indicator is the thing you care about (like monthly revenue), but can only be measured in hindsight. A lead indicator has a predictive association to the lag indicator — site visits, unit sales, or page traffic behavior patterns may be lead indicators to a monthly sales lag metric. Lag measures are scoreboards that tell you if your decision making was successful. But lag measures are not inherently useful for data-driven decision making; that is what you need lead indicators for. Identifying these lead indicators is at the core of asking good questions.
+
 
 ## Other
 - Make sure to keep the raw data with the analysis somewhere well documented as you will always need to do the analysis again or remember your assumptions
@@ -169,6 +186,10 @@ Here are some tricks:
 - When showing data over time, consider comparing different time periods in the same graph 
 - Similarly, show the future plan 
 - Never show data that looks off/raises questions. Either remove these things or have a clear simple explanation ready. Where required, make clear that things are an outlier.  
+- Conversion rates should be tracked at point in time - e.g. conversion rate within 30 days after first visit
+- Make sure to define success metrics for new projects and how these are expected to be influenced  
+- 
+
 
 ![Analysis context ](https://user-images.githubusercontent.com/28791247/92440452-7189ac80-f1a4-11ea-8f92-3898c3f2cad0.png)
 

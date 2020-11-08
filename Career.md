@@ -175,3 +175,9 @@ A few reasons announcing plans is useful:
 - Communicating clear plans helps management… manage.
 - I think announcing ambitious plans can help kind of.. inspire the people around you? Like I sometimes see that someone else is kicking off a Very Important Project and I think, wow, that’s really cool, maybe we can do something cool like that.
 - It’s exciting to see people starting and finishing projects, like it creates momentum for the whole company if everyone talks about what they’re doing!
+
+
+## Development plan 
+- Link objectives / areas back to main role objectives
+- Each goal is clearly measurable. E.g. reading books is not measurable. Attending conferences is not measurable - specify which conferences. Often, it's about having implemented X 
+- 

@@ -8,7 +8,7 @@ The best way to learn is by practicing deliberately. Key characteristict:
 
 ## Learning principles
 - In order to learn, we need to move chunks of information from the short term memory (‘working memory’) to the long term memory in the brain  
-- Use spaced repetition with a tool like Anki. Spaced repetition is about remembering things just before we forget it. This will help remember things in the long term. Key with spaced repetition is to do it on a regular interval (e.g. make it a daily habit to review Anki each morning)  
+- Use spaced repetition with a tool like Anki. Spaced repetition is about remembering things just before we forget it. This will help remember things in the long term. Key with spaced repetition is to do it on a regular interval (e.g. make it a daily habit to review Anki each morning). Also just review notes multiple times  
 - Build a regular schedule around learning something. E.g. one hour before work
 - Create a roadmap of things you need to learn - a skeleton with links between them where you gradually increase your understanding 
 - Combine focused and diffused modes of learning. Focused: deliberate effort and elimination of disturbance. Diffused: happens during non focused times (e.g. sleep / walking). This is where the mind makes and strengthens connections and allows for creative solutions (let the subconsious help come up with solutions and strenghten neural links)
@@ -41,5 +41,9 @@ The best way to learn is by practicing deliberately. Key characteristict:
   - Teach it to a child (or pretend to be teaching it to a child). 
   - Identify gaps and go back to source material. This is where real learning happens. Competence is knowing the limit of your abilities 
   - Review and simplify
+- Before tackling a large subject, break it down and tackle these small pieces step by step and then combine these smaller pieces. 
+- Use multiple sources around a topic and use Youtube for the right topics. 
+- When you've been stuck on something for a longer while, make a note of it and put it away. 
+- Make sure to not allow a lot of time between learning the knowledge and applying what you learned
 
 

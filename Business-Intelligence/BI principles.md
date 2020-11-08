@@ -142,6 +142,13 @@ Hub and spoke model works well, where some analysts are part of the central data
 - Embedded - those in this role report to the data team but their priorities are set by their functional groups (business units).
 - Distributed - those in this role report to and have their priorities set by their functional groups (business units). However, they work closely with those in the Central role to align on data initiatives and for assistance on the technology stack.
 
+### Roles
+Data Engineer: Data Engineers build custom data integrations and manage over pipeline orchestration in order to ensure that the data brought into the data warehouse or data lake is correct. They develop and deploy machine learning endpoints, perform data warehouse optimizations, and maintain the data platform. Data Engineers are technically minded and always looking for ways to improve the technological aspects of the data stack.
+
+Analytics Engineer: The analytics engineers deliver well-defined, transformed, tested, documented, and code-reviewed data sets to the organization. Because of the high quality of this data and associated documentation, business users are able to do their own analysis while getting reliable, consistent answers. Analytics Engineers apply software engineering best practices to analytics code through the use of version control, testing, and continuous integration. They also train business users on how to best use their business intelligence tools.
+ 
+Data Analyst: Data Analysts perform deep insight work, such as determining the reasoning behind observed trends. They work with the business users to understand data requirements and then translate that information to the rest of the data team. They build critical dashboards, perform forecasting, and push the limit of end-user analytics in order to derive the most value out of the data warehouse. Analysts can provide the most value when they have ownership over the decisions being made from data. This means having a deep understanding of the system and a close working relationship with stakeholders, so that they know enough to provide recommendations and proposals for changes and actions. Analysts should have a strong stake in the success and failure of the teams they support.
+
 ### OKR planning
 - Coming from the higher level BizOps/Finance KPIs and the needs of the data team
 - Best way to get them is brainstorm with the data team
@@ -187,6 +194,14 @@ Hub and spoke model works well, where some analysts are part of the central data
 - Quarterly check-ins with power users / data champions in each team
 - Form for end users to fill in. This can be simple requests as well as bugs / issues. Include a Slack channels where requests are automatically posted. Then review these requests and ask the necessary questions in a thread. 
 
+## Education
+There are three main types of education you need to master before you can call yourself an expert analyst: mentoring your data team, empowering your end users and enlightening your executives.
+- Data team: your job is to take their innate curiosity and help them use it to find answers. On a practical level this means lots and lots of questions to answer. Be patient (remember how long it took you to get this stuff!), but also avoid immediately showing them the answer as soon as they ask. Rather, point your junior analyst in the right direction and let them figure it out themselves.
+- End users:  The important thing for these people is to make sure they understand the metrics and information contained in your reports and have a sense of the nuances contained. You want them to be able to spot trends, notice irregularities, and point out mistakes you may have made. With these folks, it’s best to focus on the business applications of the individual reports you make for them. The best way to do this is to have a number of review sessions after creating a report where you view it together with them and point out interesting factors. That not only helps your end user gain a sense of how the report works, but helps you spot things you may have missed.
+- Executive team: They are less likely to care about individual reports and more interested in the overall story of the business and the insights which metrics can bring them.
+
+
+
 ### Issue communication 
 **Stakeholder identifies issue**
 First, understand the problem
@@ -228,6 +243,17 @@ When you catch a problem and correct it, notify the stakeholders in case they al
 - Lots of time consumed on data analysis
 - Many manual tasks such as manual historicizing of KPIs per week
 
+### Reproducability 
+Each piece of work should benefit the wider team / company. Often that means that we should spend 30% more time to make something reproducible: 
+- Do things in Looker rather than SQL so others can access it. Eventually people will use the queries wrong and get inconsistent data or it will break often and becomes hard to maintain. If we can't use Looker without doing something custom and complex, can they combine Looker to pull and Excel to manipulate?   
+- Add dimensions to Looker and let the whole business access it 
+
+This will mean that everyone can access the data, people will build on top of your work rather than you having to build from scratch each time. It helps soklving business problems faster and encourages collaboration between the business and BI 
+
+If we cannot have something centrally stored and managed (e.g. in Looker) we want to make it reproducible in notebooks: 
+- Makes it easy to run code again with the different tiles that run independently 
+- It's much easier to read and you can create a story going through all the different steps 
+- Each tile can have multiple outputs making it much more efficient to actually develop 
 
 
 ### Measuring BI success 

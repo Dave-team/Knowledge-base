@@ -8,3 +8,6 @@
 The philosophy asserts that virtue (such as wisdom) is happiness and judgment be based on behavior, rather than words. That we don’t control and cannot rely on external events, only ourselves and our responses.
 
 But at the very root of the thinking, there is a very simple, though not easy, way of living. Take obstacles in your life and turn them into your advantage, control what you can and accept what you can’t.
+
+
+o	I never eally considered what I would miss - what would happen if I let go or something happens? What am I left with? Always think about that - partly that makes you appreciate each moment, it makes you care more and makes you more attractive. It also means that when you lose something you did all you can to make it work and ideally you wouldn’t actually completely fall into a hole

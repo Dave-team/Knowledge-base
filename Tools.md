@@ -41,6 +41,8 @@ Evernote
   - Workout schedule 
   - Passport photo
   - Card info
+- To save clips from whilst I'm reading things online 
+
 
 Alfred 
 - Search for folders/files on machine 
@@ -50,11 +52,14 @@ Alfred
 - Spell words using "Spell" + word 
 
 Other productivity tools
-- Omnifocus (100 dollars / year) but extremely nice looking and very extensive productivity app 
-- Things - nice UI but just a simple task manager - pricing is divided between different devices
-- Bear: more of a writing app but it's sync between devices make it great for notes - probably a paid for alternative to Evernote 
-- Notion: could have a homepage with all most important priorities. Would be a good place to host knowledge base for easy access (i.e. apps on mulyiple devices)
+- Omnifocus (10 dollars / month) but extremely nice looking productivity app 
+- Things - nice UI but just a simple task manager - pricing is divided between different devices adding up to 70 USD across my devices
+- Bear: more of a writing app but it's sync between devices make it great for notes - probably a paid for alternative to Evernote (it's cheap at 1.49 / month)
+- Notion: could have a homepage with all most important priorities. Would be a good place to host knowledge base for easy access (i.e. apps on mulyiple devices
 - Google Calendar for reminders and events. 
+- Spark: email client. I just don't have any issues with email and I don't use it that much 
+- Fantastical: paid for calendar app. I am fine using Mac / iOS Calendar
+- Ulysses for writing - I don't really see the additional benefit over Notes considering my use cases 
 
 ## Writing 
 Text Editor 
@@ -72,7 +77,12 @@ Text Editor
 - PDFs:
   - Preview as default OK option 
   - PDF Expert for a better paid option
-- Epubs: iBooks
+- Epubs: Apple Books
+- Convert PDF to ePub using Calibre or otherwise an online tool 
+- 
+
+### Annotation and note-taking
+- GoodNotes with Apple Pencil 
 
 ### Automation
 - IFTTT
@@ -83,13 +93,12 @@ Text Editor
 - Ublock Origin 
 - Adguard for iOs
 
-
 ### Other apps
 - Keep Mac awake: Amphetamine. Alternatives are Lungo, Caffeine 
 - Password Manager: Bitwarden. Alternatives are 1Password and Lastpass. Also store important notes here - e.g. card details
 - Dictionairies: default Mac Dictionaries app 
 - VPN. Surfshark. Many alternatives that are often slightly more expensive
-- F.lux to reduce blue light in early morning and evenings 
+- F.lux to reduce blue light in early morning and evenings. This is Night Shift on iOS  
 - Window management: Rectangle App 
 - Keyboard customization: Karabiner. Test out using Karabiner EventViewer
 - Calendar and events in Mac menu bar: Itsycal
@@ -100,6 +109,11 @@ Text Editor
 - Darkmode / light app: Nightowl
 - Change colour scheme: Midnight Lizard 
 - Articles to read are saved in Chrome bookmarks that sync between work and private
+- Lightroom for photo editing - I have no use for this currently
+- Apollo: paid for Reddit client. 
+- Tweetbot: paid for Twitter client 
+- V for Wiki: paid for Wikipedia app
+- 
 
 ### Media 
 Media Center 
@@ -110,6 +124,9 @@ Youtube
 - Subscribe to channels
 - Create playlists with videos to watch later 
   - Add playlists for high potential channels I subscribed to. Add past videos to this playlist 
+- On iPad, use youtube on Safari but a better overview of subscribed to channels
+- Control youtube to TV using Airplay 
+- We can Play in Picture - allowing to take full notes whilst the video is playing in small on the side 
 
 Torrents
 - Popcorn Time works great e.g. on laptop and maybe to test whether I like films / series / documentaries. Always make sure VPN is enabled. 
@@ -118,7 +135,6 @@ Torrents
   - https://katcr.to/
   - https://eztv.wf/
 - Always use a VPN!  
-
 
 Spotify 
 - Save albums 
@@ -155,16 +171,9 @@ Twitter
 - Use Twitter list: group accounts by a topic in a list to better organize Twitter timelines. Interesting here is that we can follow lists created by others as well. See lists / topics that others follow by going on their account page 
 - Use Twitter search to find out more about topics. E.g. 'books' or 'Naval + meditation' or 'mental models'. Use Advanced Search to narrow down the results as the default algorithm for selecting top Tweets isn't great 
 
-
-
-
-
-
 ## Hardware future 
 - Home Media setup 
 - Apple Watch
-
-
 
 Backups 
 
@@ -172,8 +181,6 @@ Backups
 - Hide the toolbar by default to ensure screens maximize across entire screen
 - Command tab to switch between Mac applications. 
 - Switch between Windows: Control Down arrow to select windows within app. Control Up arrow to select between all windows 
-- 
-
 
 ### Work
 Google Calendar
@@ -186,5 +193,5 @@ Cyberduck - file sharing. Create a connection and make it a bookmark to ensure s
 - Download podcasts from Itunes: 
   - Change import settings from AAC to MP3
   - Click the Download ‘Cloud’ next to a Podcast from Apple Podcast. Then show in Finder 
-
+- 
 

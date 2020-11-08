@@ -27,4 +27,7 @@
 - Sharing. Having the ability to easily share data is big. Make sure it’s extremely easy for people to share within the comms tools that are used – e.g. Slack as well as email. 
 - Present companywide on TV 
 
-
+## Other
+- A/B testing
+- LTV models
+- Process around measuring impact feature changes 

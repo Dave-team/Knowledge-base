@@ -35,6 +35,7 @@
 
 ## Think critically
 - Before escalating, make sure that there aren't any obvious answers to your issues. Asking someone else is often the quickest way to get the necessary info
+- Think about the questions nobody is asking: really consider 'what does this actually do?' and then consider: 'what scenarios might not be in line with this and potentially break?'
 - Challenge your assumptions 
     - Why am I assuming this?
     - What are some reasons I might be wrong?

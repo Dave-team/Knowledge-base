@@ -17,6 +17,24 @@
     - Email is sent but no reply: follow up on Slack few days after 
     - Really important: send email and directly follow up in Slack 
 - A big part of the job is managing expectation. You have responsibilities but so do their team. Make sure this is clearly defined. 
+- Always keep your stakeholders up to date on any changes in the state of your tickets. 
+
+## Stakeholder intro meetings
+- Introductions: role, focus, how long at company, previous experience
+- Overview of data stack and tools
+- Team structure: centralized supporting the business 
+- Operating model with the business - we collect requirements, deliver incremental, collect feedback and repeat
+- How we work:
+  - Ticketing system
+  - Quarterly reviews
+  - Future team focus
+
+
+## Project kickoff
+- Write email to relevant stakeholders that we want to kick off. These are the open questions. If they agree, we can book something next week.
+- If there are any concerns, check in with those people. Are these things we’d need to figure out before kick-off? Some people hold the power to block a project - these are 'grenades' and you don't them to explore 
+- Those who didn't respond, quickly reach out over Slack and ask if they're okay for the kickoff 
+
 
 ## Scrum
 The most popular project management methodology that follows agile principles. 
@@ -47,6 +65,8 @@ Here is how it works:
         - Ticket quality will increase the more things are discussed with people from around the business 
     - In general, aim for high impact and urgent issues.  
     - Tickets can still be deprioritized during the sprint: ill defined tickets or technically not feasible, internal data team work is priority, lack of resources 
+    - If parts of a ticket take up more time than expected, put it in a seperate ticket. You wouldn't want tickets to be stuck because of one issue 
+    - Huge projects should be broken down into projects with milestones. E.g. integration tickets should be broken down into many different parts 
 - Point issues depending on the amount of complexity
     - Very complex projects should be broken down 
     - Projects that are very new shouldn't be scoped too much. Instead, make it a task to understand the problem more deeply
@@ -75,7 +95,9 @@ Issue pointing captures the complexity of an issue, not the time it takes to com
   - Workflow Status (Workflow::Triage, Workflow::Ready, Workflow:: In Progress, Workflow:: Verification, Workflow:: Waiting)
   - Inbound: For issues created by folks who are not on the data team; not for asks created by data team members on behalf of others
 
-
+### End of sprint / quarter 
+- Aim to complete as much as planned projects as possible 
+- Consider which tickets to keep, which tickets to reprioritize with business and which tickets to break up 
 
 
 

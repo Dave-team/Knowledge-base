@@ -4,6 +4,7 @@
 - One thing to realize here is that you are not in control of your thinking. You are simply an observer to whatever happens and whatever your mind produces
 - Reduce screen time 
 - Don't look at phone prior to bed and first thing when waking up 
+- Man’s greatest problems arise from his inability to sit still by himself
 
 ## Preparation
 - Set your intention for the session and focus on what's coming. Treat it as a workout and a learning session. Don’t expect anything and just see what happens
@@ -13,6 +14,13 @@
 - To be more present / in the moment day to day, especially during conversions
 - To increase concentration and focus for longer
 - To be more effective in my thoughts about work and to realize in better fashion what the right thing to do is
+
+## Naval meditation 
+- Each morning, give you yourself a break from life for one hour
+- Sit somewhere comfortably and shut your eyes for one hour 
+- Thoughts will come. Don’t resist them and don’t work with them. Just observe them - whatever happens, happens. Don't put effort into it, don't put effort against it - just surrended in the moment. Meditation is not going through thoughts but rather letting thoughts go through you.
+- What will happen is that all of your life will eventually fly you by and you will have given most things a place in your mind.If you do 60 days 60 minutes meditation, eventually you should reach inbox 0 in your mind. This is when you no longer have any ‘issues’ to deal with in your mind. 
+
 
 ## Process
 - Sit on floor/chair/cushion with muscles relaxed and back straight 

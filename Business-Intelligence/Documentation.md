@@ -65,6 +65,8 @@ Create a data dictionary that ideally is automated (e.g. from DBT and LookML com
 - Transformation 
 - Notes
 
+
+
 Steps to create a dictionairy: 
 - Collect dimensions and measures from the vairous reports people use
 - Send the list to relevant business owners and ask to complete with remaining metrics. 

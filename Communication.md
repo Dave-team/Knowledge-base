@@ -68,3 +68,4 @@
 - When explaining complex things, visualize it with an easy to understand example. Explain your logic step by step. 
 - When I'm not in a clear thought process I tend to end what I was saying with 'Yeah'. Instead end withm ‘Does that make sense?’ (especially because you already know your logic wasn't spot on any longer)
 - Why / How / What is a good comms approach
+- Context should always come first. In standups, don't talk about your status. Take a step back: what is the project? Why are we doing this / what is the So What? What is the approach? Then what is the status? 

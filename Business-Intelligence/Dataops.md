@@ -22,6 +22,7 @@
   - Automated, so it can be put into a test suite and run easily. Having an automated test suite means you can quickly assess the data warehouse-wide impact of introducing new SQL.
   - Fast, so you’re not waiting forever for the test suite to finish. If a test takes longer than a minute or so, I’ll attempt to break it up into multiple tests or I’ll test a smaller sample.
   - Independent, so it can be run at any time and in any order.
+- Optimise for performance - check the query/execution plan 
 
 
 ### Source data testing
@@ -42,6 +43,10 @@
     - not null 
     - referential integrity
     - accepted values
+- Where to test for data: 
+  - When in doubt, have more rather than too few tests 
+  - Staging level: relationships, uniqueness, not null, and other custom schema tests that we've written for our use cases.
+  - Mart level: test everything that we changed with our business logic. So if we added a new column, we check that it matches what we expect to see. If we significantly changed the granularity of the model, we test that it still contains all the information that we want and that we didn't lose anything.
 - Custom schema tests in DBT. For example: 
     - Revenue always being smaller than or equal to the gross revenue
     - Employee end data > start date 
@@ -131,7 +136,7 @@ Keep in mind:
 - Make sure to pull changes from production when working in a branch. When you created a branch off a branch, make sure to pull the changes first in the original branch. Otherwise, the changes made in different branches will show up as changes in the current branch. This should go in sequence from the most original branch upward. E.g. working in branch 4? Pull from remote first in origin, 1,2,3 before pulling from remote in 4 
 
 Solving merge conflicts
-- Usually done in Looker by selecting which parts of the code to keep 
+- Usually done in Looker by selecting which parts of the code to keep - can also be done in Github by deleting the irrelevant code 
 
 ## PR review checklist 
 - Does the table run? 
@@ -161,19 +166,38 @@ Business ticket creation:
 ### Prioritization
 BI work on a high level is split between ad hoc requests and projects. You'll need to find a balance between the two. 
 
-For each ad-hoc ticket: 
-- Scope out how long they should take first thing in the morning. 
-- If it's <2 hours, do it first thing 
-- If it takes more research, consider the urgency, otherwise put it in the backlog and communicate with stakeholder
+**Feature requests**
+On a high level, tasks get prioritized based on the impact and the work required. Ask these questions: 
 
-
-- How important is this? Does knowing the result of this analysis materially affect the company? 
+- How important is this? Does knowing the result of this analysis materially affect the company? Do we have an estimate of how much? 
 - Is there a deadline? Here, also try to get to know whether there are dependencies involved 
 - How accurate do you need the answer to be? Making something approximately correct can save lots of time
 - What type of end result are you looking for?
 - How feasbile is this to be implemented as requested?
 - Key is to keep your stakeholders informed. Both on what you're doing with ad-hoc projects and during longer term projects. They might feel that a project for example shouldn't quite take as much time
-- 
+
+**Data governance**
+This is the stuff you do to keep the lights on and data flowing through all your systems. This can mean debugging an ETL error, optimizing your Redshift cluster or performing manual csv uploads. Data governance is the kind of work that no one notices when you do well, but EVERYONE notices when you don’t.
+
+**Ad-hoc tickets**
+These are the smaller requests you need to knock out day by day to get people the numbers they need. Could be a small, one off report, an update to a dashboard or a simple Excel analysis. These tend to not be particularly difficult, but if you aren’t careful they can eat up all of your time.
+
+- Scope out how long they should take first thing in the morning. 
+- If it's <2 hours, do it first thing 
+- If it takes more research, consider the urgency, otherwise put it in the backlog and communicate with stakeholder
+
+**Data errors / bugs** 
+Highest priority. When someone knows something is broken, it means they look at it and fixing it will have positive impact. They also tend to be quick fixes 
+
+**Strategic objectvies**
+The projects you actually want to be working on. Could be a new dashboard for a team that hasn’t been getting as much attention as you’d like, incorporating a new data source into your data model or a comprehensive deep dive into a question the business needs to answer. This is the non urgent but very important aspect of the job. This is where your team can have the most leverage and highest impact.Try to keep this to 80/20, whenever there is nothing urgent, allocate time for the team to work on these projects. E.g. 1 hour each morning or Friday afternoons 
+
+**Other**
+Tasks without a clear goal should be pushed back - they rarely lead to impact and take up iterations of work. 
+
+
+
+
 
 ## Dashboard management 
 - Make sure WIP is in the dashboard title whilst working on it 

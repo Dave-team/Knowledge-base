@@ -6,7 +6,7 @@
 - A calm mind 
 
 ## Important elements of life 
-There are 6 things that matter most in my life: family, love, friends, health, career and experiences. It is important these are all in balance. 
+There are 7 things that matter most in my life: family, love, friends, health, career, experiences, personal goals & hobbies. It is important these are all in balance. 
 
 ### Family
 - Always be there for the family and be responsible
@@ -37,17 +37,35 @@ There are 6 things that matter most in my life: family, love, friends, health, c
 - Mental health: strong self awareness (e.g. through journalling and reflecting on life) and meditation 
 
 ### Career
+- Act as if I'm Head of BI: have the confidence and take the ownership that comes with the role
+- Regularly reflect on the development goals and make sure I'm on top of it. 
 - Be enthusiastic and energetic around creating impact
 - Embrace the challenges with confidence and optimism - be confident we can figure things out 
 - Be resourceful, solution oriented and curious
 - Build meaningful relationships 
-- Be social. Show interest and want to get to know others and also allow them to get to know me 
+- Be social. Be enthusiastic, show interest and want to get to know others and also allow them to get to know me. Take the initiative and just speak to people - absolutely nothing to lose
 
 ### Experiences 
 - Travel
 - Fulfil bucket list 
 - Do things that create lasting memories
 - Experience and explore more 
+
+### Personal goals & hobbies 
+- Set goals and work towards them for extended periods of time. Make your life a book with chapters worth reading 
+- Have hobbies that you enjoy doing - this will make me a confident and interesting person. To find those hobbies, pick up something (anything), do it for an extended amount of time, try to become better at it and see how it sticks - more than anything, be curious around the thing you're learning/doing
+- To foster passion:
+  - What do I like to think about?
+  - Where does my mind wander?
+  - What do I really care about?
+  - What matters most to me?
+  - How do I enjoy spending my time?
+
+## Working on the right things: 
+- Personal manisfesto: what's most important in my life? Who you are, what you stand for, what you want out of life
+- Vision: where do I want the year to go?
+- Goals: what projects are required to reach the vision?
+- Projects: tracking the things I'm working on 
 
 ## My ideal being   
 - Happy 
@@ -76,20 +94,38 @@ Nights
 - Reflect on the day 
 - Practice gratefulness
 - Visualise yourself as the person you want to be and use affirmations
+- Relax 
 
-Weekly (e.g. Sundays) 
+### Weekend routines
+Running errands
+- Cleaning
+- Groceries
+- Looking after plants
+- Laundry
+
 Planning 
 - Fun things to do this week & booking these
 - Friends to meet this week & texting them to meet 
 - Longer term things to do and booking these (gigs, holidays, etc.) Goal = experiences. 
+
+Reflection & Development 
 - Work on and plan six fundamentals in life
 - Set goals for the week (journal)
 - Review performance against performance last week (journal)
-- Pick up a new hobby to explore – draw, badminton, learn a language
+
+Self care 
+- Practice my hobbies or try a new hobby and see how I get on. Get to know yourself 
 - Meet with friends
 
+Overall 
+- Do some work/reading in a social environment - e.g. coffee shop 
+- Sunday afternoons could be Reddit catchups 
+- Weekends are to spend a bit more on food as well - trips to the local veg stores, fish mongers, butchers, bakers
+- Spend more sit down time with e.g. a book 
+- Generally spend more time reflecting
+
 Monthly
-- Set goals for the month 
+- Set goals for the month ahead. 
 - Review performance against goals month before (journal)
 - Review life admin and take actions accordingly 
 - Am I living the life that I want to be living? Have I done some amazing things this last month? 
@@ -146,7 +182,7 @@ Techniques for happiness:
     - Find and watch interesting documentaries and films: Reddit and Google
     - Explore more music: Spotify playlists, Reddit, forums
     - Read fiction and short stories 
-    - Read about lots of different topics 
+    - Learn about lots of different topics: psychology, design, biology, history
     - Watch and learn more about comedians 
     - Work on projects 
     - Pick up calming hobbies: puzzles, video games, colouring books, play an instrument, chess 
@@ -154,6 +190,7 @@ Techniques for happiness:
     - Practice Martial Arts
     - Practice arts: colouring, sketching
     - Take walks in inspirational places (museums, nature, new cities)
+    - Imagine being a role model for others and they look up to what I say. Be a great speaker, writer, be well rounded as they'll ask a wide range of different interesting questions and have opinions whilst being calm and confident
 - What life is about:
     - Becoming better at things (and just becoming a better person): in life, try to become good at things you enjoy doing and be experimental. Six month sprints to try to become good at e.g. dancing, boxing, chess, badminton - this will slow time. Same for personal projects
     - Being calm, in the moment and enjoying the little things in life 
@@ -177,9 +214,11 @@ Techniques for happiness:
     - The days are long but the decades are short 
     - Life passes most people by while they’re making plans for it
     - Work to live, don’t live to work.
+    - Most people over-estimate what they can do in one year, and underestimate what they can do in ten years
 - You and you alone are responsible:     
     - No one owes you anything and nobody gives a fuck about your feelings 
     - Own your life, no one else will. You are responsible for how you handle everything that happens to you. You just pick yourself up, learn and go on. 
+    - Life is hard and will throw you many challenges. You survive them, learn from them and move on. You build character comprised of everything that happened in your life. Anything that happens should be seen as a lesson you can use to become better. 
 - Relationships are incredibly important
     - Treat everyone like they can put you on the front page on the New York Times 
     - Be someone others would like to be around with
@@ -194,9 +233,11 @@ Techniques for happiness:
 - Live a meaningful life: 
     - The person who is satisfied with little will always have enough
     - Life is like a box of chocolates - you never know what you're gonna get. But you just make the most of it  
+- After breakup message: I’m 27. There really is more than enough time to find someone and settle down, get married and have kids. And before that, enjoy your time being single. Focus on advancing your career, become this more social person, make new friends, pursue new hobbies and just generally really be more of an independent man with character who is happy with who he is. Someone who isn’t obsessed around getting a response from someone else. Someone who lets go of things he doesn’t control. Someone who leads by example. You cannot depend on a relationship for happiness because one way or another, things will mess up. So ALWAYS live an independent happy life - then if someone joins that life, all the better. Just do not change for anything or anyone
 
-
-
+Other
+- Define who I am and what I want out of life. Translate these things to goals and get after them 
+- We can choose to be the happiest person alive. It's literally just a choice once basics are accounted for 
 
 
 

@@ -17,6 +17,9 @@
 - Thank people for the impact they’ve had on your life: teachers, early managers. Track them down and write a genuine note
 - Remember peoples names and make you note when you find out their name. Then study to not forget
 - Everybody is either a poetntial friend or we can help one another out in some way 
+- Be enthusiastic, show interest and want to get to know others and also allow them to get to know me. Take the initiative and just speak to people - absolutely nothing to lose
+- Realize that everyone has issues, good/bad experiences, dealt with shitty jobs, break-ups, good and bad times and together we make things just a bit better
+
 
 ## Conversations
 - A good conversation consists of: 
@@ -46,51 +49,5 @@
 - Friendships are about being there for others but most defintely also about allowing others to be there for us. Be open to receive the love
 - Great friendships could come from couple friends
 
-## Relationships
-- A good relationship is about being there for them when they need us. Be understanding and let them share their emotions. A good relationship is bonding on an emotional level. The ideal is when you are part of the other person reaching their goals 
-- Every relationship is voluntary - everyone is free to decide as they please and values change. You can’t make people do things and they can make up and/or change their minds at any time. A relationship is still comprised of individual people that live their own life 
-- A good relationship is based on trust, honesty, communication, belief in each other and support. It’s about making one another better and having fun in the process 
-- Don’t be complacent / take a relationship for granted. It’s hard work to be a good spouse. Take initiative and show that you care and give one another personal space
-- First and foremost, live a happy and interesting independent live - don’t be depending on the relationship for happiness. And bring the partner in as part of that life. 
-- The only thing we control is our contribution to the relationship. Keep working on making things better
-- Seperate work issues from any relationship - be in the moment. Don’t make your headaches contagious 
-- Don’t be needy, controlling and insecure. This comes from a fear of losing her. Realise that being a confident spouse is the thing that reduces risk of losing her   
-- Gifts: 
-    - The gesture matters - it's about showing love and appreciation
-    - Ideas could always be around experiences and something personal or handmade
-    - Keep a running log of things they'd like to have 
-- Show that you care with small things. Buy the occasional flower. Give compliments. Bring something from holidays 
-- Be honest and share how you feel
-- Aim to do lots of fun things that you both enjoy doing. Aim to invite others too 
-- Speak the right love language and keep the emotional love tank filled at all times 
-- Set aside time to work on the relationship:
-    - What we like
-    - What we don’t like
-    - What we’d like to see more of 
-
-*What I look for in a relationship*
-- Honest and open communication - ability to have tough conversations
-- Proud of a life they live. Existing social circle I can meet and really good meeting others. Basically a lifestyle I’d like to be part of  
-- Ambitious and working towards goals
-- Confident 
-- Someone who is willing to explore 
-- Someone who can have a lot of discipline and go through tough challenges 
-- Active - i.e. not a couch potato 
-- Spontaneous 
-- Mature
-
-*What is required of me*
-- Provide fun
-- Honesty
-- Trustworthy 
-- Confident
-- Own style and personality
-- Good social circle
-- Protectice
-- Masculine 
-- Look after yourself 
-- Fit
-- Know how to deal with people and make people feel good 
-- Sharing my feelings and being honest and open in communication 
 
 

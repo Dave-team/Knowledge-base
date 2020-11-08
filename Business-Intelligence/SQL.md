@@ -198,11 +198,11 @@ WHERE 	name = 'United Kingdom')
 -	When we use a subquery in a FROM clause, it is called a derived table (or inline view) as they act as a table that can be used to select columns and join to other tables. First, the subquery is ran and then the results are used as if they represent a table. You can often use JOINs as alternatives, but these derived tables are useful when you e.g. need to use two aggregate functions (e.g. average of sum). They are great for circumventing the logical ordering of SQL clauses. 
 
 
-
-
 ## CTEs
 -	CTEs are Common Table Expression’. It works as a temporary dataset only available during one session. It is often used to simplify complex queries and increase readability because of the introduced hierarchy. The basic structure is: WITH CTE_NAME AS (SELECT X,Y,Z).You can reference back (i.e. SELECT FROM) the created CTE. It works just like a subquery 
-- Use CTEs for readability and they're easy to debug 
+- Benefits of CTEs: 
+  - Code becomes a lot more readable 
+  - CTEs are easier to debug -
 - Recursive CTEs reference themselves. In these cases, the initial CTE is repeatedly executed, returning subsets or data until the complete result is returned. Recursive SQL always uses a UNION ALL between two subqueries, where the initial subquery generates the seed rows and the second subquery generates the recursion from the seed rows. Irts great to use in combination with hierarchical data 
 
 WITH RECURSIVE t(v) AS (
