@@ -3,7 +3,7 @@
 - Always understand what you want to convey in the dashboard. What's its raison d'etre? 
 - Don’t make people think 
 - Make use of conventions: 
-    - People read in Z shapes: left corner is the most important 
+    - People read in Z shapes: left corner is the most important. Think left to right, bottom to top where top right is where you want to head. 
     - Group related content together 
 - Eliminate all questions that could be in the heads of your users 
 - Use contrast to direct focus. Can be using color, size, position 
@@ -92,7 +92,7 @@
 ![Visualizations](https://user-images.githubusercontent.com/28791247/93848010-73716680-fca0-11ea-8a21-92081453c6ce.png)
 
 **Visualizations not to use:**
-- Pie charts: the human eye isn’t good at ascribing quantitative value to two dimensional space, making them hard for people to read. If two pieces are close, you can’t tell which is better. If ywo pieces are far off, you still can’t tell by how much 
+- Pie charts: the human eye isn’t good at ascribing quantitative value to two dimensional space, making them hard for people to read. If two pieces are close, you can’t tell which is better. If ywo pieces are far off, you still can’t tell by how much. Use a bar/column chart instead
 - Don’t use donut charts: we can’t compare arc lengths either
 - Never use 3D 
 - Try not to use secondary axis. Instead, use the techniques as outlined in the image 

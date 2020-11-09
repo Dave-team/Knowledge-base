@@ -19,6 +19,7 @@
 - Everybody is either a poetntial friend or we can help one another out in some way 
 - Be enthusiastic, show interest and want to get to know others and also allow them to get to know me. Take the initiative and just speak to people - absolutely nothing to lose
 - Realize that everyone has issues, good/bad experiences, dealt with shitty jobs, break-ups, good and bad times and together we make things just a bit better
+- Send more random things to friends. It’s not always about catching up and meeting. It’s about being top of mind and regular contact. Send them things they also like and give them things of value
 
 
 ## Conversations

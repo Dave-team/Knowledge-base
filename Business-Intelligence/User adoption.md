@@ -68,6 +68,8 @@ Monthly updates with new data / features in Looker Main purpose here is that peo
 
 Really sell the results you’re getting – at all hands and in emails. You want to be able to ask anyone what meaningful achievement you did lately and they should be able to answer this for you.  
 
+Have a dedicated Looker Slack channel where any new updates are listed to keep the business informed on what is happening. Tag relevant people. 
+
 ### User feedback
 Gather user feedback from end users to increase the value that Looker adds. Send this to inactive users
 - Has Looker been useful to you? If not, what could we add or change that would make it more useful?

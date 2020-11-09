@@ -51,6 +51,13 @@
     - Introduction slide: goal of analysis and executive summary (main points from your analysis: this also shows what will be covered within the presentation). This answers: why should I pay attention and what's in it for me? 
     - Main analysis following a story. This gives proof for the need of action - you are convincing them why they should accept the solution you are proposing
     - Recommendations / executive summary with the key points from the analysis (i.e. repeating the executive summary at the start). Then, you specify the actions or decisions you need the audience to take. It answers the goal of the analysis. A good analysis deck will have a specific call to action here – this should the answer the ‘Now What’ as well as ‘So what – what is the business value here?’
+- Google Doc / non slides presentation: 
+  - Objective
+  - Key findings 
+  - Recommendations
+  - Analysis performed 
+
+
 
 ## Analysis doc 
 - Objective
@@ -188,7 +195,13 @@ A lag indicator is the thing you care about (like monthly revenue), but can only
 - Never show data that looks off/raises questions. Either remove these things or have a clear simple explanation ready. Where required, make clear that things are an outlier.  
 - Conversion rates should be tracked at point in time - e.g. conversion rate within 30 days after first visit
 - Make sure to define success metrics for new projects and how these are expected to be influenced  
-- 
+
+### Marketing understanding
+- Marketing add utm source / utm campaign names / utm medium to an ad 
+- These variables are added to when a page is loaded 
+- Each session will have the same variables  
+- There will be a way to connect the utm parameters loaded to the marketing campaigns / ads as naming conventions will sort this 
+
 
 
 ![Analysis context ](https://user-images.githubusercontent.com/28791247/92440452-7189ac80-f1a4-11ea-8f92-3898c3f2cad0.png)

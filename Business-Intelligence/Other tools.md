@@ -1,10 +1,29 @@
 ## Tools to explore
-- Great Expectations
-- Looker open source tools
-  - Look At Me Sideways 
+- Great Expectations: unit testing for data 
+- Looker open source tools (https://github.com/ww-tech/lookml-tools)
+  - Look At Me Sideways: Looker linter
   - Henry
-
-
+  - Spectacles
+  - Lookmlint: catch style issues, unused views, semicolons in derived table SQL, raw SQL references in joins, and more.
+- DBT:
+  - Audit helper: https://github.com/fishtown-analytics/dbt-audit-helper
+- Prefect
+- Dagster
+- Datafold
+- Datagrip
+- Redash
+- Metabase
+- Singer
+- Superset
+- Papermill
+- Fuzzymatcher
+- Cookiecutter
+- Snowflake tools:
+  - Snowalert
+  - Snowflake Inspector
+  - Permifrost
+- Data visualization: Dash, plotly, bokeh
+- 
 
 
 

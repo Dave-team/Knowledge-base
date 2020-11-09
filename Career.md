@@ -51,6 +51,24 @@
 - Understand the roadmap
 - Become very familiar with the tools 
 
+### Tech to set up
+Email
+Notion
+Looker
+Slack
+Calendar
+Drive
+DBT Slack 
+Personal Chrome user
+Hibob
+Redshift
+Expensify
+Fivetran
+Stitch
+Github
+Password manager 
+
+
 ## Pitch example
 Intro to company: 
 

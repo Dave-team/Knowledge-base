@@ -109,7 +109,7 @@ Planning
 - Longer term things to do and booking these (gigs, holidays, etc.) Goal = experiences. 
 
 Reflection & Development 
-- Work on and plan six fundamentals in life
+- Work on and plan seven fundamentals in life
 - Set goals for the week (journal)
 - Review performance against performance last week (journal)
 
@@ -148,7 +148,6 @@ Monthly
 - Think about the situation in the grand scheme of things: 
   - Most things don't matter
   - What is the worst that could happen
-  - 
 
 On the day of execution: 
 - Stay focused on other goals before the moment
@@ -159,15 +158,16 @@ On the day of execution:
     - Heavy breathing for a short while
 
 ## Happiness and purpose
-Happiness is a state of fullfilment and calm mind. It's the absence of anxiety and fear and a general feeling of satisfaction. 
+Happiness is a state of fullfilment and calm mind. It's the absence of anxiety and fear and a general feeling of satisfaction - all of this can be obtained by training the mind. One could say that this is contentment and happiness is a general feeling which is harder to achieve sustainably. Be content and whenever you feel happy that's just a bonus. Whenever you experience joy, reflect on it - why did you feel it? Can you do more of it?
 
 To achieve this state of calm, it's important to throw away any expectations or grand goals you may have. 
 Striving for the end goal and doing the right thing in the process will distress tranquility. All that matters is here and now. 
 Meaning to life is personal and the key is to be happy in the moment 
+We seem happiest when we’re socialising with other people, outside or doing something that seems meaningful to us such as excercising and volunteering
 
 Techniques for happiness: 
 - Mindfullness
-- Expressing your feelings (with others, in therapy, in a journal, through art) 
+- Expressing your feelings (with others, in therapy, in a journal, through art). Focus on the things you're grateful for
 - Enjoying the little things in life 
 - Having a balance in the six fundamentals in life 
 
@@ -179,11 +179,11 @@ Techniques for happiness:
     - You are the average of the five people you spend most time with
     - Visualize how others would handle situations and emulate these situations (Naval, Paul G, Jocko)
 - Become more well rounded (practice curiosity in a great many fields). 
-    - Find and watch interesting documentaries and films: Reddit and Google
-    - Explore more music: Spotify playlists, Reddit, forums
-    - Read fiction and short stories 
+    - Find and watch interesting documentaries and films: Reddit and Google for inspiration. Get to know the actors/producers better
+    - Explore more music: Spotify playlists, Reddit, forums. Get to know and remember the artists better
+    - Read fiction, short stories, poetry
     - Learn about lots of different topics: psychology, design, biology, history
-    - Watch and learn more about comedians 
+    - Watch and learn more about people I admire - watch them present / read their interviews etc.  
     - Work on projects 
     - Pick up calming hobbies: puzzles, video games, colouring books, play an instrument, chess 
     - Dive into Wikipedia
@@ -192,7 +192,7 @@ Techniques for happiness:
     - Take walks in inspirational places (museums, nature, new cities)
     - Imagine being a role model for others and they look up to what I say. Be a great speaker, writer, be well rounded as they'll ask a wide range of different interesting questions and have opinions whilst being calm and confident
 - What life is about:
-    - Becoming better at things (and just becoming a better person): in life, try to become good at things you enjoy doing and be experimental. Six month sprints to try to become good at e.g. dancing, boxing, chess, badminton - this will slow time. Same for personal projects
+    - Becoming better at things (and just becoming a better person): in life, try to become good at things you enjoy doing and be experimental. Six month sprints to try to become good at e.g. dancing, boxing, chess, badminton - this will slow time. Same for personal projects. Get better at things by caring a lot and focusing on constantly getting better
     - Being calm, in the moment and enjoying the little things in life 
     - We don't know what tomorrow will bring which is exciting. And then we'll always aim to make today better than yesterday and face the days with great enthusiasm. 
     - Creating lasting memories with people we love 
@@ -238,6 +238,9 @@ Techniques for happiness:
 Other
 - Define who I am and what I want out of life. Translate these things to goals and get after them 
 - We can choose to be the happiest person alive. It's literally just a choice once basics are accounted for 
+- It's hard to be in the top 1% of things. Instead, be in the top 25% of three different things and you'll end up in a good space
+- The growth mindset: love faillure and the challenge that comes with trying to figure out how to solve things - the harder it gets the harder we need to try and the whole process can become very informative. Understand that the world is full of interesting challenges that could help you learn and grow. 
+- Always have an opinion on things. What did I think of this meal? Of this film? Why do I think this - what makes it such and how does it compare to other things? 
 
 
 

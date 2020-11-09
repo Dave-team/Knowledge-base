@@ -1,7 +1,9 @@
 # Project Management
 
 ## Stakeholder management
-- When I need others to do things, always ask when something can be completed by. Make sure to indicate clearly how important it is to get done
+- When I need others to do things, always prompt them for a deadline. Make sure to indicate clearly how important it is to get done. You don't want to risk that something will not get done. And if there is no commitment, this is quite likely.  
+  - ‘We’re all good to you and the next steps are X. If this isn’t too big an ask, is this something that could be done by X?
+  - 'Is this something that could be done by X?'.  
 - When important, can follow up on this with an email with actions. If so, mention in the meeting that you'll send this follow up to keep track of actions and to keep people in the loop. Do this when: 
     - There are numerous actions to take between people. Having them in an email helps each other stay organized and it means that they can confirm whether they agree with the actions 
     - If and when it is a large ongoing project, consider setting up a Google Doc with minutes and actions by person
@@ -17,7 +19,15 @@
     - Email is sent but no reply: follow up on Slack few days after 
     - Really important: send email and directly follow up in Slack 
 - A big part of the job is managing expectation. You have responsibilities but so do their team. Make sure this is clearly defined. 
-- Always keep your stakeholders up to date on any changes in the state of your tickets. 
+- Always keep your stakeholders up to date on any changes in the state of your tickets. \
+
+## Stakeholder and project feedback
+- After a big project, there is a cross functional retrospective (whiteboard with sticky notes)
+- More ad-hoc feedback: Slack stakeholder and ask how they thought that went
+- Once a while there will be a more informat catch-up with key stakeholders where you can reflect on progress, how things are going and what’s good/could be better 
+
+
+
 
 ## Stakeholder intro meetings
 - Introductions: role, focus, how long at company, previous experience

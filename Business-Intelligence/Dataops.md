@@ -23,7 +23,7 @@
   - Fast, so you’re not waiting forever for the test suite to finish. If a test takes longer than a minute or so, I’ll attempt to break it up into multiple tests or I’ll test a smaller sample.
   - Independent, so it can be run at any time and in any order.
 - Optimise for performance - check the query/execution plan 
-
+- With issues, don’t look at total counts of rows. Instead, did we not load anything after x or did we miss sequential rows?
 
 ### Source data testing
 - Create an initial gap analysis between source and BI data. This includes 
@@ -149,6 +149,13 @@ Solving merge conflicts
 - Spot check a few values to sanity check the logic of the model  
 - Depending on the changes introduced, stress test these changes and see if anything breaks anywhere. 
 - Never allow untested code to go into production. If you don’t have existing reports to replicate, talk to the end- user and ask about their feelings of the data 
+- Be critical in the review - if something looks weird - mention it. Look for: 
+  - consistency
+  - good user experience
+  - understand how it fits in the model and if there are better ways 
+  - check that there are no downstream effects 
+
+
 
 ## Project Management
 Flow of tickets: 
@@ -195,7 +202,8 @@ The projects you actually want to be working on. Could be a new dashboard for a 
 **Other**
 Tasks without a clear goal should be pushed back - they rarely lead to impact and take up iterations of work. 
 
-
+## Tracking fundamental changes 
+Sometimes, fundamental changes happen to data. E.g. we changed our categories at Papier. We would then create a snapshot of all categories at a certain point in time first in the database. E.g. cateoory X and then old_category X. Similar to Tessian, calc and previous calc. This way we keep history and can compare like for lille. 
 
 
 

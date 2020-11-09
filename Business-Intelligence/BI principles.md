@@ -63,6 +63,7 @@ Data is needed to:
 - To make decisions based on facts rather than our gut 
 - To track performance
 - Ultimate to help improve business performance 
+- To sell BI let the stakeholders jump in. Your stakeholders can say exactly how much value you bring to the table and it’s incredibly hard to try and convince others what you think you’re bringing to the table. Let them do the talking and when you need more resources, let the business convince the CFO why they want more data support. 
 
 ## Impact 
 The real value of data comes into play when it actually helps the business. The goal is to answer" 'So what?' and 'Now what?' and the end result should be recommendations or actions to be taken to improve the business. And then we need to follow through to ensure this impact has been delivered. Closing the loop means pushing action items through and following up after implementation to measure real impact. Watch out for taking the data for granted is the biggest bad habit to watch out for when analysts join the team. This leads to incomplete business logic and bad data that leaks into analysis. Shipping out bad data is adding negative value to the company, and very quickly destroys an analyst’s credibility.
@@ -83,6 +84,18 @@ Once I have the context, I can establish myself as a business partner - the goal
 - Reactive: Stakeholder: ‘Please give me data on X’. Me: Okay – here it is. End of discussion. This is extremely entry level 
 - Good analyst: Stakeholder: ‘Please give me data on X.’ Me: ‘What do you want to get out of the data? Is it to help guiding a decision? Why are you looking at this specifically? Them: For reason X,Y,Z. Me: Okay so you want to know whether X? Stakeholder confirms. Me: okay, there are some other things you might want to consider and previously we’ve seen this. Them: okay, can you show? Me: yes. Then get back and agree on some additional analysis required to solve the problem at hand. 
 
+## Roadmap 
+- Always revise what has been done previous quarter first 
+- Go through the planned roadmap as per the beginning of the year 
+- If something is no longer a priority, it goes back into the backlog. Only keep what has a clear reason, context and next steps 
+- Priority is based on estimated £ impact - PM gets priority over brand 
+- Whenever someone requests something, make sure they still put in a ticket 
+- Roadmap sits in an Excel sheet 
+- Questions to discuss during session: 
+  - Are there any projects we had planned we can de-prioritize?
+  - Is there anything additional I'm missing for Q4?
+  - Looking ahead to 2021, when do you think you will start planning the new year?
+- 
 
 
 ## Relationships
@@ -200,6 +213,12 @@ There are three main types of education you need to master before you can call y
 - End users:  The important thing for these people is to make sure they understand the metrics and information contained in your reports and have a sense of the nuances contained. You want them to be able to spot trends, notice irregularities, and point out mistakes you may have made. With these folks, it’s best to focus on the business applications of the individual reports you make for them. The best way to do this is to have a number of review sessions after creating a report where you view it together with them and point out interesting factors. That not only helps your end user gain a sense of how the report works, but helps you spot things you may have missed.
 - Executive team: They are less likely to care about individual reports and more interested in the overall story of the business and the insights which metrics can bring them.
 
+## Strategic input by BI 
+- Challenge the numbers and see where opportunities lie. Product X is performing well/bad >> do we know the root cause behind that change? 
+- General things cared about by executive team: 
+  - Trends: week on week %, year on year for week %, variance to forecast. Segmented over store/category
+  - Focus on anything relevant to the business at that time: e.g. newly launched products, marketing calendar 
+  - Way to outline focus points: scorecards with key KPIs - green or red with next steps especially when something is red 
 
 
 ### Issue communication 
@@ -252,17 +271,21 @@ This will mean that everyone can access the data, people will build on top of yo
 
 If we cannot have something centrally stored and managed (e.g. in Looker) we want to make it reproducible in notebooks: 
 - Makes it easy to run code again with the different tiles that run independently 
+- Different people running the code should output the same results
 - It's much easier to read and you can create a story going through all the different steps 
 - Each tile can have multiple outputs making it much more efficient to actually develop 
 
 
-### Measuring BI success 
+### Measuring BI success / BI KPIs
 - Improved business performance: more revenue / less costs 
 - Time savings in doing analytics 
 - Whether employees get their questions answered
 - Number of users of BI platform
-- How often people use the BI tool 
+- How often people use the BI tool - dashboard/explore usage statistics
 - Centralized definitions and increased consistency 
 - Number of uses of the data 
+- Number of tickets / FTE or team
+- Ticket bucketing: feawtures, error resolvement, analysis)
 
-
+### Other
+When explaining differences, use the language and the tools people know, use and trust. Use Looker instead of showing people SQL and add a note in screeenshots to emphasise things

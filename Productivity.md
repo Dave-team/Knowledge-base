@@ -4,7 +4,7 @@
 - Do as little as needed, not as much as possible 
 - Working on the wrong thing is the worst waste of all 
 - Focus on most important tasks and cut the rest
-- Think harder about what to spend time on and about what to actually work on
+- Think harder about what to spend time on and about what to actually work on. Whenever you do something, ask yourself: Is there something more important you can work on? Why don’t you do that instead?
 - What 20% generates 80% of the outcome, but also: what 80% is mostly useless? 
 - Learn to say no – that will get you the most done in the long term, which matters most 
 - Listen to your body and mind. Rest and take a step back when it's needed 

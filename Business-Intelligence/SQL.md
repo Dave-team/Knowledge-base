@@ -171,6 +171,7 @@ And then:
 - A case statement returns a value based on one or more conditional tests. Remember that the order of operations is top to bottom. The first TRUE event is returned.
 - Aggregated functions include sum, count, min, max, avg. They compute a single result set from a set of input values
 - HAVING filters summarized grouped by clauses – WHERE filters only individual records. So WHERE is performed before any grouping took place, whereas HAVINg takes place after the grouping
+- Filtering on max values: avoid joins for performance reasons. Instead, aim to do a descending row_number window function.
 - Derived tables: tables created on the fly using select statements. Derived table expressions appear in the FROM clause of a query. These are limited to outer select and can’t be used further outside the scope of outer select query. Derived tables are often used to get data where an aggregate function is applied: 
 SELECT 		loanid, amount
 FROM 		a

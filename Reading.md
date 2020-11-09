@@ -44,5 +44,7 @@
 - Read more books around the same concept to get a good grip of the material 
 - When reading, don't get stuck on what you don't understand. Make a note of it and continue. It likely doesn't matter and you can always come back to it 
 - If you read to learn, realize that reading a book will take a lot of time. Reading a book is not meant to be done quickly if the book is worth anything. Most books are just not worth it so they can be read quickly.  
+- Read whenever you have a bit of spare time - the pages will add up eventually 
+- 
 
 

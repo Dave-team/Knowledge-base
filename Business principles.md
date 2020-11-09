@@ -101,6 +101,15 @@
   - Consider the RAID method: Risks, Actions, Issues, Decisions
   - Consider taking minutes during the meeting whilst everyone can see what is being typed 
   - When a meeting is longer or more complicated, ask two other to also take notes so you have a backup for when you are busy interacting with others
+- General:
+  - Provide more input
+  - Determine in advance who leads the meeting
+  - IF I miss context: Say ‘I wasn’t part of the discussions - can we quickly recap what we;re trying to achieve here?
+- To discuss in catch-ups meetings: 
+  - What are we all working on? 
+  - Are there any questions / things we can help with? 
+  - We have been thinking about doing X - is this something you would be interested in? We’re still very early stage and just gathering feedback. Think about: AI applications, what more can we build thats good for the business? 
+
 
 
 **Prep for meeting set by others**

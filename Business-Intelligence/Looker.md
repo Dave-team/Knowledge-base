@@ -148,8 +148,11 @@ To delete local, developers need to clean up their own branches in Looker.
 Because dev branch is read only, we’d want to collaborate on different branches that are newly created for each project and based off master. This means that other Looker users can switch to the branch and review changes as well (e.g. compare your newly created branch against prod) 
 
 ## Looker onboarding
-- Send Looker intro, Looker worksheet and worksheet answers
-- They should work with the data champions in their team 
+- Welcome
+- Looker is out BI tool
+- X is your superuser who will support you throughout your journey and can answer any questions 
+- We have a Slack ‘Lookerpaps’
+- There are 3 relevant intro docs to using Looker: Looker intro, Looker worksheet and worksheet answers
 
 Looker training: 
 - Kickoff: intro of me, and overview of what we’re going to do and get an understanding of how users want to use the data  
@@ -182,6 +185,10 @@ Looker training:
 - Moving average: mean(offset_list(pivot_where(${opportunities.opportunity_funnel_stage} = "SAO",${opportunities.number_of_opportunities}), -2,3))
 - When LookML errors occur but we still want to commit: Shift click on the arrow next to validate again - here we can actually commit the code 
 - We can create usage and metadata reports with i__looker: https://tessian.eu.looker.com/explore/i__looker/history?qid=qrQxWuqEwUSOG7DqJW33iu
+- Grant Looker access to Redshift table: 
+  - GRANT USAGE ON SCHEMA facebook TO looker;
+  - GRANT SELECT ON ALL TABLES IN SCHEMA facebook TO looker;
+
 
 
 **Parameters and liquid for displaying currencies:**

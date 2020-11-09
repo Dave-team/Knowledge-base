@@ -1,7 +1,11 @@
 # BI checklist
 
 ## General
-- Get context and deep understanding of the problem / request. Only start when you're confident you have a good understanding
+- Get context and deep understanding of the problem / request. If you feel like you miss general business process context, get this first before working on the requests. The analysis takes a long time and it’s worth getting deeper into this to ensure the final result is a helpful conclusion  
+  - Take the time to take a step back, think about what you’re doing, and why. 
+  - Don’t pick the first solution you came up with, but take some time to think about other options.
+  - What is the easiest way of thinking about this? Especially when getting a request by the business, realise the answer is probably quite simple. Present that first and they'll challenge when that doesn't suffiece 
+  - Only start when you're confident you have a good understanding.  
 - Build solutions asking yourself 'so what' - what are we trying to achieve here?
 - Whilst developing, break it down and build incrementally so it's easy to spot where things break. If things break, perform unit tests. 
 - Check the data multiple ways - does this make sense and does this answer the question?

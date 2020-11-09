@@ -99,6 +99,7 @@ where created_at >= dateadd('day', -3, current_date)
 - Generate docs by enabling the setting on the DBT Cloud job 
 - We have the option to add Redshift customizations to improve model performance in DBT 
 -	Always remember that all models need to be run before the final query can be run – e.g. stg, then inter and only then dim or fact 
+- Multi select: Select something then Control Click in DBT IDE 
 
 ## DBT set-up
 ### Command line

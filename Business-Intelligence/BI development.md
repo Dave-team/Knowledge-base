@@ -76,6 +76,15 @@ Prioritize specific use cases (there will be different use cases even within a t
 - Currently very time consuming and/or error prone or not possible
 - The solution is technically feasible  
 
+More practical: 
+- Roadmap projects priorities are defined by impact - anything aligned with strategy and large impact is priority 
+- Ad hoc gets overall priority over longer term projects - ask team to add in the impact and the priority/deadline and then communicate when this can be picked up 
+- Ad hoc priorities: 
+  - Is this urgent? Do it now
+  - Is this something completed within < 30 minutes? Do it on the day when there is downtime / need for something else.
+  - If it's very complex, it might need to wait until the next quarterly planning sessions 
+- Prioritization is often quite hard - how to determine whether something is high or low? Also note that priorities change within the business 
+
 
 ## Kickoff (optional)
 Speak to the executives of the team whose process is prioritized:

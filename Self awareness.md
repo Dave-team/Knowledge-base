@@ -6,94 +6,93 @@
     - What do I value in life? 
 - Keep good memories close to you 
 - Have the ability to answer tough live questions. What’s you earliest childhood memory? Biggest failure? What are your parents like? Most emotional moment? Most happy/ proud moment? Etc.
+- Find out about myself and be able to answer questions and tell interesting stories. Learn yourself better and know things about yourself you can say that are interesting
+- Spend time reflecting what my ideal life looks like. How do I spend my weekdays, my weekends, who do I engage with and to which extend? Who knows me, how do I act around others. How do I think? What do I do when not at work or in a social setting? What do I value?  
 
 ## Findings 
-### Action over content consumption
-I have been a big content consumer lately and rather than actioning and using the learnings, I've continued to consume. My current thoughts on this is that content consumption is a form of FOMO for missing out on key insights of life. However, this very likely is no longer the case with the content I already consumed. The time is now to instead use this newly gained knowledge and go deeper in that. The content consumed is a good hobby but it shouldn't replace life. Taking action is what will ultimately help me become the person I want to be and the experiences I want to gain are not found in the content I'm consuming  
+### Action on life rather than procrastinate by consuming content 
+Rather than actually focusing on goals and hobbies, I tend to consume content as a way of procrastination from the things I actually should be doing. I also have this Knowledge Base now that I keep improving and extending rather than fully using. The value lies in going deep in some content rather than always looking for something new - the FOMO is irrational as I likely already have most useful content directly in here and in a few fundamental books. The person I want to be and the life I want to live is not found by consuming content. 
 
-### Be able to do nothing 
-- I should stop having this immense desire to do something and 'be productive'. We all need space and relaxation 
+### Be more relaxed
+Man’s greatest problems arise because he is unable to sit still by himself. I find it hard to do 'nothing' as in something that fundamentally isn't productive which is either work or learning. But these moments are often the best in life. And when I do something that isn't productive, I immediately want to optimise the process to finish as fast as possible - I focus on the 'goal' and stop enjoying the process. I want to finish a book rather than enjoying it - so I become anxious reading a book because I want to finish it - even though that is not the actual objective of reading. When doing something that doesn't feel productive, think about why this is a great thing: I am doing this to train my mind to be more relaxed which will positively affect relationships, work and general well-being. And e.g. in the case of fiction: I’m reading fiction as I’m trying to follow complex dialogue, learn new vocabulary and get a better understanding of humanity
 
-### Do the hard strategic work
-- I tend to default to asking someone else when a difficult or strategic piece of work needs to be decided on or implemented. What would I do if I was the one deciding? 
-
-### Life is not a race
-Oftentimes, I am focused on the end goal and don't enjoy the process. I want to finish a book rather than enjoying it. It's like I'm in a race against I don't know what. Life is not a race - it's about enjoying things at the present time. My main goal is calm mind, great relationships and friendships, and experiencing a lot of things. A job should be enjoyable and should give rise to financial stability. 
-
-### Be patient and solve challenges
-I get annoyed when things don't go well - this in turn affects my mood. I want things to finish quickly and when something hinders me from doing that, and I can't figure it out, I get annoyed. To overcome this, I need to accept the challenge as a puzzle to be fixed and that is then my main priority. It's about staying relaxed and sometimes you need to sleep on the problem and then fix it in the morning. 
-
-### The world isn't black and white
-Realize that not everything is black and white / binary, there are multiple ways of doing things and not everyone is like me and I'm not always right. So rather than being defense against suggestions, accept other solutions too 
-
-### Lower the pressure on yourself
-I tend to put really high pressure on myself constantly. Very high standards and never taking the easier way out.  
-
-### Don't overthink
-- I overthink scenarios even before they are relevant - perhaps this is my stoicism? E.g. when searching for a job, I'll use a lot of negative visualization
-- With meetings, I tend to overthink how it will go and prepare mentally exactly what I will say. Instead, I'd like to draw on confidence and understanding that I will end up saying the right things
-- Often, I just need to take a first step and not want everything to go exactly as planned. E.g. there is no perfect path to taking a driving license but the only way to get it is by actually taking lessons in the first place. Overthinking is procrastination to a large extend 
-
-### Switch your mind
-- When I am struggling with decisions, I am unable to work on other things. E.g. having option to take job > can't work on projects. This often means I need to take a step back, take a break and just forget about it if it doesn't feel right.  
-- It’s hard for me to switch off my mind e.g. when the weekend comes and I still have work on my mind
-- I am someone who can get really caught up on work and that is then all I think about. E.g. in standups I would think about a problem I'd be solving. Or even in general, I'd be less social because my mind is consumed with the project. It's really crucial to be able to step back from the problems and switch mindset, especially towards becoming a manager and becoming more social overall. Take a breath and switch mindset - work hard, play hard. The problems aren't solving themselves because you don't let go of them. The problems will be solved once you give your brain a break 
-- When on the phone with spouse, friends, drop everything - don't share your headaches and just be in the moment 
-
-### Communicate feelings honestly 
-- I am often slightly out of touch with my feelings - hiding them in myself and not sharing them doesn't help anyone
-- Part of me not being 100% is out of fear of losing someone 
-
-### Obsessive thinking
-- I tend to be obsessed by my thoughts and then don't allow space for anything else. If there is something I need to do or tell someone, that tends to be all I think about and blocks me from anything else 
-
-
-### Relationship fears
-- I fear being rejected - particularly feeling as if I'm not good enough which hits my self esteem
-- I fear losing those I love and I tend to see the positives only. When I'm comfortable and relatively happy it's hard for me to see negatives
-- I am a people pleaser and probably wouldn't quickly reject/break up with someone purely out of fear. This is a fundamental sign that I don't value my own life enough 
-- I am anxious about the future - will I be able to get a new SO when I have been single for so long? 
-- I fear being lonely 
-- I fear making the wrong decisions - we often make only a few major decisions in our lives and I fear regretting the decision 
-- With all of these, as long as I become an independent happy man who has his shit together, I don't care about the relationship. This also means that I'll be able to take rejection because I date for fun and I'm ok if things don't work out. This lack of confidence would make me dependant and put the girl on a pedastral whihc isn't attractive 
-- 
-
-Other 
-- I often go into 'let me fix that' mode. Instead, don't give advice and only jump in when people specifically ask for your advice. 
-- I crave a strong sense of belonging – I want someone to care about me and I want to know that someone will reply and just be there for me. I want to feel loved 
-- At times I felt like my worth was determined by whether I was in a relationship or not. Being with someone is what I’d consider a successful life whereas being single is a sign that my life isn’t complete
-- o	I was depending on validation to make me feel good about myself 
-	I want people to text me and show they care 
-	I want to meet friends regularly 
-	I want to go on occasional phone calls 
-	I want to feel belonged – being part of a community might help this 
-o	Not being loved as much makes me feel inadequate 
--	I wasn’t really living life, I was going through it and being lived by work and the relationship. Clean slate and so many things to now look forward to. Actually setting goals again 
-- Until I know exactly who I am, what I need to work on, what my goals and ambitions are I shouldn’t be in a relationship. I’ve been guided by life and I haven’t taken ownership of my life beyond work. I don’t think I knew who I was or what I wanted when I met Cisem - somebody loved me and I loved that feeling so I loved her back and I think that just continued through time.
-- Once I know exactly where I’m coming from, who I am and where I’m going, then I have this life build for myself in which I am happy. And this level of happiness means that I have a balance in all areas in life, don’t feel lonely and don’t feel a need to belong and be loved because I found all this elsewhere. I want to be completely happy single and continue to feel that way - all relationships in life end and even if someone were to die, I’d want to be able to withstand that and move on
-- The end of the relationship left me more anxious and I noticed a drop in my self esteem 
-- The reason I was so obsessed is simply because I didn't have any larger goals that I was working towards. 
-- The reason why I feel this way is because I had expectations that we would meet up. Once I realised we were going to meet up that felt like a bad thing and instead I wanted validation by speaking to her or at least get the validation that we’ll see each other again soon. If I practice patience and confidence I know that it will happen - if it doesn’t it’s fine too - be outcome independent and most importantly don’t show desperation and don’t be the one investing too much because the investment isn’t equal
-- I tend to overthink and then I try to put things into buckets. Either full on friends or no contact. Not realising that friends might take more time and that that should be put on pause and follow naturally
-- Overthinking without going to the source and communicating. I can think all day long but what about just asking someone how they think and be completely honest around my thinking?
-- I have a strong tendency to feel bad with sympathy and compassion. I don’t like being sympathies with me. I feel like depression and mental health issues is a weakness and I surely wouldn’t want others to be put up with my weaknesses that I should care for myself
+Life is not a race - it's about enjoying things at the present time. Spend time reading a fiction book, do a puzzle, be engaged in conversation and most importantly, just sit down with my thoughts. Just do things for the sake of doing them rather than because they would help me in some way. If I prepare my brain correctly, that will be the most productive time - thinking about my goals and the person I want to be. 
 
 ### Calm mind 
-I’d like to have a more calm mind and more optimism and confidence that things will be okay 
+I’d like to have a more calm mind and more optimism and confidence that things will be okay. This is the biggest key to life. 
+
+### Do the hard strategic work
+I tend to default to asking someone else when a difficult or strategic piece of work needs to be decided on or implemented. Instead, to advance my career I should assume completely ownership myself - what would I do if I was the one deciding? 
+
+### Be patient and tackle challenges with a positive attitube
+I get annoyed when things don't go well - this in turn affects my mood. I want things to finish quickly and when something hinders me from doing that, and I can't figure it out, I get annoyed. To overcome this, I need to accept the challenge as a puzzle to be fixed and that is then my main priority. When something is hard, it means there are things to be learned and I will get better in the process. It's about staying relaxed and sometimes you need to sleep on the problem and then fix it in the morning. 
+
+### The world isn't black and white
+Realize that not everything is black and white / binary, there are multiple ways of doing things and not everyone is like me and I'm not always right. So rather than being defense against suggestions, accept other solutions too. Also, don't try to always bucket things - it's often not either/or - instead, seek a middle ground/compromise. When people share their concerns with me, be sure to listen - don't disregard it because you have a different opinion. Go deep into why they think that way and see if there is something that ought to be done. When people don't feel listened to and when they are genuinely worried about something and you don't action it - they will leave you.
+
+Similarly, I often go into 'let me fix that' mode. Instead, don't give advice and only jump in when people specifically ask for your advice. 
+
+### Lower the pressure on yourself
+I tend to put really high pressure on myself constantly. Very high standards and never taking the easier way out. Sometimes, I should relax and just not take myself and life so seriously.  
+
+### Don't overthink / think obsessively
+I have a strong tendency to overthink things. This is split between: 
+- overthinking about what might happen in the future (anxiety) 
+- overthinking something that happened and I think about all different contexts related to that. 
+- overthinking a most optimal way to do something 
+- overthinking a decision to be made 
+  
+This overthinking makes me unable to focus my mind on anything other than the thing I'm overthinking. Most often, there are a few solutions to overthinking: 
+- Talk to the person involved. Be honest about you're feelings and ask them questions. Instead of thinking what their motivations are, ask them as me thinking what they think won't get anywhere 
+- The future is largely out of our control once we have done everything we can. Don't focus on things out of our control and bring the focus back to what we can control
+- What is the easiest first step to do? Forget about planning the optimal way to do things, take the first step and be fine if things don't go exactly as planned. This type of overthinking is essentially procrastination
+- Realize that problems aren't solved by thinking about them. So either action towards them or don't do anything at all. And when you forget about things, the subconscious mind might help coming up with the solution 
+- Focus on the bigger picture - if you're working towards the grander goals in life, most small things become irrelevant and there is no need to overthink quite as much
+
+Examples where overthinking is intense: 
+- Deciding between taking a job during COVID (Guardian). I wasn't able to focus on doing anything else than constantly thinking about which path to take
+- Why did someone breakup with me? 
+- How should I go about getting a drivers lincese? After all that thinking, I still hadn't taken a lesson
+
+The impact of overthinking: 
+- It's hard to switch my mind. 
+  - This will impact the relationships in my life as I can't provide full attention and support to friends/family/spouse. 
+  - If I'm focused on my own problems during standup, I don't listen anymore to what others say. This would hinder me from being a great manager
+- It's the opposite of having a calm mind that is required to be most effective
+- It doesn't allow me to focus on the things I should be focused on 
+- It is not helping me to make the most of my life
+
+### Be aware of feelings and emotions and communicate them
+I find it hard to understand my own feelings and find that I'm am often slightly out of touch with my feelings. Even when I do feel them, I often don't share them and just keep being closed. Any relationship is based on us understanding ourselves and sharing our feelings openly and honestly. 
 
 ### Social
-- I am nervous when speaking in front of others - i.e. I get uncorfortable when the attention is on me 
-- I'm not the biggest fan of speaking about myself. Often, group conversations are about sharing personal stories and I'm not the biggest fan of that. Other than personal stories, a big part of group conversations is on the spot spontaneous comments and I also need to work on that as my creative out of the box thinking is currently limited.  As a consequence I'm often quiet in group conversations. In 1-1 talks, there is often a more purposeful topic so I'm fine. To do: 
+- I am nervous when speaking in front of others - i.e. I get uncorfortable when the attention is on me. Get used to being uncomfortable by seeking these situations and visualize yourself as someone who likes doing it. 
+- I'm not the biggest fan of speaking about myself. Often, group conversations are about sharing personal stories and I'm not the biggest fan of that. Other than personal stories, a big part of group conversations is on the spot spontaneous comments and I also need to work on that as my creative out of the box thinking is currently limited. As a consequence I'm often quiet in group conversations. In 1-1 talks, there is often a more purposeful topic so I'm fine. To do: 
     - Improve creative thought
     - Think more about own life and what is worth talking about and mentally prepare talking about these things 
     - If this doesn't flow/work, realize its okay to realize I'm more queiet in social group settings 
 - I sometimes feel like missing out on life experiences such as weddings because of a limited social circle. 
 
+### Relationship findings
+- I fear being rejected - particularly feeling as if I'm not good enough which hits my self esteem. If I am confident enough, I don't care when one person rejects me - there are many others who are happy to be with me. And even if not, I am happy with my independent life. The goal here is to be outcome independent 
+- I fear losing those I love. People die, people change. Losing those we love is a major part of life that everyone needs to deal with. 
+- I tend to see the positives only. When I'm comfortable and relatively happy it's hard for me to see negatives. Instead, have regular critical check-ins with yourself and ask yourself how it's going and where it's going. And don't fall in the trap of loving someone just because they love you and that feels good. Value yourself more than that. 
+- I am a people pleaser and probably wouldn't quickly reject/break up with someone purely out of fear. Instead, realise this is your one life - know what you want out of it. If something doesn't sit right, become aware of it. Then communicate it. Then fix it. If it can't be fixed, you need to be strong for the both of you to break things of now rather than waiting any longer. You both deserve better. 
+- I am anxious about the future - will I be able to get a new SO when I have been single for so long? Instead, approach life with curiosity - who knows what will happen? Just be happy - then you won't need anyone else.
+- I tend to become dependant and complacent during a relationship. Instead, keep living my own life, chase my goals and keep my social cirlce and hobbies. And beyond that, invest in the relationship if it's worthwhile: initiate things, show that you care, communicate honestly, etc.
+- I fear being lonely. Don't be lonely - fill your life with purpose, family, friends, hobbies  
+- I fear making the wrong decisions - we often make only a few major decisions in our lives and I fear regretting the decision. Decisions are not forever. Give things a chance when it feels right, be in touch with feelings and if it turns out to have been the wrong decision, be strong enough to end things. 
+- I crave a strong sense of belonging and validation. I want someone to care about me and I want to know that someone will reply and just be there for me. I want to feel loved and this validation made me feel good about myself; if I don't feel loved this hits my self esteem and makes me not feel good about myself. Seeking external validation from someone you don't fundamentally control is not good. Enjoy it when you have it but be aware that you can't rely on validation that isn't coming from within. 
+- At times I felt like my worth was determined by whether I was in a relationship or not. Being with someone is what I’d consider a successful life whereas being single is a sign that my life isn’t complete. This has been amplified by e.g. how family approaches us. Instead, be entirely happy independently first. 
+
+### Flying
+Tons of flights happen. The pilots wouldn’t fly if there was an issue. Turbulence is just a bumpy road. Try to comfort yourself. Realise it’s okay to feel that way because you’re not in control. But it happens often and the pilots are the right people to take care of it. Statistically, were incredibly safe. Learn about planes. You’re not in control any more so just let it happen
+
 ### Privileged
-Extremely lucky being white male and grew up in Netheralnds. Worst thing that can happen isn’t that bad - could always go back to Netherlands
+Extremely lucky being white male and grew up in Netherlands. Worst thing that can happen isn’t that bad - could always go back to Netherlands
 
 ### Minimalism
-- I know that watches (or any materialistic things for that matter) ultimately won't bring happiness. They are a risk to keep for theft or damage, they need to be serviced, the search for watches is time consuming that perhaps could be better spent elsewhere. It's a constant race to reach the next thing  
+I know that watches (or any materialistic things for that matter) ultimately won't bring happiness. They are a risk to keep for theft or damage, they need to be serviced, the search for watches is time consuming that perhaps could be better spent elsewhere. It's a constant race to reach the next thing. I'm also keen to keep as little things as possible in my life avoid clutter.   
 
 ### Build personality
 - So far, my lifestyle has been very square with very few extremely crazy things. To break out of that, I need to do more wild things and spice up my life. 
@@ -151,18 +150,3 @@ Gym, reading, eating out and exploring London, travelling, music
 - Getting drunk at carnival 
 - Nights at Dutch bars with Sam / Funs / Ricky 
 - Sleepovers at Sam after a night out, eating ‘kaassoufles’
-  
-
-Relationship reflections
--	Co-dependent – she was the main source for my happiness and there was a gap to fill. When she told me there would be a break I stopped knowing what to do.  
--	Complacent and selfish – Cisem was initiating most things and I didn’t have strong opinions on my own. This would have caused her to feel quite busy keeping things going and she must’ve felt like she was looking after me as well 
-o	Case in point: I took a day off and had to ask her what some good things to do were
-o	What we eat was determined by Cisem
-o	What we do was largely determined by Cisem 
--	Never really communicated my appreciation for her and the relationship and doing the small things that make this clear. In short, I haven’t put the required effort in the relationship as I should have been 
--	Relationship was far too scheduled: 
-o	Never did anything spontaneous – i.e. on weekdays / meetings her for a quick walk at the office 
-o	Didn’t meet friends during weekend because we had to spend time together
-o	Started a routine like ritual we wouldn’t deviate from because we had to do things together. 
--	Cisem often mentioned I was obsessed over cleaning/the flat in general (e.g. lifting the chair, being extremely careful with Lola, use coasters) and I never took those concerns and turned them into action. This made her not feel at home and constant on guard to ensure ‘she did what I would approve of’. Sit down and discuss cleaning and what home looks like. Realise the flat is just a temporary accommodation we’ll be out of before we know it. The worst part here is that she repeatedly mentioned these things to the the point of ‘this worries me about living with you’. I simply disregarded these statements 
--	I was pressuring her into having sex rather than giving her time and space to figure it out. Don’t ask for sex until you initiate.

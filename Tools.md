@@ -23,9 +23,25 @@ Todoist
 - Notes to put in journal
 - Great because it seemingly works between macOS and iOS
 
+Evernote 
+- Recipes (paid alternative here is Paprika)
+- Notes that are long term but don't belong in the knowledge base and need to be easily accessible
+  - For example travelling packing lists
+  - Workout schedule 
+  - Passport photo
+  - Card info
+- Save web clips from whilst I'm reading things online without having to copy directly into the app 
+
 Google Docs 
 - Longer form write up of notes that should go into Knowledge Base 
 - Snippets of learnings from articles / books 
+- So notes would either be either Evernote web clippings or Google Docs 
+
+GoodNotes
+- Annotate PDF / books 
+- Make notes whilst multitasking on the iPad
+- Migrate highlights / notes from Goodnotes Mac to Knowledge Base 
+- Auto backup to Google Drive is enabled
 
 Notes app 
 - Longer term To-Dos. I.e. the project I need to work on instead of the projects I can just check off 
@@ -34,15 +50,8 @@ Notes app
     - To do This Week
     - To do This Month 
 
-Evernote 
-- Recipes (paid alternative here is Paprika)
-- Notes that are long term but don't belong in the knowledge base and need to be easily accessible
-  - For example travelling packing lists
-  - Workout schedule 
-  - Passport photo
-  - Card info
-- To save clips from whilst I'm reading things online 
-
+Pocket
+- Bookmark URLs to read later - alternative to keeping bookmarks in the browser 
 
 Alfred 
 - Search for folders/files on machine 
@@ -79,10 +88,6 @@ Text Editor
   - PDF Expert for a better paid option
 - Epubs: Apple Books
 - Convert PDF to ePub using Calibre or otherwise an online tool 
-- 
-
-### Annotation and note-taking
-- GoodNotes with Apple Pencil 
 
 ### Automation
 - IFTTT
@@ -113,7 +118,19 @@ Text Editor
 - Apollo: paid for Reddit client. 
 - Tweetbot: paid for Twitter client 
 - V for Wiki: paid for Wikipedia app
-- 
+- News app: Apple News
+- RSS readers (use these once I actually start to follow a select few blogs rather than going through them one by one): 
+  - Feedly
+  - Reeder
+  - Instapaper
+  - Innoreader
+- Convert web pages to PDF: 
+  - Basic
+    - Safari: Share > Options > PDF > Save to files
+    - Chrome: Share > Print > Sweep on the pictured image (just like zooming in) > Save to Files
+  - Nice looking: 
+    - Simple Print: https://pdf.fivefilters.org/simple-print/url.php
+    - Print Friendly: https://www.printfriendly.com/
 
 ### Media 
 Media Center 
@@ -152,6 +169,21 @@ Overcast
 - Play all podcasts
 - Helpfull features: increase speed of playing 
 
+### iPad
+- Screenshots: 
+  - On/off button combined with the home button
+  - With Apple Pencil: put the pencil in bottom right or left corner and drag to the centre
+- Drag down from top to access Spotlight 
+- Hold space to move the cursor
+- Pull from right top of screen to enter control centre
+- 4 fingers swipe to the centre to access home screen 
+- 4 fingers swipe right/left to switch between different apps
+- Swipe up slightly to access Dock apps
+- Swipe up a bit more to get an overview of all active apps
+- 'Squeeze' keyboard to make it a floating mini keyboard
+- Slide over function to create ever more multitasking options 
+- 
+
 ### Social 
 Hackernews: 
 - We can favourite submissions to refer to these later 
@@ -165,6 +197,7 @@ Reddit
 - We can track our posts and comments 
 - Sort saved items by subreddit using https://updoot.app/app
 - Rather than using Google to search Reddit, consider searching within Reddit as well 
+- Build custom Reddit feeds to create unique feeds 
 
 Twitter
 - To save a Tweet to be read later, make it a bookmark
@@ -184,6 +217,8 @@ Backups
 
 ### Work
 Google Calendar
+  - Can setup the Slack integration to show I'm in a meeting, to give alerts pre meeting. Type /gcal today or /gcal tomorrow to get an overview of events happening. From the Google Calendar chat, we can also modify / accept / decline invitations
+  - For desktop and mobile notifications, use the default Mac/iOS calendar app
 Zoom 
 Slack
 Notion for team documentation / handbook

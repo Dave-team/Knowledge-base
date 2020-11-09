@@ -1,7 +1,7 @@
 # Management 
 
 ## Principles
-- You are responsible for the team's output 
+- You are responsible for the team's output - they need to be happy and productive
 - Give credit to the team when things go well and take full responsibility when they don't
 - Make your employees feel comfortable with you – they should feel free to share their thoughts and recommendations 
 - Don’t be the manager you wish you had – be the manager that your team needs. Everyone is different and everyone is at different stages. Some people need more feedback and deadlines whereas others can just be left alone 
@@ -104,6 +104,17 @@ This is important because:
 - Relationships. Does this individual get along with others on the team and support collective decision making, or is he or she difficult to work with? 
 - Trust. Can you trust this person to keep his or her word and follow through on commitments? 
 
+## Introductions
+An introduction: who are you? Where were you before? What do you focus on? How do we interact?
+
+## Communication methods
+- Is it a simple quick question for a colleague? Instant message.
+- Is it a relatively quick question but needs some context? Email.
+- Is it something that requires more than 3 single lines of explanation? Phone call.
+- Is it something that would require probably more than 10 minutes of explanation/conversation? Plan a 30-minute meeting.
+- Is it something that requires more of a discussion? Do a meeting time you think is appropriate but only after you've tried to break down your problem into smaller chunks and see if steps 1 through 4 won't work.
+
+
 ## 1 on 1s
 - Held weekly 
 - Focus on the employee
@@ -150,6 +161,20 @@ This is important because:
 - Always consider continguency when someone in the team is away 
 - Always be highly aware of what's happening in your sprint as well as with tickets in other team's sprints 
 - Lead communication and steer it into the direction you need it to go to. Don’t be afraid of cutting people short 
+- When you don't know something exactly either as a manager: Learn about the topic together. You can’t necessarily coach the other person but you can learn the same things together and then be one anothers sounding board. You can't possibly know everything but you can still support to the extend possible 
+- Make sure everyone in the team is aware of their next most important priorities
+- Help the team connect the dots - how do projects relate? Why is this important, who else would be interested in knowing about these things?
+- Don't make decisions unless you really have to. Let the team figure them out mostly themselves where possible. 
+- Don't blame and assume. Instead, resolve your feelings by communicating with people
+- Your team looks to you for leadership. Have the courage to say what everyone knows to be true but isn’t saying.
+- People will push and prod to discover your boundaries. Knowing when to stand back and when to stand firm is half the battle. Occasionally someone will push too far. When they do, you have to show a rough edge or you’ll lose authority with your team. A firm “I’m not ok with that” is usually enough.
+- Don’t laugh things off if you don’t feel like laughing them off. Have the courage to show your true emotions.
+- Don’t let people pressure you into decisions you don’t believe in. They’ll hold you responsible for them later, and they’ll be right. Decisions are your responsibility.
+- Believe in yourself. You can’t lead a cavalry charge if you think you look funny on a horse.
+- You need to be tough - e.g. wanting to put project on backburner - why are you stuck? Let’s step by step solve those points we’re stuck on 
+- Take the lead or they will \
+- Don’t explain how comms channels work - just make sure the right things get done. Keep people away from politics 
+- Use Notion better. Know what the team is working on and have opinions on tickets. Update tickets to ensure others know what I’m up to too and have a reference 
 
 
 ## 12 questions employees ask themselves
@@ -180,7 +205,7 @@ Prior to starting: Make others aware of the new hire and make sure everyone know
 
 Day 1
 - Sit with HR induction
-- Set up IT 
+- Set up machine
 - Provide high level context and update on status, vision, challenges
 - Provide access to tools, set up machine etc. 
 
@@ -192,6 +217,10 @@ Day 2:
 
 Early weeks
 - Work on projects that are faily easy to complete, engage with multiple teams and allow learning of the data model 
+- Allow lots of time for questions to be asked
+- Let them sit in during meetings with stakeholders
+- Provide lots of context 
+- Be critical around the quality of work expected
 
 ## Starting as a manager in an existing team 
 Ask your direct reports: 
@@ -201,3 +230,12 @@ Ask your direct reports:
 - What would need to happen for the organization to exploit the potential of these opportunities? 
 - If you were me, what would you focus attention on? 
 - How can we improve the team works together? 
+
+## Feedback
+- Keep an ongoing list of feedback topics to discuss
+- Giving feedback
+  - Is now a good time for feedback? 
+  - I have noticed X during specific example Y 
+  - I know that you have good intentions
+  - However, this makes me feel like Y
+  - Because it is our goal for me to become Z, going forward can we do Y? 

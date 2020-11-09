@@ -65,3 +65,7 @@ Milestone 3: effortless stability of attention
 10. When the mind is pretty much in meditative state even when not meditating 
 
 Milestone 4: mastery of meditation 
+
+## Other mindfullness techniques
+- Focus on something and describe it in as much detail as possible. How it feels, looks, tastes, sounds. From all different angles in different contexts. 
+- Step outside yourself and observe your mental process - am I being hijacked by anything? 
