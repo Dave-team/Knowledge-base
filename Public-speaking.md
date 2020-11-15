@@ -106,6 +106,11 @@
 - A great tactic is to start off with interaction with the audience. This should massively drop the nerves during the rest of the presentation
 - Be grateful for opportunities you get (e.g. when presenting to be higher up the foodchain). Have the strong tendency to prove yourself and get the word out 
 - Visualize yourself as being someone who loves being right in the centre of attention because everybody is keep on listening to you and understand what it is you have to say. Be more influential and funny – be who you want to be
+- Some nerve reducing tactics pre presentation: 
+  - Meditation
+  - Breathwork
+  - Walks
+  - Listen to music
 
 ## Virtual meetings
 - Ask people to add questions in the chat to avoid distractions 

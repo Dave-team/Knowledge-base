@@ -32,6 +32,18 @@ Realize that not everything is black and white / binary, there are multiple ways
 
 Similarly, I often go into 'let me fix that' mode. Instead, don't give advice and only jump in when people specifically ask for your advice. 
 
+### Anxiety during work meetings
+I can be nervous to present around what I have been working on. There are probably two main reasons for this: 
+
+1. There is some level of imposter syndrome. Am I doing the right thing and am I doing that thing right? 
+2. I am afraid I'm not meeting the expectations of others. I'm afraid that what they hear I do and achieve is not in line with their expectations (large progress on major milestones) and in my mind this would lead them to think I'm either incompetent to work on the right things in a smart way or that I'm simply not working hard enough. This is entirely me portraying what they may think and it might also be me telling myself I'm doing the wrong things. Unless I believe I am doing the right things, nobody else will believe it.  
+
+Another observation is that this pressure was at Elevate and now at Papier and it's because I'm talking about what I'm doing with people who aren't involved with what I'm doing. It was George and Jon at Elevate and now its Anthony at Papier. I'm always fine presenting to the team and the manager, probably just because I know them a lot better. 
+
+I'm short, you have a belief that if you talk to your boss and he doesn't approve of what you say , he will view you as some sort of failure, or not look at you in a positive way.
+This belief causes the fear you experience without you realizing it.
+The good news is that it's pretty easy to get rid of this belief once you recognize it! The main thing you need to remind yourself is that this belief is not real. It doesn't exist at all in reality, it's simply something you (falsely) tell your self is true.
+
 ### Lower the pressure on yourself
 I tend to put really high pressure on myself constantly. Very high standards and never taking the easier way out. Sometimes, I should relax and just not take myself and life so seriously.  
 
@@ -72,6 +84,7 @@ I find it hard to understand my own feelings and find that I'm am often slightly
     - Think more about own life and what is worth talking about and mentally prepare talking about these things 
     - If this doesn't flow/work, realize its okay to realize I'm more queiet in social group settings 
 - I sometimes feel like missing out on life experiences such as weddings because of a limited social circle. 
+- This might be related to social anxiety I may have and it would tie in with the anxiety I have around presenting what I've been working on to different people. I am someone who wants to please people and when I don't 100% believe I've been working on the right things, I feel like a slight let down to the other people. Need to realize that either I fucked up and own up to that and then that's fine. Or there are too many things on my plate and we need simply need to shift priorities  
 
 ### Relationship findings
 - I fear being rejected - particularly feeling as if I'm not good enough which hits my self esteem. If I am confident enough, I don't care when one person rejects me - there are many others who are happy to be with me. And even if not, I am happy with my independent life. The goal here is to be outcome independent 

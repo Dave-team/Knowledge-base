@@ -69,3 +69,7 @@ Milestone 4: mastery of meditation
 ## Other mindfullness techniques
 - Focus on something and describe it in as much detail as possible. How it feels, looks, tastes, sounds. From all different angles in different contexts. 
 - Step outside yourself and observe your mental process - am I being hijacked by anything? 
+
+## Meditation findings 
+- It's hard to focus when I already know I want to be doing things. I'm a morning person and just want to get started
+- 

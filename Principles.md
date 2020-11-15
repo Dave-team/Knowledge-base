@@ -157,6 +157,47 @@ On the day of execution:
     - Power pose in a bathroom and make yourself as big possible 
     - Heavy breathing for a short while
 
+## Reduce anxiety during meetings
+- Be confident and belief in my own performance:
+  - My work has high impact and I'm working on the right priorities at the right time 
+  - I have the technical ability and when I don't, I know that I have the ability to pick it up rapidly
+  - I have the business understanding and when I don't, I know how to get it by communicating with the right stakeholders. 
+  - Know who you are and where you are going and be very confident in that. Whether people agree or not is not your business – you’re doing things your way because you’re on a specific path. What others think is irrelevant and you can’t please everyone 
+- Love what you do, be proud of your work and be enthusiastic to communicate around what you're doing. Be interested and interesting to your coworkers and speak at all opportunities - that's what all great speakers do; they want to communicate. Somethings, things don't go as expected or we make mistakes. That's okay. You're still working on the right thing and you know that you will overcome the challenges thrown at you. 
+- Become the person you want to eventually be: 
+  - If I am to become the person I want to be, these meetings are really small. Imagine speaking in interviews as a head of data of Facebook - that's the type of benchmark we're aiming for. People above me will notice when I'm ready to take a jump so I should work on portraying confidence and calm in any situation if I want to achieve what I want. I just have to. 
+  - Be a leader: a leader is someone who is in the moment when listening, adds value/support where he can to other points and provides authority, influence and clarity on next steps when presenting. The more confidence you have, the more impact you’ll have. Both for leaders as well as public speakers  
+  - Remind yourself that a calm mind would allow me to present with more clarity as I'll be focused on providing value to those in the sessions as opposed to being selfishly stuck in my own mind. In general, once I care a bit less and am much calmer around the situation, my performance will improve
+  - Get more used to being uncomfortable which will build your intrinsic confidence. The end goal is to stand above these situations because you're used to being uncomfortable and this is small in the grand scheme of things
+  - When things get hard: 
+    - Have a growth mindset. It's a puzzle to solve which is exciting - it's an opportunity to learn 
+    - I want to live a well lived life which includes overcoming hard challenges. This will add value to me as a person and it will help build my character
+- Enjoy life: 
+  - Have bigger things going on for you beyond work: have hobbies, work out, work towards achieving goals 
+  - Seperate your value as a person from your what is going on at work. Detach myself from caring about the outcome and I avoid getting invested emotionally in the job. Life is short and we want to perform well at work but we shouldn't take it all too seriously because in the grand scheme of things, it just doesn't matter as much. It's definitely not intended to have a major impact on your mental health.
+  - My primiary purpose in life now is happiness. Worrying about work is not adding to this happiness at all. So either fix the issue, communicate about the problem, think about the solution but don't overthink and go around in circles of anxiety. That holds no purpose
+  - Be grateful: you like your job and you have a lot of things going well. 
+  - Just take it easy
+- Understand the purpose
+  - The fundamental goal is to bring value to the company and that's what I itend to do consistently
+  - My ego is telling me that I should be doing certain things and when I don't feel like I meet these things, my ego is getting in the way 
+  - Understand the purpose of the session: it's not to evaluate your performance. It's not to understand whether you've performed well and 'passed the test' for the week. It's about each person bringing clarity to what is happening that might also impact them and giving people an opportunity to add context, become aware of things happening and steer where help is required. 
+  - There shouldn't be any reason for worry as long as I do my job. And even then, I should be in a strong place to not be depending on whatever job I may hold at any one point in time.  
+  - Realise that everyone involved wants me to do well. If they think I don't do well, they will interfere but for now, I'm confident I'm doing the right things
+- Let go of anything that is not within control: 
+  - Maybe it will go well, maybe it won't. I'd like it if it did, but it's not the end of the world if it doesn't, and it's not even really under my control. So relax, and enjoy it.
+
+
+- Other tips: 
+  - Speak up early in the meeting - this will remove some of the nerves as there’ll be some engagement already. It’ll show that it’s not as scary as you might think
+  - Always keep a confident body language 
+  - Become closer and more friendly to the people you are anxious around. The reason you're not anxious around people I'm more familiar with is because they know what I work on and I know they have the context and understanding 
+  - Sometimes, things just don't go as planned and unforeseen effort needs to be put in to make something work. We can not do that and things will go bad, so we have to do it. When we plan for projects in advance, there is no sense of understanding how long things will take and we cannot plan for any unforeseen work that comes up - either ad hoc or as part of the work involved in a bigger project. This makes a roadmap by definition unreliable as a timeline and if ad hoc work comes in between, shifts need to be made in the roadmap and in the expectations across the business. 
+  - I can work harder when need to, but the effect of that is likely that I'll work in a hurry and mistake will be creeping in. Our job requires a lot of brain power and forcing ourselves beyond what our body/brain is capable of will ultimately lead to mistakes  
+  - Break your tasks down into smaller tasks, so you have something new to add every meeting. In the rare case that nothing might be happening, mention it and ask them how you can support them 
+  - Threat all these things as experiments: I get to speak in public - let's see how my body and mind will respond 
+  - Distract yourself when others are speaking and you're not up yet: take notes, focus on your breath, engage, use a repetitive mantra
+
 ## Happiness and purpose
 Happiness is a state of fullfilment and calm mind. It's the absence of anxiety and fear and a general feeling of satisfaction - all of this can be obtained by training the mind. One could say that this is contentment and happiness is a general feeling which is harder to achieve sustainably. Be content and whenever you feel happy that's just a bonus. Whenever you experience joy, reflect on it - why did you feel it? Can you do more of it?
 
