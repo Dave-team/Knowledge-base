@@ -12,7 +12,8 @@
 - A good is where the audience learns something new or comes away with a change in perspective 
 - Focus on the value you're bring to the audience. Rather than providing your credibility, articulate a questions they'd love to have an answer to. 
 - Take every opportunity to speak in public 
-- 
+- Enthusiasm is the most vital factor in public speaking. You want your thoughts, actions and words to harmonize. To influence others, we must express ourselves in line with our own beliefs. 
+
 
 ## Slides
 - Only use slides that provide value
@@ -63,6 +64,7 @@
 - Speaking
     - Speak loudly
     - Pause more frequently. Especially when making a point, pause first and pause after. Bring home the points you’re trying to make
+- When waiting until it's my turn and I can't escape - i.e. during all hands or team meetings, try to distract yourself by focusing on what's being said, by taking notes and/or by focusing on people in the audience: how are they doing? What are they looking forward to this weekend? The goal is to get out of your own mind. 
 
 ## Structure
 **Intro**
@@ -111,6 +113,7 @@
   - Breathwork
   - Walks
   - Listen to music
+- Start to love presenting
 
 ## Virtual meetings
 - Ask people to add questions in the chat to avoid distractions 

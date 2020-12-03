@@ -145,6 +145,7 @@
     - Learn how to unblock yourself in the future by learning new ways of thinking 
 - If you're stuck when debugging a problem, think about all the assumptions you're making, and then test each one of them, no matter how obvious.
 - When stuck, take a step back and look at the situation from multiple angels. Realize you might be stuck on a solution and need to think more holistically about the problem 
+- Sometimes, we need to step back and work on something with ease, especially when we are stuck on something for a while 
 
 **Helpful tactics**
 - Scoring model when evaluation larger decisions. Also called a decision matrix where we list options, score/weight and then rank them 

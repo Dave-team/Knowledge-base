@@ -8,3 +8,14 @@ During sleep our heart rate drops, our body temperature falls and we experience 
 - A good night’s sleep consists of five or six cycles, whereas disturbed sleep consists of far fewer.
 
 ## Tips to fall asleep
+- No late caffeine
+- Limit stress before sleep: work, tv/reading (when it's thrilling it'll excite us too much)
+- Limit screen time before bed - at least dim the light and reduce blue light to the max. Ideally, no phone in the bedroom
+- Dark bedroom
+- Keep the same sleep schedule
+- Place yourself in a fictional world 
+- Win down routine: Alexa Sleep Sounds, meditation
+
+## Tips when not being able to sleep
+- It's okay not to sleep
+- If awake for more than 30 minutes, get up, go to a different and do something relaxing

@@ -12,6 +12,9 @@ Kindle
 - Whilst reading, highlight passages on Kindle (we can also add notes here). On Calibre, we can open 'My clippings'. We can also 'Fetch Annotations' (Send to Device > Fetch Annotations) to work on annotations directly from Calibre without having the Kindle connected 
 - Alternative way to handle highlights: Clippings.io (free) and ReadWise (paid) 
 
+Anne Pro 2:
+Connecting Anne Pro 2 to iPad: Turn on Bluetooth on the back of keyboard. Press FN2 + 1 to set Bluetooth connection 1 and then connect
+
 ## Apps 
 ### Productivity 
 Todoist 

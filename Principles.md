@@ -49,6 +49,7 @@ There are 7 things that matter most in my life: family, love, friends, health, c
 - Travel
 - Fulfil bucket list 
 - Do things that create lasting memories
+- Get many 'highs' in your life and be in the moment to fully appreciate them 
 - Experience and explore more 
 
 ### Personal goals & hobbies 
@@ -61,11 +62,12 @@ There are 7 things that matter most in my life: family, love, friends, health, c
   - What matters most to me?
   - How do I enjoy spending my time?
 
-## Working on the right things: 
-- Personal manisfesto: what's most important in my life? Who you are, what you stand for, what you want out of life
-- Vision: where do I want the year to go?
+## The pyramid to achieving the right things
+- Personal manisfesto: what's most important in my life? Who you are, what you stand for, what you want out of life?
+- (Vision: where do I want the year to go?)
 - Goals: what projects are required to reach the vision?
-- Projects: tracking the things I'm working on 
+- Projects: tracking the things I'm working on?
+- Habits: what do I do on a daily basis to get me closer to where I want to be?
 
 ## My ideal being   
 - Happy 
@@ -95,6 +97,7 @@ Nights
 - Practice gratefulness
 - Visualise yourself as the person you want to be and use affirmations
 - Relax 
+- Affirmations and meditation in bed before sleep 
 
 ### Weekend routines
 Running errands
@@ -119,7 +122,7 @@ Self care
 
 Overall 
 - Do some work/reading in a social environment - e.g. coffee shop 
-- Sunday afternoons could be Reddit catchups 
+- Sunday afternoons could be Reddit/bookmark catchups 
 - Weekends are to spend a bit more on food as well - trips to the local veg stores, fish mongers, butchers, bakers
 - Spend more sit down time with e.g. a book 
 - Generally spend more time reflecting
@@ -129,74 +132,6 @@ Monthly
 - Review performance against goals month before (journal)
 - Review life admin and take actions accordingly 
 - Am I living the life that I want to be living? Have I done some amazing things this last month? 
-
-## Doing hard things
-- It's important to do hard things that stretch me as they are great opportunities to learn and improve. Seek this challenge continiously. Get critical feedback to improve further
-- Think about the bigger picture. Always believe the current strugles are small compared to where you want to go. 
-- Realize that performance and clarity of thought will be best in a confident and calm state
-- Treat hard things as learning experiences. Rather than approaching it with anxiety, think: let’s see what happens. You approached the experience in a certain way. Then you evaluate how it went and you can be better next time 
-- Evaluate how others do it and try to emulate this 
-- Prepare well in advance 
-- Visualize doing it succesfully in the way you'd idealize it. 
-- Use affirmations to convince yourself that you can do it 
-- Bring it back to the person you want to be and realize that is just another step to getting there. 
-- Depending on the situation:
-    - Be grateful for the opportunity
-    - Realize it needs to be done and there is no other option 
-- Realize that it matters now, not in the future
-- This too, shall pass. I had many struggles before and it all turned out fine. 
-- Think about the situation in the grand scheme of things: 
-  - Most things don't matter
-  - What is the worst that could happen
-
-On the day of execution: 
-- Stay focused on other goals before the moment
-- Realize is it okay and natural to be nervous
-- Just before presentation: 
-    - Find a way to relax – e.g. listen to music beforehand 
-    - Power pose in a bathroom and make yourself as big possible 
-    - Heavy breathing for a short while
-
-## Reduce anxiety during meetings
-- Be confident and belief in my own performance:
-  - My work has high impact and I'm working on the right priorities at the right time 
-  - I have the technical ability and when I don't, I know that I have the ability to pick it up rapidly
-  - I have the business understanding and when I don't, I know how to get it by communicating with the right stakeholders. 
-  - Know who you are and where you are going and be very confident in that. Whether people agree or not is not your business – you’re doing things your way because you’re on a specific path. What others think is irrelevant and you can’t please everyone 
-- Love what you do, be proud of your work and be enthusiastic to communicate around what you're doing. Be interested and interesting to your coworkers and speak at all opportunities - that's what all great speakers do; they want to communicate. Somethings, things don't go as expected or we make mistakes. That's okay. You're still working on the right thing and you know that you will overcome the challenges thrown at you. 
-- Become the person you want to eventually be: 
-  - If I am to become the person I want to be, these meetings are really small. Imagine speaking in interviews as a head of data of Facebook - that's the type of benchmark we're aiming for. People above me will notice when I'm ready to take a jump so I should work on portraying confidence and calm in any situation if I want to achieve what I want. I just have to. 
-  - Be a leader: a leader is someone who is in the moment when listening, adds value/support where he can to other points and provides authority, influence and clarity on next steps when presenting. The more confidence you have, the more impact you’ll have. Both for leaders as well as public speakers  
-  - Remind yourself that a calm mind would allow me to present with more clarity as I'll be focused on providing value to those in the sessions as opposed to being selfishly stuck in my own mind. In general, once I care a bit less and am much calmer around the situation, my performance will improve
-  - Get more used to being uncomfortable which will build your intrinsic confidence. The end goal is to stand above these situations because you're used to being uncomfortable and this is small in the grand scheme of things
-  - When things get hard: 
-    - Have a growth mindset. It's a puzzle to solve which is exciting - it's an opportunity to learn 
-    - I want to live a well lived life which includes overcoming hard challenges. This will add value to me as a person and it will help build my character
-- Enjoy life: 
-  - Have bigger things going on for you beyond work: have hobbies, work out, work towards achieving goals 
-  - Seperate your value as a person from your what is going on at work. Detach myself from caring about the outcome and I avoid getting invested emotionally in the job. Life is short and we want to perform well at work but we shouldn't take it all too seriously because in the grand scheme of things, it just doesn't matter as much. It's definitely not intended to have a major impact on your mental health.
-  - My primiary purpose in life now is happiness. Worrying about work is not adding to this happiness at all. So either fix the issue, communicate about the problem, think about the solution but don't overthink and go around in circles of anxiety. That holds no purpose
-  - Be grateful: you like your job and you have a lot of things going well. 
-  - Just take it easy
-- Understand the purpose
-  - The fundamental goal is to bring value to the company and that's what I itend to do consistently
-  - My ego is telling me that I should be doing certain things and when I don't feel like I meet these things, my ego is getting in the way 
-  - Understand the purpose of the session: it's not to evaluate your performance. It's not to understand whether you've performed well and 'passed the test' for the week. It's about each person bringing clarity to what is happening that might also impact them and giving people an opportunity to add context, become aware of things happening and steer where help is required. 
-  - There shouldn't be any reason for worry as long as I do my job. And even then, I should be in a strong place to not be depending on whatever job I may hold at any one point in time.  
-  - Realise that everyone involved wants me to do well. If they think I don't do well, they will interfere but for now, I'm confident I'm doing the right things
-- Let go of anything that is not within control: 
-  - Maybe it will go well, maybe it won't. I'd like it if it did, but it's not the end of the world if it doesn't, and it's not even really under my control. So relax, and enjoy it.
-
-
-- Other tips: 
-  - Speak up early in the meeting - this will remove some of the nerves as there’ll be some engagement already. It’ll show that it’s not as scary as you might think
-  - Always keep a confident body language 
-  - Become closer and more friendly to the people you are anxious around. The reason you're not anxious around people I'm more familiar with is because they know what I work on and I know they have the context and understanding 
-  - Sometimes, things just don't go as planned and unforeseen effort needs to be put in to make something work. We can not do that and things will go bad, so we have to do it. When we plan for projects in advance, there is no sense of understanding how long things will take and we cannot plan for any unforeseen work that comes up - either ad hoc or as part of the work involved in a bigger project. This makes a roadmap by definition unreliable as a timeline and if ad hoc work comes in between, shifts need to be made in the roadmap and in the expectations across the business. 
-  - I can work harder when need to, but the effect of that is likely that I'll work in a hurry and mistake will be creeping in. Our job requires a lot of brain power and forcing ourselves beyond what our body/brain is capable of will ultimately lead to mistakes  
-  - Break your tasks down into smaller tasks, so you have something new to add every meeting. In the rare case that nothing might be happening, mention it and ask them how you can support them 
-  - Threat all these things as experiments: I get to speak in public - let's see how my body and mind will respond 
-  - Distract yourself when others are speaking and you're not up yet: take notes, focus on your breath, engage, use a repetitive mantra
 
 ## Happiness and purpose
 Happiness is a state of fullfilment and calm mind. It's the absence of anxiety and fear and a general feeling of satisfaction - all of this can be obtained by training the mind. One could say that this is contentment and happiness is a general feeling which is harder to achieve sustainably. Be content and whenever you feel happy that's just a bonus. Whenever you experience joy, reflect on it - why did you feel it? Can you do more of it?
@@ -211,6 +146,8 @@ Techniques for happiness:
 - Expressing your feelings (with others, in therapy, in a journal, through art). Focus on the things you're grateful for
 - Enjoying the little things in life 
 - Having a balance in the six fundamentals in life 
+- Happiness is a choice. Whenever I feel anxious or stressed remember that really I want to feel happy instead so put yourself back into a happy and grateful place
+- Making other people happy is probably a great way to guarantee personal happiness also. Help other get ahead first. Give and add value and don’t want/expect anything in return 
 
 ## General 
 - Build character and get a thicker skin: 
@@ -222,14 +159,14 @@ Techniques for happiness:
 - Become more well rounded (practice curiosity in a great many fields). 
     - Find and watch interesting documentaries and films: Reddit and Google for inspiration. Get to know the actors/producers better
     - Explore more music: Spotify playlists, Reddit, forums. Get to know and remember the artists better
-    - Read fiction, short stories, poetry
+    - Read fiction, short stories, poetry and generally just a lot of different topics. 
     - Learn about lots of different topics: psychology, design, biology, history
     - Watch and learn more about people I admire - watch them present / read their interviews etc.  
     - Work on projects 
     - Pick up calming hobbies: puzzles, video games, colouring books, play an instrument, chess 
     - Dive into Wikipedia
     - Practice Martial Arts
-    - Practice arts: colouring, sketching
+    - Practice creativity/arts: colouring, sketching, play an instrument, sing, dance
     - Take walks in inspirational places (museums, nature, new cities)
     - Imagine being a role model for others and they look up to what I say. Be a great speaker, writer, be well rounded as they'll ask a wide range of different interesting questions and have opinions whilst being calm and confident
 - What life is about:
@@ -242,6 +179,8 @@ Techniques for happiness:
 - Think bigger picture: it’s not about where you are currently; it is about where you are going. By focusing on the bigger picture, you realize your current problem is tiny in the grand scheme of things
 - Even when you are doing everything well and have achieved great things, you may still be lost. If that is the case, go from doing things for yourself to helping others. This is where real fulfillment lies 
 - Be able to switch mindset and focus depending on the surrounding. I.e. never taking my shit to places where it shouldn’t be – collect your headaches and shift the right gears
+- Don’t assume things, just go with the flow instead. Don’t overthink and don't try to control everything. Instead, open your heart and see what happens - allow yourself to be vulnerable. 
+- Just tell yourself: it’s okay. I’ve got this. All will be well. 
 
 ## To live by: 
 - What's important in life: 

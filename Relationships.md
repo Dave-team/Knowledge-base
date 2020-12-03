@@ -137,6 +137,7 @@ You should never be depending on a relationship for happiness. Then, you can bri
 - A lot of people stay in relationships because it’s comfortable and leaving comfort is scary. And then they end up in an unhappy marriage with kids etc. 
 -	No relationship is the same. They are all unique in their own ways. You will never have what you had and it will be different. 
 - First relationships are often difficult because you have no benchmark and there will also be a curiosity to figure out what else is out there 
+- There is this odd feeling where a life should be lived with someone else to make the most out of life. Travelling, intimacy, being as close to someone else. But the reality is that we don’t control other people so we can be in a long term relationship it can also quickly break for whatever reason. And yes we are probably social creatures meant to be together with someone else but often that’s not always the case. It takes a lot of time to find someone that could fit and you get along with and then it also needs to be mutual. It’s worth waiting for whilst you try to become the very best version of yourself first
 
 
 ## Reflect during a relationship

@@ -20,7 +20,8 @@
 - Be enthusiastic, show interest and want to get to know others and also allow them to get to know me. Take the initiative and just speak to people - absolutely nothing to lose
 - Realize that everyone has issues, good/bad experiences, dealt with shitty jobs, break-ups, good and bad times and together we make things just a bit better
 - Send more random things to friends. It’s not always about catching up and meeting. It’s about being top of mind and regular contact. Send them things they also like and give them things of value
-
+- A most effective way of developing an attractive personality in being able to stand on your feet and speak convincingly. Put feeling and emotion into your words as you speak and develop a deep, rich tone of voice. Also be interested in people and give praise. 
+- Appreciate people for who they are 
 
 ## Conversations
 - A good conversation consists of: 
@@ -42,6 +43,12 @@
 - Always say yes to things other people suggest to do 
 - If possible, invite more people to do something
 - Exchange contact details
+
+## Remembering names
+- Concentrate your attention to it. E.g. when someone introduces themselves, concentrate your attention on the introduction and the person’s name. Repeat a few times what you want to remember  
+- Associate the name with something else. E.g. associate it with a friend who made the introduction 
+- Repeat what you wish to remember whilst concentrating on it. 
+
 
 ## Friendships 
 - We should be vulnerable: open to discuss our issues and allow others to support us. This will help establish trust

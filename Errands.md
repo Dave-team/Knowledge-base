@@ -47,8 +47,10 @@ Vinegar on chromeware
 Clean fan panels 
 
 ### Flat 
+*Daily* 
+Check on the plants and water when needed 
+
 *Weekly* 
-Water plants 
 Hoover the flat
 Clean towels
 

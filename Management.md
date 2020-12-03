@@ -239,3 +239,34 @@ Ask your direct reports:
   - I know that you have good intentions
   - However, this makes me feel like Y
   - Because it is our goal for me to become Z, going forward can we do Y? 
+
+
+
+Leadership notes
+ Leaderships
+-	They take initiative and they naturally take the lead. It’s not something thrown at you, you need to take full ownership. Within initiative and decision, no man is ready to lead 
+-	They have a definite purpose
+-	They have self confidence 
+-	Other
+o	Move their personal interest for the interest of the team
+o	Imagination to create a strong vision and to problem solve 
+o	Enthusiasm and the ability to communicate this to followers
+o	Self control
+o	Willingness to give more than paid for 
+o	Honesty 
+o	Ability to reach decisions quickly and to stand by them 
+o	A pleasing and magnetic personality 
+o	Ability to think accurately 
+o	Ability to get things done
+o	Learn from mistakes
+Needs to know his own mind well 
+Never change your approach until you’re very convinced it’s the wrong approach. Have the courage to stand by a certain course of action. Otherwise, you keep hopping from approach to approach and others will notice
+Know your men. Not as they appear but really who they are as it’s often quite different. Know how they think, how they work, what they value, what they fear and where they want to go.   
+
+Aspects of leadership
+-	Self confidence: 
+o	Having knowledge
+o	Knowing how to impart that knowledge. He must learn to stand on his feet and speak without embarrassment 
+-	Self sacrifice: you’re always giving and need to think of the team first and foremost 
+
+
