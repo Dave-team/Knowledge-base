@@ -1,6 +1,62 @@
 # Career
 
+## Mindset 
+Seperate your value as a person from your what is going on at work. Detach myself from caring about the outcome and I avoid getting invested emotionally in the job. Life is short and we want to perform well at work but we shouldn't take it all too seriously because in the grand scheme of things, it just doesn't matter as much. It's definitely not intended to have a major impact on your mental health. My primiary purpose in life now is happiness. Worrying about work is not adding to this happiness at all. So either fix the issue, communicate about the problem, think about the solution but don't overthink and go around in circles of anxiety. That holds no purpose
+
+## Overcoming imposter syndrome 
+Imposted Syndrome is not feeling good enough in what I do. I am stuck on something - surely I should be able to fix this quickly? This is taking me so long, they'll think I don't my stuff. 
+- Be confident and belief in own performance:
+  - My work has high impact and I'm working on the right priorities at the right time. If I feel like I'm not doing the right thing, then I might need to take a step back and refocus to the highest priority work that needs doing. If something is taking me a long time, it's because it's complex and I care about quality - I will have informed the stakeholders.
+  - I have the technical ability and when I don't, I know that I have the ability to pick it up rapidly or I can ask others for help.
+  - I have the business understanding and when I don't, I know how to get it by communicating with the right stakeholders. 
+- Come off it: you're probably feeling more important than I am. You're trying to match some perfection that never actually existed. Letting go of some of your excess self-importance will go a long way. Just expose yourself - you're not perfect and nobody expects you to. 
+- Realize that I portray the approval of others - I portray what they may think and it might also be me telling myself I'm doing the wrong things. But that belief is what I'm telling myself, it is not real. Unless I believe I am doing the right things, nobody else will believe it. And this confidence is extremely crucial to get ahead in life / career. 
+- Realize I'm my own most harsh critic - others don't expect perfection. 
+- It's okay and expected that we all make mistakes. They're great opportunties to learn
+- Realize no one is perfect and there is no way you're ever going to know everything and that's okay. Admit mistakes, ask for help and admit you don't know things.
+- Adopt the growth mindset: view obstacles as opportunities to learn, get better and improve rather than proof that you're not good enough. Essentially, your feeling of inadequacy is a signal that you’re being challenged. To really become a great developer, you need to embrace that challenge and actually seek it out. View it as an opportunity to learn, to become better, and to grow.
+- Keep track of your accomplishments. Regularly reflect on your successes and remind you of how far you’ve come and how good you really are. Write down all accomplishments at the end of a month - whatever learning experiences you had (can also include faillures). More regularly, reflect on past accomplishments and understand how these make you feel. Accept that you have had some role in your successes. 
+- Somethings, things don't go as expected or we make mistakes. That's okay. You're still working on the right thing and you know that you will overcome the challenges thrown at you. Know that you always work on the main priorities - sometimes unforeseen work is priority. Sometimes we need to fix our own mistakes. This pushes other projects away and that's fine. Sometimes a roadmap planning is unrealistic. 
+- Find out how your manager thinks you’re doing: Imposter syndrome thrives when all you do is think. One of the things you need to do is get out of your own head to combat imposter syndrome. Your manager is the person who has control over your job and getting their input on how you’re doing is essential for getting a realistic view of your skills and effectiveness. Discuss: 
+  - What do they feel you’re doing well? Make sure you keep doing this.
+  - Is there anything specific they feel you need to work on in the short-term? If so, what measurable goals can you both set to determine success?
+  - What longer-term (3-6 months), measurable goals can you both set that will indicate success to your manager? This is useful when you’re just starting with a new company or on a new team to calibrate your progress expectations to theirs’.
+
+## Team meetings 
+- Understand the purpose
+  - The fundamental goal is to bring value to the company. Take myself out of the equation - What I say doesn't matter - did the work get done? That's what matters and I just communicate that. It's about each person bringing clarity to what is happening that might also impact others and giving people an opportunity to add context, become aware of things happening and steer where help is required. 
+  - Realise that everyone involved wants me to do well. If it wouldn't have been going well, I'd have know in advance of the meeting. 
+- Love what you do, be proud of your work and be enthusiastic to communicate around what you're doing - be grateful for it. 
+- In the meeting, step outside of your head and approach the meeting by wanting to provide value: 
+  - Be interested and listen to what others are saying - what can I get from that that impact me?
+  - You will have questions and context and recommendations or just fun things to say - say these things even when it's not your turn. Great communicators want to speak
+- I represent my own brand and want to provide value and impact at all times. Being able to public speak or communicate is essential for this. If I feel anxious because I feel like I didn't do enough - work harder. 
+- After every presentation, realize that it didn't matter as much and people didn't actually care that much. 
+- Aim to know the people in the company well - from all teams and all seniority. This will help being less anxious as you kind of know how the'll respond. 
+- Other tips: 
+  - If I can engage in the discussions early on, my nerves should slowly move away as a connection has been built with e.g. the audience. 
+  - Make sure to also slow down during these meetings to allow others to jump in. 
+  - Write my notes on paper rather than digital
+  - Don't prepare to the point of memorizing 
+  - Remind yourself that a calm mind would allow me to present with more clarity as I'll be focused on providing value to those in the sessions as opposed to being selfishly stuck in my own mind. I
+  - Just take it easy
+  - Track the things you're doing during the week to avoid not knowing what to say 
+  
+## Non team meetings
+- Do your homework
+- Know your position in the conversation and what value you can bring. If not sure, ask before attending
+- Ask whatever you want to ask. They know I’m not stupid, I’m just not as knowledgeable about this area perhaps 
+- Listen well and ask good questions when everyone else is focused on speaking
+- Again, it’s not personal - it’s about doing the best for the company and it’s actually critical for me to speak up as this is what I will be paid for 
+
+## Challenging problems at work
+- Accept the challenge as a puzzle to be fixed 
+- When something is hard, it means there are things to be learned and I will get better in the process. 
+- It's about staying relaxed and sometimes you need to sleep on the problem and then fix it in the morning. Be kind to yourself. Sometimes it just doesn't work. Put it away, go for a walk or check again in the morning. 
+- I cannot take these problems personally and I cannot be so affected by them. It might be that I get into work and 9 things are broken - trying to fix everything all the time will only lead to burnout and I won't be able to see the bigger picture and e.g. support the team.
+
 ## Be more valuable 
+
 **For the company** 
 - Develop new ideas and deliver end to end that have a positive impact on the business. 
     - This can be on a strategic business level
@@ -30,7 +86,6 @@
 - Search for good ETL examples where actual SaaS data is extracted from APIs
 - Find some great datasets online and play with them
 - Find great analysis online and understand them and replicate to practice
-
 
 ## Starting a new job
 - Create a 90 day plan with priorities, goals and milestones. Gets this approved by your boss. When you prepare, think about what you want to get done day 1, day 2, week 1, month 1, month 2, month 3. Ideally set up specific success criteria here
@@ -164,7 +219,6 @@ It’s also often useful to track accomplishments outside of work, like:
 - open source work
 - Industry recognition
 
-
 ## Work goals
 - Become really at the Snowflake / DBT / Looker stack - including some funky DBT Jinja as I'm still quite overwhelmed with what I see in the Slack channels 
 - Get all-round in data and be able to answer machine learning questions (either myself, outsouring or hiring)
@@ -194,8 +248,6 @@ A few reasons announcing plans is useful:
 - I think announcing ambitious plans can help kind of.. inspire the people around you? Like I sometimes see that someone else is kicking off a Very Important Project and I think, wow, that’s really cool, maybe we can do something cool like that.
 - It’s exciting to see people starting and finishing projects, like it creates momentum for the whole company if everyone talks about what they’re doing!
 
-
 ## Development plan 
 - Link objectives / areas back to main role objectives
 - Each goal is clearly measurable. E.g. reading books is not measurable. Attending conferences is not measurable - specify which conferences. Often, it's about having implemented X 
-- 

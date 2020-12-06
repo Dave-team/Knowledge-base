@@ -12,6 +12,7 @@
 - Consider time boxing what you're working on to avoid situations where you spent too much time 
 - Write down your most important goals and regularly check against these notes to ensure you're working on the most important thing 
 - Listen to your body: there will be times when you feel low energy - pushing through this is likely counterproductive. Instead, recharge and realize you can be productive again a different time 
+- Whatever is highest priority, that always gets done. If working out is highest priority, then I could never say I don’t have time. In the morning, I work out, and however long it takes is how long it takes. I do not start my day until I’ve worked out. 
 
 ## Process
 - Planning in the morning: 
@@ -43,14 +44,12 @@
     - Drink lots of water
     - Heavy breathing
 
-
 ## Habits
 - Give yourself specific triggers to implement your new habits. E.g.: ‘when I get home, first thing is putting on running shoes and go for a run’. 
+- Tell others about your new habit 
 - Set up systems to take care of day to day tasks (e.g. eating the same every morning) 
-- To change or build habits: 
-    - Have a cue (e.g. waking up in the morning)
-    - Have a routine: first thing you do is meditate
-    - Reward: feel better about yourself 
+- Set achievable goals to go into a flywheel - small wins are crucial 
+- Reward yourself
 
 ## Working from home
 - Take it easy in the morning. Exercise, read a book and have breakfast. This will get you in the right mood - you are trying to build a commute in your way as a way of getting ready for work 
@@ -87,14 +86,11 @@
 
 ## Getting things done
 - Aim: get everything out of your head to reduce cognitive load. Everything is organized / grouped to make it easiest to action 
-- 
-
 
 ### Other
 - Make the bed each morning to set a good start of the day
 - A good way to tag/group tasks is based on levels of energy: Focus - Long. Focus Short. Brain Dead Long
 - If today only had 2 hours, what would I do that has the most impact?
 - What is the one thing I can do today that makes everything easier or even unneccessary?
-- 
 
 ![Productivity Matrix](https://user-images.githubusercontent.com/28791247/92321110-432e9480-f01f-11ea-910f-3198f8b87add.png)

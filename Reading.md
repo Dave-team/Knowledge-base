@@ -35,6 +35,7 @@
   - After reading, critically access the book. Strengths and weaknesses 
 
 ## General tips
+-	Just read because you enjoy it, read out of curiosity and interest. There’s no mission here to accomplish. Reading a book isn’t a race—the better the book, the more slowly it should be absorbed.
 - Only read those books that do provide value - no obligation to finish a started book
 - Read a few good books often rather than many books once 
 - Read more books at the same time: combine a light and a heavy book to increase total reading time 
@@ -45,6 +46,5 @@
 - When reading, don't get stuck on what you don't understand. Make a note of it and continue. It likely doesn't matter and you can always come back to it 
 - If you read to learn, realize that reading a book will take a lot of time. Reading a book is not meant to be done quickly if the book is worth anything. Most books are just not worth it so they can be read quickly.  
 - Read whenever you have a bit of spare time - the pages will add up eventually 
-- 
 
 

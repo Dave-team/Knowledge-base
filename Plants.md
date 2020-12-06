@@ -6,7 +6,6 @@
 - Water a plant and then ensure no more water drips from the drainage holes before placing the plant back in the decorative pot 
 - Check how you're plants are doing on a daily basis 
 
-
 ### Maintenance by plant 
 *Devils Ivy*
 - Not fussy about light 
@@ -61,10 +60,6 @@ Small plants
 - Snake plant
 - Cactus
 - Hanging plant for the bookcase
-
-
-
-
 
 ## Places to buy plants
 - Columbia Road Flower Market

@@ -26,9 +26,6 @@
 - More ad-hoc feedback: Slack stakeholder and ask how they thought that went
 - Once a while there will be a more informat catch-up with key stakeholders where you can reflect on progress, how things are going and what’s good/could be better 
 
-
-
-
 ## Stakeholder intro meetings
 - Introductions: role, focus, how long at company, previous experience
 - Overview of data stack and tools
@@ -39,12 +36,10 @@
   - Quarterly reviews
   - Future team focus
 
-
 ## Project kickoff
 - Write email to relevant stakeholders that we want to kick off. These are the open questions. If they agree, we can book something next week.
 - If there are any concerns, check in with those people. Are these things we’d need to figure out before kick-off? Some people hold the power to block a project - these are 'grenades' and you don't them to explore 
 - Those who didn't respond, quickly reach out over Slack and ask if they're okay for the kickoff 
-
 
 ## Scrum
 The most popular project management methodology that follows agile principles. 
@@ -57,7 +52,6 @@ Here is how it works:
 - Does anyone see anything blocking this item? Do we all think it's still feasible to get it done by the end of the Sprint?
 4. Sprint Review: Goal here is that the individual tasks have been presented and are approved by the various stakeholders. Scrum is about constant development, releasing quickly and getting feedback quickly 
 5. Sprint Retrospective: After a sprint is completed, review it: what has been completed, how did it go, what are the next steps and what can be done better? 
-
 
 ### Timeline
 - Wednesday sprint start
@@ -109,8 +103,6 @@ Issue pointing captures the complexity of an issue, not the time it takes to com
 - Aim to complete as much as planned projects as possible 
 - Consider which tickets to keep, which tickets to reprioritize with business and which tickets to break up 
 
-
-
 ### Backlog grooming: 
 - Constantly keep your ears open for things that people want built and add these items to the backlog
 - Regularly bring in stakeholders to review the backlog priorities. 
@@ -161,9 +153,7 @@ Issue pointing captures the complexity of an issue, not the time it takes to com
   - Investigate interesting things that are not part of the sprint. The analytics team purpose is to generate novel insights so allow time for unplanned investigations  
   - EDA where the analysis objective changes as you explore the data. This might require changes to sprint item and there should be flexibility to allow for this  
   - BUA work that needws to be done (e.g. month end reporting) as well as BAU support (e.g. fixing things, answering questions, training)
-  - 
-
-
+  
 ## Project approach
 1. Define the problem
 2. Get the requirements (what do we need) in a requirements document. Split this between functional (what it should do) and non functional requirements (how it needs to be done). Requirements should be: 

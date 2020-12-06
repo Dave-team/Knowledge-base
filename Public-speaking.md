@@ -14,7 +14,6 @@
 - Take every opportunity to speak in public 
 - Enthusiasm is the most vital factor in public speaking. You want your thoughts, actions and words to harmonize. To influence others, we must express ourselves in line with our own beliefs. 
 
-
 ## Slides
 - Only use slides that provide value
 - Don’t include text – this means people won’t listen to you anymore
@@ -93,27 +92,30 @@
 - Thank you audience and tell them you enjoyed them 
 
 ## Dealing with nerves
-- Similar to the notes in principles but some additions below
-- The audience will never be aware of the things you’re doing wrong 
-- Visualize giving the talk
-- Realize it's okay to be nervous. Being anxious about being nervous will only make things worse
-- People are wrapped up in their own lives far too much anyway
-- When nervous, think not of yourself. Instead, think of the audience. Focus on what they will experience - you are not important in this. The goal of your talk is to give something useful to your audience. E.g. a perspective, new idea, a refreshing explanation, tips, new insights? After the talk, the audience should come away with something they didn't have before. 
+You have to identify the root of your performance anxiety. Are you worried that: You don’t know the material? You can’t answer a difficult question? Your presentation is boring? You don’t come off as expert? You look stupid? You sound unpolished? Your material doesn’t flow? Nobody will show up? People don’t understand you? The audience doesn’t care? Once you know where the anxiety is coming from, you can likely calm down more. 
+
+- Speak as often and as much as possible 
+- Every presentation is an experiment. Each time you try to do the best you can prepare for. I know I need to speak in public and I know I struggle with it. I will feel nerves and there is some imposter syndrome. However, each time I try to prepare, do what I can control and that's it. The rest just happens and needs to be accepted - one I do, there will be a sense of calm which will automatically improve performance. 
+- Let go of anything that is not within control: Maybe it will go well, maybe it won't. I'd like it if it did, but it's not the end of the world if it doesn't, and it's not even really under my control. So relax, and enjoy it.
+- Focus on the fact that you want to give value to the audience – that is the main goal of me talking – the audience needs to come out smarter. They don’t actually care about the presentation in and off itself so I am not the main focus point here. 
 - Over time, I will be established as an authority and need to speak frequently both at the company as well as larger events – each presentation is small compared to the next. And at each presentation I am representing my own brand
-- Focus on the fact that you want to give value to the audience – that is the main goal of me talking – the audience needs to come out smarter. They don’t actually care about the presentation in and off itself 
+- Be grateful for opportunities you get (e.g. when presenting to be higher up the foodchain). Have the strong tendency to prove yourself and get the word out 
+- Visualize yourself giving plenty presentations being good at it and loving to do it. 
+- Realize that the audience will never be aware of the things you’re doing wrong and people are wrapped up in their own lives far too much anyway
 - Look into good public speakers and see how they do it and then try to replicate their behaviour. Focus on: 
     - Storytelling approaches you like (lessons learned, “here’s something I did!”, best practices, etc…)
     - Speaking styles that resonate with you (formal/informal, witty/dry, etc…)
     - Structure of the talk and how slides are designed
-- A great tactic is to start off with interaction with the audience. This should massively drop the nerves during the rest of the presentation
-- Be grateful for opportunities you get (e.g. when presenting to be higher up the foodchain). Have the strong tendency to prove yourself and get the word out 
-- Visualize yourself as being someone who loves being right in the centre of attention because everybody is keep on listening to you and understand what it is you have to say. Be more influential and funny – be who you want to be
+
+Pratical tips on the day: 
 - Some nerve reducing tactics pre presentation: 
   - Meditation
   - Breathwork
   - Walks
   - Listen to music
-- Start to love presenting
+  - Speak to as many people as possible to reduce the pressure
+- Distract yourself when others are speaking and you're not up yet: take notes, focus on your breath, engage, use a repetitive mantra
+- A great tactic is to start off with interaction with the audience. This should massively drop the nerves during the rest of the presentation
 
 ## Virtual meetings
 - Ask people to add questions in the chat to avoid distractions 

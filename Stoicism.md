@@ -7,9 +7,7 @@
 - We are in a satisfaction treadmill: we work hard to get what we want. When we get it, it doesn't deliver the expected happiness and we lose interest in the object we so desired. We get bored and chase greater desires. Once we fulfil a desire for something, they adapt to its presence in their life and as a result stop desiring it—or at any rate, don’t find it as desirable as they once did. They end up just as dissatisfied as they were before fulfilling the desire.
 - We need to take steps to prevent ourselves from taking for granted, once we get them, the things we worked so hard to get. We need a technique for creating within ourselves a desire for the things we already have. The easiest way to gain happiness is to be happy with the things we already have 
 - To tame our tendency to always want more is to persuade ourselves to want the things we already have 
-
-
-
+- You can only be happy when you love the process. Happiness is not at the other end of something. Some people have experienced extreme hardships, but once the initial blow of the hardship is over, they tend to be just as happy again as ‘we’ are. 
 
 ## Focus on what we can control, let go of the rest
 - Focus on what you can control and don’t even think about what you can’t control 
@@ -33,13 +31,13 @@
 - When wanting to achieve big goals, focus on achieving small tasks really well consistently. 
 
 ## Techniques
-
 ### Negative visualization 
 - Any thoughtful person will periodically (at least a few times a week) contemplate the bad things that can happen to him. The obvious reason for doing this is to prevent those things from happening. If we think about these things, we will lessen their impact on us when, despite our efforts at prevention, they happen
 - Negative visualization is spending time imagining that we have lost the things we value—that our wife has left us, our car was stolen, or we lost our job. Doing this, the Stoics thought, will make us value our wife, our car, and our job more than we otherwise would. Negative visualization teaches us to embrace whatever life we happen to be living and to extract every bit of delight we can from it. But it simultaneously teaches us to prepare ourselves for changes that will deprive us of the things that delight us. It teaches us, in other words, to enjoy what we have without clinging to it. It can make you realize, if only for a time, how lucky you are—how much you have to be thankful for, almost regardless of your circumstances.
 - “We should love all of our dear ones . . . , but always with the thought that we have no promise that we may keep them forever—nay, no promise even that we may keep them for long.” While enjoying the companionship of loved ones, then, we should periodically stop to reflect on the possibility that this enjoyment will come to an end. If nothing else, our own death will end it. Epictetus counsels that when we say good-bye to a friend, we should silently remind ourselves that this might be our final parting. If we do this, we will be less likely to take our friends for granted, and as a result, we will probably derive far more pleasure from friendships than we otherwise would.
 - We should periodically pause to reflect on the fact that we will not live forever and therefore that this day could be our last. Such reflection will make us appreciate how wonderful it is that we are alive and have the opportunity to fill this day with activity. This in turn will make it less likely that we will squander our days. When the Stoics counsel us to live each day as if it were our last, their goal is not to change our activities but to change our state of mind as we carry out those activities. In particular, they don’t want us to stop thinking about or planning for tomorrow; instead they want us, as we think about and plan for tomorrow, to remember to appreciate today
 - Besides contemplating the loss of our life, we should contemplate the loss of our possessions. Most of us spend our idle moments thinking about the things we want but don’t have. We would be much better off to spend this time thinking of all the things we have and reflecting on how much we would miss them if they were not ours. Along these lines, we should think about how we would feel if we lost our material possessions, including our house, car, clothing, pets, and bank balance; how we would feel if we lost our abilities, including our ability to speak, hear, walk, breathe, and swallow; and how we would feel if we lost our freedom
+- I never eally considered what I would miss - what would happen if I let go or something happens? What am I left with? Always think about that - partly that makes you appreciate each moment, it makes you care more and makes you more attractive. It also means that when you lose something you did all you can to make it work and ideally you wouldn’t actually completely fall into a hole
 
 ### The dichotomy of control: on becoming invincible 
 - Triage of control: those we have no control over, those we have complete control over, and those we have some but not complete control over.
@@ -51,6 +49,8 @@
 - To get what we want, we should want things that are easy to obtain and we can be certain of obtaining 
 - Whenever we desire something that is not up to us, our tranquillity will likely be disturbed: If we don’t get what we want, we will be upset, and if we do get what we want, we will experience anxiety in the process of getting it.
 - Goals are often things we have some, but not complete over (e.g. winning a tennis match). We should internalize these goals: the goal is not to win a tennis match (you don’t fully control that). The goal is to play to the very best of your own ability 
+- Also focus on providing impact. When you miss your flight, that’s shit. How can you use this to your advantage? Read that book, call that person, etc
+- Even for the things we don't control, we still control our response to these things 
 
 ### Fatalism: Letting go of the past and present 
 - There is the past, present and future. We can either spend this moment wishing in the past wishing things were different, or we can embrace this moment, or we can be anxious about the future about things we don't control (which is almost everything in the future). If we live in the past, we will spend much of our life in a state of dissatisfaction, if we live in the future we live in a constant state of anxiety. Only if we live in the present, we will enjoy our life.
@@ -105,22 +105,3 @@
 - Not needing wealth is more valuable than wealth itself
 - Enjoy life in taking delight in the small easily obtainable things 
 - Instead of trying to become popular, we worked to maintain and improve our relationships with those we knew to be true friends.
-
-
-
-
-
-
-
-- You can only be happy when you love the process. Happiness is not at the other end of something. Some people have experienced extreme hardships, but once the initial blow of the hardship is over, they tend to be just as happy again as ‘we’ are. 
-- Also focus on providing impact. When you miss your flight, that’s shit. How can you use this to your advantage? Read that book, call that person, etc
-- Only focus on what you can control
-- Even for the things we don't control, we still control our response to these things 
-- Don't compare myself against others
-
-The philosophy asserts that virtue (such as wisdom) is happiness and judgment be based on behavior, rather than words. That we don’t control and cannot rely on external events, only ourselves and our responses.
-
-But at the very root of the thinking, there is a very simple, though not easy, way of living. Take obstacles in your life and turn them into your advantage, control what you can and accept what you can’t.
-
-
-o	I never eally considered what I would miss - what would happen if I let go or something happens? What am I left with? Always think about that - partly that makes you appreciate each moment, it makes you care more and makes you more attractive. It also means that when you lose something you did all you can to make it work and ideally you wouldn’t actually completely fall into a hole

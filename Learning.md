@@ -37,8 +37,6 @@ The best way to learn is by practicing deliberately. Key characteristict:
     - When stuck, shift to something simpler
 - Aim for understanding: you want to create a tree of knowledge where you hang different parts to the fundamental models you have of the world - the things you understand deeply. 
 
-
-
 ## Other
 - Try to avoid questions too soon. Try something yourself first:
     - You’ll learn the hard way – which sticks to your memory much better

@@ -6,8 +6,6 @@ https://en.wikipedia.org/wiki/List_of_cognitive_biases
 https://yourlogicalfallacyis.com/
 https://yourbias.is/
 
-
-
 ## Human behaviour
 Hanlon’s razor: Never attribute to malice that which is adequately explained by carelessness. When a mistake has been made, don’t take it personally and get annoyed/angry, etc. Realize that neglect and ignorance are a common thing we all have and are suspect of. When someone has certain behaviour place less emphasis on the internal characteristics (personality) of the person and focus more on external factors (situational explanations)
 
@@ -117,6 +115,7 @@ Eisenhower decision matrix — what is important is seldom urgent, and what is u
 
 Reversible vs Irreversible Decisions — For reversible decisions: “If the decision was a bad call you can unwind it in a reasonable period of time. An irreversible decision is firing an employee, launching your product, a five-year lease for an expensive new building, etc. These are usually difficult or impossible to reverse.”
 
+
 ## Biases
 black swan theory — a metaphor that describes an event that comes as a surprise, has a major effect, and is often inappropriately rationalized after the fact with the benefit of hindsight. Things seem unlikely. But the occurrence of one black swan proves that they exists. Nobody can say they are no black swans, because nobody saw all black swans in their life
 
@@ -166,6 +165,7 @@ Pessimism bias - You overestimate the likelihood of negative outcomes.
 
 In-group bias - You unfairly favor those who belong to your group.
 
+
 ## Thinking
 Arguing from First Principles — A first principle is a basic, foundational, self-evident proposition or assumption that cannot be deduced from any other proposition or assumption. 
 
@@ -201,6 +201,7 @@ Divide and Conquer — Recursively breaking down a problem into two or more 
 
 Inversion: thinking backwards – it’s a problem solving technique. Often by considering what we want to avoid rather than what we want to get, we come up with better solutions. Avoiding stupidity is easier than seeking brilliance. In business: list how projects can fail, assign a probability to each failure and prioritize actions to avoid these faillures. Essentially, do the opposite of all the things that could go wrong 
 
+
 ## Statistics
 Normal Distribution — A very common continuous probability distribution…Physical quantities that are expected to be the sum of many independent processes (such as measurement errors) often have distributions that are nearly normal.
 
@@ -220,6 +221,7 @@ Central Limit Theorem – a large, properly drawn sample will resemble the popul
 
 Expected value: In probability theory, the expected value of a random variable, intuitively, is the long-run average value of repetitions of the experiment it represents.
 
+
 ## Physics
 Critical Mass — The smallest amount of fissile material needed for a sustained nuclear chain reaction. In social dynamics, critical mass is a sufficient number of adopters of an innovation in a social system so that the rate of adoption becomes self-sustaining and creates further growth.
 
@@ -232,6 +234,7 @@ Inertia — the resistance of any physical object to any change in its state of 
 Friction and Viscosity: Both friction and viscosity describe the difficulty of movement. Friction is a force that opposes the movement of objects that are in contact with each other, and viscosity measures how hard it is for one fluid to slide over another.
 
 Homeostasis and Equilibrium: Homeostasis is the process through which systems self-regulate to maintain an equilibrium state that enables them to function in a changing environment.
+
 
 ## Manipulation
 Ad Hominem — Attacking your opponent’s character or personal traits in an attempt to undermine their argument.
@@ -257,6 +260,7 @@ Directly Responsible Individual — A management concept, originally championed 
 Pygmalion Effect — The phenomenon whereby higher expectations lead to an increase in performance.
 
 Zero Tolerance — Strict punishment for infractions of a stated rule, with the intention of eliminating undesirable conduct.
+
 
 ## Systems
 Theory of constraints —a management paradigm that views any manageable system as being limited in achieving more of its goals by a very small number of constraints. TOC adopts the common idiom "a chain is no stronger than its weakest link". This means that processes, organizations, etc., are vulnerable because the weakest person or part can always damage or break them or at least adversely affect the outcome.
@@ -304,6 +308,8 @@ Goodhart’s Law: When a measure becomes a goal, it ceases to become a measure. 
 ## Economics
 Supply and Demand — An economic model of price determination in a market. It concludes that in a competitive market, the unit price for a particular good, or other traded item such as labor or liquid financial assets, will vary until it settles at a point where the quantity demanded (at the current price) will equal the quantity supplied (at the current price), resulting in an economic equilibrium for price and quantity transacted.
 
+Principle agent problem: if you want something done, do it yourself. If not, send an agent as they won’t care as much
+
 Price Elasticity — The measurement of how responsive an economic variable is to a change in another. It gives answers to questions such as ‘If I lower the price of a product, how much more will sell?’
 
 Market Power — The ability of a firm to profitably raise the market price of a good or service over marginal cost.
@@ -330,6 +336,7 @@ Gross Domestic Product (GDP) — A monetary measure of the market value of a
 
 Specialization (Pin Factory). Adam Smith, highlighted the advantages gained in a free-market system by specialization. Rather than having a group of workers each producing an entire item from start to finish, Smith explained that it’s usually far more productive to have each of them specialize in one aspect of production. He also cautioned, however, that each worker might not enjoy such a life; this is a trade-off of the specialization model.
 
+
 ## Strategy
 Core Competency — A harmonized combination of multiple resources and skills that distinguish a firm in the marketplace.
 
@@ -342,6 +349,7 @@ Winning a Battle but Losing the War — A poor strategy that wins a lesser (
 Zugzwang is a situation found in chess and other turn-based games wherein one player is put at a disadvantage because of their obligation to make a move; in other words, the fact that the player is compelled to move means that their position will become significantly weaker. A player is said to be "in zugzwang" when any possible move will worsen their position.
 
 Seizing the Middle: In chess, the winning strategy is usually to seize control of the middle of the board, so as to maximize the potential moves that can be made and control the movement of the maximal number of pieces. 
+
 
 ## Military
 Guerilla warfare — a form of irregular warfare in which a small group of combatants such as paramilitary personnel, armed civilians, or irregulars use military tactics including ambushes, sabotage, raids, petty warfare, hit-and-run tactics, and mobility to fight a larger and less-mobile traditional military.
@@ -384,6 +392,7 @@ Hick’s Law = increasing the number of choices will increase the decision time 
 
 Winning Hearts and Minds — In which one side seeks to prevail not by the use of superior force, but by making emotional or intellectual appeals to sway supporters of the other side.
 
+
 ## Politics
 Chilling Effect — The inhibition or discouragement of the legitimate exercise of natural and legal rights by the threat of legal sanction
 
@@ -392,6 +401,7 @@ Third Rail — The third rail of a nation’s politics is a metaphor for any iss
 Regulatory Capture — When a regulatory agency, created to act in the public interest, instead advances the commercial or political concerns of special interest groups that dominate the industry or sector it is charged with regulating.
 
 Shirky principle — Institutions will try to preserve the problem to which they are the solution.
+
 
 ## Investing
 Margin of Safety — The difference between the intrinsic value of a stock and its market price. It does also generally refer to having a margin in nearly everything we do to avoid unnecessary risks. 
@@ -407,7 +417,6 @@ Return on Investment: A finance concept: for every dollar you invest, how much a
 Time Horizon: the right investment decision changes based on the time period you are optimizing for.
 
 
-
 ## Learning
 Deliberate Practice — How expert one becomes at a skill has more to do with how one practices than with merely performing a skill a large number of times.
 
@@ -417,6 +426,7 @@ Dunning-Kruger Effect — Relatively unskilled persons suffer illusory super
 
 Spacing Effect — The phenomenon whereby learning is greater when studying is spread out over time, as opposed to studying the same amount of time in a single session.
 
+
 ## Philosophy
 Consequentialism — Holding that the consequences of one’s conduct are the ultimate basis for any judgment about the rightness or wrongness of that conduct.
 
@@ -425,6 +435,7 @@ Effective Altruism — Encourages individuals to consider all causes and act
 Utilitarianism — Holding that the best moral action is the one that maximizes utility.
 
 Agnosticism — The view that the truth values of certain claims — especially metaphysical and religious claims such as whether God, the divine, or the supernatural exist — are unknown and perhaps unknowable.
+
 
 ## General
 Power-law — A functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other quantity, independent of the initial size of those quantities: one quantity varies as a power of another.

@@ -4,4 +4,4 @@
 - Step 3: Remain relaxed, control your breathing and do your best not to tense up
 - Step 4: Smile, enjoy and never force
 
-Then, 
+Or: just walk in a cold shower. Once you're in, you're in. 

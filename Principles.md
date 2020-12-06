@@ -1,12 +1,13 @@
 # Principles
 
 ## Goal in life
+Happiness:
 - Having had amazing relationships
 - Rich life: long lasting memories of great moments 
 - A calm mind 
 
 ## Important elements of life 
-There are 7 things that matter most in my life: family, love, friends, health, career, experiences, personal goals & hobbies. It is important these are all in balance. 
+There are 7 things that matter most in my life: family, love, friends, health, career, experiences, personal goals & hobbies. It is important these are all in balance. And any big decision within these areas is very influential to my life so spend a lot of time thinking about them (where you love, who you're with and what you do). If you can't decide, the answer is no. If you need a spreadsheet to list pros and cons, forget about it - don't do it. 
 
 ### Family
 - Always be there for the family and be responsible
@@ -55,12 +56,17 @@ There are 7 things that matter most in my life: family, love, friends, health, c
 ### Personal goals & hobbies 
 - Set goals and work towards them for extended periods of time. Make your life a book with chapters worth reading 
 - Have hobbies that you enjoy doing - this will make me a confident and interesting person. To find those hobbies, pick up something (anything), do it for an extended amount of time, try to become better at it and see how it sticks - more than anything, be curious around the thing you're learning/doing
+- Do things for the sake of doing them only - just because you want to. There is no goal, there is no real reason - you just want to do it. They're no checklists to tick off
+- Have bigger things going on for you beyond work: have hobbies, work out, work towards achieving goals. 
+- When feeling unproductive, realize why you're doing this: wanting to become a more well rounded person. Be relaxed and in the moment. 
+- Don't keep busy for the sake of being busy - that's a very narrow life. Instead, try to purposefully be imperfect. Read that book that you don't follow. Watch a bad movie. Do something you would usually consider not worth doing and stick to it.  
 - To foster passion:
   - What do I like to think about?
   - Where does my mind wander?
   - What do I really care about?
   - What matters most to me?
   - How do I enjoy spending my time?
+  - What did I enjoy when I was younger? 
 
 ## The pyramid to achieving the right things
 - Personal manisfesto: what's most important in my life? Who you are, what you stand for, what you want out of life?
@@ -134,20 +140,35 @@ Monthly
 - Am I living the life that I want to be living? Have I done some amazing things this last month? 
 
 ## Happiness and purpose
-Happiness is a state of fullfilment and calm mind. It's the absence of anxiety and fear and a general feeling of satisfaction - all of this can be obtained by training the mind. One could say that this is contentment and happiness is a general feeling which is harder to achieve sustainably. Be content and whenever you feel happy that's just a bonus. Whenever you experience joy, reflect on it - why did you feel it? Can you do more of it?
+### What is happiness? 
+Contentment is a state of fullfilment. It's the absence of anxiety, fear and desires and it's about being present and not stuck in your own head. Happiness is contentment in motion - when something happens you really enjoy. Sitting by yourself is not happiness, it's contentment. 
 
-To achieve this state of calm, it's important to throw away any expectations or grand goals you may have. 
-Striving for the end goal and doing the right thing in the process will distress tranquility. All that matters is here and now. 
+You can then accept the current state of things and he more present we are, the happier we’ll be. When nothing is missing, your mind shuts down and stops running into the past or future to regret something or to plan something. In that absence, for a moment, you have internal silence. When you have internal silence and really embrace the present moment and the reality of what is then you are content, and you are happy.
+
+### How to achieve happiness
+- Realize its a choice and we can prioritize it above everything else. It’s about finding things we do that gives us internal peace/contentment and we need to trial with these things until we find something that works for us and just making a commitment to ourselves to be a happier person.  
+- To achieve this contentment, throw away any expectations or grand goals you may have. Each goal will lead to another and misses the point of being present.
+- Believe in the complete and utter insignificance of the self. Our lives are a blink of a firefly in the night. You’re just barely here. You have to make the most of every minute. Every second you have on this planet is very precious, and it’s your responsibility to make sure you’re happy and interpreting everything in the best possible way. Any moment where you’re not having a great time, when you’re not really happy, you’re not doing anyone any favors. All you’re doing is wasting this incredibly small and precious time you have on this Earth. You’re going to die one day, and none of this is going to matter. So enjoy yourself. Do something positive. Project some love. Make someone happy. Laugh a little bit. Appreciate the moment. And do your work.
+- Be more grateful: “Stop asking why and start saying wow.” The world is such an amazing place. As humans, we’re used to taking everything for granted.
+- Find happiness in acceptance. Rather than striving for something or wanting to solve problems, get peace on the inside by accepting the ways things just are. What can help with this: 
+  - Embrace death. It's coming and you can't run from it. More generally, let go of what you can't control
+  - It’s okay whatever the outcome is. 
+  - We don’t always get what we want, but sometimes what is happening is for the best. The sooner you can accept it as a reality, the sooner you can adapt to it.
+
+Practical techniques for happiness: 
+- Mindfullness: meditation, yoga, hobbies that create a state of relaxation 
+- Expressing your feelings (with others, in therapy, in a journal, through art)
+- Spending time with happy people
+- Smile more often 
+- Get more sunlight 
+- Working out 
+- Reduce screen and social media time
+- Just being very aware in every moment. If I catch myself judging somebody or being annoyed by something, I can stop myself and say, “What’s the positive interpretation of this?
+- Making other people happy is probably a great way to guarantee personal happiness also. Help other get ahead first. Give and add value and don’t want/expect anything in return 
+
+## Meaning of life 
 Meaning to life is personal and the key is to be happy in the moment 
 We seem happiest when we’re socialising with other people, outside or doing something that seems meaningful to us such as excercising and volunteering
-
-Techniques for happiness: 
-- Mindfullness
-- Expressing your feelings (with others, in therapy, in a journal, through art). Focus on the things you're grateful for
-- Enjoying the little things in life 
-- Having a balance in the six fundamentals in life 
-- Happiness is a choice. Whenever I feel anxious or stressed remember that really I want to feel happy instead so put yourself back into a happy and grateful place
-- Making other people happy is probably a great way to guarantee personal happiness also. Help other get ahead first. Give and add value and don’t want/expect anything in return 
 
 ## General 
 - Build character and get a thicker skin: 
@@ -160,7 +181,7 @@ Techniques for happiness:
     - Find and watch interesting documentaries and films: Reddit and Google for inspiration. Get to know the actors/producers better
     - Explore more music: Spotify playlists, Reddit, forums. Get to know and remember the artists better
     - Read fiction, short stories, poetry and generally just a lot of different topics. 
-    - Learn about lots of different topics: psychology, design, biology, history
+    - Learn about lots of different topics: psychology, design, biology, history, micro economics, persuasion, mathematics, science, game theory
     - Watch and learn more about people I admire - watch them present / read their interviews etc.  
     - Work on projects 
     - Pick up calming hobbies: puzzles, video games, colouring books, play an instrument, chess 
@@ -168,7 +189,8 @@ Techniques for happiness:
     - Practice Martial Arts
     - Practice creativity/arts: colouring, sketching, play an instrument, sing, dance
     - Take walks in inspirational places (museums, nature, new cities)
-    - Imagine being a role model for others and they look up to what I say. Be a great speaker, writer, be well rounded as they'll ask a wide range of different interesting questions and have opinions whilst being calm and confident
+    - Imagine being a role model for others and they look up to what I say. Be a great speaker, writer, be well rounded as they'll ask a wide range of different interesting questions and have opinions whilst being calm and confident. Foster these opinions can reflecting how I feel about things: What did I think of this meal? Of this film? Why do I think this - what makes it such and how does it compare to other things? 
+    - Take at least one day a week where you just have time to think. It’s only after you’re bored you have the great ideas. It’s never going to be when you’re stressed, or busy, running around or rushed. Make the time. 
 - What life is about:
     - Becoming better at things (and just becoming a better person): in life, try to become good at things you enjoy doing and be experimental. Six month sprints to try to become good at e.g. dancing, boxing, chess, badminton - this will slow time. Same for personal projects. Get better at things by caring a lot and focusing on constantly getting better
     - Being calm, in the moment and enjoying the little things in life 
@@ -195,6 +217,7 @@ Techniques for happiness:
     - Life passes most people by while they’re making plans for it
     - Work to live, don’t live to work.
     - Most people over-estimate what they can do in one year, and underestimate what they can do in ten years
+    - It's a mirable that we're alive in the first place 
 - You and you alone are responsible:     
     - No one owes you anything and nobody gives a fuck about your feelings 
     - Own your life, no one else will. You are responsible for how you handle everything that happens to you. You just pick yourself up, learn and go on. 
@@ -214,13 +237,3 @@ Techniques for happiness:
     - The person who is satisfied with little will always have enough
     - Life is like a box of chocolates - you never know what you're gonna get. But you just make the most of it  
 - After breakup message: I’m 27. There really is more than enough time to find someone and settle down, get married and have kids. And before that, enjoy your time being single. Focus on advancing your career, become this more social person, make new friends, pursue new hobbies and just generally really be more of an independent man with character who is happy with who he is. Someone who isn’t obsessed around getting a response from someone else. Someone who lets go of things he doesn’t control. Someone who leads by example. You cannot depend on a relationship for happiness because one way or another, things will mess up. So ALWAYS live an independent happy life - then if someone joins that life, all the better. Just do not change for anything or anyone
-
-Other
-- Define who I am and what I want out of life. Translate these things to goals and get after them 
-- We can choose to be the happiest person alive. It's literally just a choice once basics are accounted for 
-- It's hard to be in the top 1% of things. Instead, be in the top 25% of three different things and you'll end up in a good space
-- The growth mindset: love faillure and the challenge that comes with trying to figure out how to solve things - the harder it gets the harder we need to try and the whole process can become very informative. Understand that the world is full of interesting challenges that could help you learn and grow. 
-- Always have an opinion on things. What did I think of this meal? Of this film? Why do I think this - what makes it such and how does it compare to other things? 
-
-
-

@@ -114,7 +114,6 @@ An introduction: who are you? Where were you before? What do you focus on? How d
 - Is it something that would require probably more than 10 minutes of explanation/conversation? Plan a 30-minute meeting.
 - Is it something that requires more of a discussion? Do a meeting time you think is appropriate but only after you've tried to break down your problem into smaller chunks and see if steps 1 through 4 won't work.
 
-
 ## 1 on 1s
 - Held weekly 
 - Focus on the employee
@@ -175,7 +174,7 @@ An introduction: who are you? Where were you before? What do you focus on? How d
 - Take the lead or they will \
 - Don’t explain how comms channels work - just make sure the right things get done. Keep people away from politics 
 - Use Notion better. Know what the team is working on and have opinions on tickets. Update tickets to ensure others know what I’m up to too and have a reference 
-
+- Be a leader: a leader is someone who is in the moment when listening, adds value/support where he can to other points and provides authority, influence and clarity on next steps when presenting. The more confidence you have, the more impact you’ll have. Both for leaders as well as public speakers  
 
 ## 12 questions employees ask themselves
 - Do I know what is expected of me at work?
