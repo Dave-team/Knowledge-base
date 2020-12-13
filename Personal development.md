@@ -101,3 +101,7 @@ Accepting yourself
 - Nobody demands perfection - that's just in my head. I'm not as important as to never be allowed to make mistakes. I do and I will continue to and that's okay. 
 - Expose yourself as this non perfect human being 
 - Think about what friends would say if I were to present my feelings around this? 
+- It’s okay. All will be well. I’ve got this
+
+## Other
+- Rather than trying to fix myself holistically, move into a state where you specifically work on fixing some problems. It’s hard work and consuming content will not help solving the questions

@@ -54,6 +54,7 @@ The best way to learn is by practicing deliberately. Key characteristict:
 - When you've been stuck on something for a longer while, make a note of it and put it away. 
 - Make sure to not allow a lot of time between learning the knowledge and applying what you learned
 - Consider using mindmaps to fully grasp certain topic
-- 
 
+
+![Learning curve](https://user-images.githubusercontent.com/28791247/101977721-9714cf00-3c47-11eb-8ee6-69fad0a4124f.png)
 

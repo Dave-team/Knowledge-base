@@ -6,6 +6,7 @@
 - LookML best practices: https://discourse.looker.com/t/lookml-best-practices/1636
 - Considerations when Building Performant Looker Dashboards: https://help.looker.com/hc/en-us/articles/360038233334-Considerations-When-Building-Performant-Looker-Dashboards
 - How to design your Looker explores: https://blog.getdbt.com/how-to-design-your-looker-explores/
+- LAMS style Guide: https://looker-open-source.github.io/look-at-me-sideways/rules.html#t2
 
 
 ## Best practices
@@ -38,6 +39,19 @@
 - Dashboards are named as business function - specific. E.g. Marketing - Channel Overview
 - The explore pane should by by business function and then more granular - this is depending on the natural groupings and expectations of the business users  
 - Get fields into Looker and then describe and hide them. You can always unhide later 
+- Use big headings in LookML that help scanning the file: ###MEASURES### 
+- Dimension and measure group labels to specify order order/product dimensions and revenue/order measures
+- Have a logical ordering in LookML:
+  - Primary keys 
+  - Dimensions - grouped by function
+  - Measures - grouped by function/type 
+- Dimension / Measure order: 
+  - hidden
+  - group_label
+  - label
+  - description
+  - type
+  - sql
 
 
 ## Looker Debugging

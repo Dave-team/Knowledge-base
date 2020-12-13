@@ -50,9 +50,20 @@
 - Ask for actions 
 - Write to the point of view of the person/people receiving the message
 
+
+**Email structure**
+- Answer first: Summarize the answer/key message/recommendation
+- Actions required: List your questions/requests for the reader. Remember:
+  - Flag potential roadblocks early so they do not come as a surprise or become too late
+  - Always suggest a solution
+  - Anticipate future problems
+- Next steps: Propose next steps (what, who, when)
+- More info: Include relevant background context for future reference
+
 ### Email example snippets
 - 'I imagine you’re all over this but wanted to double check'
 - 'They haven’t yet had a response and because we’re looking to move quite quickly in terms of finalising the set up, I wonder if you are able to give the integration team a nudge on our behalf?  I’ve attached the queries that Joe has for ease of reference – anything you can do would be much appreciated.'
+- 'I'd like to start this process sooner than the week we go live as I've found there are unforeseen challenges with integrations and this data will help our reconciliation process. Thank you for the help and let me know the best next steps.'
 
 ## Other
 - Use STAR approach (Situation, Task, Approach, Result)

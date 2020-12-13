@@ -39,7 +39,17 @@ I get annoyed when things don't go well - this in turn affects my mood. I want t
 Realize that not everything is black and white / binary, there are multiple ways of doing things and not everyone is like me and I'm not always right. 
 
 ### Lower the pressure on yourself / Don't take yourself so seriously
-I tend to put really high pressure on myself constantly. Very high standards and never taking the easier way out. 
+I tend to put really high pressure on myself constantly. Very high standards and never taking the easier way out. I think this is from the early expectation that was put on me that second place doesn't matter - you need to win. This has led me to always want to achieve perfection which in my mind would only be feasible through incredible hard work. I always thought I could become this 'Ubermensch' but why even strive for it as the process makes me unhappy and the goal is unrealistic. At uni, I wasn't happy with a 9 as a grade 
+
+### Let go of control
+I tend to want to control things. When I have to wait or when I don't know the next steps, I become very anxious as I'm not steering the direction. This might come from a fundamental lack of trust - it is probably okay to just trust the process and action things when they go out of hand and let go of things in the meantime. 
+
+### Feeling of needing to be busy 
+I always feel as if I am meant to be this hustler, always on the move, always progressing. And I have put this energy into this development I'm doing but maybe it should be aimed at other things that would help other people - charity, volunteering. 
+
+### Everything needs a purpose
+I always had this idea that everything I do needs a purpose. Learning guitar? Why, what does it bring me? I only ever wanted to do things that would get me further in life - they were logical and practical. I am in the race. This might be related to a fear of regret. When I'm 50, I want to look back and be happy at what I did. I have been searching for what that contentment looks like but probably that contentment is just from enjoying the moment. 
+
 
 ### Don't overthink / think obsessively
 I have a strong tendency to overthink things. This is split between: 
@@ -65,6 +75,8 @@ I find it hard to understand my own feelings and find that I'm am often slightly
 - I don’t want to interrupt others 
 - It's easy for me to just listen in and become a passive observer of the conversation
 
+Believing that other people are more important and therefore always doing what others wanted and putting their needs above our own. And then avoiding conflict because she felt bad when others are upset with her.
+
 #### 1-1s 
 I feel fine. Usually, the conversation is in depth about a topic we both enjoy talking about 
 
@@ -72,7 +84,7 @@ I feel fine. Usually, the conversation is in depth about a topic we both enjoy t
 I am not the quickest to introduce myself or generally engage with new people. 
 
 #### Larger group of friends / colleagues
-I don't speak up much - probably to avoid having the attention on me. I am nervous when speaking in front of others - i.e. I get uncorfortable when the attention is on me. I also don't feel good about speaking about myself. I feel attacked / judged and tend to see comments as an attack on my value. My thinking: 
+I don't speak up much - probably to avoid having the attention on me. I am nervous when speaking in front of others - i.e. I get uncorfortable when the attention is on me. I also don't feel good about speaking about myself. I feel attacked / judged and tend to see comments as an attack on my value. I have a feeling that others are better than me. My thinking: 
 - If I say something: 
   - What would they think of me? Would they find me boring, uninteresting? 
   - What could their follow up question or comment be? I'm not sure I am willing/able to answer that question, especially if those questions are personal. Maybe I don't even know myself well enough to answer that question. 

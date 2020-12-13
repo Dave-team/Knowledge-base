@@ -1,6 +1,18 @@
 # Project Management
 
+## Project success 
+- Clear vision
+- Stable, complete written requirements
+- Detailed spec of what a final output should look like
+- Effective project management 
+- Accurate estimates
+- Focus on quality to minimize defects 
+- Risk management - keep small problems from turning into big unrecoverable problems
+
+
 ## Stakeholder management
+- Pre-wire a project. Don’t go into a project without knowing what people think of it and without people having thought about it. Any presentation or kick-off should not cover anything new. Instead, ensure you have checked in with the stakeholders in advance. Avoid people being surprised and have tonnes of questions during the actual meeting - premise of no surprises 
+- The people best at stakeholder relationships are diplomats. They are charismatic and take you for a coffee 
 - When I need others to do things, always prompt them for a deadline. Make sure to indicate clearly how important it is to get done. You don't want to risk that something will not get done. And if there is no commitment, this is quite likely.  
   - ‘We’re all good to you and the next steps are X. If this isn’t too big an ask, is this something that could be done by X?
   - 'Is this something that could be done by X?'.  
@@ -19,7 +31,11 @@
     - Email is sent but no reply: follow up on Slack few days after 
     - Really important: send email and directly follow up in Slack 
 - A big part of the job is managing expectation. You have responsibilities but so do their team. Make sure this is clearly defined. 
-- Always keep your stakeholders up to date on any changes in the state of your tickets. \
+- Always keep your stakeholders up to date on any changes in the state of your tickets. 
+
+Mendelows Matrix: 
+Before a project, map out all the different stakeholders and their roles in the project with a plan as to how each of these stakeholders will be kept informed throughout the project. 
+![Mendelows Matrix](https://user-images.githubusercontent.com/28791247/101979501-781d3980-3c55-11eb-9a49-0326726487d8.png)
 
 ## Stakeholder and project feedback
 - After a big project, there is a cross functional retrospective (whiteboard with sticky notes)
@@ -153,7 +169,15 @@ Issue pointing captures the complexity of an issue, not the time it takes to com
   - Investigate interesting things that are not part of the sprint. The analytics team purpose is to generate novel insights so allow time for unplanned investigations  
   - EDA where the analysis objective changes as you explore the data. This might require changes to sprint item and there should be flexibility to allow for this  
   - BUA work that needws to be done (e.g. month end reporting) as well as BAU support (e.g. fixing things, answering questions, training)
-  
+
+## Porject planning framework
+- What is the goal? What will this impact?
+- Context
+- Criteria for success / what happens if the project fails? 
+- Scope and constraints
+- What will it take? (people)
+- 
+
 ## Project approach
 1. Define the problem
 2. Get the requirements (what do we need) in a requirements document. Split this between functional (what it should do) and non functional requirements (how it needs to be done). Requirements should be: 

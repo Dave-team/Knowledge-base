@@ -180,7 +180,9 @@ Example is here:
     - When changing fields, do a run on the previous field name and make sure to update all old references with the new version
     - Push to production so all Looker users use most current models  
     - Quickly check most used dashboards 
-    - Update model sets where required - make sure that relevant stakeholders still have relevant access 
+    - Update model sets where required - make sure that relevant stakeholders still have relevant access
+    - When modelling a view in an explore, think about the granularity and the joins required. Always aim for the least as possible joins to improve performance 
+    - If a PDT is a pain to build, consider limiting the size of the tables in the where clause. 
 - Spend time each week for Looker management: 
     - Access control: do the right people have access to the right models?
     - Do the dashboards still work as expected? 
@@ -216,4 +218,42 @@ Example is here:
 - Code is DRY
 - Data returns expected results 
 - Continiuosly integrate PRs. Don't wait to complete a project. Instead, break the project down to manageable pieces that get their individual PRs
+- Overall, focus on the positives in a PR review. “quick comment on X - all else looks great to me."
+
+## Trouble shooting checklist 
+Overall, just eliminate all simple options that could go wrong first. Wherever possible, put the work on someone else and protect your own time. 
+
+### Missing data trouble shooting
+Arrive in the morning and data isn't up to date 
+- Did the PDTs run? If not, why not? If full disk errors, delete redundant tables in Redshift. 
+- If they didn't run, what is the last date in source tables? Is anything wrong in the ETL - check Fivetran/Stitch
+- If it's a tech issue and we need to verify whether the data is loaded correctly, test for: 
+  - Connector succeeds
+  - Max dates
+  - Data by hour looks good 
+  - No gaps in the data (e.g. subsequent order IDs) 
+
+### SFTP jobs don't work
+- Does Looker say it’s sent? If no, that's the issue. If yes, continue. 
+- Send the files manually - does that work? If yes, might just be a one off schedule issue. If no, continue 
+- Make sure the connection details are the same. Are they the same, continue
+- Ask them: 
+  - Show screenshots of the data being sent successfully 
+  - What are they seeing? An error, seeing the file but no data in it, etc.?
+  - Do we send it somewhere else in their system?
+  - Can they confirm the structure is the same?
+  - Do we have the right connection details? 
+
+
+
+
+
+
+## Changing important models
+- Be clear on timelines with stakeholders: clarify that something is priority + when you expect to be able to show something 
+- Don’t push something when its risky to push. E.g. don’t push Exec Explore changes when the Trading meeting is happening on the same day 
+- Understand who else might be impacted and make sure that they are aware of the changes and have the context to avoid confusion 
+- When some changes are large, realise that a review and build process may still have issues in them. Communicate with the stakeholder that ideally they’d also keep an eye out for the metrics 
+
+
 

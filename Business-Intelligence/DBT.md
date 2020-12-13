@@ -6,6 +6,7 @@
 - How we configure Snowflake: https://blog.getdbt.com/how-we-configure-snowflake/
 - How we structure our DBT projects: https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
 - Untangle the SQL mess with Jinja: https://changhsinlee.com/pyderpuffgirls-ep5/
+- DBT coding conventions: https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md
 - 
 
 ## Benefits
@@ -15,7 +16,6 @@
 - Create modular data models through the ref function and the DAG.  
 - Custom scheduling using DBT Cloud. 
 - It is more powerful than normal SQL as we write it in the python language (Jinja)
-
 
 ## DBT architecture
 ### Data Warehouse 
@@ -101,6 +101,12 @@ where created_at >= dateadd('day', -3, current_date)
 -	Always remember that all models need to be run before the final query can be run – e.g. stg, then inter and only then dim or fact 
 - Multi select: Select something then Control Click in DBT IDE 
 
+## DBT vs PDT 
+- PDT sits in Looker causing other queries to be queued when they are regenerated
+- PDT has limited functionality (tests, documentation, incremental)
+- Manually retriggering PDTs causes all underlying PDTs to reload, causing full disk errors and is then hard to control. This includes working with PDTs in dev as the sql trigger values are overwritten. DBT is complete control over all tables being run
+- 
+
 ## DBT set-up
 ### Command line
 **General**
@@ -110,6 +116,16 @@ where created_at >= dateadd('day', -3, current_date)
   -	Models: .sql files (each model is a single SELECT statement) 
   -	A project file: dbt_project.yml which species how DBT operates on the project
   -	Macros: this is logic that can be applied throughout the project 
+
+**DBT Cloud**
+Connect with Papier account details: 
+- Database is called Redshift
+- Target name is default which should be my development schema as that is what’s set up 
+
+Git integration: 
+- Gave DBT access to the Papier organization (Repo = papier-dbt)
+- DBT Cloud is now installed on repo
+
 
 **Git** 
 -	In Github, create a repo for DBT. This does not need to include anything
@@ -166,4 +182,12 @@ select
     {% endfor %}
 
 from {{ ref('users') }}
+```
+
+```
+{% if target.name == 'dev' %}
+              where event_time > current_timestamp - interval '3 days'
+{% elif target.name == 'ci' %}
+              where 1 = 0
+{% endif %}
 ```

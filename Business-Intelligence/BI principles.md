@@ -85,6 +85,7 @@ Once I have the context, I can establish myself as a business partner - the goal
 - Good analyst: Stakeholder: ‘Please give me data on X.’ Me: ‘What do you want to get out of the data? Is it to help guiding a decision? Why are you looking at this specifically? Them: For reason X,Y,Z. Me: Okay so you want to know whether X? Stakeholder confirms. Me: okay, there are some other things you might want to consider and previously we’ve seen this. Them: okay, can you show? Me: yes. Then get back and agree on some additional analysis required to solve the problem at hand. 
 
 ## Roadmap 
+### Quarterly revision
 - Always revise what has been done previous quarter first 
 - Go through the planned roadmap as per the beginning of the year 
 - If something is no longer a priority, it goes back into the backlog. Only keep what has a clear reason, context and next steps 
@@ -95,7 +96,25 @@ Once I have the context, I can establish myself as a business partner - the goal
   - Are there any projects we had planned we can de-prioritize?
   - Is there anything additional I'm missing for Q4?
   - Looking ahead to 2021, when do you think you will start planning the new year?
-- 
+
+### Next year planning 
+- Stakeholder will have a planning ready 
+- Challenge on: 
+  - How does this relate to the business’s strategic pillars for the year?
+  - How can data support with these projects? 
+  - Are there any things they need to think about from a data perspective they may not have thought about yet? 
+  - Ask for context when you’re not sure
+- Things that data can help with: 
+  - Integrations of new tools
+  - New features on the website and working with tech to ensure the right fields are available for ETL and impactful reporting 
+  - More advanced analytics
+  - Support in automation of reports 
+  - Support in testing (e.g. A/B tests) 
+- Think about timelines around when this will impact BI and therefore for which quarter the projects should be roadmapped? 
+- Ask for a copy of the team’s roadmap for reference and to inform own roadmap 
+
+
+
 
 
 ## Relationships
@@ -280,12 +299,17 @@ If we cannot have something centrally stored and managed (e.g. in Looker) we wan
 - Improved business performance: more revenue / less costs 
 - Time savings in doing analytics 
 - Whether employees get their questions answered
-- Number of users of BI platform
+- Number of users of BI platform / time spent in BI platform 
 - How often people use the BI tool - dashboard/explore usage statistics
 - Centralized definitions and increased consistency 
 - Number of uses of the data 
-- Number of tickets / FTE or team
-- Ticket bucketing: feawtures, error resolvement, analysis)
+- Delivery performance: roadmap/project completion, Number of tickets / FTE or team
+- Ticket bucketing: feawtures, error resolvement, analysis (and % time spent on each of these)
+- Time resolve these bucketed ticket types
+- Data quality: recorded issues, time spent maintaining quality 
 
 ### Other
 When explaining differences, use the language and the tools people know, use and trust. Use Looker instead of showing people SQL and add a note in screeenshots to emphasise things
+Looker is great for static reporting, less so for ad hoc and generally it isn't great at really understanding our customers - we'd need more web analytics and survey data for this. Mapping the customer journey and understanding all steps within the process. Asking the why rather than the what. 
+
+Some data models like attribution model are built over time and gotten larger and larger. Over time, different challenges are overcome and build in the code. This repeats and the model gets build iteratively. Now everything may be fine, but you'd still want to account for the historical data that cannot be changed. It's a difficult balance of consistency, simplicity and scalability. 

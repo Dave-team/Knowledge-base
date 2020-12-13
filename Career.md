@@ -56,7 +56,6 @@ Imposted Syndrome is not feeling good enough in what I do. I am stuck on somethi
 - I cannot take these problems personally and I cannot be so affected by them. It might be that I get into work and 9 things are broken - trying to fix everything all the time will only lead to burnout and I won't be able to see the bigger picture and e.g. support the team.
 
 ## Be more valuable 
-
 **For the company** 
 - Develop new ideas and deliver end to end that have a positive impact on the business. 
     - This can be on a strategic business level
@@ -70,6 +69,7 @@ Imposted Syndrome is not feeling good enough in what I do. I am stuck on somethi
     - Coming up with creative solutions to business problems 
     - Being able to take a complex project and translating that to a clear actionable action plan
     - Have the resourcefulness and confidence to bring projects across the finish line independently
+- Focus on contribution to the business
 
 **For yourself and the team**
 - Become really good with the tools of your trade 
@@ -77,6 +77,8 @@ Imposted Syndrome is not feeling good enough in what I do. I am stuck on somethi
 - Continiously work on documentation. You and others will need it. Make sure you remember why you did things so record your decisioning somewhere (e.g. clear comments in SQL logic)
 - Really understand the data 
 - Implement best practices and educate the business on best practices where needed 
+- Focus on key skills and strenghts rather than trying to solve for weaknesses
+- Your role should be aligned with your personality. “This is how it should be done. You want me for this role and this is who I am”. 
 
 ## Be curious
 - Google around Snowflake, DBT, Fivetran, Looker etc
@@ -105,6 +107,8 @@ Imposted Syndrome is not feeling good enough in what I do. I am stuck on somethi
 - Get a good understanding of the most important metrics used in the business 
 - Understand the roadmap
 - Become very familiar with the tools 
+- Get to know the wider business 
+- The skills and ways of working of previous roles don't always transfer to a new role. You need to adept. 
 
 ### Tech to set up
 Email
@@ -248,6 +252,3 @@ A few reasons announcing plans is useful:
 - I think announcing ambitious plans can help kind of.. inspire the people around you? Like I sometimes see that someone else is kicking off a Very Important Project and I think, wow, that’s really cool, maybe we can do something cool like that.
 - It’s exciting to see people starting and finishing projects, like it creates momentum for the whole company if everyone talks about what they’re doing!
 
-## Development plan 
-- Link objectives / areas back to main role objectives
-- Each goal is clearly measurable. E.g. reading books is not measurable. Attending conferences is not measurable - specify which conferences. Often, it's about having implemented X 

@@ -2,7 +2,6 @@
 
 ## Links
 - https://blog.jooq.org/2015/11/07/how-to-find-the-longest-consecutive-series-of-events-in-sql/
-- 
 
 ## SQL style guide 
 - Use consistent descriptive identifiers and names and keep the consice 
@@ -23,6 +22,23 @@
 - Use 'as' for aliasing tables or fields
 - If joining two or more tables, always prefix your column names with the table alias. If only selecting from one table, prefixes are not needed.
 - Be explicit about your join (i.e. write inner join instead of join). 
+- Distinct should be included on the same row as select. 
+- Always rename columns when selecting with table aliases: projects.name as project_name,
+- Long Window functions should be split across multiple lines: one for the PARTITION, ORDER and frame clauses, aligned to the PARTITION keyword. Partition keys should be one-per-line, aligned to the first, with aligned commas. Order (ASC, DESC) should always be explicit. All window functions should be aliased.
+
+select 
+    X,
+    Y, 
+    SUM(1) OVER  (PARTITION BY category_id,
+                          year
+                  ORDER BY pledged DESC
+                  ROWS UNBOUNDED PRECEDING) AS category_year
+from table_a as a 
+left join table_b as b on a.id = b.id 
+  and a.date = b.date 
+where x.type = 'sql'
+  and b.type 'python'
+
 
 ## SQL best practices
 - Use CTEs

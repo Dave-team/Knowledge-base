@@ -75,6 +75,7 @@ Gather user feedback from end users to increase the value that Looker adds. Send
 - Has Looker been useful to you? If not, what could we add or change that would make it more useful?
 - Have you experienced anything frustrating or confusing in Looker that I could help with?
 - Do you have any other questions or requests about Looker or data at the company more broadly?
+- Ideally, survey people and ask. Otherwise, 15 minute chat. This is both more valuable than surveys. 
 
 ### Data champions
 Create a hub and spoke model where each team has data champions

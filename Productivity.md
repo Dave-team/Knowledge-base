@@ -92,5 +92,9 @@
 - A good way to tag/group tasks is based on levels of energy: Focus - Long. Focus Short. Brain Dead Long
 - If today only had 2 hours, what would I do that has the most impact?
 - What is the one thing I can do today that makes everything easier or even unneccessary?
+- Time management: 
+  - Find out the things that don't need to be done at all, and stop doing them. "What would happen if this were not done at all?" And if the answer is, Nothing would happen, then obviously the conclusion is to stop doing it.
+  - Which of the things I do can be done by someone else just as well or even better? 
+  - A good executive asks other: ‘What do I do that wastes your time without contributing to your effectiveness’?
 
 ![Productivity Matrix](https://user-images.githubusercontent.com/28791247/92321110-432e9480-f01f-11ea-910f-3198f8b87add.png)

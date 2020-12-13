@@ -71,6 +71,8 @@
   - Run the Content Validator in Looker to ensure that everything still works. This is great for catching other reports that depend on the table you just changed. Also compare dev to prod and make sure data and dashboards all still work. 
   - Invvolve stakeholder is the dev vs prod comparison when the changes are very significant 
   - Change references back to prod schema, and deploy to master
+- Put a transformation table post update and pre update next to one another to verify whether everything is still as expected - you'd want to verify the data at very low granularity - e.g. on a row level 
+- Also, compare key metrics: duplicate a view file in Looker, run the aggregated metrics and have two windows: one with the PDT and the other with DBT to compare prod vs dev. 
 
 
 ### BI tool testing
@@ -82,7 +84,7 @@
 **Tests when going live**
 - Sanity check the data we output. Does it make sense? 
 - Test calculations — add it up, do the division, and calculate the ratios. Make sure the report itself is internally consistent and correct.
-- Test at different levels in the hierarchies. What adds up correctly at the summary level may not be right when you start to drill down to the details.
+- Test at different levels in the hierarchies. What adds up correctly at the summary level may not be right when you start to drill down to the details. Sum of the parts should always equal the grand total
 - Test edge parameters. For example, what happens to a report that compares data from a requested year to a prior year when the selected year is the earliest year in the database and there is no prior year?
 - Compare to existing sources. E.g. Looker should return same results as Salesforce. This test needs to be done in the beginning especially and when you are building something new. If some elements of the report are available elsewhere, and if the results should match, make sure they do. If you expect the results to be different because of improvements in data quality or business rule definition, see if you can match the existing source by applying these improvements by hand. Review these differences with key business users and document them in the BI portal
 - When required, perform unit testing: look at one instance and compare DWH vs source and identify where issues occur 
@@ -137,6 +139,17 @@ Keep in mind:
 
 Solving merge conflicts
 - Usually done in Looker by selecting which parts of the code to keep - can also be done in Github by deleting the irrelevant code 
+- Even if there are no merge conflicts, never merge a branch that has updated changes as you'll likely lose all the new changes you made. Instead, pull and merge and deal with conflicts as they pop up. 
+
+### Git technical
+Copying and changing a repository locally: 
+- Create a repo
+- Match this repo name in local directory
+- Git init 
+- Git clone (https from Github)
+- Git add
+- Git merge
+- Git push
 
 ## PR review checklist 
 - Does the table run? 
@@ -154,21 +167,6 @@ Solving merge conflicts
   - good user experience
   - understand how it fits in the model and if there are better ways 
   - check that there are no downstream effects 
-
-
-
-## Project Management
-Flow of tickets: 
-- Create ticket for any task expected to take more than 30 minutes
-  - Tickets should be created as as checklis
-  - Tickets should be tagged to ensure we can track how BI supports the business 
-- Move ticket along its stages (backlog, in progress, in review, done)
-- In review is when the business reviews. Completed is only after business approved functionality 
-- Notify Slack after work is completed 
-
-Business ticket creation:
-- Done in a form with required fields in the project management tool (avoid working from questions posted in e.g. Slack)
--  
 
 ### Prioritization
 BI work on a high level is split between ad hoc requests and projects. You'll need to find a balance between the two. 

@@ -7,7 +7,9 @@ This is a list of things I am actively working on to develop myself.
 - Accept myself and things the way they are. Don't force things. It's okay - I am good enough. It's okay whatever the outcome is. 
 - Be more present. We can't change the past and we don't control the future. All we have is this very moment. 
 - Go deep inside yourself and get to know you. Be confident sharing personal experiences, understand your emotions and feelings. 
-- Relax and not take myself and life so seriously. Force yourself to slow down occasionally and just take it easy/ 
+- Relax and not take myself and life so seriously. Force yourself to slow down occasionally and just take it easy.
+- Balance my time between work, development and hobbies more. Force this hobby time and even when bored, embrace the boredom and see what comes of it - get off the development train.
+- When anxious, ask what you are anxious about and put those fears on paper. Then realize it's okay. 
 - Visualize myself as: 
   - Happy and at peace - I can do nothing for an hour and step out the race
   - Well rounded person with interesting hobbies and opinions on a wide range of topics that come in handy during social conversations
@@ -104,6 +106,8 @@ Things I actively pay attention to and work on:
 
 **Public speaking** 
 You have to identify the root of your performance anxiety. Are you worried that: You don’t know the material? You can’t answer a difficult question? Your presentation is boring? You don’t come off as expert? You look stupid? You sound unpolished? Your material doesn’t flow? Nobody will show up? People don’t understand you? The audience doesn’t care? Once you know where the anxiety is coming from, you can likely calm down more. 
+
+Public speaking. It is going to happen and I accept my anxiety. It’s something I want to be become better at so I want to do it and now I have the opportunity. I will prepare well. I will understand my thoughts and stay optimistic. When the nerves arise, it’s okay. I knew they were coming. I knew I would get an increased heart beat and sweaty palms because I’ve been there before. All is well - I will get through this. I am enthusiastic about it, am well prepared and I survived in the past
 
 - Take on all opportunities to further develop public speaking skills - don't shy away because you're scared of anxiety. Face the anxiety instead and over time it'll be less bad
 - I want to become a good public speaker because it'll help me greatly in life and it's required for any significant next step in my career - every next step will have greater public speaking challenges so each time I present will be small compared to the next time. 

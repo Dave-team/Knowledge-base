@@ -34,3 +34,17 @@ Tell me about the most challenging analytical project you’ve handled on your o
 Tell me about a time you presented an analysis that you thought would lead to meaningful impact, but did not. Why do you think it didn't convince the stakeholders? What would you have done differently?
  
 Tell me about a time when you realized after the fact that you made some very incorrect assumptions about the data. What did you do to fix this issue? How did you communicate the problem to people who had received the analysis already?
+
+Interviewing. Purpose: 
+-	Select a good performer
+-	Educate him as to who you and the company are
+-	Determine if a mutual match exists
+-	Sell him on the job 
+
+
+Hiring decisions steps 
+-	Think through the assignment – what is this job to do in the next 24 months?
+-	Look at a number of potentially qualified people
+-	Think hard about how to look at these candidates. What are the strengths of the candidate and are these the right strengths for the assignment? 
+-	Discuss each candidate with several people who have worked with them 
+-	Make sure the appointee understands the job  

@@ -73,44 +73,14 @@
 - What else might this mean?
 
 ## Meetings
-**Running meetings**
-- Define clear objectives before any meeting and make sure the right people are attending 
+**Preparation**
+- Define clear objectives before any meeting and make sure the right people are attending. Meetings are expensive so ensure only the right people attend; consider whether a meeting is even required. 
+- Those people that need to attend, make sure they do. If they can't, make sure there is a representative in their place. 
 - Create an agenda and share it within the team attending the meeting
   - Date 
-  - Invites
+  - Invites (potentially with the role they're expected to play during the meeting)
   - Topics
   - AOB
-- Have an ending time for any meeting, to avoid off-topics
-- Pre meeting: brief about the goal, agenda
-- Tips to host a good meeting: 
-    - Use the whiteboard to brainstorm, keep track of important items discussed
-    - Ask people to close their laptop where possible
-    - Lead the meeting and get it back on track if we went on a tangent
-    - Conclude agenda points prior to moving on with a decision and an action and the person taking it is onboard and doesn't need any clarification to start working on it 
-    - Ask if there are any concerns
-- Summarise the action items (SMART)
-- Thank the participants 
-- Send a follow-up e-mail, with a summary and especially action items specifically outlined (who, what, when) and SMART
-- Start the next meeting with the action items of last meeting
-- Minutes: 
-  - Date
-  - Invites
-  - Previous To-Dos 
-  - New To-Dos
-  - Meeting notes 
-  - Consider the RAID method: Risks, Actions, Issues, Decisions
-  - Consider taking minutes during the meeting whilst everyone can see what is being typed 
-  - When a meeting is longer or more complicated, ask two other to also take notes so you have a backup for when you are busy interacting with others
-- General:
-  - Provide more input
-  - Determine in advance who leads the meeting
-  - IF I miss context: Say ‘I wasn’t part of the discussions - can we quickly recap what we;re trying to achieve here?
-- To discuss in catch-ups meetings: 
-  - What are we all working on? 
-  - Are there any questions / things we can help with? 
-  - We have been thinking about doing X - is this something you would be interested in? We’re still very early stage and just gathering feedback. Think about: AI applications, what more can we build thats good for the business? 
-
-
 
 **Prep for meeting set by others**
 - What is the goal? Why are we doing this? 
@@ -123,7 +93,46 @@
 - Do I fully understand what I am presenting or do I need some more info from someone? 
 - Do I know the reasons behind we did things in a certain way? 
 - Prepare questions that I want to ask also 
+- Review notes last meeting 
 - Scout first: Do everything you can to avoid a meeting where you don’t know what the stakeholders expect from you. A quick 5-minute sit-down a few days before the “real” meeting goes a long way to making sure everyone is on the same page when the meeting happens.
+
+**Running meetings**
+- Pre meeting: brief about the goal, agenda
+- Start the next meeting with the action items of last meeting
+- Tips to host a good meeting: 
+    - Use the whiteboard to brainstorm, keep track of important items discussed
+    - Ask people to close their laptop where possible
+    - Lead the meeting and get it back on track if we went on a tangent. Remember the end time for any meeting, to avoid off-topics
+    - Conclude agenda points prior to moving on with a decision and an action and the person taking it is onboard and doesn't need any clarification to start working on it 
+    - Ask if there are any concerns
+- Summarise the action items (SMART)
+- Thank the participants 
+- General:
+  - Provide more input
+  - Determine in advance who leads the meeting
+  - IF I miss context: Say ‘I wasn’t part of the discussions - can we quickly recap what we;re trying to achieve here?
+- To discuss in catch-ups meetings: 
+  - What are we all working on? 
+  - Are there any questions / things we can help with? 
+  - We have been thinking about doing X - is this something you would be interested in? We’re still very early stage and just gathering feedback. Think about: AI applications, what more can we build thats good for the business? 
+
+**Minutes**
+- Date
+- Invites
+- Previous To-Dos 
+- New To-Dos
+- Meeting notes: 
+  - Discussion summary 
+  - Decisions made
+  - Actions to be taken: what, what, when.
+- Consider the RAID method: Risks, Actions, Issues, Decisions
+- Consider taking minutes during the meeting whilst everyone can see what is being typed 
+- When a meeting is longer or more complicated, ask two other to also take notes so you have a backup for when you are busy interacting with others
+
+**Follow-up**
+- Send a follow-up e-mail, with a summary and especially action items specifically outlined (who, what, when) and SMART
+
+
 
 ## Problem solving / Decision making
 - Make sure to fully understand the issue instead of making assumptions. Research everything you don't know. Write things down as you learn them to get a full picture of the problem 
@@ -146,6 +155,8 @@
 - If you're stuck when debugging a problem, think about all the assumptions you're making, and then test each one of them, no matter how obvious.
 - When stuck, take a step back and look at the situation from multiple angels. Realize you might be stuck on a solution and need to think more holistically about the problem 
 - Sometimes, we need to step back and work on something with ease, especially when we are stuck on something for a while 
+- Improve decision making by doing feedback analysis. Each time you make a decision, write down what you expect to happen. 12 months later, look into what you expected and try to understand the difference 
+- Make as few as possible decisions - focus on the most critical ones only. 
 
 **Helpful tactics**
 - Scoring model when evaluation larger decisions. Also called a decision matrix where we list options, score/weight and then rank them 
@@ -164,6 +175,16 @@
         - Focus on the most impactful parts of the problem
         - Map categories of the solution
         - Brainstrom / generate ideas to improve in those categories 
+
+**Peter Drucker decision making process**
+- Ask: "Is this a generic situation or an exception?" If generic/more often occuring, answer through a rule / principles. If exception, handle it as it comes
+- Clear specifications as to what the decision has to accomplish. What are the objectives the decision has to reach? What are the minimum goals it has to attain? What are the conditions it has to satisfy? A decision needs to be adequate to its purpose.
+- Convert into action
+  - Who has to know of this decision? 
+  - What action has to be taken? 
+  - Who is to take it? 
+  - And what does the action have to be so that the people who have to do it can do it? 
+- Finally, a feedback has to be built into the decision to provide a continual testing, against actual events, of the expectations that underlie the decision.
 
 ## Other
 - Make sure to connect to the right people. Account manager instead of support when things need doing 
