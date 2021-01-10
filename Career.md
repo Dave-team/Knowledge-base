@@ -21,6 +21,10 @@ Imposted Syndrome is not feeling good enough in what I do. I am stuck on somethi
   - What do they feel you’re doing well? Make sure you keep doing this.
   - Is there anything specific they feel you need to work on in the short-term? If so, what measurable goals can you both set to determine success?
   - What longer-term (3-6 months), measurable goals can you both set that will indicate success to your manager? This is useful when you’re just starting with a new company or on a new team to calibrate your progress expectations to theirs’.
+- A career is built step by step. Nobody expects me to do things perfectly and gradually doing things and fully understanding them is the best way to learn. 
+- Projects are built from the foundation - don’t rush to an outcome. The most important decision is the approach that could eventually lead to the outcome. Make an initial approach and then discuss the approach with others where relevant. 
+- Make sure to take enough steps back and to have a relaxed approach to work. If I want to solve all problems at once, my performance on individual projects will suffer. Approach work calmly - if something is not good enough, someone will tell me and we can work on it 
+- Step away from the feeling that you need to know everything at once. You don’t. You clarify things to the best of your ability without going to deep into things and then you try things step by step. You cannot anticipate everything in advance and nobody expects you to. As you work, mistakes happen, new insights can be found that change things and then we need to reconsider our approach. 
 
 ## Team meetings 
 - Understand the purpose
@@ -33,6 +37,8 @@ Imposted Syndrome is not feeling good enough in what I do. I am stuck on somethi
 - I represent my own brand and want to provide value and impact at all times. Being able to public speak or communicate is essential for this. If I feel anxious because I feel like I didn't do enough - work harder. 
 - After every presentation, realize that it didn't matter as much and people didn't actually care that much. 
 - Aim to know the people in the company well - from all teams and all seniority. This will help being less anxious as you kind of know how the'll respond. 
+- Always focus on the positives during these meetings
+- We're all in this together and learning. 
 - Other tips: 
   - If I can engage in the discussions early on, my nerves should slowly move away as a connection has been built with e.g. the audience. 
   - Make sure to also slow down during these meetings to allow others to jump in. 
@@ -41,6 +47,9 @@ Imposted Syndrome is not feeling good enough in what I do. I am stuck on somethi
   - Remind yourself that a calm mind would allow me to present with more clarity as I'll be focused on providing value to those in the sessions as opposed to being selfishly stuck in my own mind. I
   - Just take it easy
   - Track the things you're doing during the week to avoid not knowing what to say 
+  - Separate your personality and life from your work. I speak for the work I did, not for myself.
+  - It's just part of the job 
+  - I always perform to the best of my ability and that's all I can do. 
   
 ## Non team meetings
 - Do your homework

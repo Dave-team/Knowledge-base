@@ -60,6 +60,7 @@ There are 7 things that matter most in my life: family, love, friends, health, c
 - Have bigger things going on for you beyond work: have hobbies, work out, work towards achieving goals. 
 - When feeling unproductive, realize why you're doing this: wanting to become a more well rounded person. Be relaxed and in the moment. 
 - Don't keep busy for the sake of being busy - that's a very narrow life. Instead, try to purposefully be imperfect. Read that book that you don't follow. Watch a bad movie. Do something you would usually consider not worth doing and stick to it.  
+- Do small things and enjoy them. Be mindful when watering the plants, think about the food when cooking. Enjoy the environment when walking outside. And then celebrate what you have achieved. 
 - To foster passion:
   - What do I like to think about?
   - Where does my mind wander?
@@ -150,6 +151,7 @@ You can then accept the current state of things and he more present we are, the 
 - To achieve this contentment, throw away any expectations or grand goals you may have. Each goal will lead to another and misses the point of being present.
 - Believe in the complete and utter insignificance of the self. Our lives are a blink of a firefly in the night. You’re just barely here. You have to make the most of every minute. Every second you have on this planet is very precious, and it’s your responsibility to make sure you’re happy and interpreting everything in the best possible way. Any moment where you’re not having a great time, when you’re not really happy, you’re not doing anyone any favors. All you’re doing is wasting this incredibly small and precious time you have on this Earth. You’re going to die one day, and none of this is going to matter. So enjoy yourself. Do something positive. Project some love. Make someone happy. Laugh a little bit. Appreciate the moment. And do your work.
 - Be more grateful: “Stop asking why and start saying wow.” The world is such an amazing place. As humans, we’re used to taking everything for granted.
+- 
 - Find happiness in acceptance. Rather than striving for something or wanting to solve problems, get peace on the inside by accepting the ways things just are. What can help with this: 
   - Embrace death. It's coming and you can't run from it. More generally, let go of what you can't control
   - It’s okay whatever the outcome is. 
@@ -168,10 +170,16 @@ Practical techniques for happiness:
 
 ## Meaning of life 
 Meaning to life is personal and the key is to be happy in the moment 
-We seem happiest when we’re socialising with other people, outside or doing something that seems meaningful to us such as excercising and volunteering
+We seem happiest when we’re socialising with other people, outside or doing something that seems meaningful to us such as excercising and volunteering (effective altruism, focus on wife/kids, solve problems to better the world and make life better for others, perform and learn about arts, study philosophy and spirituality, get to know your inner psyche). Sometimes meaning of life comes from things are inherently worthless. Learn an instrument, buy a motorcycle, make a painting, become a scuba instructor, run a marathon, try drugs, move to another country, sit at a park/cafe and talk with people. Spice up and really experience life.
+
+Life is like a piece of music. The "point" of listening to it lies in the listening - not the getting to the end of the track. If you build and optimize your life around "getting to the end" - whatever that has meant for you, getting a degree, reaching a certain amount of wealth, a certain amount of success, a certain kind of partner, etc. - you will eventually find that there is no more "end" to get to. Well, the way out of this is really stupid - you just have to learn to enjoy the music instead of always looking forward to reaching the end of the track.
+
+The goals we should strive for are those that have no endpoint, just continuous honing of a craft. Fatherhood is an example - there’s no “endpoint” - you find meaning from being an ever greater father.
 
 ## General 
 - Build character and get a thicker skin: 
+    - Hardship and setbacks are a part of life. We need to deal with and accept this reality. Not everything is about roses and moonshine. We need to deal with the cards we’re given. We need to go on and not be stuck in the past.
+    - Character is having gone through hard times and coming out on top
     - Get uncomfortable more often
     - Seek out criticism
 - Spend time with great people 
@@ -237,3 +245,5 @@ We seem happiest when we’re socialising with other people, outside or doing so
     - The person who is satisfied with little will always have enough
     - Life is like a box of chocolates - you never know what you're gonna get. But you just make the most of it  
 - After breakup message: I’m 27. There really is more than enough time to find someone and settle down, get married and have kids. And before that, enjoy your time being single. Focus on advancing your career, become this more social person, make new friends, pursue new hobbies and just generally really be more of an independent man with character who is happy with who he is. Someone who isn’t obsessed around getting a response from someone else. Someone who lets go of things he doesn’t control. Someone who leads by example. You cannot depend on a relationship for happiness because one way or another, things will mess up. So ALWAYS live an independent happy life - then if someone joins that life, all the better. Just do not change for anything or anyone
+
+![Memex](https://user-images.githubusercontent.com/28791247/104088013-9594f180-525b-11eb-8d04-1eaf6c8d109f.jpg)

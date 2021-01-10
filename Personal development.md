@@ -42,6 +42,10 @@ Overthinking makes me unable to focus my mind on anything other than the thing I
 - What is the easiest first step to do? Forget about planning the optimal way to do things, take the first step and be fine if things don't go exactly as planned. This type of overthinking is essentially procrastination
 - Realize that problems aren't solved by thinking about them. So either action towards them or don't do anything at all. And when you forget about things, the subconscious mind might help coming up with the solution 
 - Focus on the bigger picture - if you're working towards the grander goals in life, most small things become irrelevant and there is no need to overthink quite as much
+- Tell yourself to relax and take a step back. Nobody demands perfection and have no expectations. Do things step by step starting with the foundation. Take your time and nobody is putting unrealistic pressure on you. 
+- Take things step by step and don’t try to do everything at once.  I can think about what I want to do, I can spend some time trying a hobby for 30 minutes a day and build on top of that. And make sure to do this method rather than overthinking what the best hobby is that I can spend all my time with. Things don’t need to happen from today onto tomorrow. Take your time. 
+- Don't solve all problems by yourself - use your support network 
+
 
 ## Doing hard things
 - It's important to do hard things that stretch me as they are great opportunities to learn and improve. Seek this challenge continiously. Get critical feedback to improve further

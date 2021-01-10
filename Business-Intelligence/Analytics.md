@@ -57,15 +57,12 @@
   - Recommendations
   - Analysis performed 
 
-
-
 ## Analysis doc 
 - Objective
 - Approach
 - Summary
 - Recommendations
 - Analysis 
-- 
 
 ## Good analysis 
 ### Add context to analysis 
@@ -116,7 +113,6 @@ When big changes are about to happen you want to make sure the business knows ab
 - Approach
 
 Then send an email clarifying approach, Exec Summary. Add more details in PPT and offer to go through in a call 
-
 
 ## Web analytics
 Look into: 
@@ -201,9 +197,27 @@ A lag indicator is the thing you care about (like monthly revenue), but can only
 - These variables are added to when a page is loaded 
 - Each session will have the same variables  
 - There will be a way to connect the utm parameters loaded to the marketing campaigns / ads as naming conventions will sort this 
-
-
-
+- 
 ![Analysis context ](https://user-images.githubusercontent.com/28791247/92440452-7189ac80-f1a4-11ea-8f92-3898c3f2cad0.png)
 
 ![Analysis context ](https://user-images.githubusercontent.com/28791247/92440681-caf1db80-f1a4-11ea-8e08-a8aa5049c447.png)
+
+## Mathematics notes 
+- Moving averages: great for smoothing out a time series and remove noise from short term observations. With non percentage figures, just add the relevant figures and divide by three. 
+- Be aware of percentages and averages: you often can't calculate with them directly and need to use the absolute numbers instead. 
+- Percentage change = (New Figure– Old Figure) / Old Figure 
+- Numerator = part of the calculation prior to the division
+- Denominator = the bottom part of the fraction 
+- Price increase = old price * percentage increase 
+- Price decrease = old price * (1-pecentage decrease). A 25% discount on a £100 article leads to 100*75 = £75 as the new price
+- Percentage change calculation can be confusing. A percentage can go up in percentage points: a rate can increase by some percentage points (from 3% add 2 percentage points to get to 5%). You can also say that the rate increased by 67%
+
+
+## Funnel metrics
+- Think about conversion rates: Won = Won /(Won+SAO). Reason: From SAO to Won we want to have the entire population in the denominator - which then includes both SAO and Won
+- Conversion rate dates are based on the date of the first step in the conversion. The business might look at this in another way: from the origination of the opportunity, but that always depends on the company’s logic  
+- Usually includes the absolute counts by step
+-	Generally, the product team will want to verify the performance on each step – they need to know whether people convert from each page or step. This means they want to know what the % conversion is from each step to the next.
+-	It can be that a team wants to look at conversion rate that spans multiple steps. In this case, the team is happy to not isolate performance of a step but the combination of multiple step’s performance is helpful to them. E.g. deposits / completes, rather than deposits / approved to also account for the credit quality that the marketing team is acquiring. 
+-	In general: use absolutes by step, use conversion % step to step and use stepwise and overall final conversion rate (deposits / leads and deposits / approved). This way, you measure the overall performance, as well as the performance of the last step.
+

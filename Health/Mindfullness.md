@@ -8,12 +8,14 @@
   - Don’t try and fight it, just notice them and be aware that you’re out of control. This awareness alone can calm you down. 
   - Go in debugging mode. Ask yourself: “Would I rather be having this thought right now, or would I rather have my peace?” Because as long as I have my thoughts, I can’t have my peace. “Well, do I really care if I embarrass myself? Who cares? I’m going to die anyway. This is all going to go to zero, and I won’t remember anything, so this is pointless.” “Do I really need to solve this problem right now?” Ninety-five percent of what my brain runs off and tries to do, I don’t need to tackle in that exact moment. If the brain is like a muscle, I’ll be better off resting it, being at peace
 - Time spent undistracted and alone, in self-examination, journaling, meditation, resolves the unresolved and takes us from mentally fat to fit.
+- When thoughts arise, let them flow by. Do not engage with them. I am not my thoughts - they are merely things that flow by 
 
 ## Principles
 - Make it a habit – e.g. first thing in the morning and have a determined place where you meditate
 - One thing to realize here is that you are not in control of your thinking. You are simply an observer to whatever happens and whatever your mind produces
 - Life-hack: When in bed, meditate. Either you will have a deep meditation or fall asleep. Victory either way.
 - There are different types of meditation: Hiking is walking meditation. Journaling is writing meditation. Praying is gratitude meditation. Showering is accidental meditation. Sitting quietly is direct meditation.
+- 
 
 ## Preparation
 - Set your intention for the session and focus on what's coming. Treat it as a workout and a learning session. Don’t expect anything and just see what happens

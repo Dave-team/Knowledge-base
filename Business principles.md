@@ -1,6 +1,6 @@
 # Business principles 
 ## My guidelines
-- Speed matters: work fast and do things right now - don't delay 
+- Speed matters: work fast and do things right now - don't delay. Don't say you will do, just do first. 
 - Quality matters: never assume and always check
 - Be flexible: things will always change. Be prepared to adapt.
 - Keep things simple: do the bare minimum to solve the problem prior to making things more complex  

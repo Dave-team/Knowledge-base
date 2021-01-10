@@ -1,4 +1,7 @@
 # Dataops
+## Links
+- How to review an Analytics Pull Request: https://blog.getdbt.com/how-to-review-an-analytics-pull-request/
+- 
 
 ## Data testing 
 

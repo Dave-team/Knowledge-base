@@ -9,7 +9,6 @@
 
 ![Data hierarchy](https://user-images.githubusercontent.com/28791247/93708163-f624e500-fb2b-11ea-911d-dd353e9b9a16.png)
 
-
 ## BI use cases
 - Pre-defined reports: e.g. dashboards displaying the status / current performance where we track performance against high level KPIs and against any metrics we aim to improve. In addition, we have actionable context for these high-level KPIs and the ability to drill-into the detail behind them. This can answer: 
     - Status: how are we doing. Are we doing well – compare against targets 
@@ -31,3 +30,148 @@
 - A/B testing
 - LTV models
 - Process around measuring impact feature changes 
+
+## Data Science
+Use cases
+- Forecasting: prophet (by Facebook).  
+- Prediction: classification or regression models (see details below). E.g. churn prediction / lead scoring 
+- Recommendation engine: 
+- Marketing attribution: markov chains
+- Measure LTV: Survival analysis 
+- Clustering (e.g. RFM segmentation): K-means or others (see below for details)
+- NLP / sentiment analysis 
+- A/B testing 
+- Scenario planning: Monte carlo simulation 
+- Market basket analysis 
+- Anomaly detection, e.g. fraud analysis 
+- Google: 
+  - Campaign optimization. E.g. different campaign approach depending on likely LTV of a customer
+  - Bidding.
+  - Keyword research
+  - CAC reductions 
+
+## Metrics by industry
+**Ecommerce**
+- Sales 
+  - Overall 
+  - New customer
+  - Repeat customers 
+- Average transaction value
+- Website visits by channel
+- Conversion rates by channel (shopping cart conversions)
+- Trending product categories
+- Category performance
+- Items per order 
+
+**SaaS**
+- Revenue (ARR)
+  - New 
+  - Existing 
+- Pipeline added 
+- Leads added 
+- Average deal value 
+- Conversion rates
+- Deals expecting to close 
+- Deals expecting to churn 
+- Sales cycle
+- Costs per lead 
+- Everything against target
+- High level overview of rep performance 
+
+**Subscription** 
+- Subscribers
+  - New
+  - Existing
+- Website conversions
+- Conversion to first paid version 
+- Average transaction value 
+- CAC by channel
+- Product performance 
+- Retention / Churn rates 
+
+**Application** 
+- Downloads
+- Average duration 
+- % that did user behaviour 
+- Milestones achieved
+- CAC by channel 
+- Customer engagement
+
+## Metrics by team
+**Sales**
+- Rep performance / ramp
+- Pipeline coverage
+- Conversions
+- Price evolutions
+- Opportunities / pipeline 
+- Forecasting what will likely close. They need a lot of data for this and it’s a massive win 
+- Touches to advance a deal 
+- CSM: how much outreach do we do vs how often do users use the platform? Also, identify who are the active users and reach out to them. Who had great support experience? Reach out. Those who haven’t logged in in a while, craft a different message 
+- A good way of looking at what to chase: by industry, employee count, what is the win rate, what is the sales length, what is the average ARR? Then, focus on the ones aligned with the business priorities, and at the same time understand why some segments are successful and see how this can be replicated 
+- What behaviour leads to successful outcomes? This is where BI comes in as it combines usage statistics with the actual Salesforce data 
+- Monitoring activity by rep 
+- What email subject lines perform well? 
+- What pages do people look at when they become closed won?
+- How often should be touch base by company segment? 
+- Prioritization of opportunities based on likelihood of closing (or slipping) 
+
+**Marketing**
+- Budget and what % of that is spent
+- Ad spent vs the result of that spend – i.e. combine the different ad tools (spend) with Salesforce (result). Also called ROI analysis 
+- Customer segmentation
+- CAC analysis
+- Lifetime Value
+- Channel attribution 
+- Funnel conversions 
+- Customer Journey
+- Retention / Churn 
+- Events 
+- Cohort analysis (where a cohort can mean different things - first signup, marketing channel, discounted price, etc. )
+- Ad spent from all various ad tools
+- Find opportunities in marketing performance - e.g. certain users respond to certain ads. Or better on certain devices etc. 
+- Understand customers and use that to select targets. E.g. well performing vs likely to churn: send an email. Also, treat good customers really well. 
+- How do we allocate our marketing spend?
+- Alerts when ads go wrong 
+- A/B testing 
+- Keyword performance 
+- Duration and pages viewed on website 
+- Visitor data (%new, %existing)
+- Costs per lead
+- Brand awareness
+- Email marketing 
+- Social 
+
+**Finance** 
+- Reduce operational costs by understanding where it all goes to a more granular level (e.g. by customer / module)
+- Forecast vs budget vs actuals
+- Easy to get data from the statements
+- Margins 
+- Sales efficiency 
+
+**People**
+- Headcount
+- Attrition
+- Satisfaction
+
+**Hiring**
+- Better understanding of when a role will be finalized and how that affects commercial metrics 
+- Optimization of channels by role 
+- Healths core by role: is this role likely going to be hired by month X? Then change approach based on the answer
+- Time to hire 
+- Employee satisfaction
+- Costs per hire
+
+**Customer service**
+- Number of tickets created 
+- Number of tickets resolved 
+- First resolve rate
+- Ticket duration
+- Ticket replies
+- NPS
+- CSAT
+
+**Product** 
+- Usage
+- Conversion
+- Behaviour
+

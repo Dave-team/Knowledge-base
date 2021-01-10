@@ -105,6 +105,17 @@ Anxious thoughts are often covered in What Ifs: “What if I stumble over my wor
 
 Anxiety often arises because we don’t have control over events. When we are anxious, we try to be in control or do things perfectly, in the hope that this will prevent bad things from happening. When we don't have confidence in our ability to cope, we lose control. The problem with this approach is that it is really impossible to do things perfectly or have complete control over what will happen in the future. Thus learning to boost our confidence that we can cope when things go wrong is a more helpful approach to managing anxiety than trying to prevent things from going wrong.
 
+Other anxiety coping notes
+- When you want to control things: do the opposite of trying to have control 
+- Don’t expect anything. If there is an expectation there is anxiety and potential disappointment 
+- Be able to detach from a situation and look at the situation from outside of yourself 
+- If I want something, do the work today that lets me have it. No need to worry about it
+- When overthinking, either become present and think of something else or refer to notes already written and possibly journal a bit
+- Be much more aware of the insignificance of it all - we are here a small amount of time. Then we’re gone. Something can happen any moment that changes absolutely everything. Then what? Enjoy the time we have on this small world. The moment is all we have
+- Shit does happen. We can wish things were different but we often just need to deal with reality and work with what we have left 
+- To reduce worry, assume that what you fear the most is certainly going to happen 
+- 
+
 ### Overcoming anxiety using Exposure
 To overcome anxiety, we need to learn to approach the situations or people we avoid. Through these experiences, we have an opportunity to increase our confidence in our ability to cope with the situations that frighten us. 
 

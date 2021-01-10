@@ -123,9 +123,16 @@ I don't speak up in meetings much as I am afraid of asking stupid questions, giv
 - I fear making the wrong decisions - we often make only a few major decisions in our lives and I fear regretting the decision. Decisions are not forever. Give things a chance when it feels right, be in touch with feelings and if it turns out to have been the wrong decision, be strong enough to end things. 
 - I crave a strong sense of belonging and validation. I want someone to care about me and I want to know that someone will reply and just be there for me. I want to feel loved and this validation made me feel good about myself; if I don't feel loved this hits my self esteem and makes me not feel good about myself. Seeking external validation from someone you don't fundamentally control is not good. Enjoy it when you have it but be aware that you can't rely on validation that isn't coming from within. 
 - At times I felt like my worth was determined by whether I was in a relationship or not. Being with someone is what I’d consider a successful life whereas being single is a sign that my life isn’t complete. This has been amplified by e.g. how family approaches us. Instead, be entirely happy independently first. 
+- I have controlling tendencies. I wasn't happy when she would prioritize doing other things over spending time with me during the relationship. It felt as it we had our weekends and she'd always have to spend it with me because I expected it and I probably wouldn't know what else to do with myself. I felt rejected when she would do something else and that hurt my validation and made me fear losing her which made me unattractive. 
+
 
 ### Flying
-Tons of flights happen. The pilots wouldn’t fly if there was an issue. Turbulence is just a bumpy road. Try to comfort yourself. Realise it’s okay to feel that way because you’re not in control. But it happens often and the pilots are the right people to take care of it. Statistically, were incredibly safe. Learn about planes. You’re not in control any more so just let it happen
+Tons of flights happen. The pilots wouldn’t fly if there was an issue. Turbulence is just a bumpy road. Try to comfort yourself. Realise it’s okay to feel that way because you’re not in control. But it happens often and the pilots are the right people to take care of it. Statistically, were incredibly safe. Learn about planes. You’re not in control any more so just let it happen. 
+
+Need to get somewhere. I know the feeling and I know my response. From experience, it’ll be just fine / it will soon pass 
+
+### Medical help
+it needs to happen because it will help me. Doing it is better than not doing it. The earlier I’m fixed the better 
 
 ### Privileged
 Extremely lucky being white male and grew up in Netherlands. Worst thing that can happen isn’t that bad - could always go back to Netherlands

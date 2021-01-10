@@ -70,6 +70,12 @@ You should never be depending on a relationship for happiness. Then, you can bri
 - Dumper and dumpee experience: 
   - Dumper would also have wanted this to work out. They will doubt their decisions over time whereas in the beginning they may be relieved as they did part of their grieving before they broke up. They might realise the grass isn't always greener on the other side 
   - Dumper is going through hell initially but they'll work their ass off to get better coming out stronger 
+- When feeling down, be optimistic about the future and more than anything else, remind yourself of the negative parts of the relationship. I am now scared of the future and feel like I want things back to what it was before. 
+- The long and short of it is that I need to work on myself, stop contact and obsessing over her. Move on by accepting and flow like water. Build the life you want.  Be optimistic that in the future, when I am ready I will meet someone I can connect with again. 
+- To avoid the worry of an ex finding someone: 
+  - Don't follow/communicate with them 
+  - The only thing that matters is what I do. Do I want a relationship? Then focus on that. What others do is not relevant. 
+- Single time is the best time to make sure you get the experiences you want. If you settle already, you’re actually stuck for life and might not gain the experience you want to have had
 
 ## Relationships take work & communication is key
 - Being in a good relationship takes effort because you don't want to become complacent and take things for granted. Both people should give it 100%. That causes the other person to lose interest in you because you're no longer a challenge and you probably no longer really contribute to the other person's happiness. It also means that all of a sudden you'll be afraid of losing her as she's all you have in your life.  
@@ -111,6 +117,7 @@ You should never be depending on a relationship for happiness. Then, you can bri
 - Give one another personal space: two independently happy people want to do their own thing at times. And we need to trust one another in that we don't do wrong things in the meantime. Without this trust, the entire relationship is based on the wrong things. 
 - Share your life with other friends
 - Put yourself in her shoes. How much care do I show? How well do I listen to her concerns? How well do I support her? How much love do I show her? How significant do I make her feel? How much does he love you and how certain are you that he’s going to stay and love you? How much desire, surprise, playfulness does he bring home to you that you don’t expect? How much are you growing together? How much do you feel like he is trying to contribute to you? So score yourself on these points and you’re left with how Cisem feels in the relationship. Put yourself in her shoes - what would you do in this case?
+- What do I bring to the other person? Why would she want to be a part of my life? 
 
 ## General
 - The only thing we control is our contribution to the relationship. Keep working on making things better and being the best version of yourself.
@@ -138,6 +145,8 @@ You should never be depending on a relationship for happiness. Then, you can bri
 -	No relationship is the same. They are all unique in their own ways. You will never have what you had and it will be different. 
 - First relationships are often difficult because you have no benchmark and there will also be a curiosity to figure out what else is out there 
 - There is this odd feeling where a life should be lived with someone else to make the most out of life. Travelling, intimacy, being as close to someone else. But the reality is that we don’t control other people so we can be in a long term relationship it can also quickly break for whatever reason. And yes we are probably social creatures meant to be together with someone else but often that’s not always the case. It takes a lot of time to find someone that could fit and you get along with and then it also needs to be mutual. It’s worth waiting for whilst you try to become the very best version of yourself first
+- Relationship pros: sex, physical touch (kiss, hug, spoon), someone to share things with and constant emotional support, someone to do fun things with. Financial sharing
+- Relationship cons: anxiety around relationship. Dealing with issues. Not being able to do just what I want to do
 
 
 ## Reflect during a relationship

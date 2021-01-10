@@ -1,6 +1,5 @@
 # Errands 
 ## Cleaning
-
 ### Bathroom 
 *Daily* 
 Drying shower window 

@@ -24,6 +24,34 @@
 - Appreciate people for who they are 
 - In addition to being grateful for the positives in our lives, another way to activate and support our new positive core beliefs is to do kind things for other people. Examples include opening the door for someone, buying lunch for a friend, smiling at a stranger, letting someone go ahead in a line, visiting an ill friend, giving a compliment, and helping a neighbor with shopping or home repairs
 
+## Ice breakers
+- Since I’m onto my second one for the day… How do you like your coffee? (Be specific)
+- What is the oldest item of clothing in your wardrobe?
+- What word do you always struggle to pronounce/say?!
+- What is your favorite film?
+- What would you be doing if you weren’t working in tech/data? 
+- What is your favorite tv show? extra points if its british!
+- What was your first AIM name / email address etc?
+- What is the weirdest outfit you have worn while working from home?
+- What is hobby have you picked up over the last few months?
+- If you had a combo-shopfront (has to be two things, unrelated, but perhaps complements) what would it be?
+- What song have you been playing on repeat this year?
+- What is your favorite (or least favorite) interview question?
+- Share a picture of your pet! Or tell us what ur dream pet is!
+- If you were to go on a reality tv show, which would it be?
+- What small item did you buy that surprisingly improved your quality of life?
+- What song would you crush at karaoke?
+- If you were a raindrop, where would you fall
+- What is the most mundane super power that you would wish you had
+- What was the first band you saw live in concert?
+- Share a picture of your favorite piece of art! 
+- What animal best represents you?
+- Dream Destination?
+- Favorite recipe you have mastered during the pandemic/take out spot 
+- What is your favorite alcoholic or non-alcoholic beverage?
+- If you could have an endless supply of one food item, what would it be?
+- 
+
 ## 1-1 Conversations
 - A good conversation consists of: 
     - Asking each other questions - be curious about the other

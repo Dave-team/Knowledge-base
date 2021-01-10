@@ -1,15 +1,23 @@
 # Priorities
 This is a list of things I am actively working on to develop myself. 
+Relax. Be optimistic. Be present. 
 
 ## General
 - The main overarching goal is happiness and the biggest win in this is having a consistent calm mind. 
+- Happiness is a choice - we can choose to be down or realize that life is short and make the most of it. Be the person who is happy and grateful regardless of anything else. When life flashes by, make sure its worth watching - “how was the trip, man?”
 - Let go of yourself and your ego. Stop thinking your that special and can't share things. Stop thinking everyone expects something perfect. Go with the flow and open your heart. 
-- Accept myself and things the way they are. Don't force things. It's okay - I am good enough. It's okay whatever the outcome is. 
+- Accept myself and things the way they are. Don't force things. It's okay - I am good enough. It's okay whatever the outcome is. I'm not perfect and that's ok. 
+- Don’t solve all problems myself: share my thoughts with friends, family and a therapist 
 - Be more present. We can't change the past and we don't control the future. All we have is this very moment. 
 - Go deep inside yourself and get to know you. Be confident sharing personal experiences, understand your emotions and feelings. 
 - Relax and not take myself and life so seriously. Force yourself to slow down occasionally and just take it easy.
 - Balance my time between work, development and hobbies more. Force this hobby time and even when bored, embrace the boredom and see what comes of it - get off the development train.
 - When anxious, ask what you are anxious about and put those fears on paper. Then realize it's okay. 
+- Tell yourself to relax and take a step back. Nobody demands perfection and have no expectations. Do things step by step starting with the foundation. Take your time and nobody is putting unrealistic pressure on you. 
+- Build confidence by remind yourself that you’ve studied in Hong Kong, worked in Berlin, got a job in London and are now a BI Manager at a great company. Remind yourself of how awesome this is and how grateful you are you’ve done this. It’s easy to forget what we have. 
+- Approach the future with curiosity and optimism - what else will happen? Trust that someone else will be out there who will fit and whom I will be in a happy relationship with. I used to be the person that didn’t like settling, was curious and wanted to explore. If we continued, that would have been the only relationship I’d ever have. Don’t expect to control everything - flow like water instead. 
+- Realize that we need to deal with life and sometimes we get beat down. It’s not about how hard you are hit but about how hard you can get hit and keep moving forward. That’s how character is built and how a life becomes rich. It’s during times of being down that we really grow and we can respond like a man and show what I’m made of. 
+- Things will heal with time if we work on ourselves and look after ourselves first. 
 - Visualize myself as: 
   - Happy and at peace - I can do nothing for an hour and step out the race
   - Well rounded person with interesting hobbies and opinions on a wide range of topics that come in handy during social conversations
@@ -17,10 +25,11 @@ This is a list of things I am actively working on to develop myself.
   - Energetic and enthusiastic in all areas of life
   - A good public speaker
   - More strategic and leadership at work 
+  - Use a 'Master Mind if that helps'
 
 ## Personal growth 
 **Goals**
-- Pick up hobbies I enjoy doing away from the screen and do them for the sake of doing them only 
+- Pick up hobbies I enjoy doing away from the screen and do them for the sake of doing them only. Cooking, reading various topics, procreate, music, friends.
 - Accept myself in public settings - both at work and socially 
 - Be content and at peace when I do nothing
 - Ability to slow down, relax and keep a calm mind
@@ -52,6 +61,7 @@ With these, don't try to do all of them at once, that won't work. I've put these
 - Read pages from a light physical book whenever there are a few minutes 
 - Read the books that I would benefit the most from at any point in my life rather than reading books because they are on the shelves
 - Take supplements and perform skincare each day
+- Listen to relaxing music
 
 **Experiences**
 I'll always to do things to experience as these experiences enrich my life. A big part of these experiences are listed in the bucket list, picking up new goals for a period and becoming better at them and travelling.
@@ -87,6 +97,9 @@ Nobody demands perfection - that's just in my head. I'm not as important as to n
 ## Work
 Dave is his own brand and Dave wants to be head of BI. As part of this role he needs to solve technical challenges, overcome them, work well with stakeholders, have integrity, communicate context to non technical stakeholders, provide context and relate to impact, sell his work during effective communications and present in public what great work Dave is doing. Whilst I have these ambitions, I am not my work. I am my values, my hobbies, my loved ones, my health much more than my job so prioritize it accordinly to the context of happiness as the main goal. 
 
+- A career is built step by step. Nobody expects me to do things perfectly and gradually doing things and fully understanding them is the best way to learn. 
+- Projects are built from the foundation - don’t rush to an outcome. The most important decision is the approach that could eventually lead to the outcome. Make an initial approach and then discuss the approach with others where relevant. 
+
 Things I actively pay attention to and work on: 
 
 **Stakeholder relationships**
@@ -103,6 +116,8 @@ Things I actively pay attention to and work on:
 - Focus on providing value: the value is in work, that I communicate. Am I not my work so I am not relevant to these communications. That said, I still am proud of the work and want to present it. 
 - Don't be stuck in my own mind and focus on value. Listen attentively and just be present - ask questions, give opinions.  
 - Realize whatever I do is the most important that needs to be done. Don't focus on other things that don't get done as a result - they are simply pushed back. 
+- Don't personalize with the work you have do or will do: you are not your work. 
+- Focus on the positives during the meetings. 
 
 **Public speaking** 
 You have to identify the root of your performance anxiety. Are you worried that: You don’t know the material? You can’t answer a difficult question? Your presentation is boring? You don’t come off as expert? You look stupid? You sound unpolished? Your material doesn’t flow? Nobody will show up? People don’t understand you? The audience doesn’t care? Once you know where the anxiety is coming from, you can likely calm down more. 
