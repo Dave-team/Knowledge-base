@@ -15,8 +15,6 @@
 - No bad reviews; people move away from Redshift 
 - No performance tuning required, unlike Redshift 
 
-
-
 ## Best practices
 - Snowflake operates with different warehouse sizes (t shirt sizes). Create different warehouses for different purposes. This helps with security settings (i.e. access to data) as well as monitoring spending in the warehouse. In general, every different function should have a different warehouse
     - EL DWH is often on for a long time and should possibly be on a smaller data warehouse. Speed is not very important

@@ -71,6 +71,9 @@ What you want to do is collect evidence in favor of the alternative thought unti
 Sometimes, we need to step back and let go of our critical self. Acceptance of thoughts and moods is sometimes a worthwhile alternative to identifying, evaluating, and changing thoughts. Acceptance involves observing your thoughts, moods, and physical reactions without making judgments about them. Be curious rather than critical. 
 Think about the bigger picture. What are the benefits of accepting this rather than being distressed? Are you focusing on only the negative parts of this experience and not recognizing other dimensions? Are there aspects to the situation that counterbalance the negative parts? If you can accept the parts that distress you, will you be able to enjoy or appreciate the rest of your experience more easily?
 
+## Handling physical reactions
+- Be in touch with your body and understand the feeling. Be curious about it
+
 ## Testing our assumptions
 Often, anxiety is described as 'If...Then' statements. "If I speak - people will think X"
 
@@ -105,25 +108,23 @@ Anxious thoughts are often covered in What Ifs: “What if I stumble over my wor
 
 Anxiety often arises because we don’t have control over events. When we are anxious, we try to be in control or do things perfectly, in the hope that this will prevent bad things from happening. When we don't have confidence in our ability to cope, we lose control. The problem with this approach is that it is really impossible to do things perfectly or have complete control over what will happen in the future. Thus learning to boost our confidence that we can cope when things go wrong is a more helpful approach to managing anxiety than trying to prevent things from going wrong.
 
-Other anxiety coping notes
-- When you want to control things: do the opposite of trying to have control 
-- Don’t expect anything. If there is an expectation there is anxiety and potential disappointment 
-- Be able to detach from a situation and look at the situation from outside of yourself 
-- If I want something, do the work today that lets me have it. No need to worry about it
-- When overthinking, either become present and think of something else or refer to notes already written and possibly journal a bit
-- Be much more aware of the insignificance of it all - we are here a small amount of time. Then we’re gone. Something can happen any moment that changes absolutely everything. Then what? Enjoy the time we have on this small world. The moment is all we have
-- Shit does happen. We can wish things were different but we often just need to deal with reality and work with what we have left 
-- To reduce worry, assume that what you fear the most is certainly going to happen 
-- 
+### How to cope with anxiety 
+**Understanding root cause**
+You have to identify the root of your performance anxiety. Are you worried that: You don’t know the material? You can’t answer a difficult question? Your presentation is boring? You don’t come off as expert? You look stupid? You sound unpolished? Your material doesn’t flow? Nobody will show up? People don’t understand you? The audience doesn’t care? Once you know where the anxiety is coming from, you can likely calm down more.
 
-### Overcoming anxiety using Exposure
+It may seem obvious, but the first thing to figure out is what exactly is making you feel stressed and to look honestly at how you are reacting in your mind, heart and body. It can help to sit down and write the answers to these questions:
+
+- What makes me feel stressed? Think about large and small triggers, since even something that seems trivial can spark a stress spiral. Examples of small triggers might be misplacing your keys/wallet/glasses, being late for an appointment, or getting stuck behind a slow driver.
+- What thoughts and emotions arise when I begin to feel stressed?
+- What is happening in my body when I begin to feel stressed?
+
+**Exposure**
 To overcome anxiety, we need to learn to approach the situations or people we avoid. Through these experiences, we have an opportunity to increase our confidence in our ability to cope with the situations that frighten us. 
 
 A Fear Ladder can help with this: the top of the ladder is the most scary thing that needs to be done. Build up the ladder and do things such that you are ready to face your big fear when the time is there. You should expect that your anxiety will increase when you first begin to approach on your Fear Ladder. This is a good sign that you are facing your fears
 
 A good technique is also visualization: perhaps visualize the event going well and the event going bad so that you're prepared for both. Use all senses when visualizing. Imagine what you will see, hear, smell, taste, and touch. It is also helpful to imagine what you might be thinking, feeling, and doing in the situation. 
 
-### Managing anxiety
 **Mindfullness and acceptance**
 Most anxiety is about fears for the future. By being in the present moment, we don't think of the future and anxiety will decrease. Our mind will also not focus on the fears when we are in the present moment, which leads to a feeling of relaxation. Finally, one of the long-term benefits of mindfulness and acceptance is that they can help you tolerate and feel less anxiety, because you will learn to see your anxious thoughts as simply mental activity rather than as the truth. With practice, you can begin to understand your personal patterns of thinking and responding to events. You can learn that you don’t need to respond to your patterns of thinking and emotional reactions. Instead, you can simply observe them as they occur. People who practice mindfulness on a regular basis generally report greater feelings of calm, well-being, and acceptance of life’s difficulties.
 
@@ -135,37 +136,29 @@ Try breathing in to a slow count of 4 and out to a slow count of 4 for four minu
 “Progressive muscle relaxation” is a technique in which the major muscle groups in the body are alternately tensed and relaxed. The idea is to tense and then relax the muscles in the forehead, eyes, mouth and jaw, neck, shoulders, upper back, chest, biceps, forearms, hands, stomach, buttocks, groin, legs, thighs, calves, and feet. Each muscle group is tensed for 5 seconds and then relaxed for 10–15 seconds, then tensed again for 5 seconds and relaxed again for 10–15 seconds.
 
 **Imagery** 
-Imagery can be used to help you calm down before you enter a situation that is likely to make you feel anxious. Imagine a relaxing place and focus on how you feel - include as many senses as possible. 
+Imagery can be used to help you calm down before you enter a situation that is likely to make you feel anxious. Imagine a relaxing place and focus on how you feel - include as many senses as possible. It's a form of meditation that teaches us to focus on pleasant images to replace negative or stressful ones. When we picture more peaceful things, such as strolling on the beach at sunset, our bodies and minds become calmer. Engaging all of our senses – smell, touch, taste, hearing, sight – can make us feel that we are actually there. As we connect fully with the peaceful image, our minds and bodies become calmer and we don’t feel as stressed.
 
-
-
-
-
-
-
-
-
-
-ways: 
-Exposure: doing the things you fear
-Cognifitve restructuring: identifying and understanding unhelpful thoughts and for challenging and replacing our automatic thoughts. 
-
-You have to identify the root of your performance anxiety. Are you worried that: You don’t know the material? You can’t answer a difficult question? Your presentation is boring? You don’t come off as expert? You look stupid? You sound unpolished? Your material doesn’t flow? Nobody will show up? People don’t understand you? The audience doesn’t care? Once you know where the anxiety is coming from, you can likely calm down more. 
-
-## Overcoming anxiety
+**Other anxiety notes**
 - Separate yourself from your feelings and emotions. I am not anxiety. An anxious thought is a type of thought that can enter my brain but how I choose to respond to it and perceive it is what is going to define me.
 - I’ve found it’s beneficial to learn to recognize the thought and try to just let it pass. “Oh, there went an anxious thought."
 - Positive thinking is not a good solution as it doesn’t address the problem and doesn’t prepare us for the feelings we’ll feel in the moment (and we’d feel bad for feeling a certain way). A better solution is to anticipate our anxious feelings and have a plan on how to cope with them. 
-
-
-
-  - Only engage in positive self talk. Recognize negative automatic thoughts and write it down or think about it - see CBT. 
-    - Why do you believe that, what proof do you have?
-    - Can it be you were mistaken or are basing this on a single or even just a few past experiences?
-    - Do you past the same harsh judgment on other people in a similar situation or do you empathize with them instead? 
-    - If this feeling is not true why act like is if there is no good reason to believe it.
-    - Step aside of yourself and ask yourself what a good friend would tell you
-
-
+- Only engage in positive self talk. Recognize negative automatic thoughts and write it down or think about it
+  - Why do you believe that, what proof do you have?
+  - Can it be you were mistaken or are basing this on a single or even just a few past experiences?
+  - Do you past the same harsh judgment on other people in a similar situation or do you empathize with them instead? 
+  - If this feeling is not true why act like is if there is no good reason to believe it.
+  - Step aside of yourself and ask yourself what a good friend would tell you
+- When you want to control things: do the opposite of trying to have control 
+- Don’t expect anything. If there is an expectation there is anxiety and potential disappointment 
+- Be able to detach from a situation and look at the situation from outside of yourself 
+- If I want something, do the work today that lets me have it. No need to worry about it
+- When overthinking, either become present and think of something else or refer to notes already written and possibly journal a bit
+- Be much more aware of the insignificance of it all - we are here a small amount of time. Then we’re gone. Something can happen any moment that changes absolutely everything. Then what? Enjoy the time we have on this small world. The moment is all we have
+- Shit does happen. We can wish things were different but we often just need to deal with reality and work with what we have left 
+- To reduce worry, assume that what you fear the most is certainly going to happen 
 - Think your fears though to their logical conclusion. Perfectionists often think catastrophically, ‘If i make a mistake in front of my colleagues then that will be the end of everything’, without really thinking through what ‘the end of everything’ would actually look like. Consider the worst possible outcome of your fear, then be honest with yourself about how likely that scenario actually is. Then you can start to consider how such an event would actually play out and how bad or not it would actually be.
-- 
+
+## Stress
+### General
+- Stress is often very helpfull. When we are in danger, stress allows us to perform at our best by providing our body with energy. 
+- It’s a problem when we are stressed for too long. When stressed, our body releases stress hormones that give us extra energy to deal with situations. Just thinking stressful thoughts can cause our body to release stress hormones as it gets ready to face a threat.

@@ -13,6 +13,7 @@
 - Write down your most important goals and regularly check against these notes to ensure you're working on the most important thing 
 - Listen to your body: there will be times when you feel low energy - pushing through this is likely counterproductive. Instead, recharge and realize you can be productive again a different time 
 - Whatever is highest priority, that always gets done. If working out is highest priority, then I could never say I don’t have time. In the morning, I work out, and however long it takes is how long it takes. I do not start my day until I’ve worked out. 
+- Balance large projects with ad hoc work. Simarly, take a step back when something isn't working right. This way, we still have progress and the switch of topics might help getting to a good answer. 
 
 ## Process
 - Planning in the morning: 

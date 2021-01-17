@@ -79,7 +79,7 @@
 - Create an agenda and share it within the team attending the meeting
   - Date 
   - Invites (potentially with the role they're expected to play during the meeting)
-  - Topics
+  - Topics. Always be specific when setting these
   - AOB
 
 **Prep for meeting set by others**
@@ -132,8 +132,6 @@
 **Follow-up**
 - Send a follow-up e-mail, with a summary and especially action items specifically outlined (who, what, when) and SMART
 
-
-
 ## Problem solving / Decision making
 - Make sure to fully understand the issue instead of making assumptions. Research everything you don't know. Write things down as you learn them to get a full picture of the problem 
 - Think about the real problem to solve. This is can be different from what others say - don't just parrot people.
@@ -156,7 +154,8 @@
 - When stuck, take a step back and look at the situation from multiple angels. Realize you might be stuck on a solution and need to think more holistically about the problem 
 - Sometimes, we need to step back and work on something with ease, especially when we are stuck on something for a while 
 - Improve decision making by doing feedback analysis. Each time you make a decision, write down what you expect to happen. 12 months later, look into what you expected and try to understand the difference 
-- Make as few as possible decisions - focus on the most critical ones only. 
+- Make as few as possible decisions - focus on the most critical ones only.
+- Sometimes it’s okay to tell people that there is no way for us to figure things out entirely. And if we are confident we are doing things in an expected way, we should just communicate that. 
 
 **Helpful tactics**
 - Scoring model when evaluation larger decisions. Also called a decision matrix where we list options, score/weight and then rank them 
@@ -188,6 +187,8 @@
 
 ## Other
 - Make sure to connect to the right people. Account manager instead of support when things need doing 
+- If there is confusion, jump on a call rather than going back on forth over Slack. Once something becomes even slightly complex to explain, take the step back and jump on a call. 
+- Realize that I will often be wrong - don’t be too steadfast and sure around knowing the right answer for sure. Again, if there is confusion, jump on a call. Listen to the other person’s perspective and then use data / test things to understand where the right solution is. If it doesn’t matter, have it the other person’s way. 
 - Always be available – but when needing others ask whether they are available 
 - Make sure that at standup, everything I will be working on is measurable 
 - Speed things up by:

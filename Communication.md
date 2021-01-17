@@ -50,7 +50,6 @@
 - Ask for actions 
 - Write to the point of view of the person/people receiving the message
 
-
 **Email structure**
 - Answer first: Summarize the answer/key message/recommendation
 - Actions required: List your questions/requests for the reader. Remember:

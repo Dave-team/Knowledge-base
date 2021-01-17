@@ -9,7 +9,6 @@ What does “self-serve” in analytics mean to you?: https://discourse.getdbt.c
 - Be more proactive and figure out how you can support the teams by talking to them
 - Take it step by step: sit with one team, work on a problem and solve that problem only. Rinse and repeat with different departments 
 
-
 ## Elements of user adoption
 
 ### Data availability

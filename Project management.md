@@ -208,3 +208,20 @@ Issue pointing captures the complexity of an issue, not the time it takes to com
 
 ## Kanban
 Kanban is an agile methodology – things are separated by Backlog – In Progress and Done. It is about doing incremental development but unlike scrum, it focused on less meetings and less on deadlines. The Kanban cards should be users stories with a checklist to sign things off. The cards are ordered in terms of priority 
+
+## Email templates 
+Thanks for your time earlier this week - just sharing recap of what we agreed & then some key actions:
+
+What I believe we agreed...
+- Exit survey should help us understand what marketing activity brought the customer back to place that specific order
+- This order-level data can then be fed into attribution model, with a view that it will likely reduce the amount of existing orders attributed to 'Direct' 
+- We can explore adding a new post-purchase survey into customer journey to understand who they were buying their most recent order for
+
+Follow Up Actions
+- Propose the complete set of answers that we'll ask, the chosen question & which attribution bucket the answers belong to (SA - w/c 14th Dec)
+- Put in time with Tech to discuss implementation for Q1 & align on how we can future proof this data (SA/WH - w/c 14 or 21 Dec)
+- Find out from Tech if we can 'hide' some of the existing survey answers for New Customers (SA)
+- Update copy for answers of existing survey to be more uniform (SA)
+- Discuss other survey options for post-purchase flow to help with commercial insight (GF & LH)
+
+Let me know if I've missed off anything.

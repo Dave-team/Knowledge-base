@@ -7,7 +7,6 @@
 - How we structure our DBT projects: https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
 - Untangle the SQL mess with Jinja: https://changhsinlee.com/pyderpuffgirls-ep5/
 - DBT coding conventions: https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md
-- 
 
 ## Benefits
 - Version control transformation code 
@@ -100,12 +99,15 @@ where created_at >= dateadd('day', -3, current_date)
 - We have the option to add Redshift customizations to improve model performance in DBT 
 -	Always remember that all models need to be run before the final query can be run – e.g. stg, then inter and only then dim or fact 
 - Multi select: Select something then Control Click in DBT IDE 
+- Validate changes with audit macros. Compare columns and use the dbt equality utils macro to compare record by record. Consider using dbt helper. Things to compare can include: 
+    - Row count
+    - Sum of key column (e.g. revenue)
+    - Distinct values in column 
 
 ## DBT vs PDT 
 - PDT sits in Looker causing other queries to be queued when they are regenerated
 - PDT has limited functionality (tests, documentation, incremental)
 - Manually retriggering PDTs causes all underlying PDTs to reload, causing full disk errors and is then hard to control. This includes working with PDTs in dev as the sql trigger values are overwritten. DBT is complete control over all tables being run
-- 
 
 ## DBT set-up
 ### Command line
@@ -125,7 +127,6 @@ Connect with Papier account details:
 Git integration: 
 - Gave DBT access to the Papier organization (Repo = papier-dbt)
 - DBT Cloud is now installed on repo
-
 
 **Git** 
 -	In Github, create a repo for DBT. This does not need to include anything

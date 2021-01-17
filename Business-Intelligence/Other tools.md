@@ -23,9 +23,6 @@
   - Snowflake Inspector
   - Permifrost
 - Data visualization: Dash, plotly, bokeh
-- 
-
-
 
 ### Stitch
 - Free plan based on row counts 
@@ -83,8 +80,6 @@ This is done using JavaScript tags. A tag is simply a snippet of code that sends
 - eventAction – what did the user just do? Click a button? Submit a form? describe the type of content being interacted with. Register = newsletter, account. Purchase = to cart, to wish list, etc.   
 0 eventLabel – what form is this? If this is part of an A/B test, what variation?
 - eventValue – how much is this action worth? If we have a basic estimate at least we can more easily combine all ‘value’ generated across different conversion types together to see an aggregate of how our traffic is performing.
- 
-
 
 ## Custom pipelining 
 - Singer taps 
@@ -100,7 +95,6 @@ This is done using JavaScript tags. A tag is simply a snippet of code that sends
   - Cron: not on the cloud
   - Google Cloud Scheduler: possible
   - AWS Glue: possible but probably wouldn’t do the job as nobody mentions it 
-
 
 ## AirFlow
 General project notes 
@@ -125,7 +119,6 @@ DAGS
   - Test a DAG file using airflow dag_name task_name 2017-03-18T18:00:00.0. In this case, my_test_dag is the actual dag id and the operator task is what the task within the DAG is called:: airflow test twitter_dag twitter_run 2018-08-07T20:04:00.0
   - Actual run a specific task: airflow run twitter Twitter 2019-08-07
   - Backfill allows us to run a DAG (or sections of it) for a specified date range.  Backfill: airflow backfill twitter -s 2019-08-07 -e 2019-08-09. 
-  - 
 Email set-up
 - SMTP settings are added to the airflow.cfg file
 - Imported Emailoperator and added a second task to actually send the email. The DAG order of operations are specified underneath the file 

@@ -2,7 +2,6 @@
 
 ## Links
 - Gitlab data team: https://about.gitlab.com/handbook/business-ops/data-team/
-- 
 
 ## Mindset
 Think about BI as if it's a SaaS product and the users are your customers. Approach it as running the growth team where you improve your offering step by step by running experiments and analysing the results and always solving solutions for your end users first. 
@@ -48,7 +47,6 @@ Data is needed to:
 - Improve business – by deeper analysing the performance (e.g. by segment, by time) you can uncover trends that lead to ideas to improve the business. E.g. improve customer experience, reduce costs, improve conversion rates.
 - Understanding the customer / market: we can track how customers behave, you can identify your personas
 
-
 **BI benefits**
 - Central space for multiple data sources that can be combined. No more information islands and a more holistic view over entire business (e.g. marketing funnel) and customer journey. What happens to the customer we spent so much on to acquire? How do we attribute it? 
 - Scalable. Everything is written in code with documentation that is easy to debug. Spreadsheets are hard to maintain and bedug as well as to understand for others 
@@ -84,7 +82,47 @@ Once I have the context, I can establish myself as a business partner - the goal
 - Reactive: Stakeholder: ‘Please give me data on X’. Me: Okay – here it is. End of discussion. This is extremely entry level 
 - Good analyst: Stakeholder: ‘Please give me data on X.’ Me: ‘What do you want to get out of the data? Is it to help guiding a decision? Why are you looking at this specifically? Them: For reason X,Y,Z. Me: Okay so you want to know whether X? Stakeholder confirms. Me: okay, there are some other things you might want to consider and previously we’ve seen this. Them: okay, can you show? Me: yes. Then get back and agree on some additional analysis required to solve the problem at hand. 
 
+## BI monthly sessions
+- Review dashboard
+- Review roadmap 
+- Good / Better next time 
+- Review content validator 
+
 ## Roadmap 
+- Meet people who might have something, even if we don’t know specifically yet. The goal is to keep the relationship warm and to make sure people feel heard 
+- Meet with Tech after the roadmap is completed as things will have implications on their team 
+- Be wary of putting too much on our plates 
+
+### Yearly roadmap planning 
+**Process** 
+- Create an initial list of projects from the business's / team's roadmap 
+- Meet Heads of Teams for 30 minutes - see agenda email below. 
+- Keep in mind: 
+  - Understand in enough detail what needs to happen - ask for context when you’re not sure what things are/mean. Try to relate what needs to happen to the entire BI picture. If we integrate new data, do we need to get it into attribution too? Are there specific items of the project more important than others? 
+  - Challenge on importance - how this relate to the business’s strategic pillars for the year? Does it become more important over time? Is it worth the effort? 
+  - Understand how far in the process they are as to what needs to happen. Are there any things they need to think about from a data perspective they may not have thought about yet? Do we agree that their approach is a good one or can we make things easier? 
+  - Get an idea of timeline on when things might kick off 
+- Take notes in a doc. 
+  - What is it? 
+  - Why is it important? 
+  - What needs to happen? 
+  - When does it need to happen? 
+- Ask for a copy of the team’s roadmap for reference and to inform own roadmap 
+- Plot them down on an excel BI roadmap by quarter 
+- Once the draft roadmap is ready, email it back to each stakeholder (for their team) to see if it works for them
+- Share it to BI, more broadly, put it in Notion, and start making tickets
+- Check in with stakeholders ~Quarterly (dependent on amount of tasks and what's upcoming) to keep the roadmap up to date 
+
+**Common projects**
+- Integrations of new tools
+- New features on the website and working with tech to ensure the right fields are available for ETL and impactful reporting 
+- More advanced analytics
+- Support in automation of reports 
+- Support in testing (e.g. A/B tests) 
+- If teams plan new campaigns, understand how they will be testing the performance of these 
+- If new things are being developed (e.g. NPD) - will that change anything in our reporting structure? 
+- If we want to use e.g. a new agency, we’ll likely have to support getting them the required data 
+
 ### Quarterly revision
 - Always revise what has been done previous quarter first 
 - Go through the planned roadmap as per the beginning of the year 
@@ -97,25 +135,18 @@ Once I have the context, I can establish myself as a business partner - the goal
   - Is there anything additional I'm missing for Q4?
   - Looking ahead to 2021, when do you think you will start planning the new year?
 
-### Next year planning 
-- Stakeholder will have a planning ready 
-- Challenge on: 
-  - How does this relate to the business’s strategic pillars for the year?
-  - How can data support with these projects? 
-  - Are there any things they need to think about from a data perspective they may not have thought about yet? 
-  - Ask for context when you’re not sure
-- Things that data can help with: 
-  - Integrations of new tools
-  - New features on the website and working with tech to ensure the right fields are available for ETL and impactful reporting 
-  - More advanced analytics
-  - Support in automation of reports 
-  - Support in testing (e.g. A/B tests) 
-- Think about timelines around when this will impact BI and therefore for which quarter the projects should be roadmapped? 
-- Ask for a copy of the team’s roadmap for reference and to inform own roadmap 
+### Email template 
+Hi Tony,
 
+Booking in 30 minutes to go through BI requirements/implications from your 2021 roadmap and any additional data needs you may have.  We are specifically wondering:
 
+- Do you have any additional needs outside of what we have listed below?
+- Do you have any pain points in your current work with data that you wish were improved?
+- Longer term is there anything we should keep in the back of our mind?
 
-
+The projects we have on our list are:
+- Payment processor (stripe) Q1/Q2
+- LTV model (Q1)
 
 ## Relationships
 Build strong realtionship with the tech and the business teams. The goal is to establish trust that makes me a business partner they want to work with to achieve their goals. 
@@ -144,8 +175,7 @@ Build strong realtionship with the tech and the business teams. The goal is to e
 - Underpromise and overdeliver. Because of the nature of data it's hard to estimate how long projects will take. Give an estimate that assumes that everything will take longer than plannedand keep the stakeholders in the loop throughout the project
 - Make sure to create understanding that data projects take long and that we need to prioritize what to work on 
 - People want more than is asked for? Mention that wasn’t scoped - for now we focus on smaller scope
-- When we deal with manual data or otherwise source data that needs to change, make it either the responsibility of the team ƒto change things (i.e. changing Xero data fields) or make something part of a process (e.g. onboarding process: add data to sheet with new joiners). Always try to keep things maintained in the source data and avoid using manual interventions whenever possible.  
-
+- When we deal with manual data or otherwise source data that needs to change, make it either the responsibility of the team to change things (i.e. changing Xero data fields) or make something part of a process (e.g. onboarding process: add data to sheet with new joiners). Always try to keep things maintained in the source data and avoid using manual interventions whenever possible.  
 
 **Ways to build relationships:**
 - Informal: 
@@ -165,7 +195,6 @@ From: “I am helping teams reaching their objectives by making using their data
 - You can analyse more things as we bring various sources together and we can combine data from these sources
 - Creating your reports goes from hours to seconds 
 - Because it’s centralized, there won’t be any differences between definitions and calculations, meaning that teams won’t be reporting on different numbers for the same things. Practical introductions to new company:
-
 
 ## BI team 
 ### Organization
@@ -202,7 +231,6 @@ Data Analyst: Data Analysts perform deep insight work, such as determining the r
   - Track the trackers: people who own tools, make sure to build a good relationship and keep up to date with the changes they’re making. 
   - Know the code. This allows better conversations with those actually creating the code. Keep an open line of communication and share the code desired most often 
 
-
 ### Communication
 - Key is to create a safe place for team members to ask questions and be vulnerable. Set the example by sharing your own struggles. 
 - Make sure that everyone gets feedback from others early on and regularly during their projects. Especially when doing new or complex or highly important 
@@ -238,7 +266,6 @@ There are three main types of education you need to master before you can call y
   - Trends: week on week %, year on year for week %, variance to forecast. Segmented over store/category
   - Focus on anything relevant to the business at that time: e.g. newly launched products, marketing calendar 
   - Way to outline focus points: scorecards with key KPIs - green or red with next steps especially when something is red 
-
 
 ### Issue communication 
 **Stakeholder identifies issue**
@@ -294,7 +321,6 @@ If we cannot have something centrally stored and managed (e.g. in Looker) we wan
 - It's much easier to read and you can create a story going through all the different steps 
 - Each tile can have multiple outputs making it much more efficient to actually develop 
 
-
 ### Measuring BI success / BI KPIs
 - Improved business performance: more revenue / less costs 
 - Time savings in doing analytics 
@@ -313,3 +339,32 @@ When explaining differences, use the language and the tools people know, use and
 Looker is great for static reporting, less so for ad hoc and generally it isn't great at really understanding our customers - we'd need more web analytics and survey data for this. Mapping the customer journey and understanding all steps within the process. Asking the why rather than the what. 
 
 Some data models like attribution model are built over time and gotten larger and larger. Over time, different challenges are overcome and build in the code. This repeats and the model gets build iteratively. Now everything may be fine, but you'd still want to account for the historical data that cannot be changed. It's a difficult balance of consistency, simplicity and scalability. 
+
+**BI monthly invitations**
+Hi Nikita, 
+
+We are planning towards our next Looker BImontly session in February and wonder whether you would be up for presenting how you use Looker? These are a few use cases that would be great to cover (in addition to anything else you may want to present):
+
+- KPI Reporting dashboard including the period comparisons and the annotations
+- Experiments mega boards and how this plays a role in the A/B testing framework/process
+- Conversion funnel report 
+
+Let me know if you have any questions around this; if you could let me know soon, that would be ideal as we can start booking in a timeslot. 
+
+Thanks, 
+
+Dave 
+
+Hey Nikita, 
+
+Booking in an hour (might not need the full hour) to go through your slides for next week's BI monthly meeting. The plan is to speak for 15 minutes about: 
+- An intro to the CRO team 
+- What are CROs KPIs and why 
+- A few examples of how CRO uses data. Some ideas I thought of (feel free to present on anything else you would like though):
+- KPI Reporting dashboard including the period comparisons
+- Experiments mega boards and how this plays a role in the A/B testing framework/process
+- Conversion funnel report 
+
+Let me know if you have any questions! 
+
+Dave 

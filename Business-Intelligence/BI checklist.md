@@ -13,7 +13,6 @@
 - Communicate a lot with the stakeholder throughout the analysis - the goal is impact. Don't go all rough 
 - Follow up with the staekholder and close the loop 
 - When making important changes, e.g. in LookML, consider making multiple versions (old and new) of the metric until this is checked by the business (e.g. v0 and v1)
-- 
 
 ### Requirements gathering
 - What is the question we are trying to answer?
@@ -27,7 +26,6 @@
     - How important is it to get perfect? 
     - Any downstream effects? 
 
-
 ### Delivery process
 - Have ticket with requirements. Potentially detailed with:
     - List of fields
@@ -35,7 +33,6 @@
 - Sign this ticket off with the stakeholder prior to development
 - Regular check-ins during the incremental build 
 - Check-in prior to final delivery to ensure required impact is delivered. Always close the BI cycle. Remember to answer questions: 'So what' and 'Now what'? The end result should not be a deck summarizing findings, the end result should be recommendations or action items that lead to real impact. Closing the loop means pushing action items through, and following up after implementation to measure real impact.
-
 
 ### Dashboard checklist
 - Good design: 
@@ -135,7 +132,6 @@ Example is here:
 - Dimensions (grouped together with comments on top)
 - Measures (grouped together with comments on top)
 - Within each group, order alphabetically 
-
 
 ## DBT
 ### Development 
@@ -243,11 +239,6 @@ Arrive in the morning and data isn't up to date
   - Do we send it somewhere else in their system?
   - Can they confirm the structure is the same?
   - Do we have the right connection details? 
-
-
-
-
-
 
 ## Changing important models
 - Be clear on timelines with stakeholders: clarify that something is priority + when you expect to be able to show something 

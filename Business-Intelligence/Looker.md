@@ -8,7 +8,6 @@
 - How to design your Looker explores: https://blog.getdbt.com/how-to-design-your-looker-explores/
 - LAMS style Guide: https://looker-open-source.github.io/look-at-me-sideways/rules.html#t2
 
-
 ## Best practices
 **Performance optimization** 
 - Aim to model with many to one joins: starting with the most granular level tends to have the best performance 
@@ -53,7 +52,6 @@
   - type
   - sql
 
-
 ## Looker Debugging
 - Run the generated SQL in Snowflake 
 - Use content validator to check whether something is broken
@@ -79,7 +77,6 @@
 - We can change Looker dashboards and pages using HTML. E.g. adding custom HTML / CSS headers in dashboard, adding links to a WIKI on each employee’s Looker homepage 
 - Use iLooker to track how users use Looker and to delete non relevant content 
 - Remember that we can literally name / alias anything: dimension,measure,view,explore and we can so differently between different explores (e.g. a view can be called differently between different explores). Similarly, we can give two views the same name and they will be consolidated in the Looker explore 
--   
 
 ## Looker common gotchas
 - Remember that Looker is case sensitive – e.g. strings should be single quotes, as per Snowflake SQL. However, case sensitivty can be turned off  
@@ -109,7 +106,6 @@
 - View labels can be the same as different views to ensure they are listed under one view header 
 - Images are brought in via a URL combined with some HTML 
 - A good rule of thumb could be to only persist tables when they are referenced by other views or when they require the performance of a materialized table 
-
 
 ## Glossary 
 - LookML: language to describe LookML models in database
@@ -178,6 +174,12 @@ Looker training:
 - Table calculations, scheduling
 - Building dashboards 
 
+## Looker tips
+Option + click a field and it takes you the place in LookML 
+Command - J to navigate to files 
+Command + click and then drag to have multiple cursors at once
+Fold LookML by adding the code between curly brackets
+
 ## Open source tools
 - Lookmlint: catch style issues, unused views, semicolons in derived table SQL, raw SQL references in joins, and more.
 - LAMS (Look at Me Sideways): official LookML styler and linter
@@ -188,7 +190,6 @@ Looker training:
 ## Other
 - Self service is supported - people should build their own things 
 - However, make sure there still are SSOT dashbaords that are maintained by the data team and heavily socialized. Also consider putting these on Looker's homepage 
-- 
 
 ## Looker technical
 - Looker: create a calculated field that only applies to a single field: pivot_where(${opportunities.pipeline_attribution}="Marketing", ${plan_sal.total_SALs}*1.0). We can then show that calculation as a line in an otherwise stacked column chart.  Similarly: pivot_where(${opportunities.opportunity_funnel_stage} = "SAO", ${opportunities.number_of_opportunities}) / ${opportunities.number_of_opportunities:row_total}

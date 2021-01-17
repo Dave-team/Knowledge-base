@@ -10,6 +10,9 @@
 - Spend time reflecting what my ideal life looks like. How do I spend my weekdays, my weekends, who do I engage with and to which extend? Who knows me, how do I act around others. How do I think? What do I do when not at work or in a social setting? What do I value?  
 - I’ve spent my early twenties searching for what I want to do and who I want to be. Life will continue to be a search but rather than forcefully searching, let's pause now and enjoy the present moments. And it’s about becoming better at where I am rather than contiueing to strive for somewhere I want to be. Focus on me as a person rather than an external goal that is beyond my own person. And the relationship has put me into this perspective - I was not able to love fully, I was always thinking, I was never happy to just relax as my monkey mind was always on
 - I want to get to know myself and either be happy with who I am or change the things I am not happy about by getting after it. 
+- A simple life is a good life but it’s hard to achieve with all sensory overload and availability of content 
+- Bring back some of the childlike imagination and curiosity 
+- Many people lead life on automatic pilot, rarely stopping to ask themselves what supports and sustains them. Make a list of all the things you do in a typical day and then highlight those that support and sustain you and those that deplete and exhaust you. Are there any changes you need to make? Because our minds tend to focus on threats and problems, we often ignore all the good things in our lives. It can be helpful to pause regularly to think about three things that you enjoyed, that went well, or that you are simply grateful for. Writing them down can be a good reminder that it’s “not all bad” when you start to feel stressed. It can also highlight what is important to you and what you enjoy.
 
 ## Findings 
 ### Action on life rather than procrastinate by consuming content 
@@ -111,6 +114,7 @@ I don't speak up in meetings much as I am afraid of asking stupid questions, giv
 - When I see people, I judge: e.g. fat/skinny
 - When someone does something I don't really agree with, I judge: this is good/this is bad. And often I then portray that to myself and put a value judgement on it.
 - Why do I judge others? I judge because I think black and white. I have a fixed path in my mind of what everyone should be like so when someone is different, I consider that bad. 
+- I judge everything. This is good, this is bad. I shouldn’t think this, I should think this. I shouldn’t watch a series at night but an educational youtube video. 
 
 ### Relationship findings
 - I fear being rejected - particularly feeling as if I'm not good enough which hits my self esteem. If I am confident enough, I don't care when one person rejects me - there are many others who are happy to be with me. And even if not, I am happy with my independent life. The goal here is to be outcome independent 
@@ -124,6 +128,7 @@ I don't speak up in meetings much as I am afraid of asking stupid questions, giv
 - I crave a strong sense of belonging and validation. I want someone to care about me and I want to know that someone will reply and just be there for me. I want to feel loved and this validation made me feel good about myself; if I don't feel loved this hits my self esteem and makes me not feel good about myself. Seeking external validation from someone you don't fundamentally control is not good. Enjoy it when you have it but be aware that you can't rely on validation that isn't coming from within. 
 - At times I felt like my worth was determined by whether I was in a relationship or not. Being with someone is what I’d consider a successful life whereas being single is a sign that my life isn’t complete. This has been amplified by e.g. how family approaches us. Instead, be entirely happy independently first. 
 - I have controlling tendencies. I wasn't happy when she would prioritize doing other things over spending time with me during the relationship. It felt as it we had our weekends and she'd always have to spend it with me because I expected it and I probably wouldn't know what else to do with myself. I felt rejected when she would do something else and that hurt my validation and made me fear losing her which made me unattractive. 
+- I have an anxious attachment style. I tend to put the relationship on a pedestal, see the partner as something greater. I have a strong need for affirmation. 
 
 
 ### Flying
@@ -147,6 +152,9 @@ I know that watches (or any materialistic things for that matter) ultimately won
 
 ## Hobbies
 Gym, reading, eating out and exploring London, travelling, music 
+
+## Personality 
+- Type A 
 
 ## Memories and experiences
 ### Early memories 

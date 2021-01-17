@@ -89,6 +89,7 @@ Text Editor
 ## Backups
 - Important docs: local machine, Github, markdown stored in Drive, backup on harddrive
 - Photos: top photos stored in local machine, Google Drive, backup on hard drive
+- Potential future: Backups using ArcBackup, B2Backbaze, RClone
 
 ### Reading
 - PDFs:

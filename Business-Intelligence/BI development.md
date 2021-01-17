@@ -8,12 +8,13 @@
 - Don’t aim for perfection – aim for making it good enough (i.e. meeting requirements) and prioritize speed. Realize that it’s hard to make a perfect model that works for all cases. Build it for 80% of the cases first. You can always make it better 
 - The worst thing in data is sending out bad numbers. Don't skip tests, don't skip peer reviews, don't take shortcuts and make sure you fully understand what you're doing, what that means and the impact that has. It takes an experienced data analyst to know when to slow down. Even when facing large amounts of pressure and urgency.
 - When changing something, try not to change too many things at the same time. Be able to keep track of and audit changes one by one 
-- When changing infrastructure, don't change business logic as you want to compare like for like first 
+- When changing infrastructure, don't change business logic as you want to compare like for like first. E.g. don't change logic when moving from PDTs to dbt. 
+- When testing something and it seems sub-optimal, take a step back. How can we do this better? Test small. 
+- If a business user is impacted, involve them with the review process
 - BI in short: 
   - Manage expectations
   - Demonstrate small success
   - Communicate the results 
-
 
 ## Project charter
 Create an initial high level project charter with the project objectives, scope, approach, involved parties and team staffing, success criteria, constraints, assumptions, and risks. This should include a high level architecture of the different data sources and ideally the most important dimensions (high level bus matrix). It should also have a list of high level priorities: teams / processes to get BI for and in what phase these will be implemented - this could be a high level gannt chart out of which individual tasks will be added to a backlog / PM tool. Note that this starts of as a draft and will be updated incrementally 
@@ -84,7 +85,6 @@ More practical:
   - Is this something completed within < 30 minutes? Do it on the day when there is downtime / need for something else.
   - If it's very complex, it might need to wait until the next quarterly planning sessions 
 - Prioritization is often quite hard - how to determine whether something is high or low? Also note that priorities change within the business 
-
 
 ## Kickoff (optional)
 Speak to the executives of the team whose process is prioritized:
@@ -159,10 +159,27 @@ If this was a migration:
 - Look at existing PDTs: how are they used? 
   - If joined in Explore, its a fact / dimension table 
   - If not joined, its an intermediate table 
-- Recreate the tables in DBT 
-- Keep an eye out on them and ensure there are no differences between PDT logic and DBT 
-- Publish the table as is - don't change any logic
-- Over time, work on performancec improvement and improving the logic 
+- Before starting, make sure you know how you can test what you're building. What is the easiest way of testing this? You don't want to test huge transformations that are taxing and take ages. 
+- Always sense check the table: 
+    - Is the data what is expected and do they make sense? Look at the values in the columns 
+    - Is all data there? For example, check that all dates are loaded correctly - between source and transformed table
+    - Are there any values that seem incorrect? Nulls, especially high or low values (validation tests - e.g. weird dates, weird prices), weird dates etc. 
+    - Do we count the same number of rows when we look at the same data in a different table or different environment?
+    - Where required, perform unit tests compared to source. Any completely new model should have extensive checks like these - especially for the business cases that are non standard (as outlined in the 'common gotchas' document). 
+
+### PDT to dbt migration
+- Recreate the tables in DBT: Build and test dbt models locally. Create a smaller subset of the data and create a similarly sized PDT transformation next to it so we can join on the two and compare data row for row. Look out for:
+  - Total table count 
+  - Count of IDs by day 
+  - New sessions / day > X 
+  - No gaps in timestamps? 
+  - All values by field identical on a row level? 
+  - Key aggregate metrics 
+- Change references to tables in Looker to point to your local schema
+- Run the Content Validator in Looker to ensure that all field references still work. This is great for catching other reports that depend on the table you just changed. 
+- Compare key dashboards / Looks between dev and prod to ensure key KPIs are similar 
+- Merge the table reference to dbt 
+- Once we replaced the Looker PDT, make sure to still be able to test against external data sources - such as Google Analytics. Especially e.g. with incremental models. 
 
 ## Updates from Papier
 When people don't know the data yet: 

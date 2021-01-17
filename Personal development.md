@@ -46,7 +46,6 @@ Overthinking makes me unable to focus my mind on anything other than the thing I
 - Take things step by step and don’t try to do everything at once.  I can think about what I want to do, I can spend some time trying a hobby for 30 minutes a day and build on top of that. And make sure to do this method rather than overthinking what the best hobby is that I can spend all my time with. Things don’t need to happen from today onto tomorrow. Take your time. 
 - Don't solve all problems by yourself - use your support network 
 
-
 ## Doing hard things
 - It's important to do hard things that stretch me as they are great opportunities to learn and improve. Seek this challenge continiously. Get critical feedback to improve further
 - Think about the bigger picture. Always believe the current strugles are small compared to where you want to go. 

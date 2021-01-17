@@ -18,3 +18,11 @@
 - There are two type of KPIs:
   - North star metrics. These are strategic metrics that you want to see changing to influence the business
   - Sign post metrics. These are the tactical metrics that need to change for the north star metric to change. If the north star metric is revenue, the sign post metric is number of orders 
+- Correlation vs causation: Causation explicitly applies to cases where action A causes outcome B. On the other hand, correlation is simply a relationship. Action A relates to Action B—but one event doesn’t necessarily cause the other event to happen.
+- Data driven vs data informed
+  - Data informed: use data to help you make a decision. Data-informed means that you use data alongside your unique experience, user research, and other inputs to make decisions. With a data-informed approach, data is just one part of your decision-making process.
+  - Data driven: data makes the decision. Data-driven doesn’t take your unique experience or insight into account. It’s simply about the cold, hard facts. In this approach, data has the final say.
+  - Ideally, combine both. For an A/B test, be data driven. For complex projects that e.g. affect customers, be data informed. 
+- Leading and lagging indicators 
+  - Lagging indicators assess a current state. Also called an output metric. A lagging indicator is easy to measure but hard to change.
+  - Leading indicators predict a future state. They are also called input metrics. They define what actions are necessary to achieve your goals with measurable outcomes. They “lead” to successfully meeting overall business objectives, which is why they are called “leading”. Examples include renewal rates, upsell rates. Leading indicators are dynamic but difficult to measure. Similarly, overall revenue is often a lagging indicator of past performance but if we segment by region and find sales rapidly growing in a region, that's a leading indicator for more growth. 

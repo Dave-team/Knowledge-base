@@ -1,7 +1,6 @@
 # Dataops
 ## Links
 - How to review an Analytics Pull Request: https://blog.getdbt.com/how-to-review-an-analytics-pull-request/
-- 
 
 ## Data testing 
 
@@ -26,7 +25,6 @@
   - Fast, so you’re not waiting forever for the test suite to finish. If a test takes longer than a minute or so, I’ll attempt to break it up into multiple tests or I’ll test a smaller sample.
   - Independent, so it can be run at any time and in any order.
 - Optimise for performance - check the query/execution plan 
-- With issues, don’t look at total counts of rows. Instead, did we not load anything after x or did we miss sequential rows?
 
 ### Source data testing
 - Create an initial gap analysis between source and BI data. This includes 
@@ -37,6 +35,7 @@
 ### Extract and Load testing 
 - Monitor jobs within Fivetran and set up alerts when anything goes wrong with these jobs
 - Check that data got loaded in the raw schemas (or staging environment): count by day within raw schemas. Even better is to count by day compared to source data. This will identify missing values, but also any duplicates. Another option is to compare row counts relative to previous days (new vs old). We’d expect this to be fairly consistent over time 
+- Consider seeing whether any jobs have failed - e.g. if we usually load data every hour, see if there are gaps or if there are timestamps without loaded rows. 
 - Get proof of missing data from the business teams and then provide a screenshot
 
 ### Transformation testing
@@ -56,27 +55,6 @@
     - Item levels summed up equal the total of the summed value in another table
     - Data freshness: last Fivetran updated date < 2 days ago 
 - Run the entire DBT test and DBT run command regularly to make sure nothing is breaking. Do this as well just before pushing transformation logic to live.   
-- Always sense check the table: 
-    - Is the data what is expected and do they make sense? Look at the values in the columns 
-    - Is all data there? For example, check that all dates are loaded correctly - between source and transformed table
-    - Are there any values that seem incorrect? Nulls, especially high or low values (validation tests - e.g. weird dates, weird prices), weird dates etc. 
-    - Do we count the same number of rows when we look at the same data in a different table or different environment?
-    - Where required, perform unit tests compared to source. Any completely new model should have extensive checks like these - especially for the business cases that are non standard (as outlined in the 'common gotchas' document). 
-- Compare the dashboard pre and post change 
-- Validate changes with audit macros. Compare columns and use the dbt equality utils macro to compare record by record. Consider using dbt helper. Things to compare can include: 
-    - Row count
-    - Sum of key column (e.g. revenue)
-    - Distinct values in column 
-- If a business user is impacted, involve them with the review process
-- DBT <> Looker flow: 
-  - Build and test dbt models locally
-  - Change references to tables in Looker to point to your local schema
-  - Run the Content Validator in Looker to ensure that everything still works. This is great for catching other reports that depend on the table you just changed. Also compare dev to prod and make sure data and dashboards all still work. 
-  - Invvolve stakeholder is the dev vs prod comparison when the changes are very significant 
-  - Change references back to prod schema, and deploy to master
-- Put a transformation table post update and pre update next to one another to verify whether everything is still as expected - you'd want to verify the data at very low granularity - e.g. on a row level 
-- Also, compare key metrics: duplicate a view file in Looker, run the aggregated metrics and have two windows: one with the PDT and the other with DBT to compare prod vs dev. 
-
 
 ### BI tool testing
 **Automated tests**
@@ -206,14 +184,37 @@ Tasks without a clear goal should be pushed back - they rarely lead to impact an
 ## Tracking fundamental changes 
 Sometimes, fundamental changes happen to data. E.g. we changed our categories at Papier. We would then create a snapshot of all categories at a certain point in time first in the database. E.g. cateoory X and then old_category X. Similar to Tessian, calc and previous calc. This way we keep history and can compare like for lille. 
 
-
-
 ## Dashboard management 
 - Make sure WIP is in the dashboard title whilst working on it 
 - When a dashboard has been updated, make a note in the Slack channel to keep people up to date
 - Add a badge to a dashboard when it is approved and actively managed by data team 
 - Track usage of your dashboard. If a dashboard is no longer used, find out why. Find out why they used it, how they get that info now
 - Always make sure dashboards are up to date and relevant. Clean up anything that is no longer relevant or not used
+
+## Redshift tuning 
+- Understand the problem. When do we run out of space - which models run then?
+- Research how to identify problems as automated as possible - query plans, alerts, skew, unsorted rows, distribution errors etc. 
+- Research what causes the problems 
+- Implement best practices incrementally. Make single changes to single tables to specifically measure the impact. 
+- Roll out measurable improvements to other tables 
+- Keep full track of the changes implemented such that we can measure the impact and keep a log 
+
+## SFTP issues
+- Confirm the data by going into the SFTP 
+- Can't connect? Figure out why
+  - IPs whitelisted?
+  - Correct credentials? 
+  - Can we connect through other means? E.g. Fivetran
+  - What do our Looker logs say? 
+
+**Other things to check for (e.g. during interviews)**
+- Min and max dates
+- Window function with date difference to see if days data wasn’t loaded 
+- Day on day percentage changes 
+- Day on day absolute changes
+- Primary keys 
+- Referential integrity 
+- Potentially percentiles to sense check the data is accurate
 
 ## Dataops manifesto 
 “DataOps is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics.”
@@ -272,19 +273,3 @@ We believe a foundational aspect of analytic insight manufacturing efficiency is
 
 18. Improve cycle times:
 We should strive to minimize the time and effort to turn a customer need into an analytic idea, create it in development, release it as a repeatable production process, and finally refactor and reuse that product.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

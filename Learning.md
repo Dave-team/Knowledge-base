@@ -4,7 +4,7 @@
 - https://www.supermemo.com/en/archives1990-2015/articles/20rules
 - http://augmentingcognition.com/ltm.html
 - http://super-memory.com/articles/20rules.htm
-- 
+
 ## Practicing deliberately 
 The best way to learn is by practicing deliberately. Key characteristict: 
 - Break down what you want to learn 
@@ -16,7 +16,6 @@ The best way to learn is by practicing deliberately. Key characteristict:
 - In order to learn, we need to move chunks of information from the short term memory (‘working memory’) to the long term memory in the brain  
 - Use spaced repetition with a tool like Anki. Spaced repetition is about remembering things just before we forget it. This will help remember things in the long term. Key with spaced repetition is to do it on a regular interval (e.g. make it a daily habit to review Anki each morning). Also just review notes multiple times. Example use cases with Anki: 
   - Quiz on a piece of code and the question would be what the returned output would be 
-  - 
 - Build a regular schedule around learning something. E.g. one hour before work
 - Create a roadmap of things you need to learn - a skeleton with links between them where you gradually increase your understanding 
 - Combine focused and diffused modes of learning. Focused: deliberate effort and elimination of disturbance. Diffused: happens during non focused times (e.g. sleep / walking). This is where the mind makes and strengthens connections and allows for creative solutions (let the subconsious help come up with solutions and strenghten neural links)
@@ -36,6 +35,7 @@ The best way to learn is by practicing deliberately. Key characteristict:
     - Start with something hard 
     - When stuck, shift to something simpler
 - Aim for understanding: you want to create a tree of knowledge where you hang different parts to the fundamental models you have of the world - the things you understand deeply. 
+- To learn a skill, pre commit to 20 hours as the first few hours are always the worst as you have no idea what you’re doing. 
 
 ## Other
 - Try to avoid questions too soon. Try something yourself first:

@@ -76,11 +76,12 @@ You are responsible for the team's output - they need to be happy and productive
 ### Workload management
 - Define and work towards roadmap projects
 - With the backlog, always be aware of the priorities and what the team should work on next (ideally team would know this without you telling them). Also be aware of what's happening in other team's sprints. Make sure to keep the backlog up to date and ensure that stakeholders are aware of status at all times
+- As part of daily routine of checking emails, also start looking into the tickets that the team is working on. 
 
 ### Situational leadership / Task Relevant Maturity (TRM)
 - Adept your leadership style based on confidence and competence of the team members.
 - Only delegate what you really understand and what you're happy to no longer control.
-- When you don't know something exactly either as a manager: Learn about the topic together. You can’t necessarily coach the other person but you can learn the same things together and then be one anothers sounding board. You can't possibly know everything but you can still support to the extend possible 
+- When you don't know something exactly either as a manager: Learn about the topic together. You can’t necessarily coach the other person but you can learn the same things together and then be one anothers sounding board. You can't possibly know everything but you can still support to the extend possible. If I don’t know an answer, ask for examples so we can look at things together   
 - Where required, step in to tackle a big challenge with a teammate
 - TRM
   - Low TRM: detailed instructions: what needs to be done, when and how. It’s task oriented
@@ -99,6 +100,7 @@ You are responsible for the team's output - they need to be happy and productive
     - Now what? What are the next steps?
 - Confirm that they know what they do. A good idea here is to have them create an action plan that then is discussed. Here, be criticial and provide context in your way of thinking
 - Get out of their way. Believe in them to come up with good solutions
+- Often timebox activities to avoid spending loads of time on something that is not possible or not worth the effort 
 
 ### Decision making
 - Don’t let people pressure you into decisions you don’t believe in. They’ll hold you responsible for them later, and they’ll be right. Decisions are your responsibility.

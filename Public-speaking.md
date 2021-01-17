@@ -63,6 +63,8 @@
 - Speaking
     - Speak loudly
     - Pause more frequently. Especially when making a point, pause first and pause after. Bring home the points you’re trying to make
+    - Use different tonality and avoid speaking monotome. E.g. use ascending melody in your sentences - start low and end higher. Also use various volumes. 
+    - Practice articulating by opening your mouth - be able to place 2 fingers in mouth whilst speaking your words. 
 - When waiting until it's my turn and I can't escape - i.e. during all hands or team meetings, try to distract yourself by focusing on what's being said, by taking notes and/or by focusing on people in the audience: how are they doing? What are they looking forward to this weekend? The goal is to get out of your own mind. 
 
 ## Structure

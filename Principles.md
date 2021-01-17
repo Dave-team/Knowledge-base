@@ -68,6 +68,8 @@ There are 7 things that matter most in my life: family, love, friends, health, c
   - What matters most to me?
   - How do I enjoy spending my time?
   - What did I enjoy when I was younger? 
+- Hobbies that work well for me: Where I enjoy the process. I.e. not just liking the idea of being good at something, but visualizing that I'll also enjoy the process. 
+- A main part in my belief system is that of balance. It’s not about doing something 100% and only ever doing that. It’s about making time for many different things
 
 ## The pyramid to achieving the right things
 - Personal manisfesto: what's most important in my life? Who you are, what you stand for, what you want out of life?
@@ -88,12 +90,13 @@ There are 7 things that matter most in my life: family, love, friends, health, c
 
 ## Rituals 
 Mornings
-- Meditate
-- Stretch session / Workout
+- Workout / Stretch session after waking up. No phone.
+- Mindfullness / Meditate
+- Journal. Be grateful for what I have and have done and reflect on strenghts and past successes 
 - Breathing excercise 
 - Take supplements
+- Cold shower: a bit longer each time
 - Skincare routine
-- Journal
 - Learn from knowledge base
 - Work: review goals for the day
 
@@ -104,6 +107,7 @@ Nights
 - Practice gratefulness
 - Visualise yourself as the person you want to be and use affirmations
 - Relax 
+- Skincare routine
 - Affirmations and meditation in bed before sleep 
 
 ### Weekend routines
@@ -125,16 +129,27 @@ Reflection & Development
 
 Self care 
 - Practice my hobbies or try a new hobby and see how I get on. Get to know yourself 
+  - 1 hour walk / day
+  - Draw something in Procreate
+  - Find and experiment with new recipes
+  - Longer workout / stretching / yoga routine
+  - Watch a new film or documentary
+  - Read fiction
+  - Read non fiction that is not development focused 
+  - Explore music 
+  - Progress an online course
+  - Learn something that will help professionaly 
 - Meet with friends
 
 Overall 
 - Do some work/reading in a social environment - e.g. coffee shop 
 - Sunday afternoons could be Reddit/bookmark catchups 
+- Spend some time on life admin such as knowledge base and Notion.
 - Weekends are to spend a bit more on food as well - trips to the local veg stores, fish mongers, butchers, bakers
 - Spend more sit down time with e.g. a book 
 - Generally spend more time reflecting
 
-Monthly
+### Monthly routines
 - Set goals for the month ahead. 
 - Review performance against goals month before (journal)
 - Review life admin and take actions accordingly 

@@ -14,13 +14,11 @@ Make sure that everything is documented well. This is needed:
 - Its importance should be acknowledged by the business and upkeep should be incentivized 
 - Make sure to confirm any definitions with the business
 
-
 ## Data context
 - Common ‘gotchas’. There will be things in the data that someone will eventually see. These things are hard to uncover and hard to understand. Track these in a doc and make it available to others. E.g. “we know that this logic is incorrect for some number of users, but the last time we checked it impacted less than 1% of users and so we ignored it”.
 - Important context and history (“this is the story of why it takes 5 joins to connect our historical email data to our coupon code system”).
 - Keep a running log of interesting cases: e.g. opportunities that have something unique about them that makes them hard to work with. In your models, check what happens to these opportunities 
 - Keep track on what happened with the data in the past and why decisions have been made
-
 
 ## Business metric definitions
 Create a KPI source of truth (KPI blueprint) that is signed off by the business and stored centrally, ideally in a place close to the busines (e.g. wiki / handbook). This is not about the technicalities, this is about the business logic that defines the KPIs, including the definition and the calculation.  Changes to this master KPI document could go via merge requests where relevant people are updated and can take action. Changes to KPIs should be approved by function head and a KPI review should happen perhaps every 3 months.    
@@ -65,8 +63,6 @@ Create a data dictionary that ideally is automated (e.g. from DBT and LookML com
 - Transformation 
 - Notes
 
-
-
 Steps to create a dictionairy: 
 - Collect dimensions and measures from the vairous reports people use
 - Send the list to relevant business owners and ask to complete with remaining metrics. 
@@ -82,7 +78,6 @@ Steps to create a dictionairy:
   - prepare a chart showing the metric with both the old and new definition of the metric to set expectations of how the numbers might change.
   - Treat that definition change like a product release: communicate the definition change in advance, tell people what to expect, and document the change in the data dictionary, such as with a change log at the bottom of the document.
 
-
 ## DBT 
 - Comment SQL code that handles transformations
 - Add table / fields descriptions 
@@ -93,7 +88,6 @@ Comment any LookML transformations
 
 ## SQL
 When writing a complex query, on the top of the editor, break it down: one sentence with the end goal and your approach below that. This should explain the purpose of the model 
-
 
 ## Other queries and scripts
 Create a Github branch will all code from the data team (analysts and scientists). It shows:
