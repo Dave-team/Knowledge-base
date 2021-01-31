@@ -4,13 +4,17 @@
 - Deep voice
 - Speak up 
 - Pause for emphasis and for allowing others to jump in 
-- Breathe 
+- Breathe deeply
 - Slow down 
 - Articulate 
 - Use different tones of pitch (high/low volume, emphasis) 
 - Use and, not but 
 - Get rid of words like ‘uhmm’. Just pause, think and then move on 
 - Be clear, concise and specific 
+- Reduce how quickly and how often you nod
+- Pause for two full seconds before you speak.
+- Lower the intonation of your voice at the end of your sentences.
+- Smile
 
 ## Helpful tactics
 - Repeat the last words someone has said
@@ -31,18 +35,40 @@
 - Do you own research first - check the documentation and Google the problem
 - When you don't have the answer by now - make it an experiment and test things and see what happens
 - If you need to ask someone: 
-    - make it obvious that you have done some basic research - the answer shouldn't be found in a quick Google search - state what you already know
-    - Ask your question in a way that helps others understand the issue quickly 
-        - Include details - let people know exactly what goes wrong. E.g. DBT question: which version do you run, which DWH, what is the exact code you tried? Btter too be too detailed than to leave important info out. 
-        - Clarify what you have tried already so far and what things you have already thought of 
-        - What is the context around the issue - there might be a better way to solve the problem at hand
-        - Clarify specifically the end result you'd like to see
-        - If at all possible, provide a way to reproduce the problem in a controlled environment.
+  - Choose who and when to ask: 
+    - Is this person too senior for this question?
+    - How much time will it take them to answer? If quick, ask now. If longer, schedule a time
+    - Find a good time that works
+  - Summarize the problem in one specific sentence as the title 
+  - First part of answer: expand on the title 
+  - Make it obvious that you have done some basic research - the answer shouldn't be found in a quick Google search - State what you already know and then ask "Is that right?"
+  - Ask your question in a way that helps others understand the issue quickly 
+      - Include details - let people know exactly what goes wrong. E.g. DBT question: which version do you run, which DWH, what is the exact code you tried? Btter too be too detailed than to leave important info out. 
+      - Clarify what you have tried already so far and what things you have already thought of 
+      - What is the context around the issue - there might be a better way to solve the problem at hand
+      - Clarify specifically the end result you'd like to see
+      - If at all possible, provide a way to reproduce the problem in a controlled environment. This can also include a link of a live example of the problem: e/g/ sqlfiddle. 
 - Good questions are very specific, narrow in scope, and tailored to the person’s area of expertise. Usually you can ask these questions by reading a person’s past blog posts/watching talks/etc. Question: “Can you tell me which data processing library I should use?” Better question: “I see that you’ve given talks on using both Spark on EMR, Hadoop, and even doing data science on your laptop. Do you have one that you prefer if I have 10 TB of data?”
 - Good questions are brief and to the point (respectful of the reader’s time), leaving a call to action as the last part. Often, I’ll get pretty long emails including every single detail that’s not relevant to the question at hand. We’re all super busy and get hundreds of emails. The ones we’re more likely to answer are short and easily-skimmable.
 - When asking questions, start off by saying what you already know – the others can then correct or fill in gaps 
 - Always follow up on the answers received 
 - Rather than focusing on the issue you're having, describe the goal. The issue you're having might be because you're taking the wrong approach in the first place. 
+- Be willing to say what you don’t understand - if someone explains something to do - feel free to stop them and ask "Hey, what does that mean?"
+- 
+
+## Asnwering questions good
+- If they’re not asking clearly, help them clarify
+  - Rephrase a more specific question 
+  - Ask them for more specific information 
+  - Ask what prompted their question
+- Figure out what they know already - “How familiar are you with X?”
+- Point them to the documentation where possible. Not only saves time, it will likely also help answer other questions they might have  
+- Point them to a useful search - knowing keywords to search aren't always obvious to beginners. “This is the search I’d use to find the answer to that question”
+- Write new documentation. If a question comes up more often, write a doc for it and then point them to this doc. 
+- Explain what you did. Rather than doing things yourself, walk someone through how they accomplish it. If something is already done, tell them the steps for how you got the answer you gave them (include the things you checked that weren't the problem)
+- Solve the underlying problem. People will often be attached to the steps they took so far. But often those steps do not result in the desired outcome. 
+- Ask “did that answer your question? Do you have more questions?”. Espeically if given a new documentation, we may simply have forgotten to add some important steps 
+- Jump on a call if that's easier - especially when someone is stuck on how to start something
 
 ## Emails 
 - When sending an email, make it standalone. Make sure that it tells a story that is completely clear for the other party 

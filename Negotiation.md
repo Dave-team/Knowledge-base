@@ -22,6 +22,7 @@
 - Always understand pricing structure as this can be used to your advantage. 
 - If you can’t negotiate on price, negotiate on something else: free period, different payment terms, etc. 
 - Work in terms of percentage discounts. E.g. they give a quote below the list price. Figure out what percentage discount that this (e.g. 30%) and then set aims as to how much you’re willing to pay. In this case, aim for 40% discount so say the number that represents that percentage discount
+- 
 
 ## Process
 Preparation

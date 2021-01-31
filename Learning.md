@@ -13,6 +13,8 @@ The best way to learn is by practicing deliberately. Key characteristict:
 - Make practicing a habit that you spend lots of time on
 
 ## Learning principles
+- Implement what your learn on a daily basis. This is how you’ll achieve mastery over the principles outlined. Only knowledge that is used sticks in your mind. You are not attempting to gather knowledge, you are attempting to implement habits. 
+- Reflect on your behaviour and how well you implemented the principles. E.g. at the end of each week, review and journal about your performance and what needs improvement/what the focus for the next conversation will be. 
 - In order to learn, we need to move chunks of information from the short term memory (‘working memory’) to the long term memory in the brain  
 - Use spaced repetition with a tool like Anki. Spaced repetition is about remembering things just before we forget it. This will help remember things in the long term. Key with spaced repetition is to do it on a regular interval (e.g. make it a daily habit to review Anki each morning). Also just review notes multiple times. Example use cases with Anki: 
   - Quiz on a piece of code and the question would be what the returned output would be 
@@ -54,6 +56,10 @@ The best way to learn is by practicing deliberately. Key characteristict:
 - When you've been stuck on something for a longer while, make a note of it and put it away. 
 - Make sure to not allow a lot of time between learning the knowledge and applying what you learned
 - Consider using mindmaps to fully grasp certain topic
+- The most important skill is becoming a perpetual learner. You have to know how to learn anything you want to learn.
+- Arm yourself with specific knowledge. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated
+- Learn by doing and have faith in your ability to just figure things out 
+- Most of the learning comes from reflecting on challenges, mistakes and other decisions 
 
 
 ![Learning curve](https://user-images.githubusercontent.com/28791247/101977721-9714cf00-3c47-11eb-8ee6-69fad0a4124f.png)

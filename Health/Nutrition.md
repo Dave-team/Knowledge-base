@@ -7,7 +7,7 @@
 - Cheat meals can speed up metabolic rate and should be kept to 1 or 2 per week. 
 - 1 g of protein = 4 kcal. 1 g of carbs = 4 kcal. 1 g of fat = 9 kcal 
 - Consider getting tested for food allergies 
-- Fundamtentals of good food: variety, close to nature, moderation. 
+- Fundamtentals of good food: variety, close to nature, moderation, not processed 
 
 ## Drinks
 - Lots of water

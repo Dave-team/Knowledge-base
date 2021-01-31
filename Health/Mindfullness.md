@@ -3,10 +3,13 @@
 ## Definition 
 “Mindfulness” is a practice of learning to stay in the present moment and observe with full attention your experience and immediate surroundings. Accepting our experiences and thoughts without making judgments about them. 
 
-Being mindful is to be aware of our experience, moment-to-moment, in a quite particular way, with curiosity, with kindness and with care and without judgement
+Being mindful is to be aware of our experience, moment-to-moment, in a quite particular way, with curiosity, with kindness and with care and without judgement. 
+
+As you watch your thoughts, you realize how many of them are fear based. The moment you recognize a fear, without even trying it goes away. After a while, your mind quiets. When your mind quiets, you stop taking everything around you for granted. You start to notice the details. You think, “Wow, I live in such a beautiful place. It’s so great that I have clothes, and I can go to Starbucks and get a coffee anytime. Look at these people—each one has a perfectly valid and complete life going on in their own heads.” It pops us out of the story we’re constantly telling ourselves. If you stop talking to yourself for even ten minutes, if you stop obsessing over your own story, you’ll realize we are really far up Maslow’s hierarchy of needs, and life is pretty good. 
 
 ## Why it matters
 - “All of man’s troubles arise because he cannot sit in a room quietly by himself”
+- “Tension is who you think you should be. Relaxation is who you are.”
 - You can’t stop the waves, but you can learn how to surf.
 - Time spent undistracted and alone, in self-examination, journaling, meditation, resolves the unresolved and takes us from mentally fat to fit.
 - We’re in a constant race for the next thing. When we try to do exactly nothing, we can’t do it, because there’s anxiety always trying to make you get up and go, get up and go, get up and go. This anxiety is making you unhappy. The anxiety is just a series of running thoughts. 
@@ -24,7 +27,7 @@ Being mindful is to be aware of our experience, moment-to-moment, in a quite par
 - The first thing to realize is you can observe your mental state. Meditation doesn’t mean you’re suddenly going to gain the superpower to control your internal state. The advantage of meditation is recognizing just how out of control your mind is. 
 
 ## Types of mindfullness practices
-- Being fully engaged in activity - walking outside, brushing teeth, writing, taking a shower, eating, drinking tea. Do these things with present moment awareness, interest and care.
+- Being fully engaged in activity - walking outside, brushing teeth, writing, taking a shower, eating, drinking tea. Do these things with present moment awareness, interest and care. 
 - Regularly taking a pause from what we're doing and tune into our breathing, our senses, our moods how our bodies feel.
 - Purposefully engaging in activity. Focus on something and describe it in as much detail as possible. How it feels, looks, tastes, sounds. From all different angles in different contexts. 
 - Relax, look around you and just sit. Be amazed at how beautiful things are. How far we’ve come in our lives and in the universe and be grateful. 
@@ -32,16 +35,26 @@ Being mindful is to be aware of our experience, moment-to-moment, in a quite par
 - Part of it is to fully embrace possible boredom 
 - Meditation. Meditation is a way of cultivating mindfulness. 
 
+## Outside mindfullness
+- When in nature, what can help being mindful is to understand the trees, the appearance and sounds of birds. 
+- Count the colours you’re seeing - spot the shades of green 
+- Notice whether people wear jeans etc. 
+
 ## Combat thoughts to be more mindful 
 - Don’t try and fight it, just notice them and be aware that you’re out of control. This awareness alone can calm you down. 
 - When thoughts arise, let them flow by. Do not engage with them. I am not my thoughts - they are merely things that flow by 
 - Go in debugging mode. Ask yourself: “Would I rather be having this thought right now, or would I rather have my peace?” Because as long as I have my thoughts, I can’t have my peace. “Well, do I really care if I embarrass myself? Who cares? I’m going to die anyway. This is all going to go to zero, and I won’t remember anything, so this is pointless.” “Do I really need to solve this problem right now?” Ninety-five percent of what my brain runs off and tries to do, I don’t need to tackle in that exact moment. If the brain is like a muscle, I’ll be better off resting it, being at peace
+- I’m actually going back to my awareness level of OS, which is always calm, always peaceful, and generally happy and content. I’m trying to stay in awareness mode and not activate the monkey mind, which is always worried, frightened, and anxious. It serves incredible purpose, but I try not to activate the monkey mind until I need it. When I need it, I want to just focus on that. If I run it 24/7, I waste energy and the monkey mind becomes me. I am more than my monkey mind.
+
+## Thinking mind
+- Our thinking mind tries to solve problems all the time. A lot of problems however can't be solved or they don't need to be solved now. When you are caught in a trap of solving problems, return to awareness and just 'being'. We cannot solve feelings and we cannot solve the future and we cannot solve the past. 
 
 ## Mindfullness principles
 - Make it a habit – e.g. first thing in the morning and have a determined place where you meditate
 - Reflect not on future when there are more immediate things to reflect on
 - One thing to realize here is that you are not in control of your thinking. You are simply an observer to whatever happens and whatever your mind produces
 - Life-hack: When in bed, meditate. Either you will have a deep meditation or fall asleep. Victory either way.
+- The practice of mindfulness is to be aware and then just start again. There is no goal and we will always be distracted by thoughts
 
 ## Meditation
 
@@ -54,10 +67,11 @@ Being mindful is to be aware of our experience, moment-to-moment, in a quite par
 **Transcendental meditation**: using repetitive chanting to create a white noise in your head to bury your thoughts. 
 
 **Naval meditation**
-- Each morning, give you yourself a break from life for one hour
+- Each morning, give you yourself a break from life for one hour. Close your eyes and say, “I’m just going to give myself a break for an hour. This is my hour off from life. This is the hour I’m not going to do anything. Why can you not do anything for an hour? What’s so hard about giving yourself an hour-long break? 
 - Sit somewhere comfortably and shut your eyes for one hour 
 - Thoughts will come. Don’t resist them and don’t work with them. Just observe them - whatever happens, happens. Don't put effort into it, don't put effort against it - just surrended in the moment. Meditation is not going through thoughts but rather letting thoughts go through you.
-- What will happen is that all of your life will eventually fly you by and you will have given most things a place in your mind. If you do 60 days 60 minutes meditation, eventually you should reach inbox 0 in your mind. This is when you no longer have any ‘issues’ to deal with in your mind. 
+- They will come out one by one, and you will be forced to deal with them. Resolving them doesn’t take any work—you just observe them.
+- What will happen is that all of your life will eventually fly you by and you will have given most things a place in your mind. If you do 60 days 60 minutes meditation, eventually you should reach inbox 0 in your mind. This is when you no longer have any ‘issues’ to deal with in your mind. It’s a state of joy and bliss and peace. Once you have it, you don’t want to give it up. If you can get a free hour of bliss every morning just by sitting and closing your eyes, that is worth its weight in gold. It will change your life. After about sixty days, you will be tired of listening to your own mind. You will have resolved a lot of issues, or you have heard them enough to see through those fears and issues.
 
 #### Standard meditation
 **Process**

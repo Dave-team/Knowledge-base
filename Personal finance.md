@@ -7,6 +7,7 @@
 - Ideally, find ways to generate passive income
 - Pay yourself first: make sure to allocate assets when money comes in before using the money to spend on other things
 - Make sure to make full use of the ISA allowance of £20,000 annualy to avoid paying tax on investments
+- Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.
 
 ## Locations 
 - Running account: 

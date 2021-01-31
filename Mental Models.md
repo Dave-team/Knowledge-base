@@ -1,4 +1,7 @@
 # Mental Models
+
+As you gain experience in life, many things become ‘another one of those’. This is where you need to have solid principles 
+
 ## Great links
 https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d
 https://fs.blog/mental-models/

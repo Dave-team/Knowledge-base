@@ -1,5 +1,8 @@
 # Principles
 
+## Links
+- https://news.ycombinator.com/item?id=23450110
+
 ## Goal in life
 Happiness:
 - Having had amazing relationships
@@ -7,7 +10,19 @@ Happiness:
 - A calm mind 
 
 ## Important elements of life 
-There are 7 things that matter most in my life: family, love, friends, health, career, experiences, personal goals & hobbies. It is important these are all in balance. And any big decision within these areas is very influential to my life so spend a lot of time thinking about them (where you love, who you're with and what you do). If you can't decide, the answer is no. If you need a spreadsheet to list pros and cons, forget about it - don't do it. 
+There are 7 things that matter most in my life: family, love, friends, health, career, experiences, personal goals & hobbies. It is important these are all in balance and that you have a vision for them. With this vision, it's easy to figure out what you should be spending your time on. By thinking about what really matters, you can stop chasing that which doesn’t really matter and start living a much fuller life 
+
+And any big decision within these areas is very influential to my life so spend a lot of time thinking about them (where you love, who you're with and what you do). If you can't decide, the answer is no. If you need a spreadsheet to list pros and cons, forget about it - don't do it. The hardest thing is not doing what you want—it’s knowing what you want.
+
+You want to be able to seperate from your mind and look at yourself objectively. Most people are trapped in their own heads. 
+The end goal is to live a simple life. 
+The default state should be: this is great – let’s make the most of the situation at hand
+
+
+Have a personal philosophy and then live by it. It becomes the criterion by which you measure everything else in your life.
+- Who you want to be (character and values) 
+- What you want to achieve and contribute
+
 
 ### Family
 - Always be there for the family and be responsible
@@ -35,7 +50,11 @@ There are 7 things that matter most in my life: family, love, friends, health, c
 - Get good quality sleep
 - Take care of appearance/body/skin and hygiene 
 - Good ergonomic posture and general confident body language 
-- Mental health: strong self awareness (e.g. through journalling and reflecting on life) and meditation 
+
+### Mental 
+- Being in the present moment through mindfulness and meditation 
+- In touch with my feelings through CBT, journalling and reflection
+- Mind development through reading, curiosity 
 
 ### Career
 - Act as if I'm Head of BI: have the confidence and take the ownership that comes with the role
@@ -56,7 +75,7 @@ There are 7 things that matter most in my life: family, love, friends, health, c
 ### Personal goals & hobbies 
 - Set goals and work towards them for extended periods of time. Make your life a book with chapters worth reading 
 - Have hobbies that you enjoy doing - this will make me a confident and interesting person. To find those hobbies, pick up something (anything), do it for an extended amount of time, try to become better at it and see how it sticks - more than anything, be curious around the thing you're learning/doing
-- Do things for the sake of doing them only - just because you want to. There is no goal, there is no real reason - you just want to do it. They're no checklists to tick off
+- Do things for the sake of doing them only - just because you want to. There is no goal, there is no real reason - you just want to do it. They're no checklists to tick off. The less you want something, the less you’re thinking about it, the less you’re obsessing over it, the more you’re going to do it in a natural way, the more present you are and the happier you’ll feel 
 - Have bigger things going on for you beyond work: have hobbies, work out, work towards achieving goals. 
 - When feeling unproductive, realize why you're doing this: wanting to become a more well rounded person. Be relaxed and in the moment. 
 - Don't keep busy for the sake of being busy - that's a very narrow life. Instead, try to purposefully be imperfect. Read that book that you don't follow. Watch a bad movie. Do something you would usually consider not worth doing and stick to it.  
@@ -79,6 +98,7 @@ There are 7 things that matter most in my life: family, love, friends, health, c
 - Habits: what do I do on a daily basis to get me closer to where I want to be?
 
 ## My ideal being   
+With these principles, think hard about them, implement them, make mistakes and reiterate them after thoughtful reflection 
 - Happy 
 - Confident
 - Calm 
@@ -171,20 +191,29 @@ You can then accept the current state of things and he more present we are, the 
   - Embrace death. It's coming and you can't run from it. More generally, let go of what you can't control
   - It’s okay whatever the outcome is. 
   - We don’t always get what we want, but sometimes what is happening is for the best. The sooner you can accept it as a reality, the sooner you can adapt to it.
+  - To accept: step back and look at previous bits of suffering I’ve had in my life. Write them down and ask what happened? 
 
 Practical techniques for happiness: 
 - Mindfullness: meditation, yoga, hobbies that create a state of relaxation 
 - Expressing your feelings (with others, in therapy, in a journal, through art)
 - Spending time with happy people
+- Read great books 
 - Smile more often 
 - Get more sunlight 
 - Working out 
 - Reduce screen and social media time
-- Just being very aware in every moment. If I catch myself judging somebody or being annoyed by something, I can stop myself and say, “What’s the positive interpretation of this?
+- It’s the news’ job to make you anxious and angry. But its underlying scientific, economic, education, and conflict trends are positive. Stay optimistic. 
+- Just being very aware in every moment. If I catch myself judging somebody or being annoyed by something, I can stop myself and say, “What’s the positive interpretation of this?" Even if you can’t come up with something positive, you can say, “Well, the Universe is going to teach me something now. Now I get to listen and learn.”
 - Making other people happy is probably a great way to guarantee personal happiness also. Help other get ahead first. Give and add value and don’t want/expect anything in return 
+- Caught in a funk? Use meditation, music, and exercise to reset your mood. Then choose a new path to commit emotional energy for rest of day. 
+- A personal metric: how much of the day is spent doing things out of obligation rather than out of interest? 
+- Remove any should from your life. Doing something because you “should” basically means you don’t actually want to do it. It’s just making you miserable, so I’m trying to eliminate them
 
 ## Meaning of life 
-Meaning to life is personal and the key is to be happy in the moment 
+Meaning to life is personal and the key is to be happy in the moment. I don’t think there is any end goal or purpose. I’m just living life as I want to. I’m literally just doing it moment to moment.
+
+Answer 2: There is no meaning to life. The reality is you’ve been dead for the history of the Universe, 10 billion years or more. You will be dead for the next 70 billion years or so, until the heat death of the Universe. Anything you do will fade. It will disappear,
+
 We seem happiest when we’re socialising with other people, outside or doing something that seems meaningful to us such as excercising and volunteering (effective altruism, focus on wife/kids, solve problems to better the world and make life better for others, perform and learn about arts, study philosophy and spirituality, get to know your inner psyche). Sometimes meaning of life comes from things are inherently worthless. Learn an instrument, buy a motorcycle, make a painting, become a scuba instructor, run a marathon, try drugs, move to another country, sit at a park/cafe and talk with people. Spice up and really experience life.
 
 Life is like a piece of music. The "point" of listening to it lies in the listening - not the getting to the end of the track. If you build and optimize your life around "getting to the end" - whatever that has meant for you, getting a degree, reaching a certain amount of wealth, a certain amount of success, a certain kind of partner, etc. - you will eventually find that there is no more "end" to get to. Well, the way out of this is really stupid - you just have to learn to enjoy the music instead of always looking forward to reaching the end of the track.
@@ -197,6 +226,11 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - Character is having gone through hard times and coming out on top
     - Get uncomfortable more often
     - Seek out criticism
+    - You always want to see the reality, the way things are. This is hard because we have preconceived notions around how things should be. When something bad happens, we then suffer because we’ve been putting off reality – we’ve been hiding it from ourselves. The moment of suffering then is a moment of truth. It is a moment where you’re forced to embrace reality the way it actually is. Then, you can make meaningful change and progress. -	The hard thing is seeing the truth. To see the truth, you have to get your ego out of the way because your ego doesn’t want to face the truth. The smaller you can make your ego, the less conditioned you can make your reactions, the less desires you can have about the outcome you want, the easier it will be to see the reality (.e.g advising a friend of a breakup being in it yourself)
+    - Choose short term pain in order to get longer term happiness 
+    - When there’s pain, it means there is something to learn. The more you deal and face the pain, the more you learn and the better you become at encountering similar or even heavier pains. 
+    - Think of life as a puzzle: every challenge you solve is a principle that helps avoid the same sort of problem in the future
+    - Pain + reflection = Progress
 - Spend time with great people 
     - You are the average of the five people you spend most time with
     - Visualize how others would handle situations and emulate these situations (Naval, Paul G, Jocko)
@@ -226,6 +260,7 @@ The goals we should strive for are those that have no endpoint, just continuous 
 - Be able to switch mindset and focus depending on the surrounding. I.e. never taking my shit to places where it shouldn’t be – collect your headaches and shift the right gears
 - Don’t assume things, just go with the flow instead. Don’t overthink and don't try to control everything. Instead, open your heart and see what happens - allow yourself to be vulnerable. 
 - Just tell yourself: it’s okay. I’ve got this. All will be well. 
+- We want freedom. All kinds of freedom: freedom to do what I want, freedom from things I don’t want to do, freedom from my own emotions or things that may disturb my peace. Once you can solve your money problems, either by lowering your lifestyle or by making enough money, you want to retire. Retirement is when you stop sacrificing today for an imaginary tomorrow. When today is complete, in and of itself, you’re retired.
 
 ## To live by: 
 - What's important in life: 
@@ -233,6 +268,7 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - What do you want people to say at your funeral? And who would be there even?
     - You are on your death bed, surrounded by family and loved ones, reflecting on a life well lived. You've lived a long, successful life, and you feel at peace as you look on at your posterity... As you pass on from this this world, you find yourself waking up, surrounded by aliens. One of them asks, "how was the trip, man?"
     - There is no such thing as enough achievement to then say 'I am now ready to live'. Keep busy with anything other than the fundamental parts of living a good life is just procrastion to living that later will cause regret. 
+    - Be grateful if the body and what we can do with it because one day well no longer be able to
 - Life is short: 
     - You only live once, but if you do it right, once is enough
     - Life is a test and a game – don’t take things too seriously and have fun - nobody gets out alive anyway
@@ -241,13 +277,20 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - Work to live, don’t live to work.
     - Most people over-estimate what they can do in one year, and underestimate what they can do in ten years
     - It's a mirable that we're alive in the first place 
+    - Each day is a new start. Each breath is a new start to become the person you want to be
+    - Every hour more in your life is but a privilege so make the very best of it, for time is limited in our lives. Threat time with others as possibly the last time you have with them. We will all be gone soon and so will the ones we love the most. 
 - You and you alone are responsible:     
     - No one owes you anything and nobody gives a fuck about your feelings 
     - Own your life, no one else will. You are responsible for how you handle everything that happens to you. You just pick yourself up, learn and go on. 
     - Life is hard and will throw you many challenges. You survive them, learn from them and move on. You build character comprised of everything that happened in your life. Anything that happens should be seen as a lesson you can use to become better. 
+    - We have the ability to choose how we respond to everything. It’s not what happens to us that hurts us, but our response that hurts us 
+    - Easy choices, hard life. Hard choices, easy life
+    - Don’t worry about whether you like your current situation or not. Life doesn’t care about what you do and don’t like. It’s up to you to connect what you want with what you need to do and then power that all the way through. 
+    - See yourself as a machine – there is a worker in the machine and there is a designer of the machine. It’s much more important to be a good designer/manager of your life than being a worker in it. E.g. the designer needs to identify the workers strengths and weaknesses and adjust accordingly either by working on the weaknesses (best option but only if fixing the weakness is within your nature), or working around them(e.g. hiring others). It is naïve to think you can do most things perfectly or even very well  
 - Relationships are incredibly important
     - Treat everyone like they can put you on the front page on the New York Times 
     - Be someone others would like to be around with
+    - Family and loved ones will at some point die. Make very sure you did what you could do at any point to show that you love and care for them
 - Become a better version of yourself 
     - Who you are today is not who you have to be tomorrow 
     - See who you can become and how far you can go – become the very best version of yourself
@@ -259,6 +302,7 @@ The goals we should strive for are those that have no endpoint, just continuous 
 - Live a meaningful life: 
     - The person who is satisfied with little will always have enough
     - Life is like a box of chocolates - you never know what you're gonna get. But you just make the most of it  
+    - Don't expect much so there is little disappointment. What you desire most ends up owing you
 - After breakup message: I’m 27. There really is more than enough time to find someone and settle down, get married and have kids. And before that, enjoy your time being single. Focus on advancing your career, become this more social person, make new friends, pursue new hobbies and just generally really be more of an independent man with character who is happy with who he is. Someone who isn’t obsessed around getting a response from someone else. Someone who lets go of things he doesn’t control. Someone who leads by example. You cannot depend on a relationship for happiness because one way or another, things will mess up. So ALWAYS live an independent happy life - then if someone joins that life, all the better. Just do not change for anything or anyone
 
 ![Memex](https://user-images.githubusercontent.com/28791247/104088013-9594f180-525b-11eb-8d04-1eaf6c8d109f.jpg)

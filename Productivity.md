@@ -14,8 +14,21 @@
 - Listen to your body: there will be times when you feel low energy - pushing through this is likely counterproductive. Instead, recharge and realize you can be productive again a different time 
 - Whatever is highest priority, that always gets done. If working out is highest priority, then I could never say I don’t have time. In the morning, I work out, and however long it takes is how long it takes. I do not start my day until I’ve worked out. 
 - Balance large projects with ad hoc work. Simarly, take a step back when something isn't working right. This way, we still have progress and the switch of topics might help getting to a good answer. 
+- Act now - don't hold things off until later 
 
 ## Process
+**Weekly**
+Use a weekly planning instead of daily as daily will be focused on busyness. The key is not to prioritize whats on your schedule but to schedule your priorities. 
+
+How to perform a quandrant 2 organization: 
+- Identify your roles. Spouse. Son. Cousin. Friend. Grandson. Individual. Colleague. Stakeholder. BI Manager. 
+- Setting goals. What are 1 or 2 important goals you feel you should achieve for each role in the next 7 days? Ideally, most of these goals fall under quadrant 2
+- Scheduling: looking at the next 7 days, when are you spending time to achieve these goals? 
+- Daily adapting. Daily prioritization and adapting to unexpected events. Plan your day each morning
+
+Map out how much time you spend in each quadrant. After that, review and determine whether you’re happy with how you spent your time. 
+
+**Daily**
 - Planning in the morning: 
     - Determine the most important thing to be done 
     - Have 2 or 3 other high priority tasks 
@@ -27,6 +40,10 @@
     - Eliminate distractions
     - Actions to perform from email are left unread and put in to do list
 - Reflect on performance at the end of each day and set goals for the next day (3 things max)
+
+![Productivity Matrix](https://user-images.githubusercontent.com/28791247/106353393-25214380-62e2-11eb-9537-b3790852c1ec.jpg)
+
+The things that add most value and impact is Quadrant 2. For people to work more in quadrant 2, we have to decrease time in other quadrants which will likely mean we need to say ‘No’ more often. It becomes a lot more easy to say no once you have identified what you can and should be doing in quadrant 2. 
 
 ## Techniques
 - Deep work: work in chunks of time without interruption
@@ -46,11 +63,17 @@
     - Heavy breathing
 
 ## Habits
+- We are our habits 
+- Habits are the intersection between knowledge, skill and desire
+  - Knowledge: what to do and why
+  - Skill: how to do
+  - Desire: motivation, the want to do 
 - Give yourself specific triggers to implement your new habits. E.g.: ‘when I get home, first thing is putting on running shoes and go for a run’. 
 - Tell others about your new habit 
 - Set up systems to take care of day to day tasks (e.g. eating the same every morning) 
 - Set achievable goals to go into a flywheel - small wins are crucial 
 - Reward yourself
+- Whatever is highest priority, that always gets done. If working out is highest priority, then I could never say I don’t have time. In the morning, I work out, and however long it takes is how long it takes. I do not start my day until I’ve worked out. I don’t care if the world is imploding and melting down, it can wait another thirty minutes until I’m done working out.
 
 ## Working from home
 - Take it easy in the morning. Exercise, read a book and have breakfast. This will get you in the right mood - you are trying to build a commute in your way as a way of getting ready for work 
@@ -86,7 +109,39 @@
 - Go through pending and review at least once a week and either archieve or action the items 
 
 ## Getting things done
-- Aim: get everything out of your head to reduce cognitive load. Everything is organized / grouped to make it easiest to action 
+https://hamberg.no/gtd/
+
+Aim: get everything out of your head to reduce cognitive load. Everything is organized / grouped to make it easiest to action 
+
+**Process**
+- Creat an "In" list: where you capture ideas and tasks as they occur to you. The barrier for adding something to your in list should be as low as possible - we just want to offload work from the brain 
+- Processing the "in" list. Ask:
+  - Is it actionable?—in other words, do you need to do something? 
+    - If the answer is NO, you either: 
+      - Throw it away if you no longer need it
+      - Keep it as reference material (“I will probably need this article again some day…”), add it to a “some day/maybe list” 
+      - Incubate it. If it’s something that you want to remind yourself of later (“I really didn’t understand this article, I should have a look at it again in two weeks”) it should go into your calendar or your tickler file which will soon be explained. (Yes, even the weird name.)
+    - If YES: 
+      - “What is the next action?” The next action needs to be a physical and visible action. In other words, not “plan cake lottery”, but “e-mail Arthur and Camille and remind them to bake their cakes”.
+      - Does is take less than 2 minutes to do it? 
+        - If less than 2 minutes, do it. Right away. The reason for this is simple: if the action takes two minutes or less, the overhead of tracking it will be large compared to how long it takes to just do it
+        - If more than 2 minutes: 
+          - Delegate it where appropriate, noting what was delegated, and when—on a waiting for list
+          - Otherwise add it to your own next actions list of things you want to do as soon as you have the time and energy.
+- The "next "actions" list. Those things from which you will pick out what to work
+- The "waiting for" list. These are things you're waiting for. Make sure to add dates to keep a track record and be more up to date on projects. 
+- "Projects". Essentially any objective that requires more than one action to complete. This list is simply a list of project titles and—if you like—descriptions and intended outcomes of the projects. When reviewing the projects list, you will make sure that there is always at least one action on your next actions list for each project, thus making sure that your projects aren’t forgotten.
+- "Contexts" Contexts are “tags” you put on the items on your next actions lists saying where the action can be done, or what equipment you need to perform it. The important thing is to be able to assess—at a glance—what your possible actions are depending on where you physically are and what equipment you have available. Also consider energy level and ease of a task here to make it easy to filter on the projects 
+- The “some day/maybe” list. This list simply contains ideas and projects you might want to realize at some time in the future.
+- "Calendar"  The calendar is for things you have to do on a certain date or at a certain time—and nothing else!
+- "Read / review" folder. A read/review folder is simply a folder (physical or digital) that contains the papers, documents, and anything else you want to read. The idea is to have this material available whenever you have a few minutes to kill.
+- "Tickler file". A collection of 43 file folders. Why 43? Because that means that you can have one for each of the 31 days of a month plus one for each of the 12 months of the year. The idea is that you can place physical items you will need on a specific day, reminders of things you possibly want do on a specific date, or the notes from the lecture you didn’t really understand (“I will want to review these in a week when my subconsciousness has chewed on it for a while”). Every day when you get up, you open the folder with the current date. Having emptied the folder, you place it in the back, bringing tomorrow’s folder to the front. At the end of each month, you open the folder for the new month and deal with its contents—like putting items in the correct day folders.
+
+**Weekly review**
+- Make sure each project has at least one next action. 
+- Make sure that each action on your next actions list is actually something you want or need to do if you have the time during the coming week. If not, move it (and/or the project it belongs to) to your someday/maybe list or—if you don’t think you will ever do it—remove it completely. (Be honest with yourself.)
+- Look through your someday/maybe list and see if some projects/actions should be moved to the list of current projects/the next actions list. 
+- If creating a new project on your projects list, make sure to figure out its next physical, visible action and put it on the next actions list as well.
 
 ### Other
 - Make the bed each morning to set a good start of the day
@@ -98,4 +153,3 @@
   - Which of the things I do can be done by someone else just as well or even better? 
   - A good executive asks other: ‘What do I do that wastes your time without contributing to your effectiveness’?
 
-![Productivity Matrix](https://user-images.githubusercontent.com/28791247/92321110-432e9480-f01f-11ea-910f-3198f8b87add.png)

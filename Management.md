@@ -39,6 +39,16 @@
   - Systems: The processes used to add value
   - Skills: The capabilities of the various groups of people in the organization
   - Culture: The values, norms, and assumptions that shape behavior 
+- Go from: “ I know I’m right” to “How do I know I’m right”. 
+- Have very strong mental maps on how things should be done. But make sure to test this in the real world and be flexible enough to improve on the maps or to take a different route when the situation asks for it 
+- See things from a high and strategic level but at the same know what’s happening in the details. This skill is rare but extremely valuable 
+- Remember that people are wired very differently – what works for someone may not work for someone else. And people behave very differently in different situations. You need to account for that and threat people based on that 
+- When someone holds an opinion, make sure to dig deeper: what makes you say that / what data are you looking at?
+- As a manager, you’re not likely to change anyone that much
+- Always remember that there are multiple ways to get to a desired outcome
+- Let the other person feel like the idea is his or hers. Don’t ram your opinions through the throats of others. Instead, make suggestions and let the other person reach their own conclusion. In the same way, we like to buy but we don’t like to be sold. 
+- Give the other person a fine reputation to live up to. If you want to improve someone in a certain aspect, assume that that trait is already part of his or her great characteristics. 
+- Use encouragement. Make the fault seem easy to correct. Let someone know that they have a flair for doing something and that you have faith in their ability to succeed and they’ll practice long hours and often end up succeeding. 
 
 ## Servant leadership 
 You are responsible for the team's output - they need to be happy and productive. Your primary focus changes from yourself to the team. You are at the service or your team and your sole objective is to make the team perform well. To facilitate this: 
@@ -55,6 +65,7 @@ You are responsible for the team's output - they need to be happy and productive
 - Your team looks to you for leadership. Have the courage to say what everyone knows to be true but isn’t saying. You need to be willing to make unpopular decisions 
 - Don’t laugh things off if you don’t feel like laughing them off. Have the courage to show your true emotions.
 - You need to be tough - e.g. wanting to put project on backburner - why are you stuck? Let’s step by step solve those points we’re stuck on 
+- Say what you think and think what you feel. Don’t care about how things might be perceived by others – the thing to do is the thing that feels right
 
 ## Tips
 - Make others feel really valued. Go up to their desk and ask for help. Check in on progress. Once a project is finished, thank them sincerely and make them feel good
@@ -71,6 +82,9 @@ You are responsible for the team's output - they need to be happy and productive
 - “I don’t love this”
 - EOD 'do you need anything from me'
 - Practice empathy: 'I’m sorry to hear that'
+- 'How can I help you?'
+- 'How can I unblock you?'
+- 'Do you think this could work?'
 
 ## Team productivity 
 ### Workload management
@@ -91,10 +105,11 @@ You are responsible for the team's output - they need to be happy and productive
 ![Situational leadership](https://user-images.githubusercontent.com/28791247/101979079-bdd80300-3c51-11eb-8a39-544eee57bf6d.png)
 
 ### How to get things done 
+- Fundamentally: make them want to do it. When asking for something, always pause and ask: why would this person want to do this?  
 - Make sure the interests of the team are aligned with the company’s
 - Put people in the right position
 - Give people challenging projects 
-- Give people information and context required to do their job. Help them connect the dots.
+- Give people information and context required to do their job. Help them connect the dots. We are very motivated and inclined to follow through with their own suggestions. 
     - What? What are we doing?
     - So what? Why are we doing it? Who else would be interested in this?
     - Now what? What are the next steps?
@@ -119,7 +134,7 @@ You are responsible for the team's output - they need to be happy and productive
 
 
 ## Feedback
-- Praise people often and recognize people's good work. Praise them publicly and in front of other senior people. Do it genuinely and with enthusiasm
+- Praise people often and recognize people's good work. Praise them publicly and in front of other senior people. Do it genuinely and with enthusiasm and be specific
 - Give little criticism. When you do give critisism, be honest specific and constructive and work towards improvements 
 - Create a culture where feedback is encouraged - e.g. make it an essential part of the daily standup
 - Giving hard feedback is sometimes needed. Giving hard feedback becomes easier over time. Once you give a lot of feedback, eventually you’ll get better at it. If none of your conversations are ever tough, that is likely a problem. Engage in more tougher conversations and ensure it doesn’t scare you off/make you feel for the other person etc. It’s often not personal and even if it is, it sometimes must be
@@ -134,7 +149,7 @@ You are responsible for the team's output - they need to be happy and productive
   - Positive feedback can be public, while constructive is better private
   - Be creative with format: On a walk, Over lunch, Coffee chat
 - How to give feedback:
-  - Positive is as important as constructive
+  - Positive is as important as constructive. Always start with the positive
   - Own the feedback (“I said” vs. “he said”)
   - Tailor your approach to your style, the recipient’s style and your relationship
 
@@ -243,6 +258,7 @@ This is important because:
 ## Difficult conversations
 - Have difficult conversations in person and stick to the facts 
 - Don't blame and assume. Instead, resolve your feelings by communicating with people
+- To deal with disagreements: be open minded (see things through the other person’s eyes) and be assertive (communicate clearly how things look like through your eyes) 
 ![Conflict de-escalation](https://user-images.githubusercontent.com/28791247/101979753-b74c8a00-3c57-11eb-88ac-50bed643943e.png)
 
 ## 12 questions employees ask themselves

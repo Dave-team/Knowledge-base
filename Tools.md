@@ -238,5 +238,5 @@ Google Calendar
   - Nice looking: 
     - Simple Print: https://pdf.fivefilters.org/simple-print/url.php
     - Print Friendly: https://www.printfriendly.com/
-
+- Dropbox for storage of 'other' photos 
 

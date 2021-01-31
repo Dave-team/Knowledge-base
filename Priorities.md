@@ -2,6 +2,8 @@
 This is a list of things I am actively working on to develop myself. 
 Relax. Be optimistic. Be present. 
 
+Have faith in ability to just figure things out. 
+
 ## Reminders
 ### General
 - The main overarching goal is happiness and the biggest win in this is having a consistent calm mind. 

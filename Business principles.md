@@ -156,6 +156,7 @@
 - Improve decision making by doing feedback analysis. Each time you make a decision, write down what you expect to happen. 12 months later, look into what you expected and try to understand the difference 
 - Make as few as possible decisions - focus on the most critical ones only.
 - Sometimes it’s okay to tell people that there is no way for us to figure things out entirely. And if we are confident we are doing things in an expected way, we should just communicate that. 
+- Write down your decision making process every time is decision is to be made. 
 
 **Helpful tactics**
 - Scoring model when evaluation larger decisions. Also called a decision matrix where we list options, score/weight and then rank them 
@@ -211,6 +212,7 @@
 - Always confirm things in writing 
 - Make use of issue logs and post mortems in projects 
 - Be aware of the hype cycle (see below)
+- Always come up with a solution or next steps to get to a solution when encountering a problem. 
 
 ![Hype cycle](https://user-images.githubusercontent.com/28791247/93708362-6718cc80-fb2d-11ea-8988-476b29214bbd.png)
 

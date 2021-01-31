@@ -26,6 +26,7 @@
     - What brings you here?
     - How are you finding it?
     - What got you interested in X?
+    - How are you connected to this event? 
 - Get contact details and after the event, make sure to follow up. Also add them to LinkedIn and other ways of storing your contacts. 
 - Don't stick around with the same people. Have a quick chat, exchange details, say it was nice meeting them and then move on 
 

@@ -20,7 +20,7 @@ You should never be depending on a relationship for happiness. Then, you can bri
 - With the man I'm with (since more than 4 years), it's the contrary. He makes every plan seems more exciting when he's part of it. He makes me grow, dream, laugh. I feel more powerful and full of life with him, we dream together, we learn together. This doesn't mean we do everyting together, far from it, we're very independant. But I'm always excited to see him, to spend time with him. And I feel more powerful as an individual, which is gold.
 
 ## Relationships can end 
-- Every relationship is voluntary. Two people decide and choose daily to love one another - this also means that they can decide to no longer love one another at any point in time
+- Every relationship is voluntary / a choice. Two people decide and choose daily to love one another - this also means that they can decide to no longer love one another at any point in time
 - Everyone's life is short and everyone needs to make the most of their own lives. If that means that someone wants to leave the relationship with you, because that would increase their happiness, don't be a blocker on that. Let them go and have their happiness. Do whatever is best for both of you. You care for one another and sometimes the best thing to do is letting go of someone. Ultimately it’s her life, and if she needs to do this to live her best life, that’s what you’ve gotta let her do. Be mature about this. 
 - You need to accept that every relationship can end because of various reasons. One might die, one might want to move abroad, one might want to focus on work or go back to university, people may just want to experience life completely first. It's not in your control which is why your independent happiness will always be the most important to sort out; old people are often alone in their later years as their partner has changed   
 
@@ -85,7 +85,7 @@ You should never be depending on a relationship for happiness. Then, you can bri
   - Share specifically how you feel about the relationship and be honest
   - Talk about the future more often and make sure you’re aligned on expectations at all times
   - Speak about our wants and expectations more clearly
-  - Apologize where required and more importantly, show that you change 
+  - Apologize sincerely where required and more importantly, show that you change 
   - Really listen to concerns - especially when the same things come up frequently (e.g. cleaning)
   - Take her concerns and action on them but not because she wants you to. If you disagree, mention it and say find a compromise that works for both. Be a bit of a challenge and not just some people pleaser that is easy to walk over. Similarly, don't pressure someone into doing things your way. 
   - When women are venting about their problems they just want you to listen. They don't want advice on how to fix the situation.
@@ -93,6 +93,10 @@ You should never be depending on a relationship for happiness. Then, you can bri
     - What we like / What we don’t like What we’d like to see more of 
     - How are things going / where are we heading / is that the right direction? 
 - It's easy to not communicate and let feelings and annoyances build inside of you - eventually this will backfire and blow up however. You need to have these conversations because you value your life and want the best of it. And it you're not happy, ultimately she won't be happy either - you can only live with things so long. If you don't communicate it could also be because you no longer care enough which is also not a good place to be in. 
+- Understanding the individual. Figure out what someone else really values in a relationship – this is similar to the love languages. What we value is not what others value.   
+- Clarifying expectations and stick to them 
+- Confronting someone is a means of showing that you care.  
+- We need to realize that life is not either /or. It’s not that one of us is right. Instead, we need to value each others opinion and realize we both might be right.  
 
 ## How to apologise 
 - I have done this 
@@ -118,6 +122,7 @@ You should never be depending on a relationship for happiness. Then, you can bri
 - Share your life with other friends
 - Put yourself in her shoes. How much care do I show? How well do I listen to her concerns? How well do I support her? How much love do I show her? How significant do I make her feel? How much does he love you and how certain are you that he’s going to stay and love you? How much desire, surprise, playfulness does he bring home to you that you don’t expect? How much are you growing together? How much do you feel like he is trying to contribute to you? So score yourself on these points and you’re left with how Cisem feels in the relationship. Put yourself in her shoes - what would you do in this case?
 - What do I bring to the other person? Why would she want to be a part of my life? 
+- Attend to the little things. Attend to little kindnesses and courtesies 
 
 ## General
 - The only thing we control is our contribution to the relationship. Keep working on making things better and being the best version of yourself.
@@ -199,6 +204,37 @@ You should never be depending on a relationship for happiness. Then, you can bri
     - Your partner genuinely respects you 
     - Your partner has her act together, is not stupid, clueless, uneducated, or rudderless, has good values and acts on them, can deal with problems in her life , understands what’s important to you and supports it, makes you a better person
 
+## Love languages
+Think of it as it: every has a tank filled with emotions. Once the tank with love emotions becomes empty, the relationship is in serious danger. Our goal is to make sure that the love tank of our partner is always full. A full love tank and a healthy relationship enables us to reach our full potential. Without it, we will always be missing that part of our lives. Just ask her how full it is and what you can possibly do to make it even fuller. 
+
+To discover your love language: 
+- What hurts you when your spouse does something? The opposite is a primary language 
+- What have you requested most often from your spouse? That’s likely an important love language 
+- I what way do you express love?
+
+**Words of affirmation**
+- Give your spouse compliments. This is not just about how they look, it can be something like: I really appreciate you doing the dishes tonight. 
+- Words of affirmation also include encouraging words: support your spouse in them achieving their goals. This will only work when your spouse is in fact looking to achieve these goals in the first place. 
+- Kind words: be extremely honest when you give compliments. When we are hurt, we need to communicate that clearly and state it in such a way that shows that we care. “I felt disappointed and hurt that you didn’t help me tonight”. This is showing that you are open and vulnerable – you want your spouse to know how you feel and this shows that you care 
+- Humble words: when you need something from your spouse, make requests, not demands and be kind. 
+
+**Quality time**
+- Quality conversation – talk about experiences, thoughts, feelings and desires. Key here is that I should not analyse someone else’s situation and provide my thoughts around what the person should or should not do. Instead, I should listen and only provide my thoughts when this is asked for. People want to sympathy and to be listened to – show them that you understand the pressure and stress that you are a part of. People want to be understood  
+- Learning to talk – quality conversation is not just listening to the other. It is also making yourself vulnerable and sharing your feeling and emotions. Allow your spouse in your life. In order to do so, become more aware of your own emotions. E.g. keep a small notebook and make notes whenever you feel certain emotions. 
+- Quality activities. Do things together that you both like doing. Sometimes, you also just need to do something that your spouse really wants to do. You do these things because you care about her and want to keep her love tank full. Also, she will then do things with you that you care strongly about whereas she cares less strong about those things. 
+  - Ask your spouse for a list of activities that she’d like to do and then step by step do these activities. 
+  - Set aside time every week to ask one another deeply personal and hard questions. Perhaps give the questions in advance so the other can think about them: best / worst teacher, influence of religion, when were you the proudest, etc.   
+  - Discuss a chapter of a book you’re both reading 
+
+**Gifts**
+This expresses that you think of the other person and that is all that matters – not the actual value of the gift. To get a feeling of what to give, listen to your spouse as she will most likely drop some notes now and then about what she’d like to receive / get. Another good indication is seeing what she has bought others or what she got excited about. Do not wait for special occasions to give gifts. Amazing gifts are the one where you do something yourself. Sometimes, the best gift to give is yourself – this is when your spouse needs you to just be present at important moments. 
+
+**Acts of service** 
+Doing things your spouse would like you to do. Clean things, fix things, do things when she’s not in the mood or doesn’t have time. 
+
+**Physical touch**
+Hold hands, touch, kiss, hug, and have sex. To understand where/how to touch your spouse, ask him/her. Put your hand on her shoulder or slightly bump into each other when in the kitchen. 
+
 ## Gifts
 - The gesture matters - it's about showing love and appreciation
 - Ideas could always be around experiences and something personal or handmade
@@ -241,3 +277,19 @@ You should never be depending on a relationship for happiness. Then, you can bri
 - Fit
 - Know how to deal with people and make people feel good 
 - Sharing my feelings and being honest and open in communication 
+
+
+Other notes
+Deal with being possessive
+- tell your partner what's bothering you
+- explain why it is that it bothers you, how it makes you feel
+- don't try to change the other person
+- find the underlying reasons for why things make you feel the way they do (fears? previous experiences?)
+
+Deal with being jealous
+- talk about your fears, openly and immediately. Even if you think you're being irrational.
+- jealousy is a symptom that someone is feeling insecure or threatened
+- jealousy comes from someone's needs not being met or someone's being threatened
+- people who don't feel threatened don't feel jealous
+- jealousy is often rooted in other emotions such as fear of loss, feelings of rejection or insecurity (or anything else)
+- once the feelings have been identified, ask yourself what these feelings are serving. Are they warning about a real problem or are you jealous for jealousy's sake?

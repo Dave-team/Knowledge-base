@@ -4,7 +4,7 @@
 Overarching goal (Definite Chief Aim): what do I want out of life and who do I want to be in the process? If we don't know where we want to go, we are being lived and we can easily end up in places of regret. Steer your life to where you want it to go. 
 
 What we need to achieve goals: 
-- Fundamental belief you can succeed 
+- Fundamental belief you can succeed and have the confidence to figure things out as and when they before relevant
 - Want it bad enough - we need a burning desire
 - Be determined to succeed and not give up when the going gets hard – I need to be persistant. 
 
@@ -15,8 +15,17 @@ Set goals but break them down and be practical around the goal.
 - What is the simplest first step that puts me in the right direction? Make 1 new recipe this weekend. Finding a recipe takes 10 minutes and it puts me on the path towards the goal. Then I hold myself accountable to these small goals/habits which will ultimately lead to reaching the goal
 - Do that first step for 1 hour today and see how that goes. By blocking this time, you know that you will still have time for everything else in life. It's all about balancing different 'priorities' and this avoids obsessiviness  
 
+**Goal achievement** 
+It is essential that you approach this process in a clearheaded, rational way, looking down on yourself from yourself and by being ruthlessly honest. If your emotions are getting the better of you, step back and take time out until you can reflect clearly. Seek help from calm, thoughtful people when necessary. 
+
+- Have clear goals – what are you going after? Design a plan to achieve these goals
+- Identify and don’t tolerate the problems that stand in the way of your achieving those goals. 
+- Accurately diagnose the problems to get at their root causes. Be calm and analytical
+- Design plans that will get around them
+- Do what’s necessary to push these designs through to results. Consistency and determination are key. 
+
 ## Visualization
-Reflect on your goals and the person you want to become each morning and evening. Visualize being in possesion of / doing the things you aim for.
+Reflect on your goals and the person you want to become each morning and evening. Visualize being in possesion of / doing the things you aim for. See things from the eyes of other great and smart people
 
 Do this often a few minutes a day:
 - Visualize yourself having successfully carried out the plan and achieve the goals 
@@ -47,6 +56,7 @@ Overthinking makes me unable to focus my mind on anything other than the thing I
 - Don't solve all problems by yourself - use your support network 
 
 ## Doing hard things
+- Anticipating the pain is what will make it worse - expecting the thing to be bad is also not helping. Trying to find ways to avoid the pain is what will make you suffer. Instead, just accept be aware and go through it. Approach things with childlike curiosity. To make the process as easy as possible, don't think about it until you are experiencing it. Accept the pain for what it is and it'll be over before you know it.
 - It's important to do hard things that stretch me as they are great opportunities to learn and improve. Seek this challenge continiously. Get critical feedback to improve further
 - Think about the bigger picture. Always believe the current strugles are small compared to where you want to go. 
 - Realize that performance and clarity of thought will be best in a confident and calm state
@@ -54,9 +64,9 @@ Overthinking makes me unable to focus my mind on anything other than the thing I
 - Have a growth mindset. It's a puzzle to solve which is exciting - it's an opportunity to learn 
 - Evaluate how others do it and try to emulate this 
 - Prepare well in advance 
-- Visualize doing it succesfully in the way you'd idealize it. 
+- Visualize doing it succesfully in the way you'd idealize it. The best performers are visualizers: they see, feel and experience it before they do it 
 - Go back in time at places where you felt really nervous. Do these things matter now?
-- Use affirmations to convince yourself that you can do it 
+- Use affirmations to convince yourself that you can do it. A good affirmation has five basic ingredients: it's personal, it's positive, it's present tense, it's visual, and it's emotional. The benefit of affirmations is that they go into the subconscious mind. 
 - Bring it back to the person you want to be and realize that is just another step to getting there. 
 - Depending on the situation:
     - Be grateful for the opportunity
@@ -108,3 +118,4 @@ Accepting yourself
 
 ## Other
 - Rather than trying to fix myself holistically, move into a state where you specifically work on fixing some problems. It’s hard work and consuming content will not help solving the questions
+- To be honest, speak without identity and let go of the ego. 

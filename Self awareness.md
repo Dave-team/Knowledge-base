@@ -42,13 +42,17 @@ I get annoyed when things don't go well - this in turn affects my mood. I want t
 Realize that not everything is black and white / binary, there are multiple ways of doing things and not everyone is like me and I'm not always right. 
 
 ### Lower the pressure on yourself / Don't take yourself so seriously
-I tend to put really high pressure on myself constantly. Very high standards and never taking the easier way out. I think this is from the early expectation that was put on me that second place doesn't matter - you need to win. This has led me to always want to achieve perfection which in my mind would only be feasible through incredible hard work. I always thought I could become this 'Ubermensch' but why even strive for it as the process makes me unhappy and the goal is unrealistic. At uni, I wasn't happy with a 9 as a grade 
+I tend to put really high pressure on myself constantly. Very high standards and never taking the easier way out. I think this is from the early expectation that was put on me that second place doesn't matter - you need to win. This has led me to always want to achieve perfection which in my mind would only be feasible through incredible hard work. I always thought I could become this 'Ubermensch' but why even strive for it as the process makes me unhappy and the goal is unrealistic. At uni, I wasn't happy with a 9 as a grade. 
+
+I’m on the train with different stops along the way. Public speaking, data science, management and I want to know everything about it because otherwise i feel like im not making the most of it and miss out. All these things on my list I would feel like they absolutely must be done even though they probably don’t. And then I feel as if I regret it and blame myself for not putting in the effort. 
+
+
 
 ### Let go of control
 I tend to want to control things. When I have to wait or when I don't know the next steps, I become very anxious as I'm not steering the direction. This might come from a fundamental lack of trust - it is probably okay to just trust the process and action things when they go out of hand and let go of things in the meantime. 
 
 ### Feeling of needing to be busy 
-I always feel as if I am meant to be this hustler, always on the move, always progressing. And I have put this energy into this development I'm doing but maybe it should be aimed at other things that would help other people - charity, volunteering. 
+I always feel as if I am meant to be this hustler, always on the move, always progressing. And I have put this energy into this development I'm doing but maybe it should be aimed at other things that would help other people - charity, volunteering. This is part of being on auto pilot - instead of pausing, reflecting and being grateful of what we have and where we are and just enjoying the small things in life. 
 
 ### Everything needs a purpose
 I always had this idea that everything I do needs a purpose. Learning guitar? Why, what does it bring me? I only ever wanted to do things that would get me further in life - they were logical and practical. I am in the race. This might be related to a fear of regret. When I'm 50, I want to look back and be happy at what I did. I have been searching for what that contentment looks like but probably that contentment is just from enjoying the moment. 
@@ -128,16 +132,7 @@ I don't speak up in meetings much as I am afraid of asking stupid questions, giv
 - I crave a strong sense of belonging and validation. I want someone to care about me and I want to know that someone will reply and just be there for me. I want to feel loved and this validation made me feel good about myself; if I don't feel loved this hits my self esteem and makes me not feel good about myself. Seeking external validation from someone you don't fundamentally control is not good. Enjoy it when you have it but be aware that you can't rely on validation that isn't coming from within. 
 - At times I felt like my worth was determined by whether I was in a relationship or not. Being with someone is what I’d consider a successful life whereas being single is a sign that my life isn’t complete. This has been amplified by e.g. how family approaches us. Instead, be entirely happy independently first. 
 - I have controlling tendencies. I wasn't happy when she would prioritize doing other things over spending time with me during the relationship. It felt as it we had our weekends and she'd always have to spend it with me because I expected it and I probably wouldn't know what else to do with myself. I felt rejected when she would do something else and that hurt my validation and made me fear losing her which made me unattractive. 
-- I have an anxious attachment style. I tend to put the relationship on a pedestal, see the partner as something greater. I have a strong need for affirmation. 
-
-
-### Flying
-Tons of flights happen. The pilots wouldn’t fly if there was an issue. Turbulence is just a bumpy road. Try to comfort yourself. Realise it’s okay to feel that way because you’re not in control. But it happens often and the pilots are the right people to take care of it. Statistically, were incredibly safe. Learn about planes. You’re not in control any more so just let it happen. 
-
-Need to get somewhere. I know the feeling and I know my response. From experience, it’ll be just fine / it will soon pass 
-
-### Medical help
-it needs to happen because it will help me. Doing it is better than not doing it. The earlier I’m fixed the better 
+- I have an anxious attachment style. I tend to put the relationship on a pedestal, see the partner as something greater. I have a strong need for affirmation.  
 
 ### Privileged
 Extremely lucky being white male and grew up in Netherlands. Worst thing that can happen isn’t that bad - could always go back to Netherlands
