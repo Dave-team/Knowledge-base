@@ -1,8 +1,10 @@
 # Priorities
 This is a list of things I am actively working on to develop myself. 
-Relax. Be optimistic. Be present. 
+Relax. Be optimistic. Be present. Have faith in ability to just figure things out. 
 
-Have faith in ability to just figure things out. 
+Pick up good habits from the knowledge base and make these my own. This is not about doing it all at once, pick a few to actively work on for the next weeks/months. Then work on them relaxed and step by step. 
+
+Affirm these on a daily basis, regularly take mindful breaks especially when I’m feeling overwhelmed. And then reflect on my performance against the habits / philosophy. 
 
 ## Reminders
 ### General
@@ -46,6 +48,15 @@ Have faith in ability to just figure things out.
 
 ## Work
 Dave is his own brand and Dave wants to be head of BI. As part of this role he needs to solve technical challenges, overcome them, work well with stakeholders, have integrity, communicate context to non technical stakeholders, provide context and relate to impact, sell his work during effective communications and present in public what great work Dave is doing. Whilst I have these ambitions, I am not my work. I am my values, my hobbies, my loved ones, my health much more than my job so prioritize it accordinly to the context of happiness as the main goal. 
+
+Pointers around development 
+- Don’t be afraid to speak up if I believe there are better ways or if I believe I have context that others don’t. 
+- Also don’t be afraid to ask for help when needed
+- Being too nice is not going to work long term. Value your time and know your worth and being too soft isn’t good for anyone either
+- I now need to take ownership over the tickets, the Inbox, etc.
+- Improve on the commercial side of things. Contracts, legal, pricing, negotiation. Start collecting best practices and templates were using at work
+- Don’t dive into a solution without seeing an example. Look at the data - ask what the problem is. Then ask what they think the best next step is.
+
 
 Things I actively pay attention to and work on: 
 

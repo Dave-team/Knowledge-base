@@ -96,21 +96,41 @@ Once I have the context, I can establish myself as a business partner - the goal
 ### Yearly roadmap planning 
 **Process** 
 - Create an initial list of projects from the business's / team's roadmap 
-- Meet Heads of Teams for 30 minutes - see agenda email below. 
+- Meet Heads of Teams for 30 minutes - see agenda email below. During these meetings, let them lead and be able to refer back to the initial list of pointers we already planned. 
 - Keep in mind: 
   - Understand in enough detail what needs to happen - ask for context when you’re not sure what things are/mean. Try to relate what needs to happen to the entire BI picture. If we integrate new data, do we need to get it into attribution too? Are there specific items of the project more important than others? 
   - Challenge on importance - how this relate to the business’s strategic pillars for the year? Does it become more important over time? Is it worth the effort? 
   - Understand how far in the process they are as to what needs to happen. Are there any things they need to think about from a data perspective they may not have thought about yet? Do we agree that their approach is a good one or can we make things easier? 
-  - Get an idea of timeline on when things might kick off 
+  - Get an idea of timeline on when things might kick off - this will guide timelines. 
+  - Challenge. If teams are looking to do something but nothing specific > when are you planning to look into it? We can put it in as a placeholder so we’re aware of it 
+  - Bring context: they want to report on CS rep performance - that’s great, does that sit within Zendesk? Yes > we might get it into Looker and make it such that only you can see it. 
+  - Be aware of all the things that they are working on, the things that we already have in the queue 
+  - Speaking with execs: they won’t know the details so avoid forcing them to give details and timelines. Often, what is required is some initial kickoff meeting with a key stakeholder and then details will follow. Also, often you’ll find that things aren’t obvious that they need to be done at all / how long it might take etc. Say ‘We don’t know if we can fix this. We can look at. We’ll put it in there and see if we can something.’
+  - Make sure in the process, we are clear on expecations which guide our decision making. People report on things. Mention that there is exit survey. We want things by utm. If not utm, how do we know - it’s hard to know. Regression we can try but hard. Can we report by code?  
 - Take notes in a doc. 
   - What is it? 
   - Why is it important? 
   - What needs to happen? 
   - When does it need to happen? 
+- Prioritization
+  - Often coming from when certain projects happen / when other teams work on projects. This is based on meetings.
+  - Some things are nice to haves and are put in where there is a gap 
+  - For high impact and time sensitive teams, ask them to fill in the timelines 
+  - If needed, set up a call with the team and prioritize the projects. 
+  - Sometimes, projects are depending and then they are also likely to be pushed back
+  - Anything we don’t really know how to do - move towards later 
 - Ask for a copy of the team’s roadmap for reference and to inform own roadmap 
 - Plot them down on an excel BI roadmap by quarter 
+  - Anything we’d want to do, but not sure how: italics 
+  - When a project is likely to take longer (e.g. tech) - extend to the next period 
+  - Mind the formatting: nicely outline different cells. 
+  - If projects fall under a parent but if it consists of separate pieces of work, break the work down, especially if there are not sequential and will be done in different time periods. 
 - Once the draft roadmap is ready, email it back to each stakeholder (for their team) to see if it works for them
+- Divide the projects across the team 
+  - Assign projects to others even when I’d be a blocker initially to e.g. get some integration set up
+  - Anything that is hard and technical, me. Anything that can be done in Looker, other team member. 
 - Share it to BI, more broadly, put it in Notion, and start making tickets
+  - Tickets include problem, stakeholder, suggested approach
 - Check in with stakeholders ~Quarterly (dependent on amount of tasks and what's upcoming) to keep the roadmap up to date 
 
 **Common projects**
@@ -134,19 +154,6 @@ Once I have the context, I can establish myself as a business partner - the goal
   - Are there any projects we had planned we can de-prioritize?
   - Is there anything additional I'm missing for Q4?
   - Looking ahead to 2021, when do you think you will start planning the new year?
-
-### Email template 
-Hi Tony,
-
-Booking in 30 minutes to go through BI requirements/implications from your 2021 roadmap and any additional data needs you may have.  We are specifically wondering:
-
-- Do you have any additional needs outside of what we have listed below?
-- Do you have any pain points in your current work with data that you wish were improved?
-- Longer term is there anything we should keep in the back of our mind?
-
-The projects we have on our list are:
-- Payment processor (stripe) Q1/Q2
-- LTV model (Q1)
 
 ## Relationships
 Build strong realtionship with the tech and the business teams. The goal is to establish trust that makes me a business partner they want to work with to achieve their goals. 
@@ -176,6 +183,7 @@ Build strong realtionship with the tech and the business teams. The goal is to e
 - Make sure to create understanding that data projects take long and that we need to prioritize what to work on 
 - People want more than is asked for? Mention that wasn’t scoped - for now we focus on smaller scope
 - When we deal with manual data or otherwise source data that needs to change, make it either the responsibility of the team to change things (i.e. changing Xero data fields) or make something part of a process (e.g. onboarding process: add data to sheet with new joiners). Always try to keep things maintained in the source data and avoid using manual interventions whenever possible.  
+- Don't be afraid to push back - if utm campaign names and normal campaign names need to match - push this back to the stakeholder 
 
 **Ways to build relationships:**
 - Informal: 
@@ -340,6 +348,63 @@ Looker is great for static reporting, less so for ad hoc and generally it isn't 
 
 Some data models like attribution model are built over time and gotten larger and larger. Over time, different challenges are overcome and build in the code. This repeats and the model gets build iteratively. Now everything may be fine, but you'd still want to account for the historical data that cannot be changed. It's a difficult balance of consistency, simplicity and scalability. 
 
+## Email templates
+**Roadmap invitation**  
+Hi Tony,
+
+Booking in 30 minutes to go through BI requirements/implications from your 2021 roadmap and any additional data needs you may have.  We are specifically wondering:
+
+- Do you have any additional needs outside of what we have listed below?
+- Do you have any pain points in your current work with data that you wish were improved?
+- Longer term is there anything we should keep in the back of our mind?
+
+The projects we have on our list are:
+- Payment processor (stripe) Q1/Q2
+- LTV model (Q1)
+
+**Roadmap follow-up**
+PM <> BI 2021 roadmap
+
+HI, 
+
+To follow up on our roadmap session last week, these are the PM projects we believe should go in the BI 2021 roadmap: 
+Thanks for your time yesterday. These are the PM projects we believe should go in the BI 2021 roadmap: 
+
+ A few questions around these:
+Is there anything missing that we haven't listed above? 
+Can you indicate when you'd like these done by (Q1, Q2, H2) and if there are any timeline dependencies and/or other priorities we need to consider? 
+
+Let me know if you have any questions!
+
+Thanks, 
+
+Dave 
+
+Hey Molly, 
+
+To follow up on our roadmap session yesterday, these are the projects that we believe should go in the BI 2021 roadmap:
+
+More + better insights from qualitative data (with a focus on demographic data). This project is depending on the successful hire of the Customer Insights role. 
+A 'Product Performance Grid' dashboard. We can look into what the possibilities are for this - either within Looker or with Tech. Do you have any timeline in mind for this? 
+
+
+Let me know if anything is missing from the list above! 
+Let me know if this looks good and if anything is missing.
+
+
+Thanks, 
+
+Dave 
+
+**Roadmap reminder**
+Hi Gaby,
+
+Can you confirm the projects below look good on your end? We’re building the roadmap now and I want to make sure we don’t miss anything.  
+
+Thanks, 
+
+Dave 
+
 **BI monthly invitations**
 Hi Nikita, 
 
@@ -368,3 +433,50 @@ Booking in an hour (might not need the full hour) to go through your slides for 
 Let me know if you have any questions! 
 
 Dave 
+
+**Quarterly roadmap email**
+Hey Neil and Nikita, 
+
+For tomorrow's check-in, I'd love to use the time to 1) see how the Looker introduction sheets have worked, and 2) do a quarterly review on the BI roadmap.  
+
+Below is what we had planned for Q4, a few extra projects on my list to discuss are:
+- Web KPI kickoff reporting (Neil)
+- Bytedance A/B integration
+- Remove Digitbrew reporting from Looker
+- SEO & Search Reporting
+
+A few questions on my mind are:
+- Are there any projects we had planned we can de-prioritize?
+- Is there anything additional I'm missing for Q4?  
+- Looking ahead to 2021, when do you think you will start planning the digital product roadmap?
+
+Cheers!
+Will
+
+
+Hey Neil and Nikita, 
+
+Can you confirm this looks good on your end?
+ 
+I updated our BI Q4 roadmap to reflect our conversation last week.  
+ 
+I deprioritised App and Product Performance reporting due to strategic priorities, kept the user journey reporting, and added Bytedance and Web KPI reporting.  
+ 
+SEO and on-site search reporting are Q1 2021 top priorities.
+ 
+Cheers!
+Will
+
+Fwd: BI / Finance Quarterly Review
+Hi Tony, 
+
+Since you're on holiday, I thought it was easier to send your quarterly review by email.  I'm happy to catch up in person on this if you want to discuss anything in more detail.
+ 
+BI was able to complete everything we had on the Finance roadmap for Q3, including the Checkout.com reporting ahead of schedule.  
+ 
+For Q4, the additional priorities from team Finance are Papier KPIs, Kickoff Inventory and Finance ERP (this will carry into 2021), finalise Emma's tax metrics, and help Alice transition trading over to the Exec explore.
+ 
+For Q1 2021, we'll work on incorporating freight and import duty.  
+ 
+Let me know how this looks and if there's anything I missed,
+Will

@@ -25,6 +25,11 @@ As you watch your thoughts, you realize how many of them are fear based. The mom
 - To increase concentration and focus for longer
 - To be more effective in my thoughts about work and to realize in better fashion what the right thing to do is
 - The first thing to realize is you can observe your mental state. Meditation doesn’t mean you’re suddenly going to gain the superpower to control your internal state. The advantage of meditation is recognizing just how out of control your mind is. 
+- Let's you refocus on what matters. Taking a breather before going on autopilot makes me consider what I actually want to do next. And if I then do something first that breaks the autopilot old habits, I may find that I really enjoy it. Being aware that it’s your old routines appealing. Be aware that it’s your autopilot. Recognise that you want to do the thing but hold off doing it until it comes natural
+
+**How mindfulness changes the brain**
+- Enlarges the prefrontal cortex. This area of the brain is associates with higher order brain functions such as awareness, concentration and decision-making
+- Shrinks the amygdala. The amygdala is a key brain structure known as the emotional or fear center of the brain. Smaller amygdalae found in more mindful people are associated with greater emotional control
 
 ## Types of mindfullness practices
 - Being fully engaged in activity - walking outside, brushing teeth, writing, taking a shower, eating, drinking tea. Do these things with present moment awareness, interest and care. 
@@ -46,8 +51,21 @@ As you watch your thoughts, you realize how many of them are fear based. The mom
 - Go in debugging mode. Ask yourself: “Would I rather be having this thought right now, or would I rather have my peace?” Because as long as I have my thoughts, I can’t have my peace. “Well, do I really care if I embarrass myself? Who cares? I’m going to die anyway. This is all going to go to zero, and I won’t remember anything, so this is pointless.” “Do I really need to solve this problem right now?” Ninety-five percent of what my brain runs off and tries to do, I don’t need to tackle in that exact moment. If the brain is like a muscle, I’ll be better off resting it, being at peace
 - I’m actually going back to my awareness level of OS, which is always calm, always peaceful, and generally happy and content. I’m trying to stay in awareness mode and not activate the monkey mind, which is always worried, frightened, and anxious. It serves incredible purpose, but I try not to activate the monkey mind until I need it. When I need it, I want to just focus on that. If I run it 24/7, I waste energy and the monkey mind becomes me. I am more than my monkey mind.
 
-## Thinking mind
+## Our minds 
+**Thinking Mind / Doing Mind**
+- Thoughts will always continue to pop up. We can't control the Thinking Mind. The trick is to not fuse and identify with the those as they come up. Instead of saying, “I am nervous,” say, “I feel nervousness." Disidentify and then take possession of strong thoughts. Disidentifying from these emotions and thoughts in this way does two things:
+  - implies that they’re temporary states, and not permanent conditions;
+  - forces you to take responsibility for them. They’re nobody’s fault, they just are.
+- We can also thank our negative emotions. It will diminish the power of the thoughts and emotions and impels to take action despite them. “Thank you, Thinking Mind, for feeling nervous before my date tonight. It will keep me on my toes!”
+- When people come to me ask how to “stop feeling angry,” or “stop getting nervous,” this is their problem: As soon as you try to eliminate a thought or emotion, you make it stronger. As the Buddhist saying goes: “What you resist will persist.” Negative emotions are like quicksand, the more you struggle to get out of them, the further into them you sink.
+-  I feel the same fear and worry anyone else does, I just don’t identify with it. I accept it and move on despite it.
+I don’t let my Thinking Mind control me. I defuse from my emotions. When I feel fear, I consciously choose to act despite it. When I feel worry, I consciously choose to act despite it.
 - Our thinking mind tries to solve problems all the time. A lot of problems however can't be solved or they don't need to be solved now. When you are caught in a trap of solving problems, return to awareness and just 'being'. We cannot solve feelings and we cannot solve the future and we cannot solve the past. 
+
+**Being Mind**
+- This part of the brain is aware, relaxed and in the present moment. It is developed through mindfulness excercise 
+- This mode responds to impulses from the Thinking Mind
+
 
 ## Mindfullness principles
 - Make it a habit – e.g. first thing in the morning and have a determined place where you meditate

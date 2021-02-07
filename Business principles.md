@@ -213,6 +213,7 @@
 - Make use of issue logs and post mortems in projects 
 - Be aware of the hype cycle (see below)
 - Always come up with a solution or next steps to get to a solution when encountering a problem. 
+- Make sure to take risk averse approaches. Think about how things can be impacted and make sure the worst case can't happen before making a change
 
 ![Hype cycle](https://user-images.githubusercontent.com/28791247/93708362-6718cc80-fb2d-11ea-8988-476b29214bbd.png)
 

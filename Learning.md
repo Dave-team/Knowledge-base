@@ -13,6 +13,7 @@ The best way to learn is by practicing deliberately. Key characteristict:
 - Make practicing a habit that you spend lots of time on
 
 ## Learning principles
+- Learning is picking up something and starting with that and then learning enough to know what the next thing could be. 
 - Implement what your learn on a daily basis. This is how you’ll achieve mastery over the principles outlined. Only knowledge that is used sticks in your mind. You are not attempting to gather knowledge, you are attempting to implement habits. 
 - Reflect on your behaviour and how well you implemented the principles. E.g. at the end of each week, review and journal about your performance and what needs improvement/what the focus for the next conversation will be. 
 - In order to learn, we need to move chunks of information from the short term memory (‘working memory’) to the long term memory in the brain  
@@ -38,6 +39,7 @@ The best way to learn is by practicing deliberately. Key characteristict:
     - When stuck, shift to something simpler
 - Aim for understanding: you want to create a tree of knowledge where you hang different parts to the fundamental models you have of the world - the things you understand deeply. 
 - To learn a skill, pre commit to 20 hours as the first few hours are always the worst as you have no idea what you’re doing. 
+- 
 
 ## Other
 - Try to avoid questions too soon. Try something yourself first:

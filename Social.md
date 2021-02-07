@@ -63,6 +63,12 @@
 - What is your favorite alcoholic or non-alcoholic beverage?
 - If you could have an endless supply of one food item, what would it be?
 - Be nice to people, give compliments and never judge people nor give them the option to dislike you. Always look for the best in people. 
+- Who's someone in your life you should say thank you to? 
+- What's something you've been overthinking lately? 
+- What's your favorite thing about yourself? 
+- What something you lie about regularly? 
+- TEll us about a recent turning point in your life
+- 
 
 ## 1-1 Conversations
 - A good conversation consists of: 
@@ -137,6 +143,10 @@ Remember that a person’s name is to that person the sweetest and most importan
 - Encourage people to talk about themselves. 
 - Very often when someone says something, we focus on having a judgement on that, rather than really understanding something. We should spend more time instead trying to really understand what the meaning of the statement is to the other person  
 - Let the other person do a great deal of the talking. Focus on asking questions and let the other party do most of the talking. Don’t interrupt once you e.g. disagree with something they said. Instead, let them talk themselves out. Listen patiently and with the open mind. Encourage them to express themselves fully. 
+- When you listen to someone, you should give up all your preconceived ideas and your subjective opinions; you should just listen to him, just observe what his way is. We put very little emphasis on right and wrong or good and bad. We just see things as they are with him, and accept them.
+- Usually when you listen to some statement, you hear it as a kind of echo of yourself. You are actually listening to your own opinion.
+- Immediately into a conclusion and a label and this is how it is. Instead take time to explore and ask questions
+
 
 ## Charisma 
 It's about presence, power and warmth:

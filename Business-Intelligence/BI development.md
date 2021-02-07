@@ -168,18 +168,38 @@ If this was a migration:
     - Where required, perform unit tests compared to source. Any completely new model should have extensive checks like these - especially for the business cases that are non standard (as outlined in the 'common gotchas' document). 
 
 ### PDT to dbt migration
-- Recreate the tables in DBT: Build and test dbt models locally. Create a smaller subset of the data and create a similarly sized PDT transformation next to it so we can join on the two and compare data row for row. Look out for:
+- Build the dbt model in the test schema with limited data to make it easy to run and troubleshoot. 
+  - Either limited time frame 
+  - For incremental models with partitions: 
+    - make a list of e.g. users that had their full history recently (i.e. the partitions cover the entire time frame to ensure data is comparable)
+  - If not all models are materialized in the test schema, select from prod so you have access to the entire range of data. 
+- Compare output of dbt model next the PDT. Look out for:
   - Total table count 
   - Count of IDs by day 
   - New sessions / day > X 
   - No gaps in timestamps? 
   - All values by field identical on a row level? 
   - Key aggregate metrics 
+- When testing a model in dbt prod, don't add it to an existing job as that consequently may fail. 
 - Change references to tables in Looker to point to your local schema
 - Run the Content Validator in Looker to ensure that all field references still work. This is great for catching other reports that depend on the table you just changed. 
 - Compare key dashboards / Looks between dev and prod to ensure key KPIs are similar 
 - Merge the table reference to dbt 
 - Once we replaced the Looker PDT, make sure to still be able to test against external data sources - such as Google Analytics. Especially e.g. with incremental models. 
+
+**Incremental models**
+- To test incremental models, make sure that the initial model has data until e.g. a few days before the current date. That way, we can test the incremental logic easily within the development environment
+
+**Checklists**
+- When rebuilding an incremental model, drop the table first from Redshift. 
+- Mind any characters you might be adding to the model. Whenever we copy from Apple Notes, these characters will be added and a weird error message will be the result: https://pteo.paranoiaworks.mobi/diacriticsremover/
+- When we receive an error 'aggregates not allowed in the where clause' - confirm that the column in the where clause is actually part of the model first 
+- Think about the sequence of the model runs. What does a  model select from and how is that updated? How does that change when we run all the child models too?
+- In dev, also look at the logs and make sure they represent what you expect. E.g. when we expect to run an incremental model, do we actually? 
+- Make sure the config for each model is complete and accurate. E.g. materialize as incremental for incremental models. 
+- Incremental 
+  - Make sure to run incremental models on the columns you know works 
+  - 
 
 ## Updates from Papier
 When people don't know the data yet: 
@@ -201,4 +221,14 @@ When business knows data well:
 - What calculated fields would they like to see?
 
 With all of this, remember it's iterative and the business will get back to BI if they want things changed 
+
+## Requirements around non integration use cases 
+- What is the problem you’re facing? 
+- How big is the problem? E.g. how long does it take for you to do this? How is that time spend? Is it in the analysis or something else? 
+- We can get the data into Looker, but that would come with it’s own problems of formatting and actually loading this in, it might break and it’s hard to keep a history. E.g. cells with currency fields, date formats, consistent headers and order of columns. 
+- Also keep in mind that Looker is great for things but how would we replicate the flexibility of Excel?  
+- If we would do that, would that be a good outcome for you in general?
+- It's always a trade-off between what we can do on our end and how much time that will take and whether its possible against the benefit that would have on the business 
+
+
 

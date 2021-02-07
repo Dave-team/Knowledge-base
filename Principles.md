@@ -162,12 +162,14 @@ Self care
 - Meet with friends
 
 Overall 
+- Prepare activities to do during the weekend before the actual weekend and separate these things between learning/development and pleasure. It’s important to keep the balance. At the end, mark down which activities you’ve actually done. 
 - Do some work/reading in a social environment - e.g. coffee shop 
 - Sunday afternoons could be Reddit/bookmark catchups 
 - Spend some time on life admin such as knowledge base and Notion.
 - Weekends are to spend a bit more on food as well - trips to the local veg stores, fish mongers, butchers, bakers
 - Spend more sit down time with e.g. a book 
 - Generally spend more time reflecting
+- 
 
 ### Monthly routines
 - Set goals for the month ahead. 
@@ -254,6 +256,7 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - We don't know what tomorrow will bring which is exciting. And then we'll always aim to make today better than yesterday and face the days with great enthusiasm. 
     - Creating lasting memories with people we love 
     - Family, friends, love, experiences, health, career and other than those, it's the little things: sex, hugs, nice drinks, good food, good books / films, good workouts
+    - "Life is not a problem to solve but a reality to experiencence"
 - Be experimental in life: try things and test if they improve my quality of life  
 - Think bigger picture: it’s not about where you are currently; it is about where you are going. By focusing on the bigger picture, you realize your current problem is tiny in the grand scheme of things
 - Even when you are doing everything well and have achieved great things, you may still be lost. If that is the case, go from doing things for yourself to helping others. This is where real fulfillment lies 
@@ -261,6 +264,9 @@ The goals we should strive for are those that have no endpoint, just continuous 
 - Don’t assume things, just go with the flow instead. Don’t overthink and don't try to control everything. Instead, open your heart and see what happens - allow yourself to be vulnerable. 
 - Just tell yourself: it’s okay. I’ve got this. All will be well. 
 - We want freedom. All kinds of freedom: freedom to do what I want, freedom from things I don’t want to do, freedom from my own emotions or things that may disturb my peace. Once you can solve your money problems, either by lowering your lifestyle or by making enough money, you want to retire. Retirement is when you stop sacrificing today for an imaginary tomorrow. When today is complete, in and of itself, you’re retired.
+- In every situation, no matter how bad it is, ask yourself: in which way can I turn this around to make it positive for me? Or: why is this a good thing? Interpret everything as positively for yourself. Remember that the brain doesn’t distinguish between imagination and reality 
+- Sometimes there are uncomfortable situations and you just need to delve into them. E.g. at an airplane with babies shouting in both ears. Really feel the emotions and study them objectively. You will quickly get used to being in discomfort. Get out of your comfort zone
+- Each day is day one and each breath is a new arrival
 
 ## To live by: 
 - What's important in life: 
@@ -271,7 +277,7 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - Be grateful if the body and what we can do with it because one day well no longer be able to
 - Life is short: 
     - You only live once, but if you do it right, once is enough
-    - Life is a test and a game – don’t take things too seriously and have fun - nobody gets out alive anyway
+    - Life is a test and a game – don’t take things too seriously and have fun - nobody gets out alive anyway and I'm really not the centre of the universe
     - The days are long but the decades are short 
     - Life passes most people by while they’re making plans for it
     - Work to live, don’t live to work.
@@ -279,6 +285,7 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - It's a mirable that we're alive in the first place 
     - Each day is a new start. Each breath is a new start to become the person you want to be
     - Every hour more in your life is but a privilege so make the very best of it, for time is limited in our lives. Threat time with others as possibly the last time you have with them. We will all be gone soon and so will the ones we love the most. 
+    - Simply realize that none of this ultimately matters at all. Once you realize that, you can see through the game and relax. 
 - You and you alone are responsible:     
     - No one owes you anything and nobody gives a fuck about your feelings 
     - Own your life, no one else will. You are responsible for how you handle everything that happens to you. You just pick yourself up, learn and go on. 

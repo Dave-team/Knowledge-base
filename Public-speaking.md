@@ -96,14 +96,17 @@
 ## Dealing with nerves
 You have to identify the root of your performance anxiety. Are you worried that: You don’t know the material? You can’t answer a difficult question? Your presentation is boring? You don’t come off as expert? You look stupid? You sound unpolished? Your material doesn’t flow? Nobody will show up? People don’t understand you? The audience doesn’t care? Once you know where the anxiety is coming from, you can likely calm down more. 
 
+- When presenting, being focused on yourself will cause anxiety, voice issues etc. Why do you present? To get a point across you believe in. The only focus should be to get your point across and we want to deliver value to the audience. 
 - Speak as often and as much as possible 
+- Accept that there will be nerves but you'll present and do your best regardless. 
 - Every presentation is an experiment. Each time you try to do the best you can prepare for. I know I need to speak in public and I know I struggle with it. I will feel nerves and there is some imposter syndrome. However, each time I try to prepare, do what I can control and that's it. The rest just happens and needs to be accepted - one I do, there will be a sense of calm which will automatically improve performance. 
 - Let go of anything that is not within control: Maybe it will go well, maybe it won't. I'd like it if it did, but it's not the end of the world if it doesn't, and it's not even really under my control. So relax, and enjoy it.
-- Focus on the fact that you want to give value to the audience – that is the main goal of me talking – the audience needs to come out smarter. They don’t actually care about the presentation in and off itself so I am not the main focus point here. 
 - Over time, I will be established as an authority and need to speak frequently both at the company as well as larger events – each presentation is small compared to the next. And at each presentation I am representing my own brand
 - Be grateful for opportunities you get (e.g. when presenting to be higher up the foodchain). Have the strong tendency to prove yourself and get the word out 
 - Visualize yourself giving plenty presentations being good at it and loving to do it. 
 - Realize that the audience will never be aware of the things you’re doing wrong and people are wrapped up in their own lives far too much anyway
+- The secret to public speaking is to speak as if you were alone
+- They don’t actually care about the presentation in and off itself so I am not the main focus point here. 
 - Look into good public speakers and see how they do it and then try to replicate their behaviour. Focus on: 
     - Storytelling approaches you like (lessons learned, “here’s something I did!”, best practices, etc…)
     - Speaking styles that resonate with you (formal/informal, witty/dry, etc…)

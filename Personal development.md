@@ -33,6 +33,12 @@ Do this often a few minutes a day:
 - The dominating thought should be the a picture of the person you’re trying to build. Spend 30 minutes a day creating a clear mental picture of that person and remind yourself always and think in the shoes of that person
 - Ensure there is the self confidence and belief that I can succeed by continuously telling yourself that you’re capable of doing the job. 
 
+A good way to visualize picking up / breaking habits: 
+- List all the benefits from doing something you want to do (e.g. quit smoking)
+- Visualize yourself going about doing something you want that involves the benefits of what you want to do 
+- Now fantasize yourself in that same moment without e.g. the bad habit that you developed and with al the advantages that come with it 
+
+
 **Master Mind**
 Each night, envision being sat at a table with people you greatly admire whose traits you’d like to encompass within yourself and then you start speaking to them about what you would like to make your personality. You speak about the challenges your facing and imagine them giving advice - have a discussion with them. 
 
@@ -56,12 +62,14 @@ Overthinking makes me unable to focus my mind on anything other than the thing I
 - Don't solve all problems by yourself - use your support network 
 
 ## Doing hard things
+- Spend time preparing for the things so they don’t surprise you as much
 - Anticipating the pain is what will make it worse - expecting the thing to be bad is also not helping. Trying to find ways to avoid the pain is what will make you suffer. Instead, just accept be aware and go through it. Approach things with childlike curiosity. To make the process as easy as possible, don't think about it until you are experiencing it. Accept the pain for what it is and it'll be over before you know it.
 - It's important to do hard things that stretch me as they are great opportunities to learn and improve. Seek this challenge continiously. Get critical feedback to improve further
 - Think about the bigger picture. Always believe the current strugles are small compared to where you want to go. 
 - Realize that performance and clarity of thought will be best in a confident and calm state
 - Treat hard things as learning experiences. Rather than approaching it with anxiety, think: let’s see what happens. You approached the experience in a certain way. Then you evaluate how it went and you can be better next time. 
 - Have a growth mindset. It's a puzzle to solve which is exciting - it's an opportunity to learn 
+- Always keep a Beginner's Mind: If your mind is empty, it is always ready for anything; it is open to everything. In the beginner’s mind there are many possibilities; in the expert’s mind there are few.
 - Evaluate how others do it and try to emulate this 
 - Prepare well in advance 
 - Visualize doing it succesfully in the way you'd idealize it. The best performers are visualizers: they see, feel and experience it before they do it 
@@ -115,6 +123,16 @@ Accepting yourself
 - Expose yourself as this non perfect human being 
 - Think about what friends would say if I were to present my feelings around this? 
 - It’s okay. All will be well. I’ve got this
+- You don’t have to do anything especially worthy to create or deserve self-esteem; all you have to do is turn off that critical, haranguing, inner voice. 
+
+CBT way of building self esteem: 
+- Train yourself to recognize and write down the self-critical thoughts as they go through your mind;
+- Learn why these thoughts are distorted; and
+- Practice talking back to them so as to develop a more realistic self-evaluation system”
+
+![CBT](https://user-images.githubusercontent.com/28791247/106709168-05449500-65ec-11eb-9197-e38049b36e22.png)
+
+
 
 ## Other
 - Rather than trying to fix myself holistically, move into a state where you specifically work on fixing some problems. It’s hard work and consuming content will not help solving the questions

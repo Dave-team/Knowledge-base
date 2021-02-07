@@ -16,6 +16,10 @@
 - Limit table calculations and pivots as they are quite heavy. Instead, aim to have filters on the dashboards  
 - Limit the number of data points returned. More data point are expensive in memory 
 - Use system activity / i__looker to track performance 
+- Take out any not 100% required joins that often are added by default 
+- Reduce the default time period the explores look at to avoid taking too long
+- Set up good sort keys 
+
 
 **Looker modeling**
 - The initial table in the explore should contain measures and it should be the most granular table. For any subsequent joined tables we lose trust (unless there's a 1:1 relationship). 

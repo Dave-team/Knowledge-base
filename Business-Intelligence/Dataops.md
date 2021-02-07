@@ -200,12 +200,13 @@ Sometimes, fundamental changes happen to data. E.g. we changed our categories at
 - Keep full track of the changes implemented such that we can measure the impact and keep a log 
 
 ## SFTP issues
+- What do our Looker logs say? 
 - Confirm the data by going into the SFTP 
 - Can't connect? Figure out why
   - IPs whitelisted?
   - Correct credentials? 
   - Can we connect through other means? E.g. Fivetran
-  - What do our Looker logs say? 
+
 
 **Other things to check for (e.g. during interviews)**
 - Min and max dates

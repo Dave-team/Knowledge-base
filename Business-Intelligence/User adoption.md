@@ -8,6 +8,12 @@ What does “self-serve” in analytics mean to you?: https://discourse.getdbt.c
 - If you teach someone to use a tool and they don’t get it or they later find it frustrating, they’ll look for another way to answer their questions. Before you know it, their alternate path to a solution will become a habit. Good luck getting them back to your tool!
 - Be more proactive and figure out how you can support the teams by talking to them
 - Take it step by step: sit with one team, work on a problem and solve that problem only. Rinse and repeat with different departments 
+- When dealing with senior stakeholders who are hard to convert: 
+  - Let them sit with their team and show what’s there
+  - Let them figure out specifics that are missing and present that back to us 
+  - We can then work on it.
+  - Let them know they can always reach out with small questions we can help with 
+
 
 ## Elements of user adoption
 
