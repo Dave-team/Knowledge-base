@@ -44,12 +44,13 @@ Imposted Syndrome is not feeling good enough in what I do. I am stuck on somethi
   - Make sure to also slow down during these meetings to allow others to jump in. 
   - Write my notes on paper rather than digital
   - Don't prepare to the point of memorizing 
-  - Remind yourself that a calm mind would allow me to present with more clarity as I'll be focused on providing value to those in the sessions as opposed to being selfishly stuck in my own mind. I
+  - Remind yourself that a calm mind would allow me to present with more clarity as I'll be focused on providing value to those in the sessions as opposed to being selfishly stuck in my own mind.
   - Just take it easy
   - Track the things you're doing during the week to avoid not knowing what to say 
   - Separate your personality and life from your work. I speak for the work I did, not for myself.
   - It's just part of the job 
   - I always perform to the best of my ability and that's all I can do. 
+  - Focus on breathing and slowing down to ensure the message comes across  
   
 ## Non team meetings
 - Do your homework
@@ -57,12 +58,6 @@ Imposted Syndrome is not feeling good enough in what I do. I am stuck on somethi
 - Ask whatever you want to ask. They know I’m not stupid, I’m just not as knowledgeable about this area perhaps 
 - Listen well and ask good questions when everyone else is focused on speaking
 - Again, it’s not personal - it’s about doing the best for the company and it’s actually critical for me to speak up as this is what I will be paid for 
-
-## Challenging problems at work
-- Accept the challenge as a puzzle to be fixed 
-- When something is hard, it means there are things to be learned and I will get better in the process. 
-- It's about staying relaxed and sometimes you need to sleep on the problem and then fix it in the morning. Be kind to yourself. Sometimes it just doesn't work. Put it away, go for a walk or check again in the morning. 
-- I cannot take these problems personally and I cannot be so affected by them. It might be that I get into work and 9 things are broken - trying to fix everything all the time will only lead to burnout and I won't be able to see the bigger picture and e.g. support the team.
 
 ## Be more valuable 
 **For the company** 

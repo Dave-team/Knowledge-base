@@ -12,8 +12,8 @@ What we need to achieve goals:
 Set goals but break them down and be practical around the goal. 
 - What does the end result of the goal look lik? (e.g. learning how to cook: be able to make reciples comfortably)
 - What needs to be done to reach that goal? (cook new reciples, not really reading books or watching videos - they're a supplement to actually making recipes)
-- What is the simplest first step that puts me in the right direction? Make 1 new recipe this weekend. Finding a recipe takes 10 minutes and it puts me on the path towards the goal. Then I hold myself accountable to these small goals/habits which will ultimately lead to reaching the goal
-- Do that first step for 1 hour today and see how that goes. By blocking this time, you know that you will still have time for everything else in life. It's all about balancing different 'priorities' and this avoids obsessiviness  
+- What is the simplest first step that puts me in the right direction? Make 1 new recipe this weekend. Finding a recipe takes 10 minutes and it puts me on the path towards the goal. Then I hold myself accountable to these small goals/habits which will ultimately lead to reaching the goal. - What is the easiest first step to do? Forget about planning the optimal way to do things, take the first step and be fine if things don't go exactly as planned. This type of overthinking is essentially procrastination
+- Do that first step for 1 hour today and see how that goes. By blocking this time, you know that you will still have time for everything else in life. It's all about balancing different 'priorities' and this avoids obsessiviness. Take things step by step and don’t try to do everything at once.  I can think about what I want to do, I can spend some time trying a hobby for 30 minutes a day and build on top of that. And make sure to do this method rather than overthinking what the best hobby is that I can spend all my time with. Things don’t need to happen from today onto tomorrow. Take your time. 
 
 **Goal achievement** 
 It is essential that you approach this process in a clearheaded, rational way, looking down on yourself from yourself and by being ruthlessly honest. If your emotions are getting the better of you, step back and take time out until you can reflect clearly. Seek help from calm, thoughtful people when necessary. 
@@ -38,63 +38,11 @@ A good way to visualize picking up / breaking habits:
 - Visualize yourself going about doing something you want that involves the benefits of what you want to do 
 - Now fantasize yourself in that same moment without e.g. the bad habit that you developed and with al the advantages that come with it 
 
-
 **Master Mind**
 Each night, envision being sat at a table with people you greatly admire whose traits you’d like to encompass within yourself and then you start speaking to them about what you would like to make your personality. You speak about the challenges your facing and imagine them giving advice - have a discussion with them. 
 
-## How to not overthink
-The impact of overthinking: 
-- It's hard to switch my mind. 
-  - This will impact the relationships in my life as I can't provide full attention and support to friends/family/spouse. 
-  - If I'm focused on my own problems during standup, I don't listen anymore to what others say. This would hinder me from being a great manager
-- It's the opposite of having a calm mind that is required to be most effective
-- It doesn't allow me to focus on the things I should be focused on 
-- It is not helping me to make the most of my life
-
-Overthinking makes me unable to focus my mind on anything other than the thing I'm overthinking. Most often, there are a few solutions to overthinking: 
-- Talk to the person involved. Be honest about you're feelings and ask them questions. Instead of thinking what their motivations are, ask them as me thinking what they think won't get anywhere 
-- The future is largely out of our control once we have done everything we can. Don't focus on things out of our control and bring the focus back to what we can control
-- What is the easiest first step to do? Forget about planning the optimal way to do things, take the first step and be fine if things don't go exactly as planned. This type of overthinking is essentially procrastination
-- Realize that problems aren't solved by thinking about them. So either action towards them or don't do anything at all. And when you forget about things, the subconscious mind might help coming up with the solution 
-- Focus on the bigger picture - if you're working towards the grander goals in life, most small things become irrelevant and there is no need to overthink quite as much
-- Tell yourself to relax and take a step back. Nobody demands perfection and have no expectations. Do things step by step starting with the foundation. Take your time and nobody is putting unrealistic pressure on you. 
-- Take things step by step and don’t try to do everything at once.  I can think about what I want to do, I can spend some time trying a hobby for 30 minutes a day and build on top of that. And make sure to do this method rather than overthinking what the best hobby is that I can spend all my time with. Things don’t need to happen from today onto tomorrow. Take your time. 
-- Don't solve all problems by yourself - use your support network 
-
-## Doing hard things
-- Spend time preparing for the things so they don’t surprise you as much
-- Anticipating the pain is what will make it worse - expecting the thing to be bad is also not helping. Trying to find ways to avoid the pain is what will make you suffer. Instead, just accept be aware and go through it. Approach things with childlike curiosity. To make the process as easy as possible, don't think about it until you are experiencing it. Accept the pain for what it is and it'll be over before you know it.
-- It's important to do hard things that stretch me as they are great opportunities to learn and improve. Seek this challenge continiously. Get critical feedback to improve further
-- Think about the bigger picture. Always believe the current strugles are small compared to where you want to go. 
-- Realize that performance and clarity of thought will be best in a confident and calm state
-- Treat hard things as learning experiences. Rather than approaching it with anxiety, think: let’s see what happens. You approached the experience in a certain way. Then you evaluate how it went and you can be better next time. 
-- Have a growth mindset. It's a puzzle to solve which is exciting - it's an opportunity to learn 
-- Always keep a Beginner's Mind: If your mind is empty, it is always ready for anything; it is open to everything. In the beginner’s mind there are many possibilities; in the expert’s mind there are few.
-- Evaluate how others do it and try to emulate this 
-- Prepare well in advance 
-- Visualize doing it succesfully in the way you'd idealize it. The best performers are visualizers: they see, feel and experience it before they do it 
-- Go back in time at places where you felt really nervous. Do these things matter now?
+## Affirmations
 - Use affirmations to convince yourself that you can do it. A good affirmation has five basic ingredients: it's personal, it's positive, it's present tense, it's visual, and it's emotional. The benefit of affirmations is that they go into the subconscious mind. 
-- Bring it back to the person you want to be and realize that is just another step to getting there. 
-- Depending on the situation:
-    - Be grateful for the opportunity
-    - Realize it needs to be done and there is no other option 
-- Realize that it matters now, not in the future
-- This too, shall pass. I had many struggles before and it all turned out fine. 
-- Think about the situation in the grand scheme of things: 
-  - Most things don't matter
-  - What is the worst that could happen
-- We must learn to trust our creative mechanism to perform good
-- If you’re disliking the thought of the dentist, realize it’s a choice you’re making and the choice is to have healthy teeth. The suffering of think about the dentist is not really rational because you;ll go anyway. Similarly, if you decide to do a presentation then that decision is made – why worry after?
-- Perform well under pressure by practicing without any pressure. Hit a golf club without a ball. Practice a presentation in front of empty chairs. Go into a sales meeting without intending to sell – just to practice  
-
-On the day of execution: 
-- Stay focused on other goals before the moment
-- Realize is it okay and natural to be nervous
-- Just before presentation: 
-    - Find a way to relax – e.g. listen to music beforehand 
-    - Power pose in a bathroom and make yourself as big possible 
-    - Heavy breathing for a short while
 
 ## Relaxation techniques 
 Aim to be relaxed at all times. It is impossible to feel anything negative when you are relaxed. 
@@ -131,8 +79,6 @@ CBT way of building self esteem:
 - Practice talking back to them so as to develop a more realistic self-evaluation system”
 
 ![CBT](https://user-images.githubusercontent.com/28791247/106709168-05449500-65ec-11eb-9197-e38049b36e22.png)
-
-
 
 ## Other
 - Rather than trying to fix myself holistically, move into a state where you specifically work on fixing some problems. It’s hard work and consuming content will not help solving the questions

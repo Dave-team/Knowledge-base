@@ -15,6 +15,8 @@
 - Whatever is highest priority, that always gets done. If working out is highest priority, then I could never say I don’t have time. In the morning, I work out, and however long it takes is how long it takes. I do not start my day until I’ve worked out. 
 - Balance large projects with ad hoc work. Simarly, take a step back when something isn't working right. This way, we still have progress and the switch of topics might help getting to a good answer. 
 - Act now - don't hold things off until later 
+- “If you split your day into 10 minute increments and try to waste as few of those increments as possible, you would be amazed at how much you can get done”
+- There is nothing as useless as doing efficiently something that shouldn’t be done at all 
 
 ## Process
 **Weekly**
@@ -74,6 +76,7 @@ The things that add most value and impact is Quadrant 2. For people to work more
 - Set achievable goals to go into a flywheel - small wins are crucial 
 - Reward yourself
 - Whatever is highest priority, that always gets done. If working out is highest priority, then I could never say I don’t have time. In the morning, I work out, and however long it takes is how long it takes. I do not start my day until I’ve worked out. I don’t care if the world is imploding and melting down, it can wait another thirty minutes until I’m done working out.
+- Environment: e.g. don't buy ice cream if you want to lose weight. 
 
 ## Working from home
 - Take it easy in the morning. Exercise, read a book and have breakfast. This will get you in the right mood - you are trying to build a commute in your way as a way of getting ready for work 

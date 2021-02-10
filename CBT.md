@@ -1,58 +1,185 @@
 # CBT 
-
-Often when we start to feel better, we stop using the skills that helped us get to that point. It is actually better to keep deliberately using helpful skills until they become automatic.
-
-Reduce relapse risk: 
--	Identifying your high-risk situations.
--	Identifying early warning signs that you are sinking deeper into depression, anxiety, anger, guilt, or shame.
--	Preparing a plan of action to help you face challenges and periods of distress
-
-Excercise: imagine Yourself Coping
-It can help to practice your plan from Worksheet 16.2 before you need it. One way to do this is to imagine one of your high-risk situations occurring in the future. Imagine this situation in great detail. What is happening? What do you see and hear? Next, imagine you are experiencing several or all of your early warning signs. How do you feel? What are you thinking? What are you doing? Now imagine putting your plan of action into effect. Spend several minutes imagining doing each step of your plan in detail. As you carry out each step in your imagination, pay attention to what you are doing, thinking, and feeling. How does this affect your mood? Thoughts? Behavior? Physical experience?
-Based on this imagination exercise, how confident are you (low, medium, or high) that the plan of action you wrote in section 3 of Worksheet 16.2 will be enough to help you feel better again if you start to relapse? If your confidence level is high, then your plan is probably a good one. If you confidence in your plan is low, then you want to think about what else you can add to it that will boost your likelihood of managing future challenges. If you think the plan is a good one, but you lack confidence in your skills to carry it out, the best thing to do is to continue practicing the skills in your plan of action even when you are feeling well. Ideally, you want most of your relapse reduction skills to be fairly automatic when you are doing well, so that you can rely on them to help you if you begin to feel worse.
-
 ## Fundamentals
 Cognitive Behavorial Therapy is a form of psychotherapy. A central idea in CBT is that our thoughts about an event or experience powerfully affects our emotional, behavioral, and physical responses to it, often because we identify with the thoughts, we see them as real even though there are distorted and this leaves us in a bad mood.  
 Once a mood is present, we often begin thinking additional thoughts that support and strengthen the mood. But when we feel intense moods, we are more likely to distort, discount, or disregard information that contradicts the validity of our moods and beliefs. In fact, the stronger our moods, the more extreme our thinking is likely to be. This is why it is helpful to be aware of our thoughts when we are most distressed. When we are aware of our thoughts, we more easily see how they are influencing our mood.
 
-Once we invite negative thoughts through distortions, your feelings and actions will reinforce each other in a cycle. Because we believe what our brain tells us, we see the world as a dark place. Because if feels realistic, there is a lot of credibility that goes towards it. The cycle then goes on and you're trapped. 
-
-Thoughts affect physical reactions. Just as our thoughts affect our physical reactions, our physical reactions can trigger thoughts (e.g. different heartbeat can lead to think it’s a heart attack). 
-
-To escape: your feelings are not facts! your thoughts create emotiions; therefore emotions cannot prove that thoughts are accurate. Emotions follow the thoughts. Realize that the feelings are most likely coming from cognitive distortions. Do you really want to be influenced by these thoughts? 
-
-In the same way that thoughts are just thoughts, feelings are just feeling too. They don't mean anything other than the meaning we assing to them. 
+Once we invite negative thoughts through distortions, your feelings and actions will reinforce each other in a cycle. Because we believe what our brain tells us, we see the world as a dark place. Because if feels realistic, there is a lot of credibility that goes towards it. The cycle then goes on and you're trapped. Just as our thoughts affect our physical reactions, our physical reactions can trigger thoughts (e.g. different heartbeat can lead to think it’s a heart attack). 
 
 ![CBT](https://user-images.githubusercontent.com/28791247/101258471-972e3f80-371a-11eb-9ea8-3f65807cd87b.png)
 
-When understanding something, notice:
-- Environment/life changes/situations: What recent changes have there been in my life (positive as well as negative)? What have been the most stressful events for me in the past year? Three years? Five years? In childhood? Do I experience any long-term or ongoing challenges (e.g., discrimination or harassment by others, physical/health challenges for me or family members, ongoing financial problems)?
-- Physical reactions: What physical symptoms am I having? (Consider general changes in energy level, appetite, pain levels, and sleep, as well as occasional symptoms such as muscle tension, tiredness, rapid heartbeat, stomachaches, sweating, dizziness, and breathing difficulties.)
-- What mood am I experimenting? What single words describe my most frequent or troubling moods (sad, nervous, angry, guilty, ashamed)?
-- What behaviors are connected to my moods? 
-- What thoughts do have? About myself? About other people? It's important to be critical about thoughts and check their accuracy. Once a mood is present, we often begin thinking additional thoughts that support and strengthen the mood - the problem is when the mood is strong we are no longer rational
+## General
+- Your feelings and thoughts are not facts nor are they representative of your identity. Separate yourself from your feelings and emotions. I am not anxiety. An anxious thought is a type of thought that can enter my brain but how I choose to respond to it and perceive it is what is going to define me. Thoughts are often distorted and not the truth especially when stressed - do you really want to be influenced by these thoughts? 
+- Be an objective observer of your thoughts and detach from a situation. Recognize the thought and try to just let it pass. “Oh, there went an anxious thought."
+- What we are naturally good at/what our strengths are - controlling, organizing analyzing can also have an impact on how our mind functions because the mind also wants to control and analyze.
+- When you want to control things: do the opposite of trying to have control and surrender
+- Don’t expect anything. If there is an expectation there is anxiety and potential disappointment 
+- At some point we’ll just be tired of worrying g and being anxious and then we just do things. Same as having a near death experience. You really only have these moments so make the most of them and all the things you fear are small in the face of having 6 months to live
+- A lot of the time, our mind is telling us we 'should' do something. Where is that voice coming from? Should for whom? Why? What if we don't? It's easy to go into auto pilot. It is easy for us to go into autopilot and our thinking becomes very narrow. 
+
+## Dealing with things
+**Accepting our thoughts**
+We are human. We have feelings and thoughts will always pop up. Acceptance involves observing your thoughts, moods, and physical reactions without making judgments about them. Be curious rather than critical. Think about the bigger picture. What are the benefits of accepting this rather than being distressed? Are you focusing on only the negative parts of this experience and not recognizing other dimensions? Are there aspects to the situation that counterbalance the negative parts? If you can accept the parts that distress you, will you be able to enjoy or appreciate the rest of your experience more easily?
+
+**Trust yourself**
+Have confidence in yourself that you can handle things. You did it before. Trust our creative mechanism to perform good
+
+**Surrender**
+Most things are not in control. Surrender to whatever will happen and just enjoy the ride. Try not to have any expectations. Flow like water. Approach things with childlike curiosity. To make the process as easy as possible, don't think about it until you are experiencing it. Accept the pain for what it is and it'll be over before you know it.
+
+**Learning experiences**
+Every hard thing we do is a learning experience. Rather than approaching it with anxiety, think: let’s see what happens. You approached the experience in a certain way. Then you evaluate how it went and you can be better next time. Have a growth mindset. It's a puzzle to solve which is exciting - it's an opportunity to learn and I am enthusiastic about figuring it out. Always keep a Beginner's Mind: If your mind is empty, it is always ready for anything; it is open to everything. In the beginner’s mind there are many possibilities; in the expert’s mind there are few.
+
+**Remember positive experiences**
+Remember the positive experiences when things turned out just fine and even if they brought their challenges, I experienced, I learned and survived. This too shall pass. 
+
+**Mememto mori**
+Be much more aware of the insignificance of it all - we are here a small amount of time. Then we’re gone. Something can happen any moment that changes absolutely everything. Then what? Enjoy the time we have on this small world. The moment is all we have
+
+**Force calm mind confidence and happiness**
+Dance, smile and remember that the world is an amazing place. Realize that performance and clarity of thought will be best in a confident and calm state. Just take things easy.
+
+**Deal with reality, build confidence and character**
+Shit does happen. We can wish things were different but we often just need to deal with reality and work with what we have left. This is what defines us, helps build self confidence and character
+
+**Ground yourself in the present moment**
+Most anxiety is about fears for the future. By being in the present moment, we don't think of the future and anxiety will decrease. Our mind will also not focus on the fears when we are in the present moment, which leads to a feeling of relaxation. Finally, one of the long-term benefits of mindfulness and acceptance is that they can help you tolerate and feel less anxiety, because you will learn to see your anxious thoughts as simply mental activity rather than as the truth. With practice, you can begin to understand your personal patterns of thinking and responding to events. You can learn that you don’t need to respond to your patterns of thinking and emotional reactions. Instead, you can simply observe them as they occur. People who practice mindfulness on a regular basis generally report greater feelings of calm, well-being, and acceptance of life’s difficulties.
+
+**Exposure**
+As we do the things we fear / we don't like, we have an opportunity to increase our confidence in our ability to cope with the situations that frighten us. Notice fears, take them for what they are just do it. We know that fear will arise but we do the thing we're set out to do anyway. The important thing is to do set up for the things and deal with them as they arise rather than planning how to deal with them.
+
+A Fear Ladder can help with this: the top of the ladder is the most scary thing that needs to be done. Build up the ladder and do things such that you are ready to face your big fear when the time is there. You should expect that your anxiety will increase when you first begin to approach on your Fear Ladder. This is a good sign that you are facing your fears
+
+A good technique is also visualization: perhaps visualize the event going well and the event going bad so that you're prepared for both. Use all senses when visualizing. Imagine what you will see, hear, smell, taste, and touch. It is also helpful to imagine what you might be thinking, feeling, and doing in the situation. 
+
+**Understanding root cause**
+What makes you feel scared or anxious? Once you know where the anxiety is coming from, you can likely calm down more.
+
+**Complete a Thought Record**
+When we feel a strong mood, complete a Thought Record to: 
+- Make sense of your emotional reactions
+- See the bigger picture and don't react with a narrow, purely negative and possibly distorted view
+- Over time, it'll help you think more flexibly. Over time this can lead to easier control of moods and thoughts 
+- By writing down a thought record, we likely decrease the perception of danger coming from our anxiety. Writing down our thinking helps us gain objectivity and stops us from taking our thoughts so seriously. 
+
+**Visualization**
+Excercise: imagine Yourself Coping
+Imagine stressful situations in great detail. What is happening? What do you see and hear? What makes me feel stressed? As you visualize the physical reactions/moods etc. How do you feel? What are you thinking? What are you doing? Do you have body sensations? Now imagine putting your techniques into effect.
+Spend several minutes imagining doing each step of your plan in detail. As you carry out each step in your imagination, pay attention to what you are doing, thinking, and feeling. How does this affect your mood? Thoughts? Behavior? Physical experience?
+Based on this imagination exercise, how confident are you (low, medium, or high) that you feel better again if you start to feel a certain way? If your confidence level is high, then your plan is probably a good one. If you confidence in your plan is low, then you want to think about what else you can add to it that will boost your likelihood of managing future challenges. If you think the plan is a good one, but you lack confidence in your skills to carry it out, the best thing to do is to continue practicing the skills in your plan of action even when you are feeling well. Ideally, you want most of your relapse reduction skills to be fairly automatic when you are doing well, so that you can rely on them to help you if you begin to feel worse.
+
+
+
+**Use techniques to cope**
+Anticipating feelings that we fear and having a plan on how to cope with them. 
+
+*Team Meetings*
+- Focus on achieving worthy goals during the week without being stuck on certain projects for too long. That way, you know you've done the work to the best of your ability. 
+- Be enthusiastic to speak about what you worked on / are working on
+- Engage in the meeting
+- When speaking, focus on getting your points across by slowing down and breathing 
+
+*Dentist*
+- Go to the dentist and simply deal with it.
+- Dental health is important to me. If I need to be fixed, it's important to get done sooner rather than later. I'm grateful it's possible to get fixed by someone who is well suited to perform these actions.
+- I don't know what will happen - I don't expect anything and I surrender. 
+- I am confident that I can handle it based on previous experience. Pain is part of the process; if the pain is too much, I will tell the dentist to stop or ask for drugs. 
+- This will pass eventually. 
+- Distract myself with music (headphones during session), mindfullness breathing, muscle relaxation. The pain is just another sensation. Another option is to embrace any discomfort, loud noise, or pain. Non-judgmentally observe it and breathe deeply.
+
+*Flying*
+- I am aware that during a flight, I can strongly feel the movements. It’s a natural phenomenon that isn’t actually dangerous looking at the statistics. Turbulence is just a bumpy road - if in a train I wouldn’t feel as bad. Realize you’re not in control any more so just let it happen and try to comfort yourself. 
+- From experience, it’ll be just fine / it will soon pass.
+
+*Public Speaking*
+- Realize it's there to stay and ultimately I need become comfortable doing it 
+- Accept the nerves for what they are: my body's response to preparing me for what's coming. They're welcome to stay - own your nerves - chin up and chest to the front.
+- It's always a learning experience. Use techniques as experiments and see how they help
+- Preparation
+  - Practice, record and with others 
+  - Visualize the events that can cause nerves and imagine how I respond to them
+- Pre presentation
+  - Stay busy to keep the mind occupied
+  - Use music and movement to feed the excitement
+- During presentation 
+  - The focus is on getting the point across. Focus on slowing down and breathing. 
+
+*Spending time for myself*
+Realize that autopilot is my default mode. When I feel like I should do something, it’s old habits that try to persuade me. The best way to break old habits is to pick up new ones and to just step away from the autopilot. That will be painful initially because our mind is trying to pull as back. The trick is to not give in. Then we gain confidence and know that we can handle it.
+
+*Dealing with hard challenges at work*
+- Growth mindset: if something is hard, there is something to be learned and I want to figure out a good of doing that. Accept the challenge as a puzzle to be fixed 
+- It's about staying relaxed and sometimes you need to sleep on the problem and then fix it in the morning. Be kind to yourself. Sometimes it just doesn't work. Put it away, go for a walk or check again in the morning. 
+- Timebox something I know is challenging. Make sure I work on multiple projects at the same time; allocate a certain amount of time to the challenge and beyond that, 'time's up' and work on something else that is easier to progress. This also helps avoiding getting stale in progress. 
+- I will be pulled into solving the challenge - try to resist that urge and lean into the pain.
+- Remember experiences where you usually always have been able to solve things it just takes time - communicate this with stakeholders to take some of the pressure away.
+- A relaxed mind is able to step back from the situation 
+- Remember that nobody demands perfection
+- Make use of my network and colleagues and don't be afraid to ask for help. 
+- I cannot take these problems personally and I cannot be so affected by them. It might be that I get into work and 9 things are broken - trying to fix everything all the time will only lead to burnout and I won't be able to see the bigger picture and e.g. support the team.
+
+
+*Panic attack*
+- Physically remove from situation - don't do what you were doing, and move
+- Force some strong body senses that break current thought patters - e.g. hold ice cubes, bite in lemon 
+- Further be strongly aware of senses that change thought patters: 5 things to see, hear, smell
+- Flex your muscles in some part then others and be aware 
+
+**Log my experiences as I do hard things**
+This journal can help me next time I experience something challenging. And this helps gathering evidence of things going well. 
+
+**Breathing**
+A related way to manage your anxiety is to practice balanced, deep breathing
+Try breathing in to a slow count of 4 and out to a slow count of 4 for four minutes
+
+**Progressive muscle relaxation**
+“Progressive muscle relaxation” is a technique in which the major muscle groups in the body are alternately tensed and relaxed. The idea is to tense and then relax the muscles in the forehead, eyes, mouth and jaw, neck, shoulders, upper back, chest, biceps, forearms, hands, stomach, buttocks, groin, legs, thighs, calves, and feet. Each muscle group is tensed for 5 seconds and then relaxed for 10–15 seconds, then tensed again for 5 seconds and relaxed again for 10–15 seconds.
+
+**Imagine a relaxing place** 
+Imagery can be used to help you calm down before you enter a situation that is likely to make you feel anxious. Imagine a relaxing place and focus on how you feel - include as many senses as possible. It's a form of meditation that teaches us to focus on pleasant images to replace negative or stressful ones. When we picture more peaceful things, such as strolling on the beach at sunset, our bodies and minds become calmer. Engaging all of our senses – smell, touch, taste, hearing, sight – can make us feel that we are actually there. As we connect fully with the peaceful image, our minds and bodies become calmer and we don’t feel as stressed. Inspiration for imagination: 
+- Walk to the top of a mountain. Birds singing, the light dancing through the tree branches, the smell of pine, the greenness of the forest, and the cool breeze as it touches your skin
+- Imagine being someone from a movie. Imagine how this person looks, the music playing in the background, and the feeling of courage in your chest.
+
+## Anxiety
+The nervousness around experiences we are going to face. Generally, its thoughts around bad things happening and thinking we're not going to be able to cope: the danger we fear is larger than our confidence in our ability to cope. When anxious, we tend to avoid situations and places where we might feel uncomfortable or anxious which makes us even more anxious when we have to do it and it doesn't help actually fixing the problem. 
+
+![Anxiety](https://user-images.githubusercontent.com/28791247/101259523-0dce3b80-3721-11eb-9473-2ce18a2003bf.png)
+
+Anxious thoughts are often covered in What Ifs: “What if I stumble over my words? What if I forget my notes? What if peo- ple think I’m stupid and don’t know what I’m talking about?” These thoughts are future-oriented and predict danger or catastrophe. 
+
+Anxiety often arises because we don’t have control over events. When we are anxious, we try to be in control or do things perfectly, in the hope that this will prevent bad things from happening. Since we don’t have confidence that we can cope with the dangers that worry us, it makes sense that we try to prevent them. The problem with this approach is that it is really impossible to do things perfectly or have complete control over what will happen in the future. Thus learning to boost our confidence that we can cope when things go wrong is a more helpful approach to managing anxiety than trying to prevent things from going wrong.
+
+Anxiety can be reduced either by decreasing your perception of danger or by increasing your confidence in your ability to cope with the things you fear. An important part of overcoming anxiety is learning to tolerate feeling anxious
+
+## Stress and panic attacks
+- The autonomic nervous consists of the 
+  - Sympathetic nervous system. This gets activated when alertness and energy is required - i.e. facing danger. Increase heart beat, heavier breathing. This is the fight or flight state.
+  - Parasympathetic nervous system is in rest, slows heartbeat. This is the rest state. 
+- Stress (activation of the sympathetic nervour system) is often very helpfull. When we are in danger, stress allows us to perform at our best by providing our body with energy. 
+- The sympathetic nervous system / the fight-or-flight response can be triggered by both real and imaginary threats. A real threat can be an incoming bus as a pedestrian. Imaginary can be the worry of not finding a partner. In both cases, this sytem is triggered and fear hormonos are released (primarily adrenaline), increasing the heart rate, breathing etc to provide us with the energy to deal with the situation. Just thinking stressful thoughts can cause our body to release stress hormones as it gets ready to face a threat. It’s hard to get out of the situation as the mind is trying to solve a problem and telling your mind that a problem needs to be solved even though there isn’t anything to solve. 
+- When stress is released from thoughts, we notice the effect in our bodies. We can then worry about how the way we are feeling, causing a chain reaction that can result in a panic attack. 
+- From this, secondary fears can also develop – fear of bodily sensations caused by anxiety – commonly referred to as fear of fear. The unpleasant bodily sensations of anxiety and panic can then be feared as much as, or even greater than, the situation or event that triggered the anxiety response.
 
 ## Thought record 
-When we feel a strong mood, complete a Thought Record to : 
-- Make sense of your emotional reactions
-- See the bigger picture and don't react with a narrow and possibly distorted view
-- Over time, it'll help you think more flexibly. Over time this can lead to easier control of moods and thoughts 
-- By writing down a thought record, we likely decrease the perception of danger coming from our anxiety. 
-
 A Thought Record consists of: 
 1. Situation: Who, What, When, Where
 2. Moods
   - What did you feel? (moods are described in single words). See below for tips on recognizing moods.
   - Rate each mood (0-100%)
-  - Any physical reactions caused by the mood?
+  - Any physical reactions caused by the mood? (Consider general changes in energy level, appetite, pain levels, and sleep, as well as occasional symptoms such as muscle tension, tiredness, rapid heartbeat, stomachaches, sweating, dizziness, and breathing difficulties.)
 3. Automatic Thoughts 
   - What was going through your mind in the situation? Any thoughts, beliefs, images, memories and meanings attached to the situation. We often don’t plan/intend these thoughts, they just happen. See the list below for questions that help identify automatic thoughts. 
+  - Are these distorted any way? Refer to the list of cognitive distortions below.
 4. Evidence that supports the hot thought 
 5. Evidence that does not support the hot thought. See below for tips
 6. Alternative / Balanced Thoughts 
-   - Write an alternative or balanced thought. See below for tips around this
+   - Write an alternative /objective / balanced thought. See below for tips around this
    - Rate how much you believe each thought 
 7.	Rate moods now: Rate column 2 moods and any new moods 
+
+**Notes around Thought Records**
+- When you are down on yourself, you might find it helpful to ask what you actually mean when you try to define your true identity with a negative label such as “a fool,” ”a bad partner” etc. Once you begin to pick these destructive labels apart, you will find they are arbitrary and meaningless. They actually cloud the issue, creating confusion and despair. Once rid of them, you can define and cope with any real problems that exist.
+- You do not try to cheer yourself up by rationalizing or saying things you do not believe are objectively valid. Instead, try to recognize the truth. If what you write down in the Rational Response column is not convincing and realistic, it won’t help you one bit. For example, in answer to “I never do anything right,” you could write, “Forget that! I do some things right and some wrong, just like everyone else. I fouled up on my appointment, but let’s not blow this up out of proportion.”
+- Suppose you cannot think of a rational response to a particular negative thought. Then just forget about it for a few days and come back to it later. You will usually be able to see the other side of the coin. The more practice you get in thinking of rational responses to irrational thoughts, the easier this will become. 
 
 **How to identify moods**
 - Pay attention to the body: tightness, closed
@@ -73,7 +200,7 @@ A Thought Record consists of:
 **Finding evidence**
 Think of your automatic thoughts as hypotesis. Don't take them as truth and look at them for what they are - thoughts made up in my mind that are likely strongly enforced because of the mood I'm feeling 
 
--	Have I had any experiences or is there any information that suggests that this thought is not completely true all the time?
+-	Have I had any experiences or is there any information that suggests that this thought is not completely true all the time and maybe only happened a few times in the past and it went well other times?
 -	If my best friend or someone I loved had this thought, what would I tell them?
 -	If my best friend or someone who cares about me knew I was thinking this thought, what would they say to me? What factual evidence would they point out to me that suggests my hot thought is not 100% true?
 -	Are there any small pieces of information that contradict my hot thought that I might be ignoring or discounting as not important?
@@ -83,7 +210,7 @@ Think of your automatic thoughts as hypotesis. Don't take them as truth and look
 -	When I am not feeling this way, do I think about this type of situation any differently? How? What factual information do I focus on?
 -	When I have felt this way in the past, what did I think about that helped me feel better?
 -	Five years from now, if I look back at this situation, will I look at it any differently? Will I focus on any different part of my experience?
--	Am I jumping to any conclusions in columns 3 and 4 that are not completely justified by the facts?
+-	Am I jumping to any conclusions in columns 3 and 4 that are not completely justified by the facts? Do I have proof for the thoughts?
 -	Am I blaming myself for something over which I do not have complete control? What facts can I write down that reflect a more fair, compassionate, or kind view of my responsibility?
 
 **Questions to help arrive at alternative or Balanced thinking**
@@ -97,30 +224,8 @@ What you want to do is collect evidence in favor of the alternative thought unti
 **Thought Record (Mind Over Mood)**
 ![CBT](https://user-images.githubusercontent.com/28791247/106709751-de3a9300-65ec-11eb-831c-32333a9b8065.png)
 
-## Dysfunctional Thought Record 
-The most basics steps to take: 
-- Zero in on those automatic negative thoughts and write them down. Don’t let them buzz around in your head; snare them on paper!
-- Read over the list of ten cognitive distortions. Learn precisely how you are twisting things and blowing them out of proportion.
-- Substitute a more objective thought that puts the lie to the one which made you look down on yourself. As you do this, you’ll begin to feel better. You’ll be boosting your self-esteem, and your sense of worthlessness (and, of course, your depression) will disappear.”
-
-
-
-Notes Dysfunctional Thought Record:
-- Writing down our thinking helps us gain objectivity and stops us from taking our thoughts so seriously. 
-- It is crucial to write down your automatic thoughts and rational responses; do not try to do the exercise in your head as that will take twists and turns you don't want to be involved with. Writing them down forces you to develop much more objectivity than you could ever achieve by letting responses swirl through your mind.”
-- When you are down on yourself, you might find it helpful to ask what you actually mean when you try to define your true identity with a negative label such as “a fool,” ”a bad partner” etc. Once you begin to pick these destructive labels apart, you will find they are arbitrary and meaningless. They actually cloud the issue, creating confusion and despair. Once rid of them, you can define and cope with any real problems that exist.
-- You do not try to cheer yourself up by rationalizing or saying things you do not believe are objectively valid. Instead, try to recognize the truth. If what you write down in the Rational Response column is not convincing and realistic, it won’t help you one bit. For example, in answer to “I never do anything right,” you could write, “Forget that! I do some things right and some wrong, just like everyone else. I fouled up on my appointment, but let’s not blow this up out of proportion.”
-- Suppose you cannot think of a rational response to a particular negative thought. Then just forget about it for a few days and come back to it later. You will usually be able to see the other side of the coin. The more practice you get in thinking of rational responses to irrational thoughts, the easier this will become. 
-
 **Dysfunctional Thought Record (Feeling Good)**
 ![Dysfunctional Thoughts Record](https://user-images.githubusercontent.com/28791247/106709356-49379a00-65ec-11eb-849b-6d669ce97442.png)
-
-## Accepting our thoughts
-Sometimes, we need to step back and let go of our critical self. Acceptance of thoughts and moods is sometimes a worthwhile alternative to identifying, evaluating, and changing thoughts. Acceptance involves observing your thoughts, moods, and physical reactions without making judgments about them. Be curious rather than critical. 
-Think about the bigger picture. What are the benefits of accepting this rather than being distressed? Are you focusing on only the negative parts of this experience and not recognizing other dimensions? Are there aspects to the situation that counterbalance the negative parts? If you can accept the parts that distress you, will you be able to enjoy or appreciate the rest of your experience more easily?
-
-## Handling physical reactions
-- Be in touch with your body and understand the feeling. Be curious about it
 
 ## Testing our assumptions
 Often, anxiety is described as 'If...Then' statements. "If I speak - people will think X"
@@ -155,107 +260,6 @@ Other things that can help:
 - “Gratitude” means thinking about and being thankful for experiences or qualities in ourselves, other people, and the world. Start a gratitude journal that covers all this. It is more helpful to write about a few things in depth than to try to make a long list of things you are grateful for. As you practice more with gratitude, also considering mentioning what we’re grateful for to other people. 
 - In addition to being grateful for the positives in our lives, another way to activate and support our new positive core beliefs is to do kind things for other people. Examples include opening the door for someone, buying lunch for a friend, smiling at a stranger, letting someone go ahead in a line, visiting an ill friend, giving a compliment, and helping a neighbor with shopping or home repairs
 
-## Anxiety
-The nervousness around experiences we are going to face. Generally, its thoughts around bad things happening and thinking we're not going to be able to cope: the danger we fear is larger than our confidence in our ability to cope. When anxious, we tend to avoid situations and places where we might feel uncomfortable or anxious which makes us even more anxious when we have to do it and it doesn't help actually fixing the problem. 
-
-![Anxiety](https://user-images.githubusercontent.com/28791247/101259523-0dce3b80-3721-11eb-9473-2ce18a2003bf.png)
-
-Anxious thoughts are often covered in What Ifs: “What if I stumble over my words? What if I forget my notes? What if peo- ple think I’m stupid and don’t know what I’m talking about?” These thoughts are future-oriented and predict danger or catastrophe. 
-
-Anxiety often arises because we don’t have control over events. When we are anxious, we try to be in control or do things perfectly, in the hope that this will prevent bad things from happening. Since we don’t have confidence that we can cope with the dangers that worry us, it makes sense that we try to prevent them. The problem with this approach is that it is really impossible to do things perfectly or have complete control over what will happen in the future. Thus learning to boost our confidence that we can cope when things go wrong is a more helpful approach to managing anxiety than trying to prevent things from going wrong.
-
-Anxiety can be reduced either by decreasing your perception of danger or by increasing your confidence in your ability to cope with the things you fear. An important part of overcoming anxiety is learning to tolerate feeling anxious
-
-### How to cope with anxiety 
-**Understanding root cause**
-You have to identify the root of your performance anxiety. Are you worried that: You don’t know the material? You can’t answer a difficult question? Your presentation is boring? You don’t come off as expert? You look stupid? You sound unpolished? Your material doesn’t flow? Nobody will show up? People don’t understand you? The audience doesn’t care? Once you know where the anxiety is coming from, you can likely calm down more.
-
-It may seem obvious, but the first thing to figure out is what exactly is making you feel stressed and to look honestly at how you are reacting in your mind, heart and body. It can help to sit down and write the answers to these questions:
-
-- What makes me feel stressed? Think about large and small triggers, since even something that seems trivial can spark a stress spiral. Examples of small triggers might be misplacing your keys/wallet/glasses, being late for an appointment, or getting stuck behind a slow driver.
-- What thoughts and emotions arise when I begin to feel stressed?
-- What is happening in my body when I begin to feel stressed?
-
-**Exposure**
-To overcome anxiety, we need to learn to approach the situations or people we avoid. Through these experiences, we have an opportunity to increase our confidence in our ability to cope with the situations that frighten us. 
-
-A Fear Ladder can help with this: the top of the ladder is the most scary thing that needs to be done. Build up the ladder and do things such that you are ready to face your big fear when the time is there. You should expect that your anxiety will increase when you first begin to approach on your Fear Ladder. This is a good sign that you are facing your fears
-
-A good technique is also visualization: perhaps visualize the event going well and the event going bad so that you're prepared for both. Use all senses when visualizing. Imagine what you will see, hear, smell, taste, and touch. It is also helpful to imagine what you might be thinking, feeling, and doing in the situation. 
-
-**Mindfullness and acceptance**
-Most anxiety is about fears for the future. By being in the present moment, we don't think of the future and anxiety will decrease. Our mind will also not focus on the fears when we are in the present moment, which leads to a feeling of relaxation. Finally, one of the long-term benefits of mindfulness and acceptance is that they can help you tolerate and feel less anxiety, because you will learn to see your anxious thoughts as simply mental activity rather than as the truth. With practice, you can begin to understand your personal patterns of thinking and responding to events. You can learn that you don’t need to respond to your patterns of thinking and emotional reactions. Instead, you can simply observe them as they occur. People who practice mindfulness on a regular basis generally report greater feelings of calm, well-being, and acceptance of life’s difficulties.
-
-**Breathing**
-A related way to manage your anxiety is to practice balanced, deep breathing
-Try breathing in to a slow count of 4 and out to a slow count of 4 for four minutes
-
-**Progressive muscle relaxation**
-“Progressive muscle relaxation” is a technique in which the major muscle groups in the body are alternately tensed and relaxed. The idea is to tense and then relax the muscles in the forehead, eyes, mouth and jaw, neck, shoulders, upper back, chest, biceps, forearms, hands, stomach, buttocks, groin, legs, thighs, calves, and feet. Each muscle group is tensed for 5 seconds and then relaxed for 10–15 seconds, then tensed again for 5 seconds and relaxed again for 10–15 seconds.
-
-**Imagery** 
-Imagery can be used to help you calm down before you enter a situation that is likely to make you feel anxious. Imagine a relaxing place and focus on how you feel - include as many senses as possible. It's a form of meditation that teaches us to focus on pleasant images to replace negative or stressful ones. When we picture more peaceful things, such as strolling on the beach at sunset, our bodies and minds become calmer. Engaging all of our senses – smell, touch, taste, hearing, sight – can make us feel that we are actually there. As we connect fully with the peaceful image, our minds and bodies become calmer and we don’t feel as stressed. Inspiration for imagination: 
-- Walk to the top of a mountain. Birds singing, the light dancing through the tree branches, the smell of pine, the greenness of the forest, and the cool breeze as it touches your skin
-- Imagine being someone from a movie. Imagine how this person looks, the music playing in the background, and the feeling of courage in your chest.
-
-**Other anxiety notes**
-- Separate yourself from your feelings and emotions. I am not anxiety. An anxious thought is a type of thought that can enter my brain but how I choose to respond to it and perceive it is what is going to define me.
-- I’ve found it’s beneficial to learn to recognize the thought and try to just let it pass. “Oh, there went an anxious thought."
-- Positive thinking is not a good solution as it doesn’t address the problem and doesn’t prepare us for the feelings we’ll feel in the moment (and we’d feel bad for feeling a certain way). A better solution is to anticipate our anxious feelings and have a plan on how to cope with them. 
-- Only engage in positive self talk. Recognize negative automatic thoughts and write it down or think about it
-  - Why do you believe that, what proof do you have?
-  - Can it be you were mistaken or are basing this on a single or even just a few past experiences?
-  - Do you past the same harsh judgment on other people in a similar situation or do you empathize with them instead? 
-  - If this feeling is not true why act like is if there is no good reason to believe it.
-  - Step aside of yourself and ask yourself what a good friend would tell you
-- When you want to control things: do the opposite of trying to have control 
-- Don’t expect anything. If there is an expectation there is anxiety and potential disappointment 
-- Be able to detach from a situation and look at the situation from outside of yourself 
-- If I want something, do the work today that lets me have it. No need to worry about it
-- When overthinking, either become present and think of something else or refer to notes already written and possibly journal a bit
-- Be much more aware of the insignificance of it all - we are here a small amount of time. Then we’re gone. Something can happen any moment that changes absolutely everything. Then what? Enjoy the time we have on this small world. The moment is all we have
-- Shit does happen. We can wish things were different but we often just need to deal with reality and work with what we have left 
-- To reduce worry, assume that what you fear the most is certainly going to happen 
-- Think your fears though to their logical conclusion. Perfectionists often think catastrophically, ‘If i make a mistake in front of my colleagues then that will be the end of everything’, without really thinking through what ‘the end of everything’ would actually look like. Consider the worst possible outcome of your fear, then be honest with yourself about how likely that scenario actually is. Then you can start to consider how such an event would actually play out and how bad or not it would actually be.
-- At some point we’ll just be tired of worrying g and being anxious and then we just do things. Same as having a near death experience. You really only have these moments so make the most of them and all the things you fear are small in the face of having 6 months to live
-- Sing, smile when anxious 
-
-## Stress and panic attacks
-- The autonomic nervous consists of the 
-  - Sympathetic nervous system. This gets activated when alertness and energy is required - i.e. facing danger. Increase heart beat, heavier breathing. This is the fight or flight state.
-  - Parasympathetic nervous system is in rest, slows heartbeat. This is the rest state. 
-- Stress (activation of the sympathetic nervour system) is often very helpfull. When we are in danger, stress allows us to perform at our best by providing our body with energy. 
-- The sympathetic nervous system / the fight-or-flight response can be triggered by both real and imaginary threats. A real threat can be an incoming bus as a pedestrian. Imaginary can be the worry of not finding a partner. In both cases, this sytem is triggered and fear hormonos are released (primarily adrenaline), increasing the heart rate, breathing etc to provide us with the energy to deal with the situation. Just thinking stressful thoughts can cause our body to release stress hormones as it gets ready to face a threat.
-- When stress is released from thoughts, we notice the effect in our bodies. We can then worry about how the way we are feeling, causing a chain reaction that can result in a panic attack. 
-- From this, secondary fears can also develop – fear of bodily sensations caused by anxiety – commonly referred to as fear of fear. The unpleasant bodily sensations of anxiety and panic can then be feared as much as, or even greater than, the situation or event that triggered the anxiety response.
-
-
-**Dealing with panic attacks**
-- Physically remove from situation - don't do what you were doing, and move
-- Force some strong body senses that break current thought patters - e.g. hold ice cubes, bite in lemon 
-- Further be strongly aware of senses that change thought patters: 5 things to see, hear, smell
-- Flex your muscles in some part then others and be aware 
-
-## Flying 
-- I am aware that during a flight, I can strongly feel the movements. It’s a natural phenomenon that isn’t actually dangerous looking at the statistics. Turbulence is just a bumpy road - if in a train I wouldn’t feel as bad. 
-- When there is turbulence, try to comfort yourself. Realise it’s okay to feel that way because you’re not in control. However, also realize that the pilots are the right people to look after your journey. Realize you’re not in control any more so just let it happen. 
-- Tons of flights happen daily successfully.
-- From experience, it’ll be just fine / it will soon pass
-- Imagine how role models would behave
-
-## Dentist
-- As part of life, I need to look after my health. Dental health is part of that and this is done by going to the dentist 1x a year for a check-up and a clean up. 
-- I prepare for this by cleaning my teeth 2x a day and flossing. That’s all I can do. What has happened with my teeth in the meantime isn’t in my control so until I go to the dentist, I shouldn’t worry about it. I accept whatever happens - I surrender 
-- If something happens and I need to be fixed, it’s amazing that it’s possible. I am grateful that health care is at a state where I can be fixed, probably under drugs to avoid the pain. I realize something needs happening for my own benefit and then I surrender to the event being treated by someone who knows what they’re doing. I’m aware it will hurt and feel painful but I accept that as part of the process - it’s what makes me better and I’ll come out stronger eventually - this too shall pass. 
-- Approach is with curiosity and to just see what happens because we don't know what it'll be like. Don't have any expectations. 
-- Imagine how role models would behave
-- “Just get it over with sooner rather than later” 
-- Life isn’t always about having no pain - it’s all part of life. 
-- Put in headphones to distract myself 
-- Focus on your breathing - perhaps tense muscles and pay full attention to those and then others. The pain is just another sensation. Another option is to embrace any discomfort, loud noise, or pain. Non-judgmentally observe it and breathe deeply.
-- Man up 
-- To get over the dentist go to the dentist and deal with it. You’re going to go anyway so why worry about it
-- Decide and then surrender because it’s no longer in control. In the meantime use techniques: mindfulness and distraction in the form of music to survive
 
 ## Cognitive distortions summary
 1. ALL-OR-NOTHING THINKING: You see things in black-and-white categories.If your performance falls short of perfect, you see yourself as a total failure.
@@ -270,7 +274,6 @@ Imagery can be used to help you calm down before you enter a situation that is l
 8.SHOULDSTATEMENTS: You try to motivate yourself with shoulds and shouldn'ts,as if you had to be whipped and punished before you could be expected to do anything. "Musts" and "oughts" are also offenders. The emotional consequence is guilt. When you direct should statements toward others, you feel anger, frustration, and resentment.
 9. LABELING AND MISLABELING: This is an extreme form of overgeneralization.Instead of describing your error,you attach a negative label to yourself: "I'm a loser."When someone else's behavior rubs you the wrong way, you attach a negative label to him: "He's a goddam louse." Mislabeling involves describing an event with language that is highly colored and emotionally loaded.
 10. PERSONALIZATION: You see yourself as me cause of some negative external event which in fact you were not primarily responsible for.
-
 
 ## Cognitive distortions
 Cognitive distortions are simply ways that our mind convinces us of something that isn’t really true. These inaccurate thoughts are usually used to reinforce negative thinking or emotions — telling ourselves things that sound rational and accurate, but really only serve to keep us feeling bad about ourselves. The more strong our emotions, the more twisted our thinking becomes. 
@@ -582,21 +585,5 @@ It's a common experience to not be able to identify your emotions. I've found it
 
 Also, realize it's okay - some feelings and emotions cannot be labelled. What's important isn't what you call it, but what you can notice from the subtleties of how we feel, as sensations in your body. This is what allows us to deeply get in touch with ourselves.
 
-
-
-
 **Circumplex model of emotions**
 ![Model of emotions](https://user-images.githubusercontent.com/28791247/107112647-104c2f00-6851-11eb-99b7-21ae5acd3987.png)
-
-
-
-
-
-
-
-
-
-
-
-
-

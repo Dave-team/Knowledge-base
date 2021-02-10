@@ -97,10 +97,11 @@
 You have to identify the root of your performance anxiety. Are you worried that: You don’t know the material? You can’t answer a difficult question? Your presentation is boring? You don’t come off as expert? You look stupid? You sound unpolished? Your material doesn’t flow? Nobody will show up? People don’t understand you? The audience doesn’t care? Once you know where the anxiety is coming from, you can likely calm down more. 
 
 - When presenting, being focused on yourself will cause anxiety, voice issues etc. Why do you present? To get a point across you believe in. The only focus should be to get your point across and we want to deliver value to the audience. 
+- Chest to the front and chin up. Be comfortable being nervous if you are. You are a lot more than the performance at this single presentation. Own it. Nerves are a natural response of my body preparing me for the moment that's to come. 
 - Speak as often and as much as possible 
 - Accept that there will be nerves but you'll present and do your best regardless. 
 - Every presentation is an experiment. Each time you try to do the best you can prepare for. I know I need to speak in public and I know I struggle with it. I will feel nerves and there is some imposter syndrome. However, each time I try to prepare, do what I can control and that's it. The rest just happens and needs to be accepted - one I do, there will be a sense of calm which will automatically improve performance. 
-- Let go of anything that is not within control: Maybe it will go well, maybe it won't. I'd like it if it did, but it's not the end of the world if it doesn't, and it's not even really under my control. So relax, and enjoy it.
+- Let go of anything that is not within control: Maybe it will go well, maybe it won't. I'd like it if it did, but it's not the end of the world if it doesn't, and it's not even really under my control. So relax, realize this will pass and enjoy it.
 - Over time, I will be established as an authority and need to speak frequently both at the company as well as larger events – each presentation is small compared to the next. And at each presentation I am representing my own brand
 - Be grateful for opportunities you get (e.g. when presenting to be higher up the foodchain). Have the strong tendency to prove yourself and get the word out 
 - Visualize yourself giving plenty presentations being good at it and loving to do it. 
@@ -113,14 +114,34 @@ You have to identify the root of your performance anxiety. Are you worried that:
     - Structure of the talk and how slides are designed
 
 Pratical tips on the day: 
+- Stay focused on other goals before the moment
 - Some nerve reducing tactics pre presentation: 
   - Meditation
   - Breathwork
   - Walks
   - Listen to music
   - Speak to as many people as possible to reduce the pressure
+  - Power pose in the bathroom
 - Distract yourself when others are speaking and you're not up yet: take notes, focus on your breath, engage, use a repetitive mantra
 - A great tactic is to start off with interaction with the audience. This should massively drop the nerves during the rest of the presentation
+
+Experiences BI monthly presentation
+Days leading to the presentation: fear of fear - fear of my anxiety impacting the presentation. I know now that if I focus on the techniques such as slowing down and breathing, I can ground myself and not let the nerves carry my presentation. And it helps to stay busy as that ensures we don't have the time to dwell on the worries. And just realize that we're going to die anyway so it makes sense to just get the most out of all situations. 
+
+I also spent more time than usual trying to visualize the logitistics. E.g. I can be influenced by seeing senior people or seeing people seemingly not enjoying the presentation. I visualized those instances and my response. Oh - the CFO is here - great he is putting time in this - I expected this. Oh - this person looks bored - he's probably thinking about it. Avoid surprises and avoid getting caried away in this way. 
+
+Pre presentation: excited. This is the body preparing for giving a good performance. It releases hormoses that cause increased heartbeat, increased breathing and great alertness. This stress is good - no need to change it or try to control it. Used music and movement to feed in the excitement and not get carried away by it. Was calm by myself when I started to speak. 
+
+Became more nervous as Nikita was presenting. Listening with awareness I to what he was saying helped me not being in my head. Sometimes I had judgement around how well he was presenting which increased my anxiety.
+
+When axiety rose, I: 
+- Took a deep breath trying to ground myself
+- I told myself I’m doing great so far 
+- I saw the fun in what we’re doing and I told myself I’m excited to speak (as a mantra), I'll try to slow down and deliver a good presentation regardless of how the others perform. This is again feeding in to the excitement - it's a choice to like what I was doing. Flow like water and enjoy the ride. 
+- When the body was reacting and feelings of nerves increased I changed my body language to be more open and focus on the breath. 
+
+During the presentation, I focused most of all on slowing down and ensuring I paused enough for the content to land. 
+
 
 ## Virtual meetings
 - Ask people to add questions in the chat to avoid distractions 

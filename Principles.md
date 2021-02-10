@@ -89,6 +89,7 @@ Have a personal philosophy and then live by it. It becomes the criterion by whic
   - What did I enjoy when I was younger? 
 - Hobbies that work well for me: Where I enjoy the process. I.e. not just liking the idea of being good at something, but visualizing that I'll also enjoy the process. 
 - A main part in my belief system is that of balance. It’s not about doing something 100% and only ever doing that. It’s about making time for many different things
+- Bring my strenths to activites. I tend to learn and analyze. E.g. bring skills to fiction. Learn character development, understand the language and the building of sentences.
 
 ## The pyramid to achieving the right things
 - Personal manisfesto: what's most important in my life? Who you are, what you stand for, what you want out of life?
@@ -313,3 +314,76 @@ The goals we should strive for are those that have no endpoint, just continuous 
 - After breakup message: I’m 27. There really is more than enough time to find someone and settle down, get married and have kids. And before that, enjoy your time being single. Focus on advancing your career, become this more social person, make new friends, pursue new hobbies and just generally really be more of an independent man with character who is happy with who he is. Someone who isn’t obsessed around getting a response from someone else. Someone who lets go of things he doesn’t control. Someone who leads by example. You cannot depend on a relationship for happiness because one way or another, things will mess up. So ALWAYS live an independent happy life - then if someone joins that life, all the better. Just do not change for anything or anyone
 
 ![Memex](https://user-images.githubusercontent.com/28791247/104088013-9594f180-525b-11eb-8d04-1eaf6c8d109f.jpg)
+
+## Life experiment framework
+- Observations—What are you observing in your life or business that you want to improve?
+- Knowns—What have you learned from past Experiments that might be related to your observations?
+- Hypotheses—Based on what you’ve observed, what situations or factors might cause or contribute to your observations?
+- Tests—What will you try or change to improve your situation? Which hypotheses will this experiment Test?
+- Results—What happened after each Test? Does it support or disconfirm the hypothesis?
+
+Here are a few questions to help you discover things worth Testing:
+- How much sleep do you need to feel rested and alert?
+- Which foods make you feel energetic after eating? Which foods make you feel ill or lethargic?
+- When do you do your most productive work? Are there any patterns in your productivity?
+- When do you get your best ideas? What are you doing when they occur to you?
+- What is your biggest source of stress or concern? When do you start worrying, and why?
+
+Consciously change your approach to one of these areas of your life and Externalize your results. If you find a change useful, keep doing it—if not, stop doing it and try something else. Testing is the best way to ensure that your life gets better over time. By constantly trying new things, you’re learning what works for you and what doesn’t. Over time, you’ll discover Patterns—things that make your life better and things that make your life worse. The results of your Experiments Accumulate, until they inevitably produce the results you want.
+
+## 49 questions to improve results 
+“DO I USE MY BODY OPTIMALLY?
+- What is the quality of my current diet?
+- Do I get enough sleep?
+- Am I managing my energy well each day?
+- How well am I managing daily stress?
+- Do I have good posture and poise?
+- What can I do to improve my ability to observe the world around me?”
+
+“DO I KNOW WHAT I WANT?
+- What achievements would make me really excited?
+- What “states of being” do I want to experience each day?
+- Are my priorities and values clearly defined?
+- Am I capable of making decisions quickly and confidently?
+- Do I consistently focus my attention on what I want versus what I don’t want?”
+
+“WHAT AM I AFRAID OF?
+- Have I created an honest and complete list of the fears I’m holding on to?
+- Have I confronted each fear to imagine how I would handle it if it came to pass?
+- Am I capable of recognizing and correcting self-limitation?
+- Am I appropriately pushing my own limits?”
+
+“IS MY MIND CLEAR AND FOCUSED?
+- Do I systematically externalize (write or record) what I’m thinking about?
+- Am I making it easy to capture my thoughts quickly, while as I have them?
+- What has my attention right now?
+- Am I regularly asking myself appropriate guiding questions?
+- Do I spend most of my time focusing on a single task, or am I constantly flipping between multiple tasks?
+- Do I spend enough time actively reflecting on my goals, projects, and progress?”
+
+“AM I CONFIDENT, RELAXED, AND PRODUCTIVE?
+- Have I found a planning method that works for me?
+- Am I “just organized enough”?
+- Do I have an up-to-date list of my projects and active tasks?
+- Do I review all of my commitments on a regular basis?
+- Do I take regular, genuine breaks from my work?
+- Am I consciously creating positive habits?
+- Am I working to shed nonproductive habits?
+- Am I comfortable with telling other people “no”?”
+
+“HOW DO I PERFORM BEST?
+- What do I particularly enjoy?
+- What am I particularly good at doing?
+- What environment(s) do I find most conducive to doing good work?
+- How do I tend to learn most effectively?
+- How do I prefer to work with and communicate with others?
+- What is currently holding me back?”
+
+“WHAT DO I REALLY NEED TO BE HAPPY AND FULFILLED?
+- How am I currently defining “success”?
+- Is there another way of defining “success” that I may find more fulfilling?
+- How often do I compare myself with my perceptions of other people?
+- Am I currently living below my means?
+- If I could only own one hundred things, what would they be?
+- Am I capable of separating necessity and luxury?
+- What do I feel grateful for in my life and work?”

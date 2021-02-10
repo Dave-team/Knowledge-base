@@ -60,6 +60,11 @@ Pluralistic Ignorance:  Phenomenon where a group goes along with a norm, even th
 
 Subselves: We use different mental processes in different situations, so each of us is not a single character but a collection of different characters, who take turns to commandeer the body depending on the situation. There is an office “you”, a lover “you”, an online “you”, etc.
 
+Excessive self regard: when we overestimate our own capabilities, especially when we have little experience. The more incompetent someone, the less they realize they’re incompetent  
+
+Hedonic treadmill: we pursue things because we think they will make us happy. When we reach that, we feel pleasure and success for a very short time and then our success no longer gives us pleasure. As a result, we seek something new and the cycle repeats. 
+
+Attribution error: when others screw up we blame character. When we screw up we blame circumstance. 
 
 ## Negotiation
 The Third Story — The Third Story is one an impartial observer, such as a mediator, would tell; it’s a version of events both sides can agree on.
@@ -148,7 +153,7 @@ Hindsight Bias — The inclination, after an event has occurred, to see the 
 
 Anchoring A cognitive bias that describes the common human tendency to rely too heavily on the first piece of information offered (the “anchor”) when making decisions. 
 
-Incentive bias - People do what they perceive is in their best interest and are biased by incentives.
+Incentive bias - People do what they perceive is in their best interest and are biased by incentives: don’t ask the barber if you need a haircut  
 
 First conclusion bias: the idea that the first idea gets in a mind and then the mind shuts. This is dangerous – it can lead us to accept erroneous results and cease asking questions
 
@@ -167,6 +172,10 @@ Optimism bias - You overestimate the likelihood of positive outcomes
 Pessimism bias - You overestimate the likelihood of negative outcomes.
 
 In-group bias - You unfairly favor those who belong to your group.
+
+Sbsence bias - we can't identify what we can't observe.
+
+Model bias: the assumption that our idea or model is the best. Instead, we must remember there is more than one way to get something done and good ideas can come from everywhere 
 
 
 ## Thinking
@@ -265,6 +274,8 @@ Pygmalion Effect — The phenomenon whereby higher expectations lead to an i
 Zero Tolerance — Strict punishment for infractions of a stated rule, with the intention of eliminating undesirable conduct.
 
 
+
+
 ## Systems
 Theory of constraints —a management paradigm that views any manageable system as being limited in achieving more of its goals by a very small number of constraints. TOC adopts the common idiom "a chain is no stronger than its weakest link". This means that processes, organizations, etc., are vulnerable because the weakest person or part can always damage or break them or at least adversely affect the outcome.
 
@@ -272,7 +283,13 @@ Bottleneck – the place at which a flow is stopped and holding everything back 
 
 A cascading failure is a process in a system of interconnected parts in which the failure of one or few parts can trigger the failure of other parts and so on.
 
+Garbage in, garbage out. Give a system bad input and will return bad output 
 
+Refactoring is the process of changing a system to improve efficiency without changing the output of the system. Refactoring starts by Deconstructing a process or system, then looking for Patterns. What are the critical processes that absolutely must be done right in order to achieve the desired objective? Do those processes have to be completed in a certain order? What are the current Constraints? What appears to be particularly important? Collect as much information about how the system works as you can, then sit with it for a while.
+
+The paradox of automation: the more automated a system, the more important it is for humans to have an eye out and intervene when necessary
+
+The irony of automation: the more automated a system, the less people have to do and the less attention the will have 
 
 ## Business
 Minimum Viable Product — A product with just enough features to gather validated learning about the product and its continued development.
@@ -506,6 +523,8 @@ Fear of Missing Out (FOMO) — A pervasive apprehension that others might be
 Murphy’s Law — Anything that can go wrong, will.
 
 Hofstadter’s Law, It always takes longer than you expect, even when you take into account Hofstadter’s Law.
+
+Planning fallacy: people underestimate how long projects take. Large projects have many interdependencies which increases the risk of things not going according to plan
 
 Parkinson’s Law — Work expands so as to fill the time available for its completion.
 

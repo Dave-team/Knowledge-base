@@ -26,6 +26,7 @@ As you watch your thoughts, you realize how many of them are fear based. The mom
 - To be more effective in my thoughts about work and to realize in better fashion what the right thing to do is
 - The first thing to realize is you can observe your mental state. Meditation doesn’t mean you’re suddenly going to gain the superpower to control your internal state. The advantage of meditation is recognizing just how out of control your mind is. 
 - Let's you refocus on what matters. Taking a breather before going on autopilot makes me consider what I actually want to do next. And if I then do something first that breaks the autopilot old habits, I may find that I really enjoy it. Being aware that it’s your old routines appealing. Be aware that it’s your autopilot. Recognise that you want to do the thing but hold off doing it until it comes natural
+- Able to be fully aware in the moment and do exactly what needs to be done on that thing I'm working on. 
 
 **How mindfulness changes the brain**
 - Enlarges the prefrontal cortex. This area of the brain is associates with higher order brain functions such as awareness, concentration and decision-making
@@ -34,7 +35,7 @@ As you watch your thoughts, you realize how many of them are fear based. The mom
 ## Types of mindfullness practices
 - Being fully engaged in activity - walking outside, brushing teeth, writing, taking a shower, eating, drinking tea. Do these things with present moment awareness, interest and care. 
 - Regularly taking a pause from what we're doing and tune into our breathing, our senses, our moods how our bodies feel.
-- Purposefully engaging in activity. Focus on something and describe it in as much detail as possible. How it feels, looks, tastes, sounds. From all different angles in different contexts. 
+- Purposefully engaging in activity. Focus on something and describe it in as much detail as possible. How it feels, looks, tastes, sounds. From all different angles in different contexts. And don't judge it - when listening to raindrops, focus on how the sounds are distinguishable rather than directly qualifying them as raindrops.
 - Relax, look around you and just sit. Be amazed at how beautiful things are. How far we’ve come in our lives and in the universe and be grateful. 
 - Pause appreciate and reflect on what we have and have done. Appreciate beauty and immerse on the moment whatever you do
 - Part of it is to fully embrace possible boredom 

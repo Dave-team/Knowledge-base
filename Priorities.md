@@ -17,6 +17,7 @@ Affirm these on a daily basis, regularly take mindful breaks especially when I�
 - Approach the future with curiosity and optimism - what else will happen? Trust that someone else will be out there who will fit and whom I will be in a happy relationship with. I used to be the person that didn’t like settling, was curious and wanted to explore. If we continued, that would have been the only relationship I’d ever have. Don’t expect to control everything - flow like water instead. 
 - Realize that we need to deal with life and sometimes we get beat down. It’s not about how hard you are hit but about how hard you can get hit and keep moving forward. That’s how character is built and how a life becomes rich. It’s during times of being down that we really grow and we can respond like a man and show what I’m made of. 
 - Things will heal with time if we work on ourselves and look after ourselves first. 
+- Often when we start to feel better, we stop using the skills that helped us get to that point. It is actually better to keep deliberately using helpful skills until they become automatic.
 
 ### Acceptance and self awareness
 - Let go of yourself and your ego. Stop thinking you're that special and can't share things. 
