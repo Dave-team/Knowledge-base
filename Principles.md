@@ -276,6 +276,8 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - You are on your death bed, surrounded by family and loved ones, reflecting on a life well lived. You've lived a long, successful life, and you feel at peace as you look on at your posterity... As you pass on from this this world, you find yourself waking up, surrounded by aliens. One of them asks, "how was the trip, man?"
     - There is no such thing as enough achievement to then say 'I am now ready to live'. Keep busy with anything other than the fundamental parts of living a good life is just procrastion to living that later will cause regret. 
     - Be grateful if the body and what we can do with it because one day well no longer be able to
+    - Spend each day trying to be a little wiser than you were when you woke up
+    - A life wisely lived has many good habits maintained and many bad habits avoided or cured 
 - Life is short: 
     - You only live once, but if you do it right, once is enough
     - Life is a test and a game – don’t take things too seriously and have fun - nobody gets out alive anyway and I'm really not the centre of the universe
@@ -287,6 +289,7 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - Each day is a new start. Each breath is a new start to become the person you want to be
     - Every hour more in your life is but a privilege so make the very best of it, for time is limited in our lives. Threat time with others as possibly the last time you have with them. We will all be gone soon and so will the ones we love the most. 
     - Simply realize that none of this ultimately matters at all. Once you realize that, you can see through the game and relax. 
+    - The best armour against old age is a life well spend preceding it
 - You and you alone are responsible:     
     - No one owes you anything and nobody gives a fuck about your feelings 
     - Own your life, no one else will. You are responsible for how you handle everything that happens to you. You just pick yourself up, learn and go on. 
@@ -307,10 +310,13 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - Live with a feedback loop: reflect on how you did something and then think about how it should have been done better so that can be done next time 
     - Avoid things the best version of yourself will regret.
     - Avoiding stupidity is easier than seeking brilliance.
+    - “All I want to know is where I am going to die, so I’ll never go there”
+    - “Never fool yourself and remember you’re the easiest person to fool”
 - Live a meaningful life: 
     - The person who is satisfied with little will always have enough
     - Life is like a box of chocolates - you never know what you're gonna get. But you just make the most of it  
     - Don't expect much so there is little disappointment. What you desire most ends up owing you
+    - “If you’re like me – it’s kind of fun for life to be complicated. I think you’ll just have to endure the world – as complicated as it is” 
 - After breakup message: I’m 27. There really is more than enough time to find someone and settle down, get married and have kids. And before that, enjoy your time being single. Focus on advancing your career, become this more social person, make new friends, pursue new hobbies and just generally really be more of an independent man with character who is happy with who he is. Someone who isn’t obsessed around getting a response from someone else. Someone who lets go of things he doesn’t control. Someone who leads by example. You cannot depend on a relationship for happiness because one way or another, things will mess up. So ALWAYS live an independent happy life - then if someone joins that life, all the better. Just do not change for anything or anyone
 
 ![Memex](https://user-images.githubusercontent.com/28791247/104088013-9594f180-525b-11eb-8d04-1eaf6c8d109f.jpg)

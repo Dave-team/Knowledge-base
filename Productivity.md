@@ -17,6 +17,8 @@
 - Act now - don't hold things off until later 
 - “If you split your day into 10 minute increments and try to waste as few of those increments as possible, you would be amazed at how much you can get done”
 - There is nothing as useless as doing efficiently something that shouldn’t be done at all 
+- The shorter the list of things to do / to work on, the more likely it is to focus on things that matter.
+- Granny’s rule: do the unpleasant before the pleasant
 
 ## Process
 **Weekly**

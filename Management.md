@@ -316,52 +316,7 @@ Ask your direct reports:
 - How can we improve the team works together? 
 
 ## Personality types 
-**Where we get energy from** 
-Introversion
-- Focus on inner world
-- Exhausted by social interaction
-- Quieter in meetings
-
-Extraversion
-- Focus on outer world
-- Prefer group activities
-- Energized by social interaction • Speak out easily
-
-**How we take in information**
-Sensing
-- Sequential
-- Get info from 5 senses
-- Focused on facts and tried & tested
-- Specific and literal
-
-Intuitive
-- Big picture
-- Meaning, associations, relationships
-- See patterns and future possibilities
-
-**How we make decisions**
-Thinking
-- Objective and practical
-- Logic over emotions
-- Efficiency over cooperation
-
-Feeling
-- Sensitive
-- Empathetic
-- Favours harmony and cooperation
-
-**How we relate to the external world**
-Judging
-- Planned approach to deadline
-- Decisive and likes plans
-- Organized
-- World as decisions to be made
-
-Perceiving
-- Spontaneous approach to deadline
-- Likes to keep options open
-- Dislikes commitment
-- World as options to be explored
+![Scientific Method](https://user-images.githubusercontent.com/28791247/107872668-bd532700-6ea3-11eb-967a-93caa3f63f51.png)
 
 ## Onboarding
 Prior to starting: Make others aware of the new hire and make sure everyone knows that the new projects are high priority 
@@ -384,3 +339,10 @@ Early weeks
 - Let them sit in during meetings with stakeholders
 - Provide lots of context 
 - Be critical around the quality of work expected
+
+## Management when things are hard
+The big idea is that we're clear that performance isn't up to the expected level because of specific reasons. Then agree to work towards it. If that doesn't happen, involve more senior people: we need to change or else this may not be the right job for you. Then: 
+- Agree clearly on what needs to change 
+- Track against what was supposed to change and write things down
+- Make sure there is open communication and check ins across the entire team
+- If things don’t improve, have an honest chat around whether this role is right at this stage for the person. If it’s not, ideally agree on a form of exit strategy. Aim to do all of this beyond a development plan as those are difficult and painful for everyone involved. 

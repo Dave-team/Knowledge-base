@@ -55,6 +55,8 @@
     - Different viewpoints – "What would be an alternative?". Considering alternative perspectives (What might others think? How do I know I am correct?)
     - Questioning the original question – "What was the point of this question?" Questioning the original questions (Why did I think that? Was I correct? What conclusions can I draw from the reasoning process?)
 
+![Scientific Method](https://user-images.githubusercontent.com/28791247/107872472-7add1a80-6ea2-11eb-83be-41c39f39facf.png)
+
 ## Think structured
 - Break down your thinking into small pieces and map it out. Clarify your own thinking by putting it into writing
     - What do I think, exactly?
@@ -220,5 +222,8 @@
 ## Business development
 Build Measure Learn / Ideation Cycle
 
-
+## Sources 
+- Amazon shareholder letters
+- Berkshire Hathaway shareholder letters
+- 
 

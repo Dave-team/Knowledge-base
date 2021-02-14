@@ -11,6 +11,7 @@ The best way to learn is by practicing deliberately. Key characteristict:
 - Learn either the basics or something you need to improve on until you've got this mastered. Then move on to the next thing. Always focus on the things that makes everything else easier
 - Key is to have a feedback loop. Be critical on your progress and seek feedbac from others - especially negative feedback to learn from 
 - Make practicing a habit that you spend lots of time on
+- For the first couple years you make stuff, it’s just not that good. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through.
 
 ## Learning principles
 - Learning is picking up something and starting with that and then learning enough to know what the next thing could be. 
@@ -39,7 +40,9 @@ The best way to learn is by practicing deliberately. Key characteristict:
     - When stuck, shift to something simpler
 - Aim for understanding: you want to create a tree of knowledge where you hang different parts to the fundamental models you have of the world - the things you understand deeply. 
 - To learn a skill, pre commit to 20 hours as the first few hours are always the worst as you have no idea what you’re doing. 
-- 
+- When learning from best practices or going off some role model's advice, don't overlearn from it. Every personality is different, every living situation is different and every mind is different. 
+- Cross-reference. Don't read linearly. Instead, have multiple textbooks, and "dig deep" into concepts. If you learn about something new (say, linear combinations) -- look them up in two textbooks. Watch a video about them. Read the Wikipedia page. Then write down in your notes what a linear combination is.
+
 
 ## Other
 - Try to avoid questions too soon. Try something yourself first:

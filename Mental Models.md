@@ -1,6 +1,6 @@
 # Mental Models
 
-As you gain experience in life, many things become ‘another one of those’. This is where you need to have solid principles 
+As you gain experience in life, many things become ‘another one of those’. This is where you need to have solid principles. You need to know the big ideas across many disciplines and study them routinely. Don’t be the man with the hammer to whom everything looks like a nail. The way to use the models is to have them apply as checklists whenever decisions need to be made 
 
 ## Great links
 https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d
@@ -32,15 +32,16 @@ tragedy of the commons — A situation within a shared-resource system where
 
 Free rider problem — when those who benefit from resources, goods, or services do not pay for them, which results in an under-provision of those goods or services.
 
-Association- We automatically feel pleasure or pain when we connect a thing, situation or individual with an experience we’ve had in the past.
+Association- We automatically feel pleasure or pain when we connect a thing, situation or individual with an experience we’ve had in the past. Or automatically connecting a stimulus with pain or pleasure; including liking or disliking something associated with something bad or good. Includes seeing situations as identical because they seem similar. If we had a good experience, we associate positively with something, we’ll want to continue doing that. You use one shoe polish, you’ll stick with that for the rest of your life. People associate high price with high quality. This is also quite dangerous as we tend to repeat things we previously had success with, even though the circumstances can have changed or is it was due to luck in the first place 
+
 
 Availability - Daniel Kahneman defines availability heuristic as the process of judging frequencies by the ease with which it comes to our mind. We focus on existing evidence and ignore the ones that are absent. He defines this by the term WYSIATI – What You See Is All There Is.
 
-Commitment and consistency - Once we have made a commitment which could be in the form of promise, effort, money, belief, relationships etc, we remain consistent.  We associate high degree of consistency with personal and intellectual strengths.
+Commitment and consistency - Once we have made a commitment which could be in the form of promise, effort, money, belief, relationships etc, we remain consistent.  We associate high degree of consistency with personal and intellectual strengths. Foot in the door technique: get people to agree with something small first – to be consistent they will then agree on something bigger. It's also hard for people to change their opinion once they believed something for a long time. 
 
-Deprival Super Reaction Syndrome - When something we like is taken away or threatened to be taken away, we get upset. Taking away people’s freedom, status, money or anything they value will result in Deprival Super Reaction Syndrome(DSRS)
+Deprival Super Reaction Syndrome - When something we like is taken away or threatened to be taken away, we get upset. Taking away people’s freedom, status, money or anything they value will result in Deprival Super Reaction Syndrome(DSRS). Includes desiring and valuing more what we can't have or what is (or threatens to be) less available. We dislike losing the things we have more than we appreciate gaining the things we don’t have. We also want what we can’t have and the less available something is, the more we want it. When we almost have something but it is taken away last minute, we react as if it was ours all along 
 
-Do Something Bias – we as humans are often incentivized to do something, even at times it would be better to not do something given our lack of knowledge or understanding in a particular topic. 
+Do Something Bias – we as humans are often incentivized to do something, even at times it would be better to not do something given our lack of knowledge or understanding in a particular topic. There is no reason to do a good job with something you shouldn't do in the first place. "We've got great flexibility and a certain discipline in terms of not doing some foolish thing just to be active - discipline in avoiding just doing any damn thing just because you can't stand inactivity." There's no use running if you're on the wrong road."
 
 Envy and jealousy - We are genetically wired to compare, even though we clearly shouldn’t
 
@@ -60,7 +61,8 @@ Pluralistic Ignorance:  Phenomenon where a group goes along with a norm, even th
 
 Subselves: We use different mental processes in different situations, so each of us is not a single character but a collection of different characters, who take turns to commandeer the body depending on the situation. There is an office “you”, a lover “you”, an online “you”, etc.
 
-Excessive self regard: when we overestimate our own capabilities, especially when we have little experience. The more incompetent someone, the less they realize they’re incompetent  
+Excessive self regard: when we overestimate our own capabilities, especially when we have little experience. The more incompetent someone, the less they realize they’re incompetent. We tend to overvalue ourselves. The best antidote to this is to force yourself to think more objectively about yourself and just realize that we are all fragile and the value from life is in bringing happiness to ourselves and those around us 
+
 
 Hedonic treadmill: we pursue things because we think they will make us happy. When we reach that, we feel pleasure and success for a very short time and then our success no longer gives us pleasure. As a result, we seek something new and the cycle repeats. 
 
@@ -163,11 +165,11 @@ Tendency to Overgeneralize from Small Samples: We take a small number of instanc
 
 Belief bias - If a conclusion supports your existing beliefs, you'll rationalize anything that supports it.
 
-Self-serving bias - You believe your failures are due to external factors, yet you're responsible for your successes.
+Self-serving bias - You believe your failures are due to external factors, yet you're responsible for your successes. Also being overly positive view of our abilities and future. 
 
 Negativity bias - You allow negative things to disproportionately influence your thinking.
 
-Optimism bias - You overestimate the likelihood of positive outcomes
+Optimism bias - You overestimate the likelihood of positive outcomes. “Man suffers much because he seeks too much, is foolishly ambitious and grotesquely overestimates his capacities” We see ourselves as unique and special. We overestimate the degree of control we have over events and underestimate chance. 
 
 Pessimism bias - You overestimate the likelihood of negative outcomes.
 
@@ -272,9 +274,6 @@ Directly Responsible Individual — A management concept, originally championed 
 Pygmalion Effect — The phenomenon whereby higher expectations lead to an increase in performance.
 
 Zero Tolerance — Strict punishment for infractions of a stated rule, with the intention of eliminating undesirable conduct.
-
-
-
 
 ## Systems
 Theory of constraints —a management paradigm that views any manageable system as being limited in achieving more of its goals by a very small number of constraints. TOC adopts the common idiom "a chain is no stronger than its weakest link". This means that processes, organizations, etc., are vulnerable because the weakest person or part can always damage or break them or at least adversely affect the outcome.
@@ -540,11 +539,14 @@ Butterfly Effect — The concept that small causes can have large effects.
 
 Sustainability — The endurance of systems and processes.
 
-Contrast mis-reaction tendency - Dictionary meaning of Contrast is “To compare in order to show differences or unlikeness“. We judge stimuli by differences and changes and not by absolute magnitudes. (e.g. going from hot to cold water)
+Contrast mis-reaction tendency - judging and perceiving the absolute
+magnitude of something not by itself but based only on its difference to something else presented closely in time or space or to some earlier adaptation level. Also underestimating the consequences over time of gradual changes.
+How we value things depends on what we compare them with (e.g. going from hot to cold water). We value things by comparing them to something else rather than analysing each piece standalone. Leather seats of 3,000 are not cheap, but we tell ourselves such things as we compare it to a 50,000 car
+
 
 Lollapalooza effect - When two or more psychological biases combine together, the effect get compounded on a tremendous scale. 
 
-Randomness: much of the wold is composed of random, non-sequential events. We are ‘fooled’ when we attribute causality to things that are actually outside of our control. 
+Randomness: much of the wold is composed of random, non-sequential events. We are ‘fooled’ when we attribute causality to things that are actually outside of our control. When bad things happen, we try to find causal explanations or something to blame. The more unexpected or negative we find an event, the more likely we are to look for explanations. We underestimate the influence of randomness. Here we define a random event as an event that can't be predicted because of a lack of knowledge. An event is random when we don't have enough information to determine its outcome in advance.
 
 Specialization – if people are specialized in performing singular tasks, this often increases productivity
 
@@ -583,3 +585,35 @@ Streetlight Effect: People tend to get their information from where it’s easie
 Matthew Principle: Advantage begets advantage, leading to social, economic, and cultural oligopolies. The richer you are the easier it is to get even richer, the more recognition a scientist receives for a discovery the more recognition he’ll receive for future discoveries, etc.
 
 Shifting Baseline Syndrome: Frog says to Fish, “how’s the water?”Fish replies, “what’s water?” We become blind to what we’re familiar with. And since the world is always changing, and we're always getting used to it, we can even become blind to the slow march of catastrophe.
+
+Persian Messenger Syndrome - not wanting to be the carrier of bad news
+
+Impatience - valuing the present more highly than the future.
+
+Vividness and recency - Over-influence by vivid or the most recent information. “A single death is a tragedy, a million deaths is a statistic”. After a bad event happens, we overestimate the probability of it happening again. E.g. after a earthquake, insurance sales rise sharply. 
+
+Omission and abstract blindness - only seeing stimuli we encounter or that grabs our attention, and neglecting important missing information or the abstract. We react more strongly to the concrete and specific than to the abstract. We overweigh personal experiences over vicarious. We see only what we have names for. We tend to focus only on the present information rather than what information may potentially be missing. For example, when planning, we often place too much importance on the specific future event and not enough on other possible events and their consequences that can 
+cause the event to be delayed or not happen.
+
+Bias from disliking - our tendency to avoid and disagree with people we don't like or to avoid things that cause bad reactions
+
+Sensemaking - Constructing explanations that fit an outcome. Includes beingng too quick in drawing conclusions. Also thinking events that have happened were more predictable than they were. We don't like uncertainty. We have a need to understand and make sense of events. We therefore seek explanations for why things happen. We want to find reasons for all kinds of events – random or not 
+
+Reason-respecting - complying with requests merely because we've been given a reason. Includes underestimating the power in giving people reasons. Giving people a reason to do something makes them more likely to comply with the request. Depending on the situation and people involved, either revert to logic or emotions. 
+
+Believing first and doubting later - believing what is not true, especially when distracted. -	We are not natural sceptics. We find it easy to believe and difficult to doubt because that takes more effort
+
+Memory limitations - remembering selectively and wrong. Includes influence by suggestions.
+
+Say-something syndrome - feeling a need to say something when we have nothing to say. “Wise man talk because they have something to say; fools because they have to say something”
+
+Emotional arousal – making hasty judgments under the influence of intense emotions. We expect that if good or bad things happen to us in the future, they will make us feel better or worse much longer and more intensively than they actually turn out to be. When we have just gone through an emotional experience, we should hold off on important decisions.
+
+Doubt-Avoidance Tendency - We avoid doubt quickly by making rash decisions rather than taking our time to think things through 
+
+Pain-Avoiding psychological Denial: When the reality is too painful to bear, we distort the facts until they become bearable 
+
+Availability-Mis Weighing Tendency: We value and want to deal with things easily available 
+
+Use-It-or-Lose-It Tendency. If we acquire a skill, we’ll use it unless often used. We need to keep practicing as a way to better ourselves and not to become the man with the hammer 
+

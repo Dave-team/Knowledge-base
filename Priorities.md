@@ -2,30 +2,34 @@
 This is a list of things I am actively working on to develop myself. 
 Relax. Be optimistic. Be present. Have faith in ability to just figure things out. 
 
-Pick up good habits from the knowledge base and make these my own. This is not about doing it all at once, pick a few to actively work on for the next weeks/months. Then work on them relaxed and step by step. 
+Pick up good habits from the knowledge base and make these my own. This is not about doing it all at once, pick a few to actively work on for the next weeks/months. 
+- Affirm these habits and visualize implementing them in detail on a daily basis, both in relaxing and in stressful times 
+- Force regular mindful breaks. When relaxed to change the structure of the brain. When overwhelmed to ground myself, avoid spiralling and to take better next actions.
+- Reflect on my performance against the habits / philosophy regularly and adjust where necessary
 
-Affirm these on a daily basis, regularly take mindful breaks especially when I’m feeling overwhelmed. And then reflect on my performance against the habits / philosophy. 
+## General Reminders
+- **Choose happiness** The main overarching goal is happiness and the biggest win in this is having a consistent calm mind. Happiness is a choice - we can choose to dance, smile and remember that the world is an amazing place. Be the person who is happy and grateful regardless of anything else. When life flashes by, make sure its worth watching - “how was the trip, man?”
+- **Mememto mori** Be much more aware of the insignificance of it all - we are here a small amount of time. Then we’re gone. Something can happen any moment that changes absolutely everything. Then what? Enjoy the time we have on this small world. The moment is all we have
+- **Trust yourself** Have confidence and faith in yourself that you can handle things. Trust our creative mechanism to perform good. You did it before. 
+- **Relax and not take myself and life so seriously**. Force yourself to slow down occasionally and just take it easy. Realize that performance and clarity of thought will be best in a confident and calm state.
+- **Remember the positives**. Build confidence by remind yourself that you’ve studied in Hong Kong, worked in Berlin, got a job in London and are now a BI Manager at a great company. Remind yourself of how awesome this is and how grateful you are you’ve done this. It’s easy to forget what we have. When remembering something negative, think back about when it was actually positive. Recall major achievements in life. 
+- **Approach the future with curiosity and optimism** - what else is in store for me? 
+- **Surrender** Most things are not in my control. Surrender to whatever will happen and just enjoy the ride. Try not to have any expectations. Flow like water and open your heart.
+- **Be curious** Approach things with childlike curiosity and look at things as learning experiences without our preconceived notions.
+- **Deal with reality** Shit does happen. We can wish things were different but we often just need to deal with reality and work with what we have left. This is what defines us, helps build self confidence and character. 
+- **Acceptance** I am human. I make mistakes. I have feelings and thoughts will always pop up. Accept myself and things the way they are. Don't force things. It's okay - I am good enough. It's okay whatever the outcome is. I'm not perfect and that's ok. 
+- **Exposure** As we do the things we fear / we don't like, we have an opportunity to increase our confidence in our ability to cope with the situations that frighten us. Notice fears, take them for what they are just do it. To make the process as easy as possible, don't think about it until you are experiencing it. Accept the pain for what it is and it'll be over before you know it.
+- **Keep practicing** Often when we start to feel better, we stop using the skills that helped us get to that point. It is actually better to keep deliberately using helpful skills until they become automatic. To that extend, keep practicing mindfullness and CBT where needed. 
 
-## Reminders
-### General
-- The main overarching goal is happiness and the biggest win in this is having a consistent calm mind. 
-- Happiness is a choice - we can choose to be down or realize that life is short and make the most of it. Be the person who is happy and grateful regardless of anything else. When life flashes by, make sure its worth watching - “how was the trip, man?”
-- Relax and not take myself and life so seriously. 
-- Force yourself to slow down occasionally and just take it easy.
-- Balance my time between work, development and hobbies more. Perform hobbies for the sake of doing them only but it may require some forcing of this hobby time and even when bored, embrace the boredom and see what comes of it - get off the development train.
-- Build confidence by remind yourself that you’ve studied in Hong Kong, worked in Berlin, got a job in London and are now a BI Manager at a great company. Remind yourself of how awesome this is and how grateful you are you’ve done this. It’s easy to forget what we have. 
-- Approach the future with curiosity and optimism - what else will happen? Trust that someone else will be out there who will fit and whom I will be in a happy relationship with. I used to be the person that didn’t like settling, was curious and wanted to explore. If we continued, that would have been the only relationship I’d ever have. Don’t expect to control everything - flow like water instead. 
-- Realize that we need to deal with life and sometimes we get beat down. It’s not about how hard you are hit but about how hard you can get hit and keep moving forward. That’s how character is built and how a life becomes rich. It’s during times of being down that we really grow and we can respond like a man and show what I’m made of. 
-- Things will heal with time if we work on ourselves and look after ourselves first. 
-- Often when we start to feel better, we stop using the skills that helped us get to that point. It is actually better to keep deliberately using helpful skills until they become automatic.
+## Life design
+- Happy and at peace - I can do nothing for an hour and step out the race
+- Well rounded person with interesting hobbies and opinions on a wide range of topics that come in handy during social conversations
+- Enjoys being around others, sees friends regularly and engages in conversation (+visualize how these conversations actually go, including stating opinions and what I actually say)
+- Energetic and enthusiastic in all areas of life
+- A good public speaker
+- More strategic and leadership at work 
 
-### Acceptance and self awareness
-- Let go of yourself and your ego. Stop thinking you're that special and can't share things. 
-- Stop thinking everyone expects something perfect. Go with the flow and open your heart. 
-- Accept myself and things the way they are. Don't force things. It's okay - I am good enough. It's okay whatever the outcome is. I'm not perfect and that's ok. 
-- Go deep inside yourself and get to know you. Be confident sharing personal experiences, understand your emotions and feelings. 
-
-### Mindfullness 
+## Mindfullness 
 - Be more present. Observe with full attention your experience and immediate surroundings. Accepting our experiences and thoughts without making judgments about them. 
 - Understand that the thinking mind is looking at thoughts and wants to solve them and not let them go. Instead, realize that thoughts are just thoughts, not facts and they often don't need to be solved, especially not in your head. 
 - Instead, bring full awareness to the present moment: 
@@ -33,82 +37,105 @@ Affirm these on a daily basis, regularly take mindful breaks especially when I�
   - Regularly taking a pause from what we're doing and tune into our breathing, our senses, our moods how our bodies feel.
   - Relax, look around you and just sit. Be amazed at how beautiful things are. How far we’ve come in our lives and in the universe and be grateful. 
 - When thoughts arise, just notice them but don't focus on them - I am not my thoughts. Refocus to your senses and your body. Go in debugging mode. Ask yourself: “Would I rather be having this thought right now, or would I rather have my peace?” 
-- When anxious, understand what you are anxious about and put those fears on paper (CBT). Then realize it's okay and doesn't need to be solved now. Then go on do your thing.  
+- When anxious, understand what you are anxious about and put those fears on paper (CBT) using a Thought Record. Then realize it's okay and doesn't need to be solved now. Then go on do your thing.  
 
-### Social support 
-- Don’t solve all problems myself: share my thoughts with friends, family and a therapist 
+## Prepare for challenges
+Imagine stressful situations in great detail. What is happening? What do you see and hear? What makes me feel stressed? As you visualize the physical reactions/moods etc. How do you feel? What are you thinking? What are you doing? Do you have body sensations? Now imagine putting your techniques into effect.
+Spend several minutes imagining doing each step of your plan in detail. As you carry out each step in your imagination, pay attention to what you are doing, thinking, and feeling. How does this affect your mood? Thoughts? Behavior? Physical experience?
 
-### Visualization
-- Happy and at peace - I can do nothing for an hour and step out the race
-- Well rounded person with interesting hobbies and opinions on a wide range of topics that come in handy during social conversations
-- Enjoys being around others, sees friends regularly and engages in conversation (+visualize how these conversations actually go, including stating opinions and what I actually say)
-- Energetic and enthusiastic in all areas of life
-- A good public speaker
-- More strategic and leadership at work 
-- Use a 'Master Mind if that helps'
+And you then perform the activities, log your experiences. This journal can help me next time I experience something challenging. And this helps gathering evidence of things going well. 
+
+## Hobbies
+Balance my time between work, development and hobbies more. Perform hobbies for the sake of doing them only but it may require some forcing of this hobby time and even when bored, embrace the boredom and see what comes of it - get off the development train. Realize that autopilot is my default mode. When I feel like I should do something, it’s old habits that try to persuade me. The best way to break old habits is to pick up new ones and to just step away from the autopilot. That will be painful initially because our mind is trying to pull as back. The trick is to not give in. Then we gain confidence and know that we can handle it.
 
 ## Work
-Dave is his own brand and Dave wants to be head of BI. As part of this role he needs to solve technical challenges, overcome them, work well with stakeholders, have integrity, communicate context to non technical stakeholders, provide context and relate to impact, sell his work during effective communications and present in public what great work Dave is doing. Whilst I have these ambitions, I am not my work. I am my values, my hobbies, my loved ones, my health much more than my job so prioritize it accordinly to the context of happiness as the main goal. 
-
-Pointers around development 
-- Don’t be afraid to speak up if I believe there are better ways or if I believe I have context that others don’t. 
-- Also don’t be afraid to ask for help when needed
-- Being too nice is not going to work long term. Value your time and know your worth and being too soft isn’t good for anyone either
-- I now need to take ownership over the tickets, the Inbox, etc.
-- Improve on the commercial side of things. Contracts, legal, pricing, negotiation. Start collecting best practices and templates were using at work
-- Don’t dive into a solution without seeing an example. Look at the data - ask what the problem is. Then ask what they think the best next step is.
-
-
 Things I actively pay attention to and work on: 
 
-**Approach projects in a good way**
-- When dealing with complexities (e.g. when stuck, something looks complex or time consuming), remain relaxed at first and don't go into panic model, rushing to an outcome. Take a step back (potentially put it completely aside and sleep on it). Nobody demands perfection and have no expectations of perfection yourself - gradually I will increase my experience - by calmly solving problems we encounter. If things take longer, then that's how it is - take your time and nobody is putting unrealistic pressure on you. Keep open and honest communication with your stakeholders. 
-- Do things step by step starting with the foundation. Make sure you have thought well about the approach. Understand the root of the problem first. Break projects down into attaintable steps. Try to find the easiest and least constraining way of doing things. When I can't figure it out, ask for a brainstorm session.
-- Build things incrementally and make sure there is a good way to measure impact of what you're working on. 
-- Keep the growth mindset: Embrace the challenges with confidence and optimism and realize there's something to learn
+**Balance and track time**
+- Plan in advance what the main priorities are for the week 
+- Work towards those activities in a balanced way making sure the most important ones are completed. When working on something challenging, timebox it and balance it with easier wins. 
+- Keep a log of what I achieved during the week
+- Maintain a balance between ad hoc, roadmap, and development
+- Don't try to solve everything - push things back to others instead as well - trying to take on everything as a high prioririty will eventually cause burnout. We know what needs to be done and it’s on my agenda and I will get back to you once I had a chance to work on it. Some things will be very urgent but most things can wait. If I don’t protect my time like this, every request becomes fundamentally stressful. 
+- With ambigious problems: timebox understanding what can be done. If something will likely take longer than expected, communicate that to stakeholder and understand how important and urgent it is before trying to make perfect. Also realise people don’t necessarily ask: fix this minor issue I’m having. Instead, they’re asking: hey I have this issue - do you know a workaround? And if something seems mundane, can they do a workaround themselves? 
 
-**Have more context**
-- Be more involved with Notion and make sure to be aware of what the team is working on 
-
-**Stakeholder relationships**
-- Be social. Show interest and want to get to know others and also allow them to get to know me 
+**Take ownership**
+- Be up to date with the tickets and inbox in Notion as well as the Tech tickets, know the team's priorities
+- Don’t be afraid to speak up if I believe there are better ways or if I believe I have context that others don’t. Your job is BI manager and with that come a wide range of responsibilities, not just something you've working on at any given point with a specific team on a specific problem. 
+- Being too nice is not going to work long term. Value your time and know your worth and being too soft isn’t good for anyone either. 
+- Take more steps back to avoid getting buried down in the day to day
+- Be proactive in onboarding users. Slack manager in advance asking whether new joiner needs access + if they’re willing to intro guide to Looker. Then, send the Looker docs + CC data superhero.
 
 **Initiative during meetings**
-- Always go into meetings with context of the problem at hand. Have context then know the logical high level things to look for and then steer people in that direction give context and prioritise
-- Understand your role in the situation and take ownership over that. When you don't know, say it. When you don't understand, ask. Know that you are there for a reason. 
+- Always go into meetings with context of the problem at hand. Also know the high level things to look for around the problem to be solved. During the meeting, give context and steer people to a decision by asking the right questions or making the right observations. Also, set expectations around timelines and priorities with everything else going on. 
+- Understand your role in the situation and take ownership over that. When you don't know, say it. When you don't understand, ask. Know that you are there for a reason. I will not always know everything so I need to be clever around dealing with that. A good question can be: ‘What is a two sentence summary about this as I haven’t heard of this?’ And ‘What are we trying to achieve by doing this?’
 - Ask whatever you want to ask. They know I’m not stupid, I’m just not as knowledgeable about this area perhaps 
 - Again, it’s not personal - it’s about doing the best for the company and it’s actually critical for me to speak up as this is what I will be paid for 
 - Speak up during (team) meetings. 
 
+**Management**
+- Have an idea around how you'd solve things that the team is working on when asked the question.
+- Try to have them answer the questions: 
+  - What have you tried so far?
+  - What do you think the best approach is?
+  - What next steps do you recommend? 
+- When I don't know, say that and look into it 
+- When something doesn't work, ask them to provide an example 
+
+**Stakeholder relationships**
+- Be confident in push back: I cannot deal with everything at once and need to prioritize. I am responsible for my job holistically, not just solving other team's priorities
+- Be firm and clear. Know what matters, what is an FYI and what needs a decision from their end. 
+- Set expectations: when they need to fix things things, clarify this. 
+- Speaking with execs: deal with uncertainty around not knowing details - often kickoffs are required first. Things might not not to be done at all, they may sit with Tech etc. 
+
+**Approach projects**
+- Spend time defining a good plan of attack that is quick to build, easy to test, easy to replicate and should help answer the question. Aim to find the easiest way of doing things. Validate the approach with others 
+- Ask yourself what the goal is and whether it's worth solving in the first place
+- Build things incrementally and make sure there is a good way to measure impact of what you're working on. 
+- Go step by step with regular checks during the process
+
+**Other development goals**
+- Be specific in agendas
+- Improve on the commercial side of things. Contracts, legal, pricing, negotiation. Start collecting best practices and templates were using at work
+- When changing things, ask 'What could go wrong?' then confirm whether that's the case before making a change
+- Manage upwards: Clarify to Will what works and what doesn’t, where I need support or context or whether I want to do something. And keep a log of feedback I have for Will so I'm not empty handed when it comes to upward feedback reviews. 
+
+**Dealing with hard challenges at work**
+- When dealing with complexities (e.g. when stuck, something looks complex or time consuming), remain relaxed at first and don't go into panic model, rushing to an outcome. Take a step back (potentially put it completely aside and sleep on it). Be kind to yourself. Sometimes it just doesn't work. Put it away, go for a walk or check again in the morning. 
+- Do things step by step starting with the foundation. Make sure you have thought well about the approach and check things from the start to avoid going down a wrong path. Understand the root of the problem first. Break projects down into attaintable steps. Try to find the easiest and least constraining way of doing things. 
+- Timebox something I know is challenging. Make sure I work on multiple projects at the same time; allocate a certain amount of time to the challenge and beyond that, 'time's up' and work on something else that is easier to progress. This also helps avoiding getting stale in progress. I will be pulled into solving the challenge - try to resist that urge and lean into the pain.
+- Remember past experiences/evidence of when you have been able to solve hard challenges. It just takes time - keep that evidence in the back of your mind at all times. 
+- If things take longer than expected, then that's how it is - take your time and nobody is putting unrealistic pressure on you. Keep open and honest communication with your stakeholders to take some pressure away. 
+- Keep the growth mindset: Embrace the challenges with confidence and optimism and realize there's something to learn
+- Nobody demands perfection and have no expectations of perfection yourself - gradually I will increase my experience - by calmly solving problems we encounter. And if mistakes happen, that's okay. 
+- After taking a step back I can’t figure it out, involve others. ‘Hey I’m stuck on X. I’ve tried a few things and I spent another 3 hours on it this morning but this is important and I don’t see any next steps. Can we look at this collaboratively?
+
 **Team meetings**
-- Own your job: I am technically capable, I ensure I work on the right things and I work hard. I keep the bigger picture in mind and I keep my stakeholders up to date. As long as I do that, I can have confidence that I'm doing the right things. 
-- Focus on providing value: the value is in work, that I communicate. Am I not my work so I am not relevant to these communications. That said, I still am proud of the work and want to present it. 
-- Don't be stuck in my own mind and focus on value. Listen attentively and just be present - ask questions, give opinions.  
-- Realize whatever I do is the most important that needs to be done. Don't focus on other things that don't get done as a result - they are simply pushed back. 
+- Focus on achieving worthy goals during the week without being stuck on certain projects for too long. That way, you know you've done the work to the best of your ability. 
+- Be enthusiastic to speak about what you worked on / are working on
+- Engage in the meeting to be more present and not stuck in my head.
+- When speaking, focus on getting your points across and provide value by slowing down and breathing 
 - Don't personalize with the work you have do or will do: you are not your work. 
 - Focus on the positives during the meetings. 
 
 **Public speaking** 
-It is going to happen and I accept my anxiety. It’s something I want to be become better at so I want to do it and now I have the opportunity. I will prepare well. I will understand my thoughts and stay optimistic. When the nerves arise, it’s okay. I knew they were coming. I knew I would get an increased heart beat and sweaty palms because I’ve been there before. All is well - I will get through this. I am enthusiastic about it, am well prepared and I survived in the past.
-
-- Take on all opportunities to further develop public speaking skills - don't shy away because you're scared of anxiety. Face the anxiety instead and over time it'll be less bad
-- I want to become a good public speaker because it'll help me greatly in life and it's required for any significant next step in my career - every next step will have greater public speaking challenges so each time I present will be small compared to the next time. 
-- Represent your own brand and seperate your presentation from your job. Imagine being a consultant to the company and present without my personally being associated to the job. 
-- Every presentation is an experiment: Rather than approaching it with anxiety, think: let’s see what happens. Each time you try to do the best you can prepare for. I know I need to speak in public and I know I struggle with it. I will feel nerves and there is some imposter syndrome. However, each time I try to prepare, do what I can control and that's it. The rest just happens and needs to be accepted - one I do, there will be a sense of calm which will automatically improve performance. 
+- Realize it's there to stay and ultimately I need become comfortable doing it 
+- Accept the nerves for what they are: my body's response to preparing me for what's coming. They're welcome to stay - own your nerves - chin up and chest to the front. I knew I would get an increased heart beat and sweaty palms because I’ve been there before. All is well - I will get through this. 
+- Every presentation is an experiment: Rather than approaching it with anxiety, think: let’s see what happens. Each time you try to do the best you can prepare for. Use techniques as experiments and see how they help
+- Preparation
+  - Practice, record yourself and mock present with others. Take notes, iterate and improve after each practice round
+  - Visualize the events that can cause nerves and imagine how I respond to them
+- Pre presentation
+  - Stay busy to keep the mind occupied
+  - Use music and movement to feed the excitement
+- During presentation 
+  - The focus is on getting the point across. Focus on slowing down and breathing. 
 
 **Keeping a work life balance**
+- I am not my work. I am my values, my hobbies, my loved ones, my health much more than my job so prioritize it accordinly to the context of happiness as the main goal. 
 - Seperate work from who I am as a person. Don’t take work personally and realize that we can ask help of others. 
 - Take it more easy - you cannot solve everything immediately and things will never be perfect. 
-
-**Work towards Head of BI role**
-- Visualize yourself being head of BI - you know the right things to do and those things are getting done. Keep a calm mind, take steps back to see the bigger picture and communicate with confidence. 
-- Sometimes, step out the ad hoc fires to fix, projects to do mentally and look at the future and other developments instead. 
-
-**Maintain a balance between ad hoc, roadmap, and development**
-
-**Be specific in agendas**
-
-**Be proactive in onboarding users**
+- I cannot take these problems personally and I cannot be so affected by them. It might be that I get into work and 9 things are broken - trying to fix everything all the time will only lead to burnout and I won't be able to see the bigger picture and e.g. support the team.
 
 ## Social 
 I am a social creature. I'm interested in others, want to know them better and I enjoy conversation as a way of making potential friendships. In one on one conversations, I go deep into topics of interests of both parties and in larger group settings, I want to be part of the conversation and to share my thoughts and experiences because it adds value to everyone involved: people can respond to my thoughts. 

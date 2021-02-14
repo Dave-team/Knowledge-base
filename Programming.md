@@ -10,3 +10,6 @@
 - At some point you will tell the duck what you are doing next and then realise that that is not in fact what you are actually doing. The duck will sit there serenely, happy in the knowledge that it has helped you on your way.
 
 
+- Solve one problem at a time. Once the problem is solved, then make it more efficient and generally better.
+- Write the comments first, then fill in the code.
+- If you can’t debug, throw out and replace.

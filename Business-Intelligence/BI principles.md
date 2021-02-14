@@ -106,7 +106,7 @@ Once I have the context, I can establish myself as a business partner - the goal
   - Bring context: they want to report on CS rep performance - that’s great, does that sit within Zendesk? Yes > we might get it into Looker and make it such that only you can see it. 
   - Be aware of all the things that they are working on, the things that we already have in the queue 
   - Speaking with execs: they won’t know the details so avoid forcing them to give details and timelines. Often, what is required is some initial kickoff meeting with a key stakeholder and then details will follow. Also, often you’ll find that things aren’t obvious that they need to be done at all / how long it might take etc. Say ‘We don’t know if we can fix this. We can look at. We’ll put it in there and see if we can something.’
-  - Make sure in the process, we are clear on expecations which guide our decision making. People report on things. Mention that there is exit survey. We want things by utm. If not utm, how do we know - it’s hard to know. Regression we can try but hard. Can we report by code?  
+  - Make sure in the process, we are clear on expecations which guide our decision making. People report on things. Mention that there is exit survey. We want things by utm. If not utm, how do we know - it’s hard to know. Regression we can try but hard. Can we report by code? I am the data expert so I advise on what's already there and ideally have an understanding on what's possible on the Tech side. 
 - Take notes in a doc. 
   - What is it? 
   - Why is it important? 
@@ -114,11 +114,11 @@ Once I have the context, I can establish myself as a business partner - the goal
   - When does it need to happen? 
 - Prioritization
   - Often coming from when certain projects happen / when other teams work on projects. This is based on meetings.
-  - Some things are nice to haves and are put in where there is a gap 
+  - Some things are nice to haves and are put in where there is a gap. 
   - For high impact and time sensitive teams, ask them to fill in the timelines 
   - If needed, set up a call with the team and prioritize the projects. 
-  - Sometimes, projects are depending and then they are also likely to be pushed back
-  - Anything we don’t really know how to do - move towards later 
+  - Sometimes, projects are depending on e.g. Tech and then they are also likely to be pushed back
+  - Anything we don’t really know how to do / anything that is unclear- move towards later 
 - Ask for a copy of the team’s roadmap for reference and to inform own roadmap 
 - Plot them down on an excel BI roadmap by quarter 
   - Anything we’d want to do, but not sure how: italics 
@@ -131,6 +131,8 @@ Once I have the context, I can establish myself as a business partner - the goal
   - Anything that is hard and technical, me. Anything that can be done in Looker, other team member. 
 - Share it to BI, more broadly, put it in Notion, and start making tickets
   - Tickets include problem, stakeholder, suggested approach
+  - For projects planned for later in the year: take (*) out and put back in roadmap queue at the end so we have it for next quarter. Add a (Q2) in front so it’s clear
+  - For projects no longer in roadmap: normal queue as they’re probably still relevant. 
 - Check in with stakeholders ~Quarterly (dependent on amount of tasks and what's upcoming) to keep the roadmap up to date 
 
 **Common projects**

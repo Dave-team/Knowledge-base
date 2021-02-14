@@ -3,10 +3,14 @@
 ## Templates
 ### Visualization/dashboard new request template
 - What is the business question you are trying to answer? Example: Is there a relationship between the day of the week that deals close and the ability of the account manager to upsell them in the first month?
-- What is the impact of this question and how will it help the company? Please link to where this (or these) performance indicator/s are defined in the handbook. Everything needs to be defined in the handbook.
+- What is the impact of this question and how will it help the company? I.e. what action will be taken based on this data and by whom? Please link to where this (or these) performance indicator/s are defined in the handbook. Everything needs to be defined in the handbook.
 - Who will be using this data? Example: SDRs need this to better understand X or VP of Product needs this to do Y
 - What time frames are crucial here? Example: I would like to look at performance by month, but at the trends over the last year.
 - Will this deliver business value within 90 days? If not, consider why you want this data.
+- Do you need a rough answer quickly, or a detailed answer slowly?
+- Is there a explicity due date for this?
+- Priority (Urgent, High, Medium, Low, Trivial)
+- Does this request fit within established company OKRs?
 - What is the visualization you are trying to create? Include any links or screenshots, if appropriate. As a rule of the thumb, the analytics team uses 12 visualization types. They are:
     - Simple Text
     - Table
@@ -22,7 +26,7 @@
     - Square area chart
 - What is the source of data behind the visualization? SFDC? ZenDesk? There may be more than one.
 - What interactions/drill downs are required? Example: I'd like to be able to dig into the specific opportunity details (owner, account owner, IACV). I'd also like to be able to filter by region.
-- Any caveats or details that may be helpful?
+- Any caveats or details that may be helpful? Please share links to any related docs that can help give context into what you've been looking at or how you are approaching this question (e.g. Looks, Google Sheets, etc)
 
 ### Visualization / dashboard update request
 - What is the original dashboard?

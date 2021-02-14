@@ -35,6 +35,7 @@
 - Smile - it shows warmth. A smile says: I am happy to see you, I like you and you make me happy. This is invaluable. You can’t expect people to come to you. You have to go out and meet them. 
 - Talk in terms of the other person’s interests. 
 - Get the other person saying ‘yes, yes’ immediately. When talking with people, make sure to start emphasizing things on which you agree, not the points on which you differ. 
+- If someone does something bad to us, hold off. “You can always tell the man off tomorrow, if it’s such a good idea”. 
 
 ## Ice breakers
 - Since I’m onto my second one for the day… How do you like your coffee? (Be specific)
@@ -146,6 +147,7 @@ Remember that a person’s name is to that person the sweetest and most importan
 - When you listen to someone, you should give up all your preconceived ideas and your subjective opinions; you should just listen to him, just observe what his way is. We put very little emphasis on right and wrong or good and bad. We just see things as they are with him, and accept them.
 - Usually when you listen to some statement, you hear it as a kind of echo of yourself. You are actually listening to your own opinion.
 - Immediately into a conclusion and a label and this is how it is. Instead take time to explore and ask questions
+- 
 
 
 ## Charisma 

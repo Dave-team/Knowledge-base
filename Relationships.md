@@ -125,6 +125,7 @@ You should never be depending on a relationship for happiness. Then, you can bri
 - Attend to the little things. Attend to little kindnesses and courtesies 
 
 ## General
+-	“The best way to get a good spouse is to deserve a good spouse because a good spouse is by definition not nuts”
 - The only thing we control is our contribution to the relationship. Keep working on making things better and being the best version of yourself.
 - Remember that we all want to be happy. So when I'm stressed, don't take that out on her. Save your headaches for yourself and be in the moment appreciating your relationship instead. 
 - Speak the right love language and keep our emotional love tanks filled at all times 

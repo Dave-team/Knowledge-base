@@ -8,6 +8,15 @@ What we need to achieve goals:
 - Want it bad enough - we need a burning desire
 - Be determined to succeed and not give up when the going gets hard – I need to be persistant. 
 
+## Goals definition
+- Clearly defined. Don't say: "I want to have a better life." Be concrete. For example: "I want a new Volvo."
+- Focused on results.
+- Realistic and logical - what can and can't be achieved? Low goals may produce low performance and unrealistic goals may cause people to cheat. Lucius Annaeus Seneca said we should: "Never work either for useless goals, or impossible ones."
+- Measurable.
+- Tailored to our individual needs.
+- Subject to change. Ask: Given our current objective, what is the best course of action to take?
+- Goals also need target dates and control stations measuring the degree to which the goal is being achieved. Do we know what causes our goal to be achieved? We can't achieve what we want if we don't understand what makes it happen. And are we sure our goal is the right one for what we finally want to achieve?
+
 **Goal setting** 
 Set goals but break them down and be practical around the goal. 
 - What does the end result of the goal look lik? (e.g. learning how to cook: be able to make reciples comfortably)

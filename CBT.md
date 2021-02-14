@@ -15,6 +15,8 @@ Once we invite negative thoughts through distortions, your feelings and actions 
 - Don’t expect anything. If there is an expectation there is anxiety and potential disappointment 
 - At some point we’ll just be tired of worrying g and being anxious and then we just do things. Same as having a near death experience. You really only have these moments so make the most of them and all the things you fear are small in the face of having 6 months to live
 - A lot of the time, our mind is telling us we 'should' do something. Where is that voice coming from? Should for whom? Why? What if we don't? It's easy to go into auto pilot. It is easy for us to go into autopilot and our thinking becomes very narrow. 
+- When comparing events to what happened in the past, remember that any events in the past are context dependent and the current context is always changing. 
+- When comparing ourselves to others, it doesn't matter what others do as long as we achieve what we set out to achieve ourselves in the first place. 
 
 ## Dealing with things
 **Accepting our thoughts**
@@ -67,16 +69,8 @@ Imagine stressful situations in great detail. What is happening? What do you see
 Spend several minutes imagining doing each step of your plan in detail. As you carry out each step in your imagination, pay attention to what you are doing, thinking, and feeling. How does this affect your mood? Thoughts? Behavior? Physical experience?
 Based on this imagination exercise, how confident are you (low, medium, or high) that you feel better again if you start to feel a certain way? If your confidence level is high, then your plan is probably a good one. If you confidence in your plan is low, then you want to think about what else you can add to it that will boost your likelihood of managing future challenges. If you think the plan is a good one, but you lack confidence in your skills to carry it out, the best thing to do is to continue practicing the skills in your plan of action even when you are feeling well. Ideally, you want most of your relapse reduction skills to be fairly automatic when you are doing well, so that you can rely on them to help you if you begin to feel worse.
 
-
-
 **Use techniques to cope**
 Anticipating feelings that we fear and having a plan on how to cope with them. 
-
-*Team Meetings*
-- Focus on achieving worthy goals during the week without being stuck on certain projects for too long. That way, you know you've done the work to the best of your ability. 
-- Be enthusiastic to speak about what you worked on / are working on
-- Engage in the meeting
-- When speaking, focus on getting your points across by slowing down and breathing 
 
 *Dentist*
 - Go to the dentist and simply deal with it.
@@ -89,34 +83,6 @@ Anticipating feelings that we fear and having a plan on how to cope with them.
 *Flying*
 - I am aware that during a flight, I can strongly feel the movements. It’s a natural phenomenon that isn’t actually dangerous looking at the statistics. Turbulence is just a bumpy road - if in a train I wouldn’t feel as bad. Realize you’re not in control any more so just let it happen and try to comfort yourself. 
 - From experience, it’ll be just fine / it will soon pass.
-
-*Public Speaking*
-- Realize it's there to stay and ultimately I need become comfortable doing it 
-- Accept the nerves for what they are: my body's response to preparing me for what's coming. They're welcome to stay - own your nerves - chin up and chest to the front.
-- It's always a learning experience. Use techniques as experiments and see how they help
-- Preparation
-  - Practice, record and with others 
-  - Visualize the events that can cause nerves and imagine how I respond to them
-- Pre presentation
-  - Stay busy to keep the mind occupied
-  - Use music and movement to feed the excitement
-- During presentation 
-  - The focus is on getting the point across. Focus on slowing down and breathing. 
-
-*Spending time for myself*
-Realize that autopilot is my default mode. When I feel like I should do something, it’s old habits that try to persuade me. The best way to break old habits is to pick up new ones and to just step away from the autopilot. That will be painful initially because our mind is trying to pull as back. The trick is to not give in. Then we gain confidence and know that we can handle it.
-
-*Dealing with hard challenges at work*
-- Growth mindset: if something is hard, there is something to be learned and I want to figure out a good of doing that. Accept the challenge as a puzzle to be fixed 
-- It's about staying relaxed and sometimes you need to sleep on the problem and then fix it in the morning. Be kind to yourself. Sometimes it just doesn't work. Put it away, go for a walk or check again in the morning. 
-- Timebox something I know is challenging. Make sure I work on multiple projects at the same time; allocate a certain amount of time to the challenge and beyond that, 'time's up' and work on something else that is easier to progress. This also helps avoiding getting stale in progress. 
-- I will be pulled into solving the challenge - try to resist that urge and lean into the pain.
-- Remember experiences where you usually always have been able to solve things it just takes time - communicate this with stakeholders to take some of the pressure away.
-- A relaxed mind is able to step back from the situation 
-- Remember that nobody demands perfection
-- Make use of my network and colleagues and don't be afraid to ask for help. 
-- I cannot take these problems personally and I cannot be so affected by them. It might be that I get into work and 9 things are broken - trying to fix everything all the time will only lead to burnout and I won't be able to see the bigger picture and e.g. support the team.
-
 
 *Panic attack*
 - Physically remove from situation - don't do what you were doing, and move
@@ -227,6 +193,9 @@ What you want to do is collect evidence in favor of the alternative thought unti
 **Dysfunctional Thought Record (Feeling Good)**
 ![Dysfunctional Thoughts Record](https://user-images.githubusercontent.com/28791247/106709356-49379a00-65ec-11eb-849b-6d669ce97442.png)
 
+**Triple column technique (Feeling Good)**
+![Triple column technique](https://user-images.githubusercontent.com/28791247/107872990-977b5180-6ea6-11eb-8ddd-26492d453bec.png)
+
 ## Testing our assumptions
 Often, anxiety is described as 'If...Then' statements. "If I speak - people will think X"
 
@@ -271,7 +240,7 @@ Other things that can help:
    2. The Fortune Teller Error.You anticipate that things will turnout badly,and you feel convinced that your prediction is an already established fact.
 6. MAGNIFICATION (CATASTROPHIZING) OR MINIMIZATION: You exaggerate the importance of things (such as your goof-up or someone else's achievement), or you inappropriately shrink things until they appear tiny (your own desirable qualities or the other fellow's imperfections).This is also called the "binoculartrick."
 7. EMOTIONAL REASONING: You assume that your negative emotions necessarily reflect the way things really are: "I feel it, therefore it must be true."
-8.SHOULDSTATEMENTS: You try to motivate yourself with shoulds and shouldn'ts,as if you had to be whipped and punished before you could be expected to do anything. "Musts" and "oughts" are also offenders. The emotional consequence is guilt. When you direct should statements toward others, you feel anger, frustration, and resentment.
+8. SHOULDSTATEMENTS: You try to motivate yourself with shoulds and shouldn'ts,as if you had to be whipped and punished before you could be expected to do anything. "Musts" and "oughts" are also offenders. The emotional consequence is guilt. When you direct should statements toward others, you feel anger, frustration, and resentment.
 9. LABELING AND MISLABELING: This is an extreme form of overgeneralization.Instead of describing your error,you attach a negative label to yourself: "I'm a loser."When someone else's behavior rubs you the wrong way, you attach a negative label to him: "He's a goddam louse." Mislabeling involves describing an event with language that is highly colored and emotionally loaded.
 10. PERSONALIZATION: You see yourself as me cause of some negative external event which in fact you were not primarily responsible for.
 
