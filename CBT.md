@@ -5,6 +5,21 @@ Once a mood is present, we often begin thinking additional thoughts that support
 
 Once we invite negative thoughts through distortions, your feelings and actions will reinforce each other in a cycle. Because we believe what our brain tells us, we see the world as a dark place. Because if feels realistic, there is a lot of credibility that goes towards it. The cycle then goes on and you're trapped. Just as our thoughts affect our physical reactions, our physical reactions can trigger thoughts (e.g. different heartbeat can lead to think it’s a heart attack). 
 
+To really heal, we shouldn't stop when we feel better. Instead, we'd want to actually get better: 
+- Understand why we felt a certain way 
+- Knowing why and how you got better. This involves a mastery of the particular self-help techniques that worked specifically for you so that you can reapply them and make them work again whenever you choose.
+- Acquiring self-confidence and self-esteem. Self-confidence is based on the knowledge that you have a good chance of being reasonably successful in personal relationships and in your career. Self-esteem is the capacity to experience maximal self-love and joy whether or not you are successful at any point in your life.
+- Locating the deeper problems that may have caused this all
+
+My evaluation on this: 
+- Why I became anxious: Break up that wasn't my choice and felt out of control. Lived on autopilot for a long time. 2 weeks at home thinking uncovered all my worries and fears that I previously escaped from. Let to panic attacks which further let me to believe I am out of control. This rolled into a general feeling of not being able to handle life. 
+- What made me feel better: 
+  - Understanding that the effects are natural. A panic attack is not the end of the world, it's a bodies reaction. 
+  - Logging dysfunctional thoughts with their rational response. 
+- Self confidence will come from me facing my fears and trusting in my inate abilities to figure things out and deal with hardship. 
+- Self esteem comes from balancing my personality much more beyond work with hobbies and mindfulness 
+- The deeper causes are rooted in perfectionism and achievement focus. Achievement because I identified my worth by my achievements rather than my holistic person. Perfectionism in wanting to do everything really well so I can happy with the work I did which would always need to be really great. At work, this is: if I'm not perfect, I won't progress my career. In life: discovering new hobbies and activities has been slow as I couldn't use to perfect myself towards achievement - what's the point? And I would want to be really good when I pick things up - otherwise I wouldn't enjoy it and didn't see the point. I wouldn't enjoy the process as I would race towards becoming very good that probably would take a lot of effort that I'd want to allocate elsewhere 'more productive'. 
+
 ![CBT](https://user-images.githubusercontent.com/28791247/101258471-972e3f80-371a-11eb-9ea8-3f65807cd87b.png)
 
 ## General
@@ -115,6 +130,11 @@ Anxious thoughts are often covered in What Ifs: “What if I stumble over my wor
 Anxiety often arises because we don’t have control over events. When we are anxious, we try to be in control or do things perfectly, in the hope that this will prevent bad things from happening. Since we don’t have confidence that we can cope with the dangers that worry us, it makes sense that we try to prevent them. The problem with this approach is that it is really impossible to do things perfectly or have complete control over what will happen in the future. Thus learning to boost our confidence that we can cope when things go wrong is a more helpful approach to managing anxiety than trying to prevent things from going wrong.
 
 Anxiety can be reduced either by decreasing your perception of danger or by increasing your confidence in your ability to cope with the things you fear. An important part of overcoming anxiety is learning to tolerate feeling anxious
+
+## Burnout 
+The exhaustion funnel helps explain burnout. The top of funnel contains nourishing activities. As we become more stressed, this is what we give up. More and more to what seems as 'more important' as these nourishing activities appear optional. At the end, all that is left is work and no replenishing activities making us extremely exhausted and unable to enjoy small things. 
+
+To avoid this, keep a healthy amount of nourishing activities. What lifts your mood, energises you, makes you feel calm and centred? What increases your sense of actually being alive andpresent,rather than merely existing? These are nourishing activities. E.g. taking a bath, reading a book, going for a walk, being involved with hobby. And when we do need to other activities, be mindful when doing them. The old saying, ‘All work and no play makes Jack a dull boy’ contains more than a grain of truth.
 
 ## Stress and panic attacks
 - The autonomic nervous consists of the 
@@ -228,6 +248,90 @@ Other things that can help:
 - Sometimes a new core belief will include a perspective of acceptance. For example, you might choose to shift from a core belief of “People are unreliable” to one of “It is OK if people are unreliable, because I am capable and can handle it.”
 - “Gratitude” means thinking about and being thankful for experiences or qualities in ourselves, other people, and the world. Start a gratitude journal that covers all this. It is more helpful to write about a few things in depth than to try to make a long list of things you are grateful for. As you practice more with gratitude, also considering mentioning what we’re grateful for to other people. 
 - In addition to being grateful for the positives in our lives, another way to activate and support our new positive core beliefs is to do kind things for other people. Examples include opening the door for someone, buying lunch for a friend, smiling at a stranger, letting someone go ahead in a line, visiting an ill friend, giving a compliment, and helping a neighbor with shopping or home repairs
+
+## Vertical arrow technique 
+Expose the silent assumption(s) that give rise to your automatic thoughts with the use of the vertical-arrow method. The downward arrow is a form of shorthand for the following questions: “If that thought were true, why would it upset me? What would it mean to me?” This process leads to a chain of automatic thoughts that will reveal the root cause of the problem. In the vertical-arrow method you imagine instead that your distorted automatic thought is absolutely valid, and you look for the grain of truth in it. This enables you to penetrate the core of your problems.
+My boyfriend didn’t call me this weekend as he promised he would.
+↓ “Why would that be upsetting to me? What does it mean to me?”
+
+That means he’s neglecting me. That means he really doesn’t love me.
+↓ “And suppose that were true. What would that mean to me?”
+
+That would mean there’s something wrong with me. Otherwise he’d be more attentive.
+↓“And suppose that were true. What would that mean to me?”
+
+That would mean I was going to be rejected.
+↓ “And if I were in fact rejected, what then? What would that mean to me?”
+
+That would mean I was unlovable and I would always be rejected.  
+↓“And if that happened, why would it upset me?”
+That would mean I’d end up alone and miserable.”
+
+![Vertical arrow 1](https://user-images.githubusercontent.com/28791247/108034673-c53ed280-702d-11eb-9f63-60260b1416bb.png)
+
+![Vertical arrow 2](https://user-images.githubusercontent.com/28791247/108034712-d25bc180-702d-11eb-9947-039f01272892.png)
+
+## Vulnerabilities 
+I am vulnerable for depression / anxiety on the achievement and perfectionism. 
+
+The first step in changing any personal value is to determine if it works more to your advantage or disadvantage. Deciding that it will not really help you to measure your worth by what you produce is the crucial first step in changing your philosophy.
+
+**Achievement**
+Benefits: 
+Your work ethic allows you to feel you’ve earned personal worth and the right to feel happy. This belief system may make you especially motivated to produce. You might put extra effort into your career because you’re convinced this will give you extra worthiness units, and you will therefore see yourself as a more desirable person. You can avoid the horrors of being “just average.” In a nutshell, you may work harder to win, and when you win you may like yourself better.
+
+Disadvantages:
+- First, if your business or career is going well, you may become so preoccupied with it that you may inadvertently cut yourself off from other potential sources of satisfaction and enjoyment as you slave away from early morning to late night. If it's not going well, you identify with it causing you to feel bad necessarily and give up on all satisfactionairy things in life as well.
+- As you become more and more of a workaholic, you will feel excessively driven to produce because if you fail to keep up the pace, you will experience a severe withdrawal characterized by inner emptiness and despair. In the absence of achievement, you’ll feel worthless and bored because you’ll have no other basis for self-respect and fulfillment. The more we achieve, the higher we set the bar without an end in sight; the reason for this is that achievement does not guarantee happiness. Since your thoughts are the true key to your moods and not success, the thrill of victory fades quickly; we achieve something and then immediately move on to the next thing. And then when we're older, eventually these questions may confront you as well: What’s my life all about? What’s the meaning of it all? You may believe your success makes you worthwhile, but the promised payoff seems elusive, just beyond your grasp
+- Suppose as a result of illness, business reversal, retirement, or some other factor beyond your control, you find you are unable to produce at the same high level for a period of time. Now you may pay the price of a severe depression, triggered by the conviction that because you are less productive it means you are no good. You’ll feel like a tin can that’s been used and is now ready for the trash.
+
+Overcoming achievement vulnerabilities: 
+- Most human beings are not great achievers, yet most people are happy and well respected. Similarly, some people have great success but aren't happy. Thus, it cannot be the case that happiness and love come only through great achievement
+- If you insist your worth is determined by your achievement, you are creating a self-esteem equation: worth = achievement. What is the basis for making this equation? What objective proof do you have that it is valid? The whole idea is nonsense.
+- Move away from the concept of 'worth'. Then you can focus on living in the here and now instead. What problems do you face in life? How will you deal with them? That’s where the action is, not in the elusive mirage of 'worth'. Rather than grasp for “worth,” aim for satisfaction, pleasure, learning, mastery, personal growth and communication with others every day of your life. Set realistic goals for yourself and work toward them. I think you will find this so abundantly gratifying you’ll forget all about “worth".
+- Recognize that there is only one way you can lose a sense of self-worth—by persecuting yourself with unreasonable, illogical negative thoughts. Self-esteem can be defined as the state that exists when you are not arbitrarily haranguing and abusing yourself but choose to fight back against those automatic thoughts with meaningful rational responses. When you do this effectively, you will experience a natural sense of jubilation and self-endorsement. Essentially, you don’t have to get the river flowing, you just have to avoid damming it. This will help you realize that the problem is not your actual performance, but the critical way in which you put yourself down. As you learn to evaluate what you do realistically, you will experience increased satisfaction and self-acceptance.
+- “Tune In to What Turns You On. One assumption which might be driving you to constant preoccupation with achievement is the idea that true happiness comes only through success in your career. This is unrealistic because the majority of life’s satisfactions do not require great achievement at all. It takes no special talent to enjoy an average walk through the woods on an autumn day. You don’t have to be “outstanding” to relish the affectionate hug of your young son. You can enjoy a good game of volley ball tremendously even though you’re just an average player. What are some of life’s pleasures that have turned you on? Music? Hiking? Swimming? Food? Travel? Conversation? Reading? Learning? Sports? Sex? You don’t have to be famous or a top performer to enjoy these to the hilt. Use the Pleasure-Predicting Sheet: Each day he agreed to schedule various activities that might give him a sense of pleasure, satisfaction, or personal growth. These activities could be related to his consulting business as well as hobbies and recreational pursuits. Before each activity he was to write down his prediction of how enjoyable it would be and mark it between 0 percent (no satisfaction at all) and 99 percent (the maximum enjoyment a human being can experience). You'll find that life beyond work also holds great resources for satisfaction
+
+**Perfection**
+“Perfection” is man’s ultimate illusion. It simply doesn’t exist in the universe. There is no perfection. It’s really the world’s greatest con game; it promises riches and delivers misery. The harder you strive for perfection, the worse your disappointment will become because it’s only an abstraction, a concept that doesn’t fit reality. Everything can be improved if you look at it closely and critically enough—every person, every idea, every work of art, every experience, everything. So if you are a perfectionist, you are guaranteed to be a loser in whatever you do.
+
+Overcoming perfection: 
+- Understand pros and cons. 
+  - Pros: 
+    - feeling that something is done to the best of your abilility which results in great work
+    - once you know 'everything' you can set out to achieve a great many things 
+  - Cons:
+    - The anxiety and tension actually moves away from achieving great work
+    - Spending enormous time for little benefit (80/20) 
+    - Probably never be satisfied with your work and never celebrating achievement 
+    - Very self critical
+    - Missing out on lots of other enjoyable things in life 
+    - Afraid of risking things as they'd need to be perfect. This keeps us from trying new things and making new discoveries. 
+- Put your assumptions to the test. Do you need to do things perfectly? Did you ever think that maybe you’ve been as successful as you are in spite of your perfectionism and not because of it? Try altering your standards in various activities so you can see how your performance responds to high standards, middle standards, and low standards. By lowering my standards not only do I feel better about what I do but I tend to do it more effectively. Dare to aim at being average! It takes courage, but you may amaze yourself
+- Face your fears. Fear is the fuel that drives your compulsion to polish things to the ultimate. If you choose to give up your perfectionism, you may initially have to confront this fear. Are you willing? There is, after all, a payoff in perfectionism—it protects you. It may protect you from risking criticism, failure, or disapproval. If you decide to start doing things less perfectly, at first you may feel as shaky as if a big California earthquake were about to hit”  The moment they try to stop what they are doing, they are gripped by a powerful uneasiness that rapidly escalates to raw terror. This drives them back to their compulsive ritual in a pathetic attempt to find relief. One method of confronting and conquering this fear is called “response prevention.” The basic principle is simple and obvious. You refuse to give in to the perfectionistic habit, and you allow yourself to become flooded with fear and discomfort. Stubbornly stick it out and do not give in no matter how upset you become. Hang in there and allow your upset to reach its maximum. Rather than run from your fear, sit still and confront the bogeyman! Ask yourself, “What am I afraid of?” “What’s the worst that could happen?” Then write down your automatic thoughts, and call their bluff. It will be frightening, but if you tough it out and endure the discomfort, you will conquer your fears because they are ultimately based on illusions.
+- Benefit from mistakes and faillures. How can you benefit from an actual failure? It’s simple! You remind yourself that your life won’t be destroyed. Getting a B, in fact, is one of the best things that can happen to you if you are a straight A student because it will force you to confront and accept your humanness. The real tragedy occurs when a student is so bright and compulsive that he or she successfully wards off any chance of failure through overwhelming personal effort, and ends up graduating with a perfect straight A average. The paradox in this situation is that success has a dangerous effect of turning these students into cripples or slaves whose lives become obsessively rigid attempts to ward off the fear of being less than perfect. Their careers are rich in achievement but frequently impoverished in joy.
+- Focus on process rather than outcome. Do your preparation and practice to the best of your ability but understand that the outcome is out of my control.
+- Another way to overcome perfectionism involves assuming responsibility for your life by setting strict time limits on all your activities for one week. This will help you change your perspective so you can focus on the flow of life and enjoy it. If you are a perfectionist, you are probably a real procrastinator because you insist on doing things so thoroughly. The secret to happiness is to set modest goals to accomplish them. If you would like to change, then as you schedule your day in the morning, decide on the amount of time you will budget on each activity. Quit at the end of the time you have set aside whether or not you have completed it, and go onto the next project. If you play the piano and tend to play for many hours or not at all, decide instead to play only an hour a day. I think you’ll enhance your satisfaction and output substantially this way. 
+- In your perfectionism you are undoubtedly great at focusing on all the ways you fall short. You have the bad habit of picking out the things you haven’t done and ignoring those you have. You spend your life cataloging every mistake and shortcoming. No wonder you feel inadequate! Is somebody forcing you to do this? Do you like feeling that way? Focus on positives and achievements instead.
+- The next method to combat perfectionism involves personal disclosure. If you feel nervous or inadequate in a situation, then share it with people. Point out the things you feel you’ve done inadequately instead of covering them up. Ask people for suggestions on how to improve, and if they’re going to reject you for being imperfect, let them do it and get it over with. If in doubt as to where you stand, ask if they think less of you when you make a mistake. Asserting your right to make mistakes will paradoxically make you a greater human being. If the other person feels disappointed, the fault is really his for having set up the unrealistic expectation you are more than human.
+- The next method is to focus mentally on a time in your life when you were really happy. What image comes to mind? Often go back into that situation and mindset when you feel like it could benefit you.  
+- Know when to move on. Suppose you have a task and you notice you’re moving slowly. You may find that you’ve already reached the point of diminishing returns, and you’d do better by moving on to the next task. I’m not advocating that you slough off, but you may find that you as well as others will be equally if not more pleased with many good, solid performances than with one stress-producing masterpiece
+- Simply realize we are human and humans make mistakes. And then ask What can I learn from my mistake? Is there some good that could come from this? You may even go so far as to say your imperfections and goof-ups are some of your greatest assets. Cherish them! Never give up your capacity for being wrong because then you lose the ability to move forward. In fact, just think what it would be like if you were perfect. There’d be nothing to learn, no way to improve, and life would be completely void of challenge and the satisfaction that comes from mastering something that takes effort. It would be like going to kindergarten for the rest of your life. You’d know all the answers and win every game. Every project would be a guaranteed success
+- 
+
+Why It’s Great to Be Able to Make Mistakes
+1. I fear making mistakes because I see everything in absolutist, perfectionistic terms—one mistake and the whole is ruined. This is erroneous. A small mistake certainly doesn’t ruin an otherwise fine whole.
+2. It’s good to make mistakes because then we learn—in fact, we won’t learn unless we make mistakes. No one can avoid making mistakes—and since it’s going to happen in any case, we may as well accept it and learn from it.
+3. Recognizing our mistakes helps us to adjust our behavior so that we can get results we’re more pleased with—so we might say that mistakes ultimately operate to make us happier and make things better.
+4. If we fear making mistakes, we become paralyzed—we’re afraid to do or try anything, since we might (in fact, probably will) make some mistakes. If we restrict our activities so that we won’t make mistakes, then we are really defeating ourselves. The more we try and the more mistakes we make, the faster we’ll learn and the happier we’ll be ultimately.
+5. Most people aren’t going to be mad at us or dislike us because “we make mistakes—they all make mistakes, and most people feel uncomfortable around “perfect” people.
+6. We don’t die if we make mistakes.
+
+
+
+
+
+
 
 
 ## Cognitive distortions summary
