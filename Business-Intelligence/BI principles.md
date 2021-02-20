@@ -98,6 +98,7 @@ Once I have the context, I can establish myself as a business partner - the goal
 - Create an initial list of projects from the business's / team's roadmap 
 - Meet Heads of Teams for 30 minutes - see agenda email below. During these meetings, let them lead and be able to refer back to the initial list of pointers we already planned. 
 - Keep in mind: 
+  - The end goal of what I need to know from these sessions: I need to lead a team to the successful completion of the projects. I need to know why things are important, what they mean and have a rough idea of how to do the things and why BI needs to do these things in order to do my job. 
   - Understand in enough detail what needs to happen - ask for context when you’re not sure what things are/mean. Try to relate what needs to happen to the entire BI picture. If we integrate new data, do we need to get it into attribution too? Are there specific items of the project more important than others? 
   - Challenge on importance - how this relate to the business’s strategic pillars for the year? Does it become more important over time? Is it worth the effort? 
   - Understand how far in the process they are as to what needs to happen. Are there any things they need to think about from a data perspective they may not have thought about yet? Do we agree that their approach is a good one or can we make things easier? 
@@ -130,7 +131,10 @@ Once I have the context, I can establish myself as a business partner - the goal
   - Assign projects to others even when I’d be a blocker initially to e.g. get some integration set up
   - Anything that is hard and technical, me. Anything that can be done in Looker, other team member. 
 - Share it to BI, more broadly, put it in Notion, and start making tickets
-  - Tickets include problem, stakeholder, suggested approach
+  - Tickets include context/problem (tying back to the strategy and impact), stakeholder, suggested approach. Examples to tie back to impact and strategy: 
+    - Affilliate channels are a focal point of PM's strategy to grow marketing spend (and thus Papier's topline growth).  So we need reporting on this like other key channels (FB and Google)
+    - Digital Foiling has had early success, and is part of our future strategy to sell Stationery products and "Own the Desk".  Therefore we need to be able to report on these designs better
+    - The data team wants "Data at the heart of every decision".  It has been difficult to onboard new hires to our Looker data-culture, but we believe a KPI dashboard will help give more examples of Papier KPIs and how to use Looker
   - For projects planned for later in the year: take (*) out and put back in roadmap queue at the end so we have it for next quarter. Add a (Q2) in front so it’s clear
   - For projects no longer in roadmap: normal queue as they’re probably still relevant. 
 - Check in with stakeholders ~Quarterly (dependent on amount of tasks and what's upcoming) to keep the roadmap up to date 
@@ -242,6 +246,7 @@ Data Analyst: Data Analysts perform deep insight work, such as determining the r
   - Know the code. This allows better conversations with those actually creating the code. Keep an open line of communication and share the code desired most often 
 
 ### Communication
+- In any BI communication - with senior stakeholders, to the entire team, to the BI team focus on the sell, the vision and the impact. Why do we do certain things? How does it relate back to our goals? What is the so what?  
 - Key is to create a safe place for team members to ask questions and be vulnerable. Set the example by sharing your own struggles. 
 - Make sure that everyone gets feedback from others early on and regularly during their projects. Especially when doing new or complex or highly important 
 - Analytics weekly
@@ -482,3 +487,40 @@ For Q1 2021, we'll work on incorporating freight and import duty.
  
 Let me know how this looks and if there's anything I missed,
 Will
+
+**Company wide roadmap email** 
+Hi all, 
+
+The BI 2021 Roadmap can be found below (PDF version attached for reference).
+
+Our biggest priority this year remains to support you with the data you need to make better decisions. In addition, we will be working on: 
+- Building a data infrastructure that can accommodate our growth 
+- Answering difficult questions using advanced analytics
+
+We’ll regularly update the roadmap to stay in line with changing priorities of the business and to track the progress of projects. The most recent version of the roadmap will be on our Notion page.
+
+Let me know if you have any questions! 
+
+Dave
+
+(Add a well sized image to the email - people are less likely to open attachments. Still do add an attachment as PDT so people can reference and store it should they want to.)
+
+Answer first update in Slack
+Really Important FYI: 
+
+This evening at 6pm, we will resize our data warehouse to add more space.  Looker can continue to be used from this evening at 6pm. However, our underlying data sources will not update until the resize job is completed. This means that data will be only as recent as it is tonight around 6pm until the job is completed.
+
+We expect the job to not take too long (although there aren’t any guarantees) and we’ll provide updates here on the progress. By Monday morning, we aim to have all source data updated again. 
+
+Let me know if you have any questions on this!  More details on why we are doing this to our data warehouse below for those interested:
+
+What has been done so far
+We have been optimising our data tables over the last ~4 weeks and have been able to measure significant performance improvements in Redshift (our data warehouse) following these efforts. We have also continued to move transformation jobs over from Looker to dbt which we believe will be the single biggest factor in making our data infrastructure future proof. 
+
+What’s next
+We are now ready to test moving over the most troublesome transformation, which has often resulted in Redshift running out of disk space. In order to test this transformation, we need more space in the data warehouse to: 
+Compare the dbt model against the table in Looker
+Ensure the current Looker tables remain usable and update overnight, minimising user disruption
+
+What’s required to get there
+With the increase in data from our new Facebook Dynamic Ads reporting and to effectively quality check this changeover, we need more space in our data warehouse to facilitate this work. We will resize our data warehouse cluster and add another 320gb of storage to Redshift.

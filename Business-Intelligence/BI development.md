@@ -168,11 +168,19 @@ If this was a migration:
     - Where required, perform unit tests compared to source. Any completely new model should have extensive checks like these - especially for the business cases that are non standard (as outlined in the 'common gotchas' document). 
 
 ### PDT to dbt migration
-- Build the dbt model in the test schema with limited data to make it easy to run and troubleshoot. 
-  - Either limited time frame 
-  - For incremental models with partitions: 
-    - make a list of e.g. users that had their full history recently (i.e. the partitions cover the entire time frame to ensure data is comparable)
-  - If not all models are materialized in the test schema, select from prod so you have access to the entire range of data. 
+- We always test dbt in a dev schema. Incremental models are compared between two models in dbt dev
+- Create a new dev branch 
+- Limit the data in parent tables. I.e. in the CTE selecting from source data, limit the data to e.g. only data for the last month
+- Set up two versions of the model to test where both versions ultimately select from the parent table with limited data: 
+Incremental model and Full model 
+- First run the two models. Both models will be built as a full table at first as it's the first time the incremental model is run. 
+- Allow enough time for the source data to update 
+- Run the two models: 
+  - dbt run --models +int_webapp_pages_session --target dev. This will update parent tables and then build the model to test incrementally
+  - dbt run --models int_webapp_pages_session_full --target dev. No need to update the parent models again 
+- Compare the two tables in Redshift / Looker 
+- Delete the additional logic from the dev branch and create a PR 
+include window functions as a check and ensure PDT == dbt 
 - Compare output of dbt model next the PDT. Look out for:
   - Total table count 
   - Count of IDs by day 
@@ -199,7 +207,6 @@ If this was a migration:
 - Make sure the config for each model is complete and accurate. E.g. materialize as incremental for incremental models. 
 - Incremental 
   - Make sure to run incremental models on the columns you know works 
-  - 
 
 ## Updates from Papier
 When people don't know the data yet: 
@@ -220,15 +227,7 @@ When business knows data well:
         - What measure type?
 - What calculated fields would they like to see?
 
-With all of this, remember it's iterative and the business will get back to BI if they want things changed 
-
-## Requirements around non integration use cases 
-- What is the problem you’re facing? 
-- How big is the problem? E.g. how long does it take for you to do this? How is that time spend? Is it in the analysis or something else? 
-- We can get the data into Looker, but that would come with it’s own problems of formatting and actually loading this in, it might break and it’s hard to keep a history. E.g. cells with currency fields, date formats, consistent headers and order of columns. 
-- Also keep in mind that Looker is great for things but how would we replicate the flexibility of Excel?  
-- If we would do that, would that be a good outcome for you in general?
-- It's always a trade-off between what we can do on our end and how much time that will take and whether its possible against the benefit that would have on the business 
+With all of this, remember it's iterative and the business will get back to BI if they want things changed  
 
 
 

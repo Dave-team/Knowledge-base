@@ -207,6 +207,12 @@ Sometimes, fundamental changes happen to data. E.g. we changed our categories at
   - Correct credentials? 
   - Can we connect through other means? E.g. Fivetran
 
+## Connecting to S3 bucket
+- Create a bookmark 
+- Enter the server name 
+- Enter Access Key ID
+- Enter Secret Access Key
+- Add the path of the bucket where I have read access (this will also populate the URL in the Cyberduck settings) 
 
 **Other things to check for (e.g. during interviews)**
 - Min and max dates

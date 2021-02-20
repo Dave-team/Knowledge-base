@@ -110,26 +110,49 @@ With these principles, think hard about them, implement them, make mistakes and 
 - Honest
 
 ## Rituals 
-Mornings
-- Workout / Stretch session after waking up. No phone.
-- Mindfullness / Meditate
+**Mornings**
+Directly after waking up 
+- 5 mindful breaths 
+- Repeat mantras as written in Notes
+- Important habit to break: no phone
+
+Health 
+- Workout / Stretching / Yoga
+- Minimum 10 minutes meditation 
+
+Time left (optional)
+- Reading / drawing 
+- Mindfulness: drinking tea, making a nice breakfast 
 - Journal. Be grateful for what I have and have done and reflect on strenghts and past successes 
 - Breathing excercise 
+
+Getting ready 
 - Take supplements
 - Cold shower: a bit longer each time
 - Skincare routine
-- Learn from knowledge base
-- Work: review goals for the day
 
-Nights 
-- Work: set goals for the next day
-- Cook
-- Reflect on the day 
-- Practice gratefulness
-- Visualise yourself as the person you want to be and use affirmations
-- Relax 
-- Skincare routine
-- Affirmations and meditation in bed before sleep 
+**Work**
+- Start by setting / reviewing goals for the day
+- Regular mindful breaths / mindful breathing spaces. Especially when feeling overwhelm 
+- Go for a mindful walk
+
+End of work day: 
+- Review + log achievements for the day 
+- Set goals for the next day
+
+**Evenings** 
+After work
+- Cooking 
+- Reflect on the day / Affirm key philosophy and practice gratefulness / Visualize doing things well, the person I want to be, and/or how I will handle tough upcoming challenges
+- Reading / drawing 
+- Follow curiosity: watch series/film/documentary/YouTube 
+- Depending on mood: more exercise / read from Knowledge Base / just relax
+
+Bedtime routine 
+- Brush teeth + floss 
+- Skincare
+- Once in bed, body meditation: full awareness to the different parts of the body - potentially another round of affirmations and visualization
+- Important habit to break: no phone
 
 ### Weekend routines
 Running errands
@@ -155,11 +178,10 @@ Self care
   - Find and experiment with new recipes
   - Longer workout / stretching / yoga routine
   - Watch a new film or documentary
-  - Read fiction
-  - Read non fiction that is not development focused 
-  - Explore music 
+  - Read fiction or non fiction that is not development focused 
   - Progress an online course
   - Learn something that will help professionaly 
+  - Be curious: Explore music / art. Learn about people / historic events / how things work.
 - Meet with friends
 
 Overall 
@@ -170,7 +192,6 @@ Overall
 - Weekends are to spend a bit more on food as well - trips to the local veg stores, fish mongers, butchers, bakers
 - Spend more sit down time with e.g. a book 
 - Generally spend more time reflecting
-- 
 
 ### Monthly routines
 - Set goals for the month ahead. 

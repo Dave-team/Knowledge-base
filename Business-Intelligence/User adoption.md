@@ -14,6 +14,12 @@ What does “self-serve” in analytics mean to you?: https://discourse.getdbt.c
   - We can then work on it.
   - Let them know they can always reach out with small questions we can help with 
 
+## Onboarding more senior stakeholders 
+They will be less likely to want to simply learn Looker - they need answer fast. Get them to ask specific questions they can't find the answer to even when asking people e.g. in their team. 
+- Set up a call and ask questions. What are you trying to achieve? 
+- Know a lot about the context - there’s different ways of doing this. This will show X but has these caveats. This is another way of doing it
+- By jumping on a call rather than just answering the question, we can teach at the same time 
+
 
 ## Elements of user adoption
 

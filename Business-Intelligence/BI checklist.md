@@ -11,13 +11,16 @@
 - Check the data multiple ways - does this make sense and does this answer the question?
 - When in doubt, ask others too
 - Communicate a lot with the stakeholder throughout the analysis - the goal is impact. Don't go all rough 
-- Follow up with the staekholder and close the loop 
+- Follow up with the stakeholder and close the loop 
 - When making important changes, e.g. in LookML, consider making multiple versions (old and new) of the metric until this is checked by the business (e.g. v0 and v1)
 
 ### Requirements gathering
-- What is the question we are trying to answer?
+- What is the question we are trying to answer / problem we're trying to solve?
 - What is the impact of this question and how will it help the company? (This can be different from what's asked for)
+- How big is the problem? E.g. how long does it take for you to do this? How is that time spend? Is it in the analysis or something else? 
+- Clarify what it'll take for us to build this and what the consequences of that could be. There might be better ways and sometimes, the current solution isn't half bad. 
 - How and when will you use the data? E.g. in a dashboard shown in weekly meeting, to import into email tool, to put in slides, to send as schedule, to create alerts from, to put into spreadsheet that then does further transformation?
+- Predict what can be build in Looker within certain timeframes and confirm whether that would be a good solution for the stakeholder. 
 - Who will be interested in the data and needs access? 
 - Any visualization requirements? 
 - How does this fit in the grander scheme of things? 
@@ -33,6 +36,7 @@
 - Sign this ticket off with the stakeholder prior to development
 - Regular check-ins during the incremental build 
 - Check-in prior to final delivery to ensure required impact is delivered. Always close the BI cycle. Remember to answer questions: 'So what' and 'Now what'? The end result should not be a deck summarizing findings, the end result should be recommendations or action items that lead to real impact. Closing the loop means pushing action items through, and following up after implementation to measure real impact.
+- When data doesn’t line up - inform stakeholders before they find out about the differences themselves 
 
 ### Dashboard checklist
 - Good design: 
@@ -166,6 +170,7 @@ Example is here:
     - All relevant fields have a name used in the business and a useful description. Make sure this description makes all sense standalone and covers enough context. Always ensure that every single field has a description - even when seemingly obvious and hidden. Good way of getting descriptions is from the API docs
     - The labels are clear and describe the data 
     - Dashboards are easily accessible to end users 
+    - Double check usability of the new Explores built
 
 ### Changes checklist 
 - Changes to LookML 
@@ -198,7 +203,7 @@ Example is here:
     - Perhaps a screeenshot of content valdiator and LookML validator 
     - Screenshot of the dimensions and measures in action with their relevant links
     - Where possible, comparison between source data 
-    - Where relevant, add any other QA relevant information here. 
+    - Where relevant, add any other QA relevant information here. When a screenshot and a link to a Look could help, include it. If the team could discover something that doesn't look right, be proactive and mention it directly. 
     - Ideally, CI tests are set up and these are completed successfully
 - Always add a reviewer to a PR 
 - Include table granularity when building a new PDT / table 

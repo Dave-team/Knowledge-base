@@ -79,6 +79,19 @@ Meeting
 - What are some features/tools that your company is working on to stay ahead of the competition?
 - Why did the last two clients cancel their contracts? Who are they using now? Can we call them?
 
+## Papier Looker Contract
+- Kick off the renewal process a few months before so there is enough time to review options and to not be surprised by a sudden increase in cost
+- In the meeting, go through: 
+  - Company / User growth 
+  - What is happening to the price of the subscription / users? Why does it go up? Can we have it not go up? 
+  - It’s hard to convince the CFO - is there anything we can do that could lead to a discount? Often, this can be signing up more users at once for example 
+- Ask them to send some proposals over email and promise to look into it + speak with CFO 
+- They send something over 
+- Can we do X for the same discount instead? I might be able to negotiate for that with our CFO 
+- Look at for: 
+  - Renewal periods. Longer term often locks the pricing  so we avoid a price increase when it happens. 
+  - Make sure that the pricing for the existing users stays flat - i.e. at least no increase 
+
 ## Templates
 Hi Philip, 
  
@@ -90,5 +103,65 @@ Agreed that we’re slightly over our user licenses. We have had a lot of org ch
 Thanks,
  
 Dave
+
+**Kickoff renewal process**
+Hi Philip, 
+ 
+I believe our current Looker contract ends on March 31. Could we kick-off the renewal process?
+ 
+We are interested in continuing our partnership with Looker but want to have enough time to review other options in case we can't reach an agreement on renewal terms.
+ 
+Cheers, 
+Will
+
+**Ask for discount**
+Hi Joe, 
+ 
+Was there supposed to be an attachment on this?  You mention to "take a look at the paperwork", but I don't see a link to any.
+ 
+Groups of 20 are, unfortunately, out of reach for us right now.  I doubt we would hire 10 more users before the end of the year.  Could we get that same discount for a group of 10?  I might be able to negotiate Finance's approval for those accounts in advance for the renewal.
+ 
+Cheers, 
+Will
+
+
+**Ask for CFO approval**
+Hi Tony, 
+ 
+Attached is the proposed new Looker contract as our current one expires March 31.  ~$55K (£40K) annual contract including additional accounts detailed below.
+ 
+Looker has agreed not to do their typical 10% increase, mainly as an accommodation to businesses because of the ongoing pandemic.  I recommend we sign for another 2 years, this will lock in our existing pricing, but still give us the flexibility to transition to other tools in 2 years if there is a better offering.
+ 
+Looker has also offered a 25% discount on 10 accounts if we buy them as part of the renewal.  I believe we should do this because:
+- We will profit from this deal as long as we need to buy more accounts before June 1st (highly likely given the hiring plan)
+- We are already over our 40 accounts (currently 42).
+- Looker has honored historic pricing per account, so there is a chance we will get this discounted rate in the future.
+
+The proposed contract is in annual payments, I assume you would prefer this to be quarterly?  Are there any other considerations on your end or is it okay to renew?
+ 
+We would need to sign before February 4th to receive the 25% discount on accounts.
+ 
+Cheers, 
+Will
+
+**Checks**
+Hi Joe, 
+ 
+Thanks again for sending this along.  Two more (hopefully quick) questions, then I think our Finance team would be ready to sign and renew.
+- What needs to happen by February 4th to secure the discount on additional accounts?  Signing the contract?
+- Could the payments be quarterly instead of annual?  That is strongly preferred.
+
+Cheers, 
+Will
+
+**Confirm with CFO**
+Hi Tony, 
+ 
+I just wanted to confirm the final draft of our Looker renewal for approval. 
+ 
+The final cost is $60K a year, (~ £53K), paid quarterly.  We negotiated no additional service fees, the only difference from the $47K previous contract is 20 more accounts over more months.  Accounts@papier should start seeing charges from the new contract on April 1st.
+ 
+Cheers, 
+Will
 
 

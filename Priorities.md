@@ -60,7 +60,8 @@ Things I actively pay attention to and work on:
 - With ambigious problems: timebox understanding what can be done. If something will likely take longer than expected, communicate that to stakeholder and understand how important and urgent it is before trying to make perfect. Also realise people don’t necessarily ask: fix this minor issue I’m having. Instead, they’re asking: hey I have this issue - do you know a workaround? And if something seems mundane, can they do a workaround themselves? 
 
 **Take ownership**
-- Be up to date with the tickets and inbox in Notion as well as the Tech tickets, know the team's priorities
+- Be up to date with the tickets and inbox in Notion as well as the Tech tickets, know the team's priorities. Know the context around what we work on as well as how our work ties in with the wider strategy and what impact the work has. If the context is missing, find a way to get it. 
+- Understand our data model deeply - when questions arise I am able to provide helpful guidance. 
 - Don’t be afraid to speak up if I believe there are better ways or if I believe I have context that others don’t. Your job is BI manager and with that come a wide range of responsibilities, not just something you've working on at any given point with a specific team on a specific problem. 
 - Being too nice is not going to work long term. Value your time and know your worth and being too soft isn’t good for anyone either. 
 - Take more steps back to avoid getting buried down in the day to day
@@ -74,15 +75,19 @@ Things I actively pay attention to and work on:
 - Speak up during (team) meetings. 
 
 **Management**
+- When communicating, focus on adding the strategy, impact and context - don't just focus on the transaction of the work. Why do we do certain things? How does it relate back to our goals? What is the so what? 
 - Have an idea around how you'd solve things that the team is working on when asked the question.
 - Try to have them answer the questions: 
   - What have you tried so far?
   - What do you think the best approach is?
   - What next steps do you recommend? 
+  - Did you ask the stakeholder?
+- Think about whether the suggested approach is a good one from a high level - is there a simpler or more scalable way of doing things? 
 - When I don't know, say that and look into it 
 - When something doesn't work, ask them to provide an example 
 
 **Stakeholder relationships**
+- Rather than answering questions, find out what we are trying to achieve and empower people to do things themselves. This requires confidence of the data and our data models so make sure I have this first. 
 - Be confident in push back: I cannot deal with everything at once and need to prioritize. I am responsible for my job holistically, not just solving other team's priorities
 - Be firm and clear. Know what matters, what is an FYI and what needs a decision from their end. 
 - Set expectations: when they need to fix things things, clarify this. 
@@ -95,6 +100,8 @@ Things I actively pay attention to and work on:
 - Go step by step with regular checks during the process
 
 **Other development goals**
+- Communication: answer first - what is the most important thing people to make aware of? Then provide additional context for those interested. 
+- Communication: slow down and structure - avoid umms where possible. 
 - Be specific in agendas
 - Improve on the commercial side of things. Contracts, legal, pricing, negotiation. Start collecting best practices and templates were using at work
 - When changing things, ask 'What could go wrong?' then confirm whether that's the case before making a change
@@ -119,6 +126,7 @@ Things I actively pay attention to and work on:
 - Focus on the positives during the meetings. 
 
 **Public speaking** 
+- Focus on relating things back to the strategy and what impact the data has
 - Realize it's there to stay and ultimately I need become comfortable doing it 
 - Accept the nerves for what they are: my body's response to preparing me for what's coming. They're welcome to stay - own your nerves - chin up and chest to the front. I knew I would get an increased heart beat and sweaty palms because I’ve been there before. All is well - I will get through this. 
 - Every presentation is an experiment: Rather than approaching it with anxiety, think: let’s see what happens. Each time you try to do the best you can prepare for. Use techniques as experiments and see how they help

@@ -71,6 +71,9 @@ A good technique is also visualization: perhaps visualize the event going well a
 **Understanding root cause**
 What makes you feel scared or anxious? Once you know where the anxiety is coming from, you can likely calm down more.
 
+**Do something else**
+When struggling, it's easy to overthing and stay very fixated with tunnel vision on something you believe should be solved. Challenge the thoughts that you need to keep thinking about things to solve them. You’ll realize it doesn’t need to be like that. Make it an experiment and see how that turns out. 
+
 **Complete a Thought Record**
 When we feel a strong mood, complete a Thought Record to: 
 - Make sense of your emotional reactions
@@ -86,6 +89,13 @@ Based on this imagination exercise, how confident are you (low, medium, or high)
 
 **Use techniques to cope**
 Anticipating feelings that we fear and having a plan on how to cope with them. 
+
+*When I start to race*
+- Pause. Am I racing because I tell myself I should be doing something? And am I racing to escape doing other things that might even be more satisfying? Am I doing it because others do it? Is it because I have nothing else to do? 
+- What is the end goal when the thing I'm racing towards is completed? Realise that nothing will ever be finished - if I finish something now, that's fine - but that'll just open up another box of things to do. 
+- Of the other things I'm focusing on, what else could I do right now that is perhaps more mindful? Right this moment, what else do I really feel like doing - base this on curiosity and energy levels? Doing something else will reduce the importance of the thing you thought you 'should' be doing. 
+- When I do decide to do something, timebox the activity to avoid doing nothing else. And then have other things lined up to do instead - it's crucial that I genuinely believe those other things to be beneficial and enjoyable, otherwise I'll disregard them as less important. 
+
 
 *Dentist*
 - Go to the dentist and simply deal with it.
@@ -326,13 +336,6 @@ Why It’s Great to Be Able to Make Mistakes
 4. If we fear making mistakes, we become paralyzed—we’re afraid to do or try anything, since we might (in fact, probably will) make some mistakes. If we restrict our activities so that we won’t make mistakes, then we are really defeating ourselves. The more we try and the more mistakes we make, the faster we’ll learn and the happier we’ll be ultimately.
 5. Most people aren’t going to be mad at us or dislike us because “we make mistakes—they all make mistakes, and most people feel uncomfortable around “perfect” people.
 6. We don’t die if we make mistakes.
-
-
-
-
-
-
-
 
 ## Cognitive distortions summary
 1. ALL-OR-NOTHING THINKING: You see things in black-and-white categories.If your performance falls short of perfect, you see yourself as a total failure.
