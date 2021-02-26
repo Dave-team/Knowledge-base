@@ -26,3 +26,24 @@
 - Leading and lagging indicators 
   - Lagging indicators assess a current state. Also called an output metric. A lagging indicator is easy to measure but hard to change.
   - Leading indicators predict a future state. They are also called input metrics. They define what actions are necessary to achieve your goals with measurable outcomes. They “lead” to successfully meeting overall business objectives, which is why they are called “leading”. Examples include renewal rates, upsell rates. Leading indicators are dynamic but difficult to measure. Similarly, overall revenue is often a lagging indicator of past performance but if we segment by region and find sales rapidly growing in a region, that's a leading indicator for more growth. 
+
+## Growth metrics
+The single growth metric:
+- Retention is built in – this is an indicator that you are delivering and building real value because people keep coming back. Example metrics: Daily/Weekly Active Users. Bad metrics: total registrations/downloads (they don’t show real value) 
+- Should be meaningful: i.e. how do you define retention? These should be meaningful  interactions with the product 
+- Relevant: should your product be used daily/weekly/monthy?
+- Honest: show percentage increase, absolute increase, time period in which this occured 
+
+You can’t let one metric be your all guiding thing as it’s missing the overall picture. Look at retention, engagement and monetization at a bare minimum 
+- There are output metrics (these represent results and help set long term goals for the company – e.g. 6m in revenu, 100k WAU). 
+- And there are input metrics (represent actions that influence output metric – registrations, upgrades, downloads, etc.). Input metrics are leading, output metrics are lagging. In general, output metrics probably shouldn’t change, whereas input metrics can change depending on the priority of the company 
+- Monitor output metrics to see how you’re doing but build experiments around input metrics you can directly influence. Ask yourself: what actions could we take to improve our ‘output metric’? Then you go deep until you get to very actionable projects 
+
+- Never just have a single north star metric. These are lagging and not actionable. Instead, have a few output metrics that account for retention, engagement and monetization. Then break these down into specific input metrics you can run experiments against. Then analyze the results and identify relationship between input and output metrics and adjust accordingly. 
+
+## AARRR
+1. Acquisition: users come to the website from various channels
+2. Activation: users enjoy their first visit and become active (note the importance of the AHA moment)
+3. Retention: users come back
+4. Referral: users like the product enough to refer friends
+5. Revenue: users do something that leads you to make money
