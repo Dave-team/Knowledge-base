@@ -4,6 +4,12 @@
 - https://www.supermemo.com/en/archives1990-2015/articles/20rules
 - http://augmentingcognition.com/ltm.html
 - http://super-memory.com/articles/20rules.htm
+- Best sources for learning things: 
+  - "Awesome" sources
+  - Twitter search
+  - Gitlab data handbook
+  - Communities (Slack, Hackernews, Reddit)
+  - Blogs
 
 ## Practicing deliberately 
 The best way to learn is by practicing deliberately. Key characteristict: 
@@ -43,7 +49,6 @@ The best way to learn is by practicing deliberately. Key characteristict:
 - When learning from best practices or going off some role model's advice, don't overlearn from it. Every personality is different, every living situation is different and every mind is different. 
 - Cross-reference. Don't read linearly. Instead, have multiple textbooks, and "dig deep" into concepts. If you learn about something new (say, linear combinations) -- look them up in two textbooks. Watch a video about them. Read the Wikipedia page. Then write down in your notes what a linear combination is.
 
-
 ## Other
 - Try to avoid questions too soon. Try something yourself first:
     - You’ll learn the hard way – which sticks to your memory much better
@@ -65,7 +70,6 @@ The best way to learn is by practicing deliberately. Key characteristict:
 - Arm yourself with specific knowledge. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated
 - Learn by doing and have faith in your ability to just figure things out 
 - Most of the learning comes from reflecting on challenges, mistakes and other decisions 
-
 
 ![Learning curve](https://user-images.githubusercontent.com/28791247/101977721-9714cf00-3c47-11eb-8ee6-69fad0a4124f.png)
 

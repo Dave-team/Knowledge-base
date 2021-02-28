@@ -229,5 +229,8 @@ When business knows data well:
 
 With all of this, remember it's iterative and the business will get back to BI if they want things changed  
 
-
+## Building a SQL query request
+- People will always want more filters etc. So rather than building a bespoke solution, look to build something that is higher level - give them instructions to use the data. 
+- Use LookML fields in the SQL to avoid having to rewrite SQL myself 
+- Keep it high level and simple for me rather than specific to a solution. 
 

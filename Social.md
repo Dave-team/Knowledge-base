@@ -37,6 +37,14 @@
 - Get the other person saying ‘yes, yes’ immediately. When talking with people, make sure to start emphasizing things on which you agree, not the points on which you differ. 
 - If someone does something bad to us, hold off. “You can always tell the man off tomorrow, if it’s such a good idea”. 
 
+## Things to talk about 
+- What topics do people care about? Raise those questions
+- What do people say? What would I want to know from that? What are peoples experiences with that? What is happening in the world lately? Did I capture anything new and interesting to share?
+- What is the context of the people in their current life? What can I ask about around that?
+
+## Storytelling 
+TO DO 
+
 ## Ice breakers
 - Since I’m onto my second one for the day… How do you like your coffee? (Be specific)
 - What is the oldest item of clothing in your wardrobe?
@@ -69,7 +77,6 @@
 - What's your favorite thing about yourself? 
 - What something you lie about regularly? 
 - TEll us about a recent turning point in your life
-- 
 
 ## 1-1 Conversations
 - A good conversation consists of: 
@@ -147,14 +154,13 @@ Remember that a person’s name is to that person the sweetest and most importan
 - When you listen to someone, you should give up all your preconceived ideas and your subjective opinions; you should just listen to him, just observe what his way is. We put very little emphasis on right and wrong or good and bad. We just see things as they are with him, and accept them.
 - Usually when you listen to some statement, you hear it as a kind of echo of yourself. You are actually listening to your own opinion.
 - Immediately into a conclusion and a label and this is how it is. Instead take time to explore and ask questions
-- 
-
+- We often only hear what we already think. We should try to listen to discover something new. Challenge what people say from a position of openness 
+- Don’t seek the truth, just drop your opinions 
 
 ## Charisma 
 It's about presence, power and warmth:
 - When you meet someone charismatic, you’ll feel that they hold enough power to move mountains for you and that they like you a lot. Power means being perceived as being able to affect the world around us. This is about making others feel inspired, make them believe. Warmth is goodwill towards others
 - Someone who is charismatic will be reported as being extremely present – all they care about is the person or group they are engaging with. Make sure other peoples opinions are valued and that the people are important or at least feel that way. Make them feel welcomed and accepted. To be more present, practice meditation. In a conversation, ask yourself whether you are present. If not, focus on breath for a few seconds and then back to the person 
-
 
 Other tips: 
 - Visualize being charismatic
@@ -165,5 +171,15 @@ Other tips:
 - Compassion is empathy (understanding how someone feels) plus goodwill (wishing them well). Build compassion for someone by imagining their past (what would it have been like to grow up under their circumstances? Under the same circumstances, I might have turned out the same) Imagine their present – place yourself in their shoes now and imagine all the feelings they might have 
 - Self compassion: this is the things you do when you have a hard time. Also, think about someone you admire and who is warm and compassionate. Think through their eyes telling you that you are absolutely perfect at this stage in your life. It can also be enhanced using photos that make you feel warm or e.g. quotes of others 
 
-
+## Dealing with others
+- We may not be saintly enough to love our enemies, but, for the sake of our own health and happiness,let's at least forgive them and forget them.
+- One sure way to forgive and forget our enemies is to become absorbed in some cause infinitely bigger than ourselves.
+- Had we been in the same conditions and circumstances, we may just have done the same thing. 
+- Give people understanding and let's hope the best for them 
+- Like myself, people are asses - so don't be surprised when they act like it. 
+- Give without expecting anything in return 
+- When you are criticized, you are important because they spend energy on you. 
+- Don't expect too much from people 
+- The negative feeling is in you. Someone else might be perfectly calm under the same circumstances. 
+- When you don’t want to, say no. That’s not selfish – it’s selfish to assume you should live your life as someone else sees fit. Don’t feel obligated to be with someone
 

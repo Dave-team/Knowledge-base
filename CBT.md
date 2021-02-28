@@ -96,6 +96,20 @@ Anticipating feelings that we fear and having a plan on how to cope with them.
 - Of the other things I'm focusing on, what else could I do right now that is perhaps more mindful? Right this moment, what else do I really feel like doing - base this on curiosity and energy levels? Doing something else will reduce the importance of the thing you thought you 'should' be doing. 
 - When I do decide to do something, timebox the activity to avoid doing nothing else. And then have other things lined up to do instead - it's crucial that I genuinely believe those other things to be beneficial and enjoyable, otherwise I'll disregard them as less important. 
 
+*Visualizing perfect end solutions*
+I race towards future solutions. It’s better to solve problems as they come up and start with the fundamental first steps executed well. The future often will present itself. 
+
+*Dealing with uncertainty*
+Anything that is uncertain: is there a way I can know? Are there steps I can take? If not, realise that life is a mystery and it'll unfold itself. If there are things I can do, focus on doing those. 
+
+*Team meetings*
+- I judge and label the work I’ve done as good or bad. However, what I’ve done isn’t good or bad. It’s simply a result of the effort I put in during that week. What myself and others think of that is a reflection of thoughts, understanding of the situation and our mood. What is 'good' to someone can be 'bad' to someone else. We should look at it from outside ourselves and not label it because there isn't anything to label because nobody can know. 
+- Craving for validation when I did something good leads to tension as you’d want to keep this validation. Criticism means that someone is in a mood and has an opinion of me from what they know and think of me that needs addressing. They may be right, they may be wrong. All I know it’s the best thing to do to my knowledge and I tried working at it in the best way possible. If there's feedback or criticism on that, then that's helpful as am I open to learn rather than defensive to criticism. 
+- It has literally never happened that anyone tapped me on the fingers - how likely is it to happen now? 
+- I project that I know what others think. In reality, they don’t know what I’m talking about and just want to make sure things get done 
+- I blow up my own importance. The business needs to run - without me, it would still run 
+- I identify with my work - whether “I” am worthy is depending on how I perform at work. I can switch job and be the same person, the job really isn’t all there is to it. 
+- I set really high expectations on my own work - quality of decision making, technical ability and speed. Why not be more realistic? Setting high expectations causes suffering as there will be tension to meet them. Others don’t put this expectation on me, they just want to see good progress and happy employees. And they trust we work on the highest impact thing - if something is hard and takes more time that’s okay if its worth it. Otherwise, timebox. 
 
 *Dentist*
 - Go to the dentist and simply deal with it.
@@ -140,6 +154,8 @@ Anxious thoughts are often covered in What Ifs: “What if I stumble over my wor
 Anxiety often arises because we don’t have control over events. When we are anxious, we try to be in control or do things perfectly, in the hope that this will prevent bad things from happening. Since we don’t have confidence that we can cope with the dangers that worry us, it makes sense that we try to prevent them. The problem with this approach is that it is really impossible to do things perfectly or have complete control over what will happen in the future. Thus learning to boost our confidence that we can cope when things go wrong is a more helpful approach to managing anxiety than trying to prevent things from going wrong.
 
 Anxiety can be reduced either by decreasing your perception of danger or by increasing your confidence in your ability to cope with the things you fear. An important part of overcoming anxiety is learning to tolerate feeling anxious
+
+Anxiety comes and it goes – don’t identify with it (“I” am not anxious – I just experience an anxious episode) – I just watch it. You’re perfectly happy for it to be there and move on with your life whilst it passes through and eventually disappears. The more we identify with it and fight it, the more power we give it and the harder it gets. Be willing to observe it (“here comes anxiety”) as it passes by. Let tension and anxiety take care of itself. Let whatever happens happen. People are always fixing things – even things we don’t or can’t understand. Most things really don’t need to be fixed – they need to be understood. 
 
 ## Burnout 
 The exhaustion funnel helps explain burnout. The top of funnel contains nourishing activities. As we become more stressed, this is what we give up. More and more to what seems as 'more important' as these nourishing activities appear optional. At the end, all that is left is work and no replenishing activities making us extremely exhausted and unable to enjoy small things. 

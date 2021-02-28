@@ -19,6 +19,7 @@
 - There is nothing as useless as doing efficiently something that shouldn’t be done at all 
 - The shorter the list of things to do / to work on, the more likely it is to focus on things that matter.
 - Granny’s rule: do the unpleasant before the pleasant
+- Work on one task at a time
 
 ## Process
 **Weekly**
@@ -50,7 +51,7 @@ Map out how much time you spend in each quadrant. After that, review and determi
 The things that add most value and impact is Quadrant 2. For people to work more in quadrant 2, we have to decrease time in other quadrants which will likely mean we need to say ‘No’ more often. It becomes a lot more easy to say no once you have identified what you can and should be doing in quadrant 2. 
 
 ## Techniques
-- Deep work: work in chunks of time without interruption
+- Deep work: work in chunks of time without interruption. The way to be productive at work is to get into a state of flow. It often takes roughly 15 minutes to get into this state and it is easy to be disrupted and get out of a state of flow. In a flow state you are working at your potential. Any time you’re not spending in a flow is suboptimal work at best 
 - Pomodoro technique: work for 25 minutes and then take 5 minutes break - do something completely different in these breaks  
 - Plan your time: 
     - Plan your days in Google Calendar. This is your ideal week

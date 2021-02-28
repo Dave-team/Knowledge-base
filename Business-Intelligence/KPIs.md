@@ -41,6 +41,8 @@ You can’t let one metric be your all guiding thing as it’s missing the overa
 
 - Never just have a single north star metric. These are lagging and not actionable. Instead, have a few output metrics that account for retention, engagement and monetization. Then break these down into specific input metrics you can run experiments against. Then analyze the results and identify relationship between input and output metrics and adjust accordingly. 
 
+In terms of metrics, be very wary of vanity metrics. Don’t look at comulative numbers, but seek to undersand whether any optimizations delivered better results in metrics across the board (e.g. AARRR framework). Good ways to measure include split tests (i.e. A/B tests) as well as cohort analysis
+
 ## AARRR
 1. Acquisition: users come to the website from various channels
 2. Activation: users enjoy their first visit and become active (note the importance of the AHA moment)

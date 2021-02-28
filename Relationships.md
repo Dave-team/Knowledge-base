@@ -153,7 +153,10 @@ You should never be depending on a relationship for happiness. Then, you can bri
 - There is this odd feeling where a life should be lived with someone else to make the most out of life. Travelling, intimacy, being as close to someone else. But the reality is that we don’t control other people so we can be in a long term relationship it can also quickly break for whatever reason. And yes we are probably social creatures meant to be together with someone else but often that’s not always the case. It takes a lot of time to find someone that could fit and you get along with and then it also needs to be mutual. It’s worth waiting for whilst you try to become the very best version of yourself first
 - Relationship pros: sex, physical touch (kiss, hug, spoon), someone to share things with and constant emotional support, someone to do fun things with. Financial sharing
 - Relationship cons: anxiety around relationship. Dealing with issues. Not being able to do just what I want to do
-
+- We’re in love with the idea of the person. Our mind makes up an image and story of the person and then we glorify that concept, losing ourselves and not seeing reality. 
+-	The suffering starts when we depend on the other for our own happiness 
+-	Good love is no demands, no expectations, no dependency: I love your company, but if you leave, that’s fine. 
+-	If you cling and not let others be themselves, can we say that’s love? If you need someone else for your happiness, can you really love them? 
 
 ## Reflect during a relationship
 - Be in touch with feelings when in a relationship. Am I as excited as I should be? Are we compatible? Do I see us being 40 looking after kids or would I feel like there is more to life? What does your gut say? Does it all feel right? Am I doing this because it's expected and everyone around me is getting engaged/married/have kids or am I actually excited about this relationship and the person? I need to be more realistic: 
@@ -278,7 +281,6 @@ Hold hands, touch, kiss, hug, and have sex. To understand where/how to touch you
 - Fit
 - Know how to deal with people and make people feel good 
 - Sharing my feelings and being honest and open in communication 
-
 
 Other notes
 Deal with being possessive

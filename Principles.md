@@ -18,11 +18,9 @@ You want to be able to seperate from your mind and look at yourself objectively.
 The end goal is to live a simple life. 
 The default state should be: this is great – let’s make the most of the situation at hand
 
-
 Have a personal philosophy and then live by it. It becomes the criterion by which you measure everything else in your life.
 - Who you want to be (character and values) 
 - What you want to achieve and contribute
-
 
 ### Family
 - Always be there for the family and be responsible
@@ -114,6 +112,7 @@ With these principles, think hard about them, implement them, make mistakes and 
 Directly after waking up 
 - 5 mindful breaths 
 - Repeat mantras as written in Notes
+- Go over the things I am grateful for
 - Important habit to break: no phone
 
 Health 
@@ -197,7 +196,61 @@ Overall
 - Set goals for the month ahead. 
 - Review performance against goals month before (journal)
 - Review life admin and take actions accordingly 
-- Am I living the life that I want to be living? Have I done some amazing things this last month? 
+- Am I living the life that I want to be living? Have I done some amazing things this last month?
+
+## Reduce worry 
+- Focus on other things 
+  - Get busy doing other things - this allows you no time to worry 
+  - Focus on caring about other people - your worries will reduce in magnitude. 
+  - Think about how you can please someone and do that
+  - Write your worries down on paper - then put the paper away. Come back to it two weeks later. If it still worries you, put it back again for another two weeks. Most of the time, that worry will solve itself. Either the problem solved itself or our mental attitude changed so it no longer has power to trouble us.  
+- Be realistic 
+  - Why don't you stop right now and ask yourself: "What in the hell am I worrying about?" You will probably find that it is comparatively unimportant and insignificant.
+  - 99% of the things we worry about don't happen 
+  - Read history - things were way worse in the past - our current situation isn't all that bad. 
+  - Put your situation in the grand scheme of things. 
+  - Don't take yourself or your situation so seriously - if I were to die now, the world would go on just fine without me. 
+  - Will this matter two months from now? If not, don't worry about it. 
+- Relax
+  - Relax your body language when working 
+- Become tougher 
+  - Have experienced hardship or even rock bottom. Everything we experience is small in comparison. 
+- Force happiness 
+  - You can't worry when you're laughing at yourself at the same time.
+- Accept
+  - Co­operate with the inevitable. If you know a circumstance is beyond your power to change or revise, say to yourself "It is so; it cannot be otherwise."
+- Three steps
+  - What am I worrying about? What is the problem?
+  - What is the cause of it? 
+  - What can I do about it? (if nothing, forget about it - ride the wave - be aware and curious. If it has to be, it has to be) Think about multiple possible solutions 
+  - Pick the best solution
+
+## Awareness
+We’re wired to believe we need money, status etc. This makes us chase these things and in the pursuit of it, we forget to appreciate what we already have. The tragic thing is we give up on living because we chase something that is different from what we have right now. Everything we need, we already have it up for taking. We seldom think of what we have but always of what we lack. So rather than wanting more, focus on appreciating what we already have and the here and now - we have a lot to be thankful for. 
+
+It is difficult to be in touch with this reality because once we do, we don't know what we find. We think life should be lived in a certain way because that's how we've done it. We'd lose control of the things we think we value so much and we thought were so important. So instead of facing this, we distract ourselves with tv and social media and other mindless activity. 
+
+How to achieve awareness
+-	Awareness is not a goal to achieve. With awareness, there’s nowhere to go, nothing to achieve. To experience every moment – we don’t “want” this – we do or we don’t. 
+-	Observe yourself – be aware of your behaviour. Reflect on your behaviour – were you aware or did you get carried away? By understanding, we can change. Everything that happens to us, see it as if it were happening to someone else – no judgement, no attempt to change – only to understand. 
+-	Don’t stop desiring, but see the desire for what it is and understand it. Desire then turns into preference. 
+-	Every negative feeling is an opportunity to be aware – to observe it from the outside. It won’t go away but as you understand it, it will happen less frequently. 
+-	When we have certain thoughts (for example distorted) or we’re hard on ourselves – just be aware of it. Don’t try to change it – observe it as if it were happening to someone else 
+-	Learn what it means to experience each moment fully, then drop it and move on to the next moment, uninfluenced by the previous one. 
+
+## Identity
+-	We are not our thoughts – they come and they go. Anxiety comes and goes
+-	Our identity is a combination of past experiences, conditioning and programming 
+-	In life, you want to observe yourself – do you identify with your behaviour or are you aware of your behaviour? 
+-	There is no need to change anything to be happy, we already have it in us, we just don’t experience it. We need to drop illusions, ambitions, greed, cravings. And these all come from having identified with labels. 
+
+What we identify with is always changing. "I am a success", "I am a businessman". That’s not true – these things come and go and can change. By identifying with them, we cling to them. We’re worried that they fall apart and that’s why we suffer. We fear mistakes, we start to depend on others and lose our freedom and we constantly need to live to up expectations. 
+
+Our perception is clouded by the need to get our drugs and that’s what we see things and people for – we stop seeing things as they are and respond accurately. 
+
+We can combat this by developing a taste for the good things in life. Loving your work for the sake of actually loving it – not to get somewhere. Laughter and intimacy with people we don’t cling to or depend on but whose company we enjoy. Doing things we love such that any outcome is irrelevant – reading a good book or watching a good movie. Retrieve to nature. When we don’t identify, criticism and flattery becomes less daunting. It's based on the other persons concepts of what they think I am and their mood, their outlook of life at the point in time. The actual I is always changing, like the universe is always changing. We stop being hurt or not liked; we no longer have the need to impress everyone. 
+
+This comes from an approach where we are happy to be nobody – success or failure become irrelevant. Making a fool of ourselves – what does it matter?! By not having something to live towards, we lose our tension about succeeding and our fear of failure – you will be yourself and relaxed. This comes from a feeling that we’re good enough as we are. 
 
 ## Happiness and purpose
 ### What is happiness? 
@@ -209,20 +262,21 @@ You can then accept the current state of things and he more present we are, the 
 - Realize its a choice and we can prioritize it above everything else. It’s about finding things we do that gives us internal peace/contentment and we need to trial with these things until we find something that works for us and just making a commitment to ourselves to be a happier person.  
 - To achieve this contentment, throw away any expectations or grand goals you may have. Each goal will lead to another and misses the point of being present.
 - Believe in the complete and utter insignificance of the self. Our lives are a blink of a firefly in the night. You’re just barely here. You have to make the most of every minute. Every second you have on this planet is very precious, and it’s your responsibility to make sure you’re happy and interpreting everything in the best possible way. Any moment where you’re not having a great time, when you’re not really happy, you’re not doing anyone any favors. All you’re doing is wasting this incredibly small and precious time you have on this Earth. You’re going to die one day, and none of this is going to matter. So enjoy yourself. Do something positive. Project some love. Make someone happy. Laugh a little bit. Appreciate the moment. And do your work.
-- Be more grateful: “Stop asking why and start saying wow.” The world is such an amazing place. As humans, we’re used to taking everything for granted.
-- 
+- Be more grateful: “Stop asking why and start saying wow.” The world is such an amazing place. As humans, we’re used to taking everything for granted. 
 - Find happiness in acceptance. Rather than striving for something or wanting to solve problems, get peace on the inside by accepting the ways things just are. What can help with this: 
   - Embrace death. It's coming and you can't run from it. More generally, let go of what you can't control
   - It’s okay whatever the outcome is. 
   - We don’t always get what we want, but sometimes what is happening is for the best. The sooner you can accept it as a reality, the sooner you can adapt to it.
   - To accept: step back and look at previous bits of suffering I’ve had in my life. Write them down and ask what happened? 
+- Can you imagine a man who goes around shaking hands with porters and expressing sympathy for the cooks in the hot kitchen and telling people how much he admires their dogs, can you imagine a man like that being sour and worried and needing the services of a psychiatrist? You can't, can you? No, of course not
+- 
 
 Practical techniques for happiness: 
 - Mindfullness: meditation, yoga, hobbies that create a state of relaxation 
 - Expressing your feelings (with others, in therapy, in a journal, through art)
 - Spending time with happy people
 - Read great books 
-- Smile more often 
+- Physically alternations: sit up and act as if cheerfullness is already there. Smile.  
 - Get more sunlight 
 - Working out 
 - Reduce screen and social media time
@@ -236,7 +290,7 @@ Practical techniques for happiness:
 ## Meaning of life 
 Meaning to life is personal and the key is to be happy in the moment. I don’t think there is any end goal or purpose. I’m just living life as I want to. I’m literally just doing it moment to moment.
 
-Answer 2: There is no meaning to life. The reality is you’ve been dead for the history of the Universe, 10 billion years or more. You will be dead for the next 70 billion years or so, until the heat death of the Universe. Anything you do will fade. It will disappear,
+Answer 2: There is no meaning to life. The reality is you’ve been dead for the history of the Universe, 10 billion years or more. You will be dead for the next 70 billion years or so, until the heat death of the Universe. Anything you do will fade. It will disappear. Life has no meaning as a meaning is a formula that makes sense to the mind – life is a mystery that makes no sense to the conceptualizing mind. 
 
 We seem happiest when we’re socialising with other people, outside or doing something that seems meaningful to us such as excercising and volunteering (effective altruism, focus on wife/kids, solve problems to better the world and make life better for others, perform and learn about arts, study philosophy and spirituality, get to know your inner psyche). Sometimes meaning of life comes from things are inherently worthless. Learn an instrument, buy a motorcycle, make a painting, become a scuba instructor, run a marathon, try drugs, move to another country, sit at a park/cafe and talk with people. Spice up and really experience life.
 
@@ -246,7 +300,7 @@ The goals we should strive for are those that have no endpoint, just continuous 
 
 ## General 
 - Build character and get a thicker skin: 
-    - Hardship and setbacks are a part of life. We need to deal with and accept this reality. Not everything is about roses and moonshine. We need to deal with the cards we’re given. We need to go on and not be stuck in the past.
+    - Hardship and setbacks are a part of life. We need to deal with and accept this reality. Not everything is about roses and moonshine. We need to deal with the cards we’re given. We need to go on and not be stuck in the past. Learn to absorb the shocks along the rocky roads of life. 
     - Character is having gone through hard times and coming out on top
     - Get uncomfortable more often
     - Seek out criticism
@@ -255,6 +309,9 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - When there’s pain, it means there is something to learn. The more you deal and face the pain, the more you learn and the better you become at encountering similar or even heavier pains. 
     - Think of life as a puzzle: every challenge you solve is a principle that helps avoid the same sort of problem in the future
     - Pain + reflection = Progress
+    - Criticism: 
+      - Realize we're not perfect so we're often wrong. When there is criticism - maybe you deserve it. Be thanful and work with it. 
+    - Act as if we are confident and got everything sorted. 
 - Spend time with great people 
     - You are the average of the five people you spend most time with
     - Visualize how others would handle situations and emulate these situations (Naval, Paul G, Jocko)
@@ -338,6 +395,7 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - Life is like a box of chocolates - you never know what you're gonna get. But you just make the most of it  
     - Don't expect much so there is little disappointment. What you desire most ends up owing you
     - “If you’re like me – it’s kind of fun for life to be complicated. I think you’ll just have to endure the world – as complicated as it is” 
+    - The best possible way to prepare for tomorrow is to concentrate with all your intelligence, all your enthusiasm, on doing today's work superbly today. That is the only possible way you can prepare for the future.
 - After breakup message: I’m 27. There really is more than enough time to find someone and settle down, get married and have kids. And before that, enjoy your time being single. Focus on advancing your career, become this more social person, make new friends, pursue new hobbies and just generally really be more of an independent man with character who is happy with who he is. Someone who isn’t obsessed around getting a response from someone else. Someone who lets go of things he doesn’t control. Someone who leads by example. You cannot depend on a relationship for happiness because one way or another, things will mess up. So ALWAYS live an independent happy life - then if someone joins that life, all the better. Just do not change for anything or anyone
 
 ![Memex](https://user-images.githubusercontent.com/28791247/104088013-9594f180-525b-11eb-8d04-1eaf6c8d109f.jpg)

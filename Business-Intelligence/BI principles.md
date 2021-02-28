@@ -2,6 +2,9 @@
 
 ## Links
 - Gitlab data team: https://about.gitlab.com/handbook/business-ops/data-team/
+- Gitlab models: https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt
+- Rittman Analytics: https://github.com/rittmananalytics
+- Fishtown Analytics: https://github.com/fishtown-analytics
 
 ## Mindset
 Think about BI as if it's a SaaS product and the users are your customers. Approach it as running the growth team where you improve your offering step by step by running experiments and analysing the results and always solving solutions for your end users first. 
@@ -94,53 +97,95 @@ Once I have the context, I can establish myself as a business partner - the goal
 - Be wary of putting too much on our plates 
 
 ### Yearly roadmap planning 
-**Process** 
-- Create an initial list of projects from the business's / team's roadmap 
-- Meet Heads of Teams for 30 minutes - see agenda email below. During these meetings, let them lead and be able to refer back to the initial list of pointers we already planned. 
-- Keep in mind: 
-  - The end goal of what I need to know from these sessions: I need to lead a team to the successful completion of the projects. I need to know why things are important, what they mean and have a rough idea of how to do the things and why BI needs to do these things in order to do my job. 
-  - Understand in enough detail what needs to happen - ask for context when you’re not sure what things are/mean. Try to relate what needs to happen to the entire BI picture. If we integrate new data, do we need to get it into attribution too? Are there specific items of the project more important than others? 
-  - Challenge on importance - how this relate to the business’s strategic pillars for the year? Does it become more important over time? Is it worth the effort? 
-  - Understand how far in the process they are as to what needs to happen. Are there any things they need to think about from a data perspective they may not have thought about yet? Do we agree that their approach is a good one or can we make things easier? 
-  - Get an idea of timeline on when things might kick off - this will guide timelines. 
-  - Challenge. If teams are looking to do something but nothing specific > when are you planning to look into it? We can put it in as a placeholder so we’re aware of it 
-  - Bring context: they want to report on CS rep performance - that’s great, does that sit within Zendesk? Yes > we might get it into Looker and make it such that only you can see it. 
-  - Be aware of all the things that they are working on, the things that we already have in the queue 
-  - Speaking with execs: they won’t know the details so avoid forcing them to give details and timelines. Often, what is required is some initial kickoff meeting with a key stakeholder and then details will follow. Also, often you’ll find that things aren’t obvious that they need to be done at all / how long it might take etc. Say ‘We don’t know if we can fix this. We can look at. We’ll put it in there and see if we can something.’
-  - Make sure in the process, we are clear on expecations which guide our decision making. People report on things. Mention that there is exit survey. We want things by utm. If not utm, how do we know - it’s hard to know. Regression we can try but hard. Can we report by code? I am the data expert so I advise on what's already there and ideally have an understanding on what's possible on the Tech side. 
-- Take notes in a doc. 
-  - What is it? 
-  - Why is it important? 
-  - What needs to happen? 
-  - When does it need to happen? 
-- Prioritization
-  - Often coming from when certain projects happen / when other teams work on projects. This is based on meetings.
-  - Some things are nice to haves and are put in where there is a gap. 
-  - For high impact and time sensitive teams, ask them to fill in the timelines 
-  - If needed, set up a call with the team and prioritize the projects. 
-  - Sometimes, projects are depending on e.g. Tech and then they are also likely to be pushed back
-  - Anything we don’t really know how to do / anything that is unclear- move towards later 
-- Ask for a copy of the team’s roadmap for reference and to inform own roadmap 
-- Plot them down on an excel BI roadmap by quarter 
-  - Anything we’d want to do, but not sure how: italics 
-  - When a project is likely to take longer (e.g. tech) - extend to the next period 
-  - Mind the formatting: nicely outline different cells. 
-  - If projects fall under a parent but if it consists of separate pieces of work, break the work down, especially if there are not sequential and will be done in different time periods. 
-- Once the draft roadmap is ready, email it back to each stakeholder (for their team) to see if it works for them
-- Divide the projects across the team 
-  - Assign projects to others even when I’d be a blocker initially to e.g. get some integration set up
-  - Anything that is hard and technical, me. Anything that can be done in Looker, other team member. 
-- Share it to BI, more broadly, put it in Notion, and start making tickets
-  - Tickets include context/problem (tying back to the strategy and impact), stakeholder, suggested approach. Examples to tie back to impact and strategy: 
-    - Affilliate channels are a focal point of PM's strategy to grow marketing spend (and thus Papier's topline growth).  So we need reporting on this like other key channels (FB and Google)
-    - Digital Foiling has had early success, and is part of our future strategy to sell Stationery products and "Own the Desk".  Therefore we need to be able to report on these designs better
-    - The data team wants "Data at the heart of every decision".  It has been difficult to onboard new hires to our Looker data-culture, but we believe a KPI dashboard will help give more examples of Papier KPIs and how to use Looker
-  - For projects planned for later in the year: take (*) out and put back in roadmap queue at the end so we have it for next quarter. Add a (Q2) in front so it’s clear
-  - For projects no longer in roadmap: normal queue as they’re probably still relevant. 
-- Check in with stakeholders ~Quarterly (dependent on amount of tasks and what's upcoming) to keep the roadmap up to date 
+**Create an initial list of projects from the business's / team's roadmap**
+
+**Meet Heads of Teams for 30 minutes** 
+See agenda email below. During these meetings, let them lead and be able to refer back to the initial list of pointers we already planned. Ask for a copy of the team’s roadmap for reference and to inform own roadmap 
+The end goal of what I need to know from these sessions: I need to lead a team to the successful completion of the projects. Questions to ask: 
+- Get context 
+  - I haven't been involved with this, can you give a two minute summary of what we're trying to achieve?
+  - What does this mean? 
+  - When is this expected to happen?
+  - How far in the process are you?
+  - What are the next steps on your end?
+  - If teams are looking to do something but nothing specific > when are you planning to look into it? We can put it in as a placeholder so we’re aware of it 
+- Why is this important? 
+  - Look for impact
+    - What decisions does it drive?
+    - What happens with the data? 
+    - Does it become more important over time? 
+    - What is the dollar value of this? 
+  - How does it relate to strategy 
+  - If this isn't clear, or the effort may not be worth it, it's not being prioritized 
+- How can BI help with this? 
+- Provide data context: 
+  - Do we already have the data? 
+  - Is there an easier way to achieve the goal?
+  - If new marketing partner, clarify that the stakeholder needs to set up good UTM parameters 
+  - If we integrate new data, do we need to get it into attribution too?
+  - If a new channel, can we track in checkout survey? Or by discount codes? Try to think through ways in which BI can help achieve the goal
+- If anything more important than others? Try to get their understanding of priority between all relevant projects 
+
+Speaking with execs: they won’t know the details so avoid forcing them to give details and timelines. Often, what is required is some initial kickoff meeting with a key stakeholder and then details will follow. Also, often you’ll find that things aren’t obvious that they need to be done at all / how long it might take etc. Say ‘We don’t know if we can fix this. We can look at. We’ll put it in there and see if we can something.’
+
+**Take notes in a doc**
+- Context of the project. 
+  - Data involved. Where it is or where we can get it
+  - Make sure you understand the data
+- Why is it important?
+  - What is the impact 
+  - How does it relate to strategy
+- What needs to happen? Have a high level understanding of how I'd solve this. 
+- When does it need to happen? 
+
+**Prioritization**
+- Often coming from when certain projects happen / when other teams work on projects. This is based on meetings.
+- Some things are nice to haves and are put in where there is a gap. 
+- For high impact and time sensitive teams, ask them to fill in the timelines 
+- If needed, set up a call with the team and prioritize the projects. 
+- Sometimes, projects are depending on e.g. Tech and then they are also likely to be pushed back
+- Anything we don’t really know how to do / anything that is unclear- move towards later 
+
+If someone wants to move a project forward: 
+- Are you working on it?  
+- What you could get easily, is that not enough?
+- What does that not allow you to do? The business case and impact needs to be high to change our priorities
+- We can squeeze it in if it's small - set up a ticket and we can scope. 
+
+**Plot projects on an excel BI roadmap by quarter**
+- Anything we’d want to do, but not sure how: italics 
+- When a project is likely to take longer (e.g. tech) - extend to the next period 
+- Mind the formatting: nicely outline different cells. 
+- If projects fall under a parent but if it consists of separate pieces of work, break the work down, especially if there are not sequential and will be done in different time periods. 
+
+**Confirm with stakeholder**
+Once the draft roadmap is ready, email it back to each stakeholder (for their team) to see if it works for them
+
+**Divide the projects across the team**
+- Assign projects to others even when I’d be a blocker initially to e.g. get some integration set up
+- Anything that is hard and technical, me. Anything that can be done in Looker, other team member. 
+
+**Share it to BI, more broadly, put it in Notion, and start making tickets**
+Tickets include:  
+- What are we trying to achieve? This is high level what we try to do 
+- Why is this important? This needs to be both in terms of impact and linked to the strategy. If it doesn’t fit in the pillars of the company, it should feed into data’s strategy  ‘Data is at the heart of every decision’. This means that data needs to be: Accurate, Actionable, Easy to use, Timely  
+- Stakeholder
+- Suggested approach
+- Examples to tie back to impact and strategy: 
+  - Affilliate channels are a focal point of PM's strategy to grow marketing spend (and thus Papier's topline growth).  So we need reporting on this like other key channels (FB and Google)
+  - Digital Foiling has had early success, and is part of our future strategy to sell Stationery products and "Own the Desk".  Therefore we need to be able to report on these designs better
+  - The data team wants "Data at the heart of every decision".  It has been difficult to onboard new hires to our Looker data-culture, but we believe a KPI dashboard will help give more examples of Papier KPIs and how to use Looker
+
+*Other tickets notes*
+- For projects planned for later in the year: take (*) out and put back in roadmap queue at the end so we have it for next quarter. Add a (Q2) in front so it’s clear
+- For projects no longer in roadmap: normal queue as they’re probably still relevant. 
+
+**Communication and check-ins**
+- Check in with stakeholders ~Quarterly (dependent on amount of tasks and what's upcoming) to keep the roadmap up to date. When there is limited clarity on what needs to happen on projects, discuss over a quick call or in a regular meeting what the next steps are. 
+- Communicate context, impact, and strategic importance constantly. 
 
 **Common projects**
-- Integrations of new tools
+- Integrations of new tools. This can relate to helping the decision, set-up, integration. However, it’s also important to define how BI works with the tool - who has ownership over requests, what type of questions should be answered in Looker versus in Content Square. What are the rough differences in metrics between the tools? Who will drive this tool and take full ownership? Is this something that’ll sit with the Product Manager directly? 
 - New features on the website and working with tech to ensure the right fields are available for ETL and impactful reporting 
 - More advanced analytics
 - Support in automation of reports 

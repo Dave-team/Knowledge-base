@@ -28,7 +28,7 @@ Maslow’s Hierarchy of Needs — Maslow used the terms ‘physiological’,
 
 Conspicuous Consumption — The spending of money on and the acquiring of luxury goods and services to publicly display economic power.
 
-tragedy of the commons — A situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action
+tragedy of the commons — A situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action. When several people share responsibility for an action or process, often that action doesn’t get done well, or at all. 
 
 Free rider problem — when those who benefit from resources, goods, or services do not pay for them, which results in an under-provision of those goods or services.
 

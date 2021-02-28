@@ -165,6 +165,11 @@ To pick to one right for the company, consider:
 - Media Mix Modelling: run tests with different mixes of channels (e.g. by area). Then, compare the conversion numbers and calculate the CAC 
 - Marginal Attribution Analysis. Spend X amount more on a certain channel than before and calculate the differences in conversion rates. With this, it is crucial to only change one variable. 
 
+**Notes from Papier**
+- Replicate GA sessionanization logic
+- Campaign names in a file need to match UTM campaign names that we get from sessions data for the data to go into attribution 
+- When working with partners, the partners are responsible for setting up these parameters. 
+
 **Marketing parameters**
 - “Medium” communicates the mechanism, or how you sent your message to the user. You could include “email” for an email campaign, “cpc” for paid search ads, or “social” for a social network.
 - “Source” communicates where the user came from. This could be a specific web page or a link in an email. Source could also differentiate the type of medium. So if the medium was “cpc” (or “cost per click” paid traffic), the source might be “google,” “bing,” or “yahoo.” If the medium was “email,” the source might be “newsletter”.
@@ -181,7 +186,6 @@ Here are some tricks:
 
 ## Lead and lag indicators
 A lag indicator is the thing you care about (like monthly revenue), but can only be measured in hindsight. A lead indicator has a predictive association to the lag indicator — site visits, unit sales, or page traffic behavior patterns may be lead indicators to a monthly sales lag metric. Lag measures are scoreboards that tell you if your decision making was successful. But lag measures are not inherently useful for data-driven decision making; that is what you need lead indicators for. Identifying these lead indicators is at the core of asking good questions.
-
 
 ## Other
 - Make sure to keep the raw data with the analysis somewhere well documented as you will always need to do the analysis again or remember your assumptions
@@ -212,7 +216,6 @@ A lag indicator is the thing you care about (like monthly revenue), but can only
 - Price decrease = old price * (1-pecentage decrease). A 25% discount on a £100 article leads to 100*75 = £75 as the new price
 - Percentage change calculation can be confusing. A percentage can go up in percentage points: a rate can increase by some percentage points (from 3% add 2 percentage points to get to 5%). You can also say that the rate increased by 67%
 
-
 ## Funnel metrics
 - Think about conversion rates: Won = Won /(Won+SAO). Reason: From SAO to Won we want to have the entire population in the denominator - which then includes both SAO and Won
 - Conversion rate dates are based on the date of the first step in the conversion. The business might look at this in another way: from the origination of the opportunity, but that always depends on the company’s logic  
@@ -220,4 +223,5 @@ A lag indicator is the thing you care about (like monthly revenue), but can only
 -	Generally, the product team will want to verify the performance on each step – they need to know whether people convert from each page or step. This means they want to know what the % conversion is from each step to the next.
 -	It can be that a team wants to look at conversion rate that spans multiple steps. In this case, the team is happy to not isolate performance of a step but the combination of multiple step’s performance is helpful to them. E.g. deposits / completes, rather than deposits / approved to also account for the credit quality that the marketing team is acquiring. 
 -	In general: use absolutes by step, use conversion % step to step and use stepwise and overall final conversion rate (deposits / leads and deposits / approved). This way, you measure the overall performance, as well as the performance of the last step.
+
 

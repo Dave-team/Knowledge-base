@@ -90,6 +90,7 @@
 - Rather than mourning, we should be thankful of the relationship we had with the person. This is retrospective negative visualization: we imagine never having had something we lost  
 - The person who died wouldn’t want us to grieve 
 - Grief to some extend is a form of living in the past 
+- What are you grieving about? It’s often selfish – it’s personal loss, personal regrets. You feel sorry for what you’ll now be missing – which also shows that you dependent to some thing on what is now lost. 
 
 ### Anger: On overcoming anti-joy 
 - If we are overly sensitive, we will be quick to anger. More generally, says Seneca, if we coddle ourselves, if we allow ourselves to be corrupted by pleasure, nothing will seem bearable to us, and the reason things will seem unbearable is not because they are hard but because we are soft. Seneca therefore recommends that we take steps to ensure that we never get too comfortable. 

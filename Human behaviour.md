@@ -4,7 +4,10 @@
 - Poeple care about what others think of them 
 - People spend a lot of time comparing themselves to others. 
 - People don’t like risks 
+- People hate change 
 - People are naturally lazy so unless a level of pain is large enough, they’ll always prefer to do nothing 
 - We are driven by a need to avoid pain and gain pleasure 
 - We repeat what we get rewarded for and avoid activities we get punished for
 - The deepest principle in human nature is the craving to be appreciated
+- We're all selfish. And when we do good things to others that is also coming from a position of selfishness as it makes ourselves feel good. It satisfies our need to be needed whilst also giving us a feeling we're contributing to the world. We don't to hurt people because it makes ourselves feel bad - others will have a bad opinion about us and that makes us feel bad. 
+- People think about themselves - you're definetely not their focal point 

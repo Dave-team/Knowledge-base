@@ -3,7 +3,7 @@
 ## Definition 
 “Mindfulness” is a practice of learning to stay in the present moment and observe with full attention your experience and immediate surroundings. Accepting our experiences and thoughts without making judgments about them. 
 
-Being mindful is to be aware of our experience, moment-to-moment, in a quite particular way, with curiosity, with kindness and with care and without judgement. 
+Being mindful is to be aware of our experience, moment-to-moment, in a quite particular way, with curiosity, with kindness and with care and without judgement and without labelling.
 
 As you watch your thoughts, you realize how many of them are fear based. The moment you recognize a fear, without even trying it goes away. After a while, your mind quiets. When your mind quiets, you stop taking everything around you for granted. You start to notice the details. You think, “Wow, I live in such a beautiful place. It’s so great that I have clothes, and I can go to Starbucks and get a coffee anytime. Look at these people—each one has a perfectly valid and complete life going on in their own heads.” It pops us out of the story we’re constantly telling ourselves. If you stop talking to yourself for even ten minutes, if you stop obsessing over your own story, you’ll realize we are really far up Maslow’s hierarchy of needs, and life is pretty good. 
 
@@ -42,7 +42,7 @@ As you watch your thoughts, you realize how many of them are fear based. The mom
 - Make it a habit – e.g. first thing in the morning and have a determined place where you meditate
 - Reflect not on future when there are more immediate things to reflect on
 - One thing to realize here is that you are not in control of your thinking. You are simply an observer to whatever happens and whatever your mind produces
-- Life-hack: When in bed, meditate. Either you will have a deep meditation or fall asleep. Victory either way.
+- Life-hack: When in bed, meditate. Either you will have a deep meditation or fall asleep. Victory either way. Don't try to sleep until you consciously relaxed body and breathing. 
 - The practice of mindfulness is to be aware and then just start again. There is no goal and we will always be distracted by thoughts
 
 ## Types of mindfullness practices
@@ -78,6 +78,10 @@ Start the day with mindfulness When you open your eyes, gently pause before taki
 
 **Breathing spaces**
 - Regularly taking a pause from what we're doing and tune into our breathing, our senses, our moods how our bodies feel.
+- Fundamentally, we ask ourselves 3 questions: 
+  - What do you feel in your body? 
+  - What’s going on in your mind? 
+  - What’s your emotional state like? 
 - This allows us then to take much more conscious decisions around what we want to do next - it's important to take this pause rather than just continueing where we left off. This need not be productive in a business sense, or even in a personal sense, but should be something that just feels right and appropriate. It should not be impulsive or habitual but, rather, an activity that will actively enhance your life. Often, the best course of action is nothing and let things take care of themselves. 
 - Three options as to taking next steps: 
   - Doing something pleasurable. Over time, we can stop to enjoy things as we're too occupied being busy. Instead, we want to try things we believe we might enjoy to activate these neurons again. E.g. a bath, a snack, a nice drink, a conversation with a friend, a walk, a hobby, reading, movies, music, excercise etc. Don't wait until you feel like doing these things, do them anyway - the action is a meditation in itself, an opportunity for learning and exploring our reactions and responses. Reclaim your life. 
@@ -99,9 +103,10 @@ Now, expand the field of awareness around the breathing so that it includes a se
 
 Step 4: relating differently to your thoughts. 
 
-
 **Pure awareness**
-- Relax, look around you and just sit. Be amazed at how beautiful things are. How far we’ve come in our lives and in the universe and be grateful. 
+- Relax, look around you and just sit. Be amazed at how beautiful things are. How far we’ve come in our lives and in the universe and be grateful. Look at the color of the walls and the materials they're made of - how did we get this far? 
+- If you don’t look at things through your concepts, you’ll never be bored. We need to unlearn. Spend hours observing the simplest things for what they really are. 
+- Slow down and taste and smell and hear, let your senses come alive. Be satisfied with very little and enjoy it intensely. You’d be amazed how great things can get. 
 
 **Appreciation and gratitude**
 - Pause appreciate and reflect on what we have and have done. Appreciate beauty and immerse on the moment whatever you do

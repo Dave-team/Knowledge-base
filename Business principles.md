@@ -1,4 +1,10 @@
 # Business principles 
+
+## Sources 
+- Amazon shareholder letters
+- Berkshire Hathaway shareholder letters
+
+
 ## My guidelines
 - Speed matters: work fast and do things right now - don't delay. Don't say you will do, just do first. 
 - Quality matters: never assume and always check
@@ -139,14 +145,14 @@
 - Think about the real problem to solve. This is can be different from what others say - don't just parrot people.
 - Understand how important it is - "How important is this, really?" 
 - Do we have the solution or something similar from the past already? 
-- Is there a different way of doing it? 
+- Is there a different way of doing it? Look to widen the options we have. 
 - Scientific method. Why are hypotheses for an issue? Then try the most obvious potential reasons first and see if it works. Narrow the list of hypothesis down as fast as possible. Think if I can fix it before asking others or before thinking it can’t be done. 
 - When dealing with a hard problem, let it be and sleep on it to get support from the subconscious mind. It's the 'obsess and let go strategy'. Work intensely on problem and if there's no progress, let go and do something else to switch the context.   
 - If there's time, solve a problem multiple ways and se what works best 
 - Do not ever forget to know your reasons for why you made a decision. Every time you make a decision, write down your reasons for the decision. Document the underlying thoughts
 - Think about your mistakes: what could you have done differently? What were the signs that you got in that situation?
 - Only focus on making the most important decisions, don't spend much time on trivial decisions - reduce as many trivial choices as possible 
-- Talk about the problem with others - things can bring in new perspectives that help getting unstuck. Even consider rubber duck debugging. This can help: 
+- Talk about the problem with others (ideally those who already solved it before) - things can bring in new perspectives that help getting unstuck. Even consider rubber duck debugging. This can help: 
     - Fresh perspective that you probably wouldn't have gotten by just thinking for yourself
     - Learn something new: how would someone else solve the problem you're having? How is their thinking different from yours?
     - Solve the problem quicker. When stuck, things are very inefficient. Interrupting someone for help is net net more efficient 
@@ -159,6 +165,18 @@
 - Make as few as possible decisions - focus on the most critical ones only.
 - Sometimes it’s okay to tell people that there is no way for us to figure things out entirely. And if we are confident we are doing things in an expected way, we should just communicate that. 
 - Write down your decision making process every time is decision is to be made. 
+- Consider 10/10/10 how would you think about this in 10 hours/days/weeks?
+- Look at the situation from someone else’s (e.g. best friend) perspective: what would he/she do in the same situation?
+- The future is not a single point ahead of time. It is a range. We should consider a range of outcomes from very bad to very good. To prepare for a worse expectations, use a pre-mortem: ‘it’s a year from now and our decision failed completely. Why?’ To prepare for good cases: ‘it’s a year from now and we’re heroes. Will we be ready for success?’ 
+- Use a tripwire: A tripwire makes you realize you have a choice, whereas in life we naturally slip into autopilot leaving past decisions unquestioned
+- When speaking to people: 
+  - make it easy for them to disagree. Ask: ‘what would have to be true for this option to be the very best choice?’ This will increase the likelihood of it being a good decision.  
+  - Ask questions that are more likely to surface contrary information: ‘How can I contact the last three people who left the company?’
+
+What makes a good decision? Typical answers are:
+- The best decisions are the ones which are made quickly.
+- The best decisions are made with all of the right people's input.
+However, the answer should be:  did the decision stick? The absolute best decisions aren’t the ones which are made quickly, but rather the ones which not only stick but where the team also understands the core principles behind that decision — which stops the need to make 10 additional decisions.
 
 **Helpful tactics**
 - Scoring model when evaluation larger decisions. Also called a decision matrix where we list options, score/weight and then rank them 
@@ -221,9 +239,4 @@
 
 ## Business development
 Build Measure Learn / Ideation Cycle
-
-## Sources 
-- Amazon shareholder letters
-- Berkshire Hathaway shareholder letters
-- 
 

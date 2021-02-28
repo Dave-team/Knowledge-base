@@ -3,11 +3,12 @@ This is a list of things I am actively working on to develop myself.
 Relax. Be optimistic. Be present. Have faith in ability to just figure things out.
  
 Pick up good habits from the knowledge base and make these my own. This is not about doing it all at once, pick a few to actively work on for the next weeks/months.
-- Affirm these habits and visualize implementing them in detail on a daily basis, both in relaxing and in stressful times. Visualize being the person of your design and how that person acts in challenging situations. Then practice that (fake confidence if needed) until it becomes natural.
+- Affirm these habits and visualize implementing them in detail on a daily basis, both in relaxing and in stressful times. Visualize being the person of your design and how that person acts in challenging situations. Then practice that (fake confidence if needed) until it becomes natural. 
 - Force regular mindful breaks. When relaxed to change the structure of the brain. When overwhelmed to ground myself, avoid spiralling and to take better next actions.
-- Reflect on my performance against the habits / philosophy regularly and adjust where necessary
+- Reflect on my performance against the habits / philosophy regularly and adjust where necessary. How did I behave? Why? What can be done better? What lessons can I learn from this? Potentially journal about this. 
  
 ## General Reminders
+- **Remember the insignifance of it all** Life is random. I am where I am because of decisions I made and because of decisions made upon me. All we are doing is riding a wave - we're not actually that much in control so why try to gain that control? 
 - **Choose happiness** The main overarching goal is happiness and the biggest win in this is having a consistent calm mind. Happiness is a choice - we can choose to dance, smile and remember that the world is an amazing place. Be the person who is happy and grateful regardless of anything else. If we're too caught up we stop seeing the positive and life just passes by. When life flashes by, make sure its worth watching - “how was the trip, man?”
 - **Mememto mori** Be much more aware of the insignificance of it all - we are here a small amount of time. Then we’re gone. Something can happen any moment that changes absolutely everything. Then what? Enjoy the time we have on this small world. The moment is all we have
 - **Trust yourself** Have confidence and faith in yourself that you can handle things. Trust our creative mechanism to perform good. You did it before.
@@ -20,6 +21,7 @@ Pick up good habits from the knowledge base and make these my own. This is not a
 - **Acceptance** I am human. I make mistakes. I have feelings and thoughts will always pop up. Accept myself and things the way they are. Don't force things. It's okay - I am good enough. It's okay whatever the outcome is. I'm not perfect and that's ok.
 - **Exposure** As we do the things we fear / we don't like, we have an opportunity to increase our confidence in our ability to cope with the situations that frighten us. Notice fears, take them for what they are just do it. To make the process as easy as possible, don't think about it until you are experiencing it. Accept the pain for what it is and it'll be over before you know it.
 - **Keep practicing** Often when we start to feel better, we stop using the skills that helped us get to that point. It is actually better to keep deliberately using helpful skills until they become automatic. To that extend, keep practicing mindfullness and CBT where needed.
+- **Be yourself** Be the best version of yourself. Let's find ourselves and be ourselves - no need to envy or try to imitate others. 
  
 ## Life design
 - Happy and at peace - I can do nothing for an hour and step out the race
@@ -31,13 +33,14 @@ Pick up good habits from the knowledge base and make these my own. This is not a
  
 ## Mindfullness
 - Be more present. Observe with full attention your experience and immediate surroundings. Accepting our experiences and thoughts without making judgments about them.
-- Understand that the thinking mind is looking at thoughts and wants to solve them and not let them go. Instead, realize that thoughts are just thoughts, not facts and they often don't need to be solved, especially not in your head.
+- Understand that the thinking mind is looking at thoughts and wants to solve them and not let them go. Instead, realize that thoughts are just thoughts, not facts and they often don't need to be solved, especially not in your head. They come and they go. 
 - Instead, bring full awareness to the present moment:
  - Be mindful about what you're doing. Show interest in care whilst eating, drinking, walking, brushing teeth etc.
- - Regularly taking a pause from what we're doing and tune into our breathing, our senses, our moods how our bodies feel.
+ - Regularly taking a pause from what we're doing and tune into our breathing, our senses, our moods how our bodies feel. Ask yourself if you're mindful in that moment. If not, take a break. 
  - Relax, look around you and just sit. Be amazed at how beautiful things are. How far we’ve come in our lives and in the universe and be grateful.
 - When thoughts arise, just notice them but don't focus on them - I am not my thoughts. Refocus to your senses and your body. Go in debugging mode. Ask yourself: “Would I rather be having this thought right now, or would I rather have my peace?”
 - When anxious, understand what you are anxious about and put those fears on paper (CBT) using a Thought Record. Then realize it's okay and doesn't need to be solved now. Then go on do your thing. 
+- Think about relaxing all the time. 
  
 ## Prepare for challenges
 Imagine stressful situations in great detail. What is happening? What do you see and hear? What makes me feel stressed? As you visualize the physical reactions/moods etc. How do you feel? What are you thinking? What are you doing? Do you have body sensations? Now imagine putting your techniques into effect.
@@ -46,21 +49,27 @@ Spend several minutes imagining doing each step of your plan in detail. As you c
 And you then perform the activities, log your experiences. This journal can help me next time I experience something challenging. And this helps gathering evidence of things going well.
  
 ## Hobbies
-Balance my time between work, development and hobbies more. Perform hobbies for the sake of doing them only but it may require some forcing of this hobby time and even when bored, embrace the boredom and see what comes of it - get off the development train. Realize that autopilot is my default mode. When I feel like I should do something, it’s old habits that try to persuade me. The best way to break old habits is to pick up new ones and to just step away from the autopilot. That will be painful initially because our mind is trying to pull as back. The trick is to not give in. Then we gain confidence and know that we can handle it.
+Balance my time between work, development and hobbies more. Perform hobbies for the sake of doing them only but it may require some forcing of this hobby time and even when bored, embrace the boredom and see what comes of it - get off the development train. Realize that autopilot is my default mode. When I feel like I should do something, it’s old habits that try to persuade me. The best way to break old habits is to pick up new ones and to just step away from the autopilot. That will be painful initially because our mind is trying to pull as back. The trick is to not give in. Then we gain confidence and know that we can handle it. Things to focus on for now: 
+- Reading fiction
+- Working out / yoga / stretching
+- Cooking 
+- Drawing 
+- Doing nothing and experiencing the moment 
  
 ## Work
 Things I actively pay attention to and work on:
  
 **Balance and track time**
 - Plan in advance what the main priorities are for the week. Set realistic expectations. 
-- Work towards those activities in a balanced way making sure the most important ones are completed. When working on something challenging, timebox it and balance it with easier wins.
+- Work towards those activities in a balanced way making sure the most important ones are completed. When working on something challenging, timebox it and balance it with easier wins. Solve one thing at a time. 
 - Keep a log of what I achieved during the week
 - Maintain a balance between ad hoc, roadmap, and development
 - Don't try to solve everything - push things back to others instead as well - trying to take on everything as a high prioririty will eventually cause burnout. We know what needs to be done and it’s on my agenda and I will get back to you once I had a chance to work on it. Some things will be very urgent but most things can wait. If I don’t protect my time like this, every request becomes fundamentally stressful.
 - With ambigious problems: timebox understanding what can be done. If something will likely take longer than expected, communicate that to stakeholder and understand how important and urgent it is before trying to make perfect. Also realise people don’t necessarily ask: fix this minor issue I’m having. Instead, they’re asking: hey I have this issue - do you know a workaround? And if something seems mundane, can they do a workaround themselves?
  
 **Take ownership**
-- Be up to date with the tickets and inbox in Notion as well as the Tech tickets, know the team's priorities. Know the context around what we work on as well as how our work ties in with the wider strategy and what impact the work has. If the context is missing, find a way to get it.
+- Be up to date with the tickets and inbox in Notion as well as the Tech tickets, know the team's priorities. 
+- Know the context around what we work on as well as how our work ties in with the wider strategy and what impact the work has. If the context is missing, find a way to get it.
 - Understand our data model deeply - when questions arise I am able to provide helpful guidance.
 - Don’t be afraid to speak up if I believe there are better ways or if I believe I have context that others don’t. Your job is BI manager and with that come a wide range of responsibilities, not just something you've working on at any given point with a specific team on a specific problem.
 - Being too nice is not going to work long term. Value your time and know your worth and being too soft isn’t good for anyone either.
@@ -116,17 +125,27 @@ Things I actively pay attention to and work on:
 - Keep the growth mindset: Embrace the challenges with confidence and optimism and realize there's something to learn
 - Nobody demands perfection and have no expectations of perfection yourself - gradually I will increase my experience and I don't know everything perfectly - not even close. But by calmly solving problems we encounter, we can achieve a lot. And if mistakes happen, that's okay.
 - After taking a step back I can’t figure it out, involve others. ‘Hey I’m stuck on X. I’ve tried a few things and I spent another 3 hours on it this morning but this is important and I don’t see any next steps. Can we look at this collaboratively?
+- Check yourself four or five times a day, and say to yourself: "Am I making my work harder than it actually is?
+- I tend to make early decisions without having the full understanding or knowledge. Calmy work on things from the foundation and the answer will ultimately present itself. 
  
 **Team meetings**
-- Focus on priorities during the week as they come up without being stuck on certain projects for too long (timebox these and combine them with easier wins). That way, you know you've done the work to the best of your ability. Realise that priorities change and some projects might turn out to be more complex.
-- Be enthusiastic to speak about what you worked on / are working on
-- Engage in the meeting to be more present and not stuck in my head.
-- When speaking, focus on getting your points across and provide value by slowing down and breathing
-- Don't personalize with the work you have do or will do: you are not your work.
-- Focus on the positives during the meetings.
+- I accept anxiety that comes and I don't identify with it (“I” am not anxious – I just experience an anxious episode). I let anxiety come, I observe it (“here comes anxiety”) whilst it passes through and eventually disappears as it takes care of itself. Let whatever happens happen. These are feelings and they cannot be controlled or fixed - even we as humans always try to. The more we identify with them, try to fight or control them, the more power we give them and the harder it gets. 
+- Set realistic goals for the week and focus on executing priority projects during the week without being stuck on certain projects for too long (timebox these and combine them with easier wins). That way, you know you've done the work to the best of your ability. Realise that priorities change and some projects might turn out to be more complex. Do today's work to the best of your ability and let the future take care of itself. 
+- I don't identify myself with the work I have done or will do. I hold no opinion, judgement or label of it as that means I would employ cognitive distortions. It's merely a representation of activity I carried out or plan to carry out. It has absolutely nothing to do with my identity - as the work and my job can constantly change. What myself and others think of that is a reflection of thoughts, understanding of the situation and our mood. So both praise and criticism are also no attacks to my identity. 
+- Cognitive distortions: 
+  - Black and white thinking: 'what I did is good or bad'. Instead, I did my best and it should mainly be good because of judgement to work on priorities
+  - I magnify the importance of my work. Instead, the company has bigger worries and everyone is replaceable. 
+  - I project to know what others think of the work I did. In reality, they don't know what is a lot of work - they want happy employees and trust in progress. 
 - To some extend it'll help to sometimes not achieve everything. It'll help me understand it's okay - I am not this perfect human being at all, nobody expects me to and I fully accept this and expose myself to it.
 - Tell yourself: It’s okay. All will be well. I’ve got this
- 
+- Actual meeting - focus on process
+  - Music to help in the excitement 
+  - Ground myself through breathing
+  - Pump yourself up by being enthusiastic to speak about what you worked on / are working on
+  - Engage in the meeting to be more present and not stuck in my head.
+  - When speaking, focus on getting your points across and provide value by slowing down and breathing
+  - Focus on the positives during the meetings.
+
 **Public speaking**
 - Focus on relating things back to the strategy and what impact the data has
 - Realize it's there to stay and ultimately I need become comfortable doing it
@@ -168,3 +187,54 @@ Because I am confortable with who I am, I can handle questions of others and I a
 **Whatever I say is okay**
 Stop trying to be perfect and just say the things that come up without thinking whether it’s good enough. Just be you. Personal questions are personal to me, so just be vulnerable. In group conversations, it mainly doesn't matter what you say - you just need to say whatever you think as the topic will move on quickly.
 Nobody demands perfection - that's just in my head. I'm not as important as to never be allowed to make mistakes. I do and I will continue to and that's okay - Expose yourself as this non perfect human being
+
+**Prepare things to talk about**
+- What topics do people care about? Raise those questions
+- What do people say? What would I want to know from that? What are peoples experiences with that? What is happening in the world lately? Did I capture anything new and interesting to share?
+- What is the context of the people in their current life? What can I ask about around that?
+
+## Rituals 
+**Mornings**
+Directly after waking up 
+- 5 mindful breaths 
+- Repeat mantras as written in Notes
+- Go over the things I am grateful for
+- Important habit to break: no phone
+
+Health 
+- Workout / Stretching / Yoga
+- Minimum 10 minutes meditation 
+
+Time left (optional)
+- Reading / drawing 
+- Mindfulness: drinking tea, making a nice breakfast 
+- Journal. Be grateful for what I have and have done and reflect on strenghts and past successes 
+- Breathing excercise 
+
+Getting ready 
+- Take supplements
+- Cold shower: a bit longer each time
+- Skincare routine
+
+**Work**
+- Start by setting / reviewing goals for the day
+- Regular mindful breaths / mindful breathing spaces. Especially when feeling overwhelm 
+- Go for a mindful walk
+
+End of work day: 
+- Review + log achievements for the day 
+- Set goals for the next day
+
+**Evenings** 
+After work
+- Cooking 
+- Reflect on the day / Affirm key philosophy and practice gratefulness / Visualize doing things well, the person I want to be, and/or how I will handle tough upcoming challenges
+- Reading / drawing 
+- Follow curiosity: watch series/film/documentary/YouTube 
+- Depending on mood: more exercise / read from Knowledge Base / just relax
+
+Bedtime routine 
+- Brush teeth + floss 
+- Skincare
+- Once in bed, body meditation: full awareness to the different parts of the body - potentially another round of affirmations and visualization
+- Important habit to break: no phone

@@ -3,6 +3,19 @@
 Product Management is the art of solving your customer’s problems to reach your business objectives. 
 Think about ideas: what makes a good product and what can be improved and what problem can we solve? 
 
+## User interviews
+- Consider all different types of users. 
+- Who is my user and where am I going to find them? Who is actually going to pay for my product? 
+- During the interview: 
+  - focus on behaviour, not so much the product itself. What don't people like / what annoys about how they do things now? Really get deep into what is going on in their life? What are they really thinking and what are their real problems? Why do they want what they want? Really get to know them as a person and about what’s going on in the context of what they’re doing?
+  - Then ask more about features - what would the customer want on top of what is possible now? 
+  - Ideally, get something in front of people they can work with 
+  - Then ask people if they want to buy this initial version
+- 3 types of users to interview
+  - Current users: their ideas aren't the real issues as they already use the product 
+  - Users of competitors: great feedback as this will show why they use the competitor's product
+  - New users not using anything: these are the most important as this shows how you can grow the market 
+
 ## Product Opportunity Assessment
 - Exactly what problem will this solve? (value proposition)
 - For whom do we solve that problem? (target market)

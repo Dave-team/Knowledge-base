@@ -8,6 +8,26 @@
 - Repeat question of the prospects
 - People often have two reasons for doing something: one that sounds good and a real one. To get to the real one, use two questions: “Why?” and “In addition to that…”?
 
+## Sales at startups 
+The sales funnel: 
+1. Prospecting
+2. Conversations 
+3. Closing
+4. Revenue/ Promised Land
+
+**Prospecting**: Your job is to find the innovators (2.5%). In the beginning it is a numbers game in the sense that you have to do loads of calls to get to those companies that are willing to work with a very early stage company. Top 3 methods for prospecting: your network, conferences, cold e-mails. With conferences: go to where your users are. Try to get an attendance list of the people who will be there and then e-mail those people beforehand to set up a meeting during the conference.
+
+**Conversations**: once you’re on the phone with someone, remember to shut up. Let them talk for 70% and for the rest, shut up. So asks question: how are you solving the thing we try to solve today? How would the ideal solution look like? Why did you even agree to accept my call today?
+Find out what they need and find out, maybe even better than they themselves do, what their problem is. After the call or whatever, do religious follow-up.
+
+Have this unhuman willingness to follow up and get to the closing part. The goal is to come to a yes or no as quickly as you can. Only having maybe’s will kill your company. Goal = getting the customer asap and get the revenue. You need to persistent and make sure you get the answer. 
+
+**Closing**
+Closing trap 1: to stick around for too long on the agreement. Get the document signed and move on. 
+
+Closing trap 2: Customers who want to have one more feature and then they’ll sign up. Two options: sign an agreement in which you agree on: once we’ve build it, you are our customer. Or: Say that you need to have more demand for the feature from more customers.
+Closing trap 3: Free trials. Early on you need commitment, validation and revenue. A free trial gets you none of these. Instead: offer a 30 day cancellation period on an annual contract.
+
 ## Principles
 - Believe in and know what you sell
 - A demonstration says more than a thousand words
@@ -124,6 +144,8 @@ Example:
     - Act as an advisor
     - reate a roadmap and make it as simple as possible
     - Be invaluable, so they do not only look at price
+
+![ARR](https://user-images.githubusercontent.com/28791247/109390682-02974000-790b-11eb-8289-ead6cf60c72f.png)
 
 ## Other
 Four steps in an average sale:

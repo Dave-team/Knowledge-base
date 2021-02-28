@@ -39,48 +39,6 @@ Related terms and calculation:
 - Pre-Money Valuation: The valuation of the company right now, prior to investment
 - Post-Money Valuation: The pre-money valuation plus the total investment amount
 
-## Pitch deck
-A pitch deck is a presentation used to investors. In other words: pitch presentation. 
-Content of the pitch deck:
-1. Introduction: Who are you and why you're here? Keep it short and sweet.
-2. Company purpose: definition of the company in a single declarative sentence
-3. Problem: 
-	- Describe the pain of the problem 
-	- Outline how the customer addresses the issue today
-4. Solution 
-	- Demonstrate you company’s value proposition to make the customer’s 	life better
-	- Differentiate from other solutions 
-	- Provide use cases 	
-5. Why now 
-	- Show the history of the category
-	- Define recent trends that make the solution possible 
-6. Market size 
-	- Identify/ profile the customer the company goes after
-	- Calculate the TAM (top down), SAM (bottom up) and SOM
-7. Product 
-	- Product line-up (form factor, functionality, features, architecture, 	intellectual property).
-	- Development roadmap
-8. Business Model 
-	- Revenue model
-	- Pricing
-	- Average account size and/or lifetime value
-	- Sales and distribution model
-	- Customer/pipeline list
-9. Team
-	- Founders and Management 
-	- Board of directors/ board of advisors
-	- If more, show the employees and brief their role 
-10.	Competition
-	- List competitors
-	- List competitive advantages 
-11.	Financials 
-	- P&L
-	- Balance Sheet
-	- Cash Flow 
-	- Cap table
-	- The deal 	
-12.	Contact page : Leave your contact details 
-
 ## Company valuation
 Startups are valued based on many variables. Some factors playing a role are:
 - Market conditions within the specific industry
@@ -144,5 +102,7 @@ Contents term sheet:
 Option pool = share of stock set aside and the company is able to do with it as pleased. Normally this share is reserved for employees.
 Vesting= when employees receive their stock rights not at once but over an amount of time. 
 Dilution= a reduction in the ownership percentage of a share cause by the issuance of new stock. 
-
-
+ 
+## VC constraints
+Conflict policy: not investing in multiple companies that basically do the same things. 
+Second opportunity costs: time for the partners to add value to the companies in which it invests. So even though a company seems to be going to make money in the long term, VC’s still might not invest in it, because the opportunity costs is that it cannot be on the board of another company in which they would believe more than the current company

@@ -22,6 +22,9 @@
 - In general, really double down on the highest (potential) growth areas 
 - Your job should always be to try and find (and double down) on the most recent untapped channels
 - Always target your existing customers first 
+- Retention is the single most important thing for growth.
+- At a startup, focus on a single north star metric and make sure the entire business is focused on moving the needle on that metric.
+- If you nail down one distribution channel, you will have a good business. If you don’t, you’re finished.  
 
 ## Bullseye / Traction model
 Traction uses the Bullseye framework to get as quickly as possible to the best channel: brainstorm, rank, prioritize, test, focus on what works
