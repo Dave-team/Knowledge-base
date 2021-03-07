@@ -44,6 +44,7 @@ As you watch your thoughts, you realize how many of them are fear based. The mom
 - One thing to realize here is that you are not in control of your thinking. You are simply an observer to whatever happens and whatever your mind produces
 - Life-hack: When in bed, meditate. Either you will have a deep meditation or fall asleep. Victory either way. Don't try to sleep until you consciously relaxed body and breathing. 
 - The practice of mindfulness is to be aware and then just start again. There is no goal and we will always be distracted by thoughts
+- Key is to focus on what you’re doing at any point and not think to anything else that also needs to happen at some point in time
 
 ## Types of mindfullness practices
 **Walking mindfulness**
@@ -55,6 +56,25 @@ As you watch your thoughts, you realize how many of them are fear based. The mom
 
 **Waking breaths**
 Start the day with mindfulness When you open your eyes, gently pause before taking five deliberate breaths. 
+
+**Mindful affirmations**
+Bring an affirmation/reflection/visualization to the mindfulness session and think only about that topic. 
+
+**Mindful daydreaming**
+Deliberately daydream more. Stare out the window and dream. 
+When reading a book, put it aside and daydream. Try to get inside of the head of the characters and imagine being in the same situation. 
+It may help to ask yourself a big question: 
+
+- Which were the top three best times in my life so far?
+- What are my biggest regrets?
+- What would I write a screenplay about?
+- If I had the magic lamp, what would be my three wishes?
+- What does the most ambitious version of myself look like?
+- What about the least ambitious version of myself?
+- How can I be a better dad?
+- At what would I most love to become an expert?
+- Is there anything I can’t do without?
+- How would my life be different if I was blind? Deaf? Paralyzed
 
 **Cooking and eating meditation**
 - Preparing food: vision, hearing, smell, touch. Feel the knife slicing the veg, smell the veg as its being chopped. 

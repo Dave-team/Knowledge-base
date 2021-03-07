@@ -39,8 +39,11 @@ Pick up good habits from the knowledge base and make these my own. This is not a
  - Regularly taking a pause from what we're doing and tune into our breathing, our senses, our moods how our bodies feel. Ask yourself if you're mindful in that moment. If not, take a break. 
  - Relax, look around you and just sit. Be amazed at how beautiful things are. How far we’ve come in our lives and in the universe and be grateful.
 - When thoughts arise, just notice them but don't focus on them - I am not my thoughts. Refocus to your senses and your body. Go in debugging mode. Ask yourself: “Would I rather be having this thought right now, or would I rather have my peace?”
+- Daydream more. Place myself in the position of the character; deliberately ponder and dream about some big questions of life. 
+- Bring an affirmation/reflection/visualization to the mindfulness session and think only about that topic. 
 - When anxious, understand what you are anxious about and put those fears on paper (CBT) using a Thought Record. Then realize it's okay and doesn't need to be solved now. Then go on do your thing. 
-- Think about relaxing all the time. 
+- Think about relaxing all the time and make being relaxed your default state
+- Key is to focus on what you’re doing at any point and not think to anything else that also needs to happen at some point in time
  
 ## Prepare for challenges
 Imagine stressful situations in great detail. What is happening? What do you see and hear? What makes me feel stressed? As you visualize the physical reactions/moods etc. How do you feel? What are you thinking? What are you doing? Do you have body sensations? Now imagine putting your techniques into effect.
@@ -55,6 +58,7 @@ Balance my time between work, development and hobbies more. Perform hobbies for 
 - Cooking 
 - Drawing 
 - Doing nothing and experiencing the moment 
+- Picking up on things out of pure curiosity
  
 ## Work
 Things I actively pay attention to and work on:
@@ -69,7 +73,7 @@ Things I actively pay attention to and work on:
  
 **Take ownership**
 - Be up to date with the tickets and inbox in Notion as well as the Tech tickets, know the team's priorities. 
-- Know the context around what we work on as well as how our work ties in with the wider strategy and what impact the work has. If the context is missing, find a way to get it.
+- Know the context around what we work on as well as how our work ties in with the wider strategy and what impact the work has. If the context is missing, ask people. 
 - Understand our data model deeply - when questions arise I am able to provide helpful guidance.
 - Don’t be afraid to speak up if I believe there are better ways or if I believe I have context that others don’t. Your job is BI manager and with that come a wide range of responsibilities, not just something you've working on at any given point with a specific team on a specific problem.
 - Being too nice is not going to work long term. Value your time and know your worth and being too soft isn’t good for anyone either.
@@ -84,7 +88,7 @@ Things I actively pay attention to and work on:
 - Speak up during (team) meetings.
  
 **Management**
-- When communicating, focus on adding the strategy, impact and context - don't just focus on the transaction of the work. Why do we do certain things? How does it relate back to our goals? What is the so what?
+- When communicating, focus on adding the strategy, impact and context - don't just focus on the transaction of the work. Why do we do certain things? How does it relate back to our goals? What is the so what? This is true for team, stakeholders, partners, Lookerpaps - always focus on impact and so what. 
 - Have an idea around how you'd solve things that the team is working on when asked the question.
 - Try to have them answer the questions:
  - What have you tried so far?
@@ -103,13 +107,13 @@ Things I actively pay attention to and work on:
 - Speaking with execs: deal with uncertainty around not knowing details - often kickoffs are required first. Things might not not to be done at all, they may sit with Tech etc.
  
 **Approach projects**
-- Spend time defining a good plan of attack that is quick to build, easy to test, easy to replicate and should help answer the question. Aim to find the easiest way of doing things. Validate the approach with others
+- Spend time defining a good plan of attack that is quick to build, easy to test, easy to replicate and should help answer the question. Aim to find the easiest way of doing things. Validate the approach with others. Really think through what our options are - this comes from a deep understanding of what you want to achieve
 - Ask yourself what the goal is and whether it's worth solving in the first place
 - Build things incrementally and make sure there is a good way to measure impact of what you're working on.
 - Go step by step with regular checks during the process
  
 **Other development goals**
-- Communication: answer first - what is the most important thing people to make aware of? Then provide additional context for those interested.
+- Communication: answer first - what is the most important thing people to make aware of? What is the impact and how are they affected? Then provide additional context for those interested.
 - Communication: slow down and structure - avoid umms where possible.
 - Be specific in agendas
 - Improve on the commercial side of things. Contracts, legal, pricing, negotiation. Start collecting best practices and templates were using at work
@@ -129,15 +133,16 @@ Things I actively pay attention to and work on:
 - I tend to make early decisions without having the full understanding or knowledge. Calmy work on things from the foundation and the answer will ultimately present itself. 
  
 **Team meetings**
-- I accept anxiety that comes and I don't identify with it (“I” am not anxious – I just experience an anxious episode). I let anxiety come, I observe it (“here comes anxiety”) whilst it passes through and eventually disappears as it takes care of itself. Let whatever happens happen. These are feelings and they cannot be controlled or fixed - even we as humans always try to. The more we identify with them, try to fight or control them, the more power we give them and the harder it gets. 
+- I accept anxiety that comes and I don't identify with it (“I” am not anxious – I just experience an anxious episode). I let anxiety come, I observe it (“here comes anxiety”) whilst it passes through and eventually disappears as it takes care of itself. Let whatever happens happen. Once it happened, we'll understand. These are feelings and they cannot be controlled or fixed - even we as humans always try to. The more we identify with them, try to fight or control them, the more power we give them and the harder it gets. 
 - Set realistic goals for the week and focus on executing priority projects during the week without being stuck on certain projects for too long (timebox these and combine them with easier wins). That way, you know you've done the work to the best of your ability. Realise that priorities change and some projects might turn out to be more complex. Do today's work to the best of your ability and let the future take care of itself. 
 - I don't identify myself with the work I have done or will do. I hold no opinion, judgement or label of it as that means I would employ cognitive distortions. It's merely a representation of activity I carried out or plan to carry out. It has absolutely nothing to do with my identity - as the work and my job can constantly change. What myself and others think of that is a reflection of thoughts, understanding of the situation and our mood. So both praise and criticism are also no attacks to my identity. 
 - Cognitive distortions: 
   - Black and white thinking: 'what I did is good or bad'. Instead, I did my best and it should mainly be good because of judgement to work on priorities
-  - I magnify the importance of my work. Instead, the company has bigger worries and everyone is replaceable. 
+  - I magnify the importance of my work. Instead, the company has bigger worries and everyone is replaceable. They don't have the time to do what I'm working on so they're happy I'm taking ownership of it. You're not slacking and there is progress. They want you to do a good job and be a happy employee.  how much work is involved in what I work on. 
   - I project to know what others think of the work I did. In reality, they don't know what is a lot of work - they want happy employees and trust in progress. 
 - To some extend it'll help to sometimes not achieve everything. It'll help me understand it's okay - I am not this perfect human being at all, nobody expects me to and I fully accept this and expose myself to it.
 - Tell yourself: It’s okay. All will be well. I’ve got this
+- To a large extend, the cause of my worry is that I allow time and energy for worries. If I'm busy with other things I enjoy, this will be a lot less the case.
 - Actual meeting - focus on process
   - Music to help in the excitement 
   - Ground myself through breathing
@@ -168,6 +173,11 @@ Things I actively pay attention to and work on:
  
 ## Social
 I am a social creature. I'm interested in others, want to know them better and I enjoy conversation as a way of making potential friendships. In one on one conversations, I go deep into topics of interests of both parties and in larger group settings, I want to be part of the conversation and to share my thoughts and experiences because it adds value to everyone involved: people can respond to my thoughts.
+
+**Prepare things to talk about**
+- What topics do people care about? Raise those questions
+- What do people say? What would I want to know from that? What are peoples experiences with that? What is happening in the world lately? Did I capture anything new and interesting to share?
+- What is the context of the people in their current life? What can I ask about around that?
  
 **I love and care for my friends**
 I make sure I reach out regularly to my friends. I think about them regularly and I aim to meet. I show that I care.
@@ -188,10 +198,7 @@ Because I am confortable with who I am, I can handle questions of others and I a
 Stop trying to be perfect and just say the things that come up without thinking whether it’s good enough. Just be you. Personal questions are personal to me, so just be vulnerable. In group conversations, it mainly doesn't matter what you say - you just need to say whatever you think as the topic will move on quickly.
 Nobody demands perfection - that's just in my head. I'm not as important as to never be allowed to make mistakes. I do and I will continue to and that's okay - Expose yourself as this non perfect human being
 
-**Prepare things to talk about**
-- What topics do people care about? Raise those questions
-- What do people say? What would I want to know from that? What are peoples experiences with that? What is happening in the world lately? Did I capture anything new and interesting to share?
-- What is the context of the people in their current life? What can I ask about around that?
+
 
 ## Rituals 
 **Mornings**

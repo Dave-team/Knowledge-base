@@ -503,7 +503,8 @@ Ask your direct reports:
 - How can we improve the team works together? 
 
 ## Personality types 
-![Scientific Method](https://user-images.githubusercontent.com/28791247/107872668-bd532700-6ea3-11eb-967a-93caa3f63f51.png)
+I am a Logistician: JSTJ-T
+![Personality Types](https://user-images.githubusercontent.com/28791247/107872668-bd532700-6ea3-11eb-967a-93caa3f63f51.png)
 
 ## Onboarding
 Prior to starting: Make others aware of the new hire and make sure everyone knows that the new projects are high priority 

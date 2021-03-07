@@ -92,6 +92,12 @@ Meeting
   - Renewal periods. Longer term often locks the pricing  so we avoid a price increase when it happens. 
   - Make sure that the pricing for the existing users stays flat - i.e. at least no increase 
 
+## Fivetran contract 
+- Credits no longer rolling over > incentivizing us to buy less > if we buy less, there won’t be as much economies of scale 
+- We can map out our expected growth for the next year, calculating MAR by different months (e.g. accounting for peak period) 
+- If we’d need to top up our credits, we’d be able to do so during the year (the price per credit would be fixed) 
+
+
 ## Templates
 Hi Philip, 
  

@@ -1,4 +1,7 @@
 # Excercises
+
+A key here could be for me to desing my own workout routines that I use. Split between stretching, yoga and bodyweight excercises. 
+
 ## Weights / gym 
 **Chest**: Dumbbell and barbell press (incline and flat), dips, dumbell fly, machine fly   
 **Back**: deadlift, pull-up, chin-up, one arm dumbbell rows, t bar rows, bent over barbell rows, front lat pulldown, close grip pulldown, seated cable row (wide and close grip)

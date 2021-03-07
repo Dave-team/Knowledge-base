@@ -3,6 +3,10 @@
 ## Links
 - https://blog.jooq.org/2015/11/07/how-to-find-the-longest-consecutive-series-of-events-in-sql/
 
+Work learnings
+- When working with false values in SQL, consider that nulls are an option so you’d probably want to say = false or is null
+- Looker dimensions logic runs after joins. To e.g. replicate something to say 'Other' rather than null, use the coalesce function. 
+
 ## SQL style guide 
 - Use consistent descriptive identifiers and names and keep the consice 
 - Use underscores in names where you’d naturally use a whitespace 

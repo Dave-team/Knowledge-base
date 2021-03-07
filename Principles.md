@@ -144,7 +144,7 @@ After work
 - Cooking 
 - Reflect on the day / Affirm key philosophy and practice gratefulness / Visualize doing things well, the person I want to be, and/or how I will handle tough upcoming challenges
 - Reading / drawing 
-- Follow curiosity: watch series/film/documentary/YouTube 
+- Follow curiosity: watch series/film/documentary/YouTube. Part of this is also to make a list of curious things that can be explored over the weekend. 
 - Depending on mood: more exercise / read from Knowledge Base / just relax
 
 Bedtime routine 
