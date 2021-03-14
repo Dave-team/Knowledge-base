@@ -1,4 +1,17 @@
 # Hiring
+
+Papier process notes
+- Some people are overqualified for the role - if they have years of experience, it’s not a good fit for the role: 
+  - The role will be more basic than what they’re used to which will ultimately cause issues
+  - They will want a different salary 
+  - They often have quite experience in different types of tools etc. So when they come in, they’d need to get used to a new way of working. This might be hard to those who have done things a certain way for all their lives
+- Look for cultural fit: 
+  - We want someone who is engaged with a company - if they have lots of experience but keep jumping role often, that’s not a good sign 
+  - If they tend to work at big companies and have lots of experience there, that’s a less good fit than a young person who has some experience and wants to experience start-up life 
+  - Fundamentally: does their story makes sense and in line with something we’re looking for? 
+- Even when they live elsewhere, they may want to or plan to relocate - it’s worth shooting a question around this.
+- Evaluate all candidates and decide on yes/no and a one liner as the reason for it 
+
 ## General
 3 key questions:
 - Are they smart? Have a casual conversation with them
@@ -246,23 +259,32 @@ Match
 - How did you hear about the position?
 - What do you know about who we are and what we do?
  
-Hi X - How are you?
-Thanks for taking the time today. This will be a quick call to speak a bit to Papier, myself and the role. I'll then ask a few questions to understand your background and get a feel for what you're looking for. In the end, we'll have some time left for any questions you may have. Sound good?
- 
-Great. So Papier is a fast-growing ecommerce business delivering beautifully designed stationairy products, such as personalised greeting cards and stationery. We were founded in 2015 and we're now about 70 people with a beatiful office in Camdem. We have a very data driven culture with over 75% of the business using Looker on a weekly basis. I joined the business back in July as a BI Manager and we're now looking for someone who can come in and develop data solutions that enable decision making at Papier. We're a very small BI team so you'll have the opportunity to support different teams across diverse data sets.
+Hey! How are you doing? 
+Thanks for taking the time today. Let's start with a quick round of intros. So my name is Dave. I joined Papier in July last year as a BI Manager. My role at Papier is two-fold: first and foremost I work on building data solutions in Looker that allow decision making. And secondly, I am working a lot of improving the data infrastructure and make it more future proof. Will do you want to introduce yourself quickly? And Adetoun?  
+
+Great. Now, we'll talk a bit more about Papier and the role. We'll then ask a few questions to understand your background a bit better and get a feel for what you're looking for. In the end, we'll have some time left for any questions you may have. Sound good?
+
+Great. So Papier is a fast-growing ecommerce business delivering beautifully designed stationairy products, such as personalised greeting cards and stationery. We were founded in 2015 and we're now about 70 people with a beatiful office in Camdem. We have a very data driven culture with over 75% of the business using Looker on a weekly basis. With such a data driven culture, we have a lot of projects to tackle and we're looking for someone who can come in and help develop these data solutions. We're a very small BI team so there's lots of opportunity to support different teams across diverse data sets.
  
 This is a very high level overview - do you have any questions on that so far?
  
-Ok I'd like to know a bit more about you - can you tell a bit about yourself? (I'm really looking for the storyline of the career - what jobs you had, why you choose them, high level what you did)
+Ok now we'd like to know a bit more about you - can you tell a bit about yourself - what you have done so far in your career and what you're looking for? 
+(I'm really looking for the storyline of the career - what jobs you had, why you choose them, high level what you did)
  
-Questions to ask during the body of the interview?
+Questions to ask during the body of the interview
+- What are you looking for? (if not answered already)
 - What type of projects were you involved with at X? What type of data was involved in these?
-- What tools did you work with? Like / dislike? (potentially other questions around tooling)
-- What are you looking for?
+- What tools did you work with? Like / dislike? (potentially other questions around tooling)?
+- What did you like and dislike in particular about this role? 
+- How was your team organized and how was work divided? Did you work directly with stakeholders?  
 - Why do you want to leave X?
 - Why did you apply to this role in particular?
 - What is your notice period?
 - What are your salary expectations?
+
+High bar in SQL - what are some harder things you've built? 
+Startup life is different - how do you feel about that? 
+What was a time when you disagreed with something? 
  
 Ok great - Do you have any questions for me?
  
@@ -402,4 +424,32 @@ Thanks for your interest in the role X. Unfortunately, on this occasion, we’ve
 That being said, we’re scaling quickly this year, and may have a role that better matches your skill sets in the future. Thank you again for your interest and best of luck in your search.
  
 Regards,
+
+## Answers to questions
+**What are the tasks I would do on a usual day?**
+We work primarily in two ways: roadmap projects and ad hoc. Ad hoc can vary. Roadmap are large projects - scoping with stakeholders, developing in Looker / writing SQL, testing, closing the loop with the stakeholder 
+
+**What is the main impact expected from the role?**
+Build high impact data solutions across the teams 
+
+**What are the biggest challenges in this role?**
+Taking ownership of multiple end to end projects simultaneously. Mapping requirements with the stakeholders, coming up with a creative solution to hard problems whilst doing multiple things at the same time 
+
+**What are the future perspectivist of this role in say the next 2 years?**
+We are a growing team and the complexity of the data increases - we support career development very much - where would you want it to be? 
+
+**What is the company culture like?**
+Joined in July over Zoom but felt incredibly welcome - everybody is incredibly friendly. Young team. People are friends in the business, drinks after work. Many company events even during lockdown 
+
+**What do you not like about working here?**
+It's a growing business. This means that process is not the most evolved. E.g. when we work with Tech, it's not always the clearest at any point what's worked on. Or sometimes marketing launches something and we only hear about after. Communication and process. 
+
+**What is great about Papier?** 
+- Culture 
+- Ownership over work
+
+**What are the company's biggest challenges?**
+- Will to answer. I'd say becoming profitable, growing USA and growing stationary
+
+
 

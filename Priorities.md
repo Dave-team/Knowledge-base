@@ -8,14 +8,14 @@ Pick up good habits from the knowledge base and make these my own. This is not a
 - Reflect on my performance against the habits / philosophy regularly and adjust where necessary. How did I behave? Why? What can be done better? What lessons can I learn from this? Potentially journal about this. 
  
 ## General Reminders
-- **Remember the insignifance of it all** Life is random. I am where I am because of decisions I made and because of decisions made upon me. All we are doing is riding a wave - we're not actually that much in control so why try to gain that control? 
+- **Remember the insignifance of it all** We are a blip in the grand scheme of history. We are evolved monkeys that will evolve into something else. We are simply creatures in the universe. 
 - **Choose happiness** The main overarching goal is happiness and the biggest win in this is having a consistent calm mind. Happiness is a choice - we can choose to dance, smile and remember that the world is an amazing place. Be the person who is happy and grateful regardless of anything else. If we're too caught up we stop seeing the positive and life just passes by. When life flashes by, make sure its worth watching - “how was the trip, man?”
 - **Mememto mori** Be much more aware of the insignificance of it all - we are here a small amount of time. Then we’re gone. Something can happen any moment that changes absolutely everything. Then what? Enjoy the time we have on this small world. The moment is all we have
 - **Trust yourself** Have confidence and faith in yourself that you can handle things. Trust our creative mechanism to perform good. You did it before.
 - **Relax and not take myself and life so seriously**. Force yourself to slow down occasionally and just take it easy. Realize that performance and clarity of thought will be best in a confident and calm state.
 - **Remember the positives**. Build confidence by remembering what I've achieved and accomplished so far and some of the amazing things I've had a change to experience and now have memories of.  I studied in Hong Kong, worked in Berlin, got a job in London and are now a BI Manager at a great company. Remind yourself of how awesome this is and how grateful you are you’ve done this. It’s easy to forget what we have. When remembering something negative, think back about when it was actually positive.
 - **Approach the future with curiosity and optimism** - what else is in store for me?
-- **Surrender** Most things are not in my control. Surrender to whatever will happen and just enjoy the ride. Try not to have any expectations. Flow like water and open your heart.
+- **Surrender** Life is random and most things are not in my control. Surrender to whatever will happen and just enjoy the ride. Try not to have any expectations. Flow like water, ride the waves and open your heart.
 - **Be curious** Approach things with childlike curiosity and look at things as learning experiences without our preconceived notions.
 - **Deal with reality** Shit does happen. We can wish things were different but we often just need to deal with reality and work with what we have left. This is what defines us, helps build self confidence and character.
 - **Acceptance** I am human. I make mistakes. I have feelings and thoughts will always pop up. Accept myself and things the way they are. Don't force things. It's okay - I am good enough. It's okay whatever the outcome is. I'm not perfect and that's ok.
@@ -68,69 +68,108 @@ Things I actively pay attention to and work on:
 - Work towards those activities in a balanced way making sure the most important ones are completed. When working on something challenging, timebox it and balance it with easier wins. Solve one thing at a time. 
 - Keep a log of what I achieved during the week
 - Maintain a balance between ad hoc, roadmap, and development
-- Don't try to solve everything - push things back to others instead as well - trying to take on everything as a high prioririty will eventually cause burnout. We know what needs to be done and it’s on my agenda and I will get back to you once I had a chance to work on it. Some things will be very urgent but most things can wait. If I don’t protect my time like this, every request becomes fundamentally stressful.
-- With ambigious problems: timebox understanding what can be done. If something will likely take longer than expected, communicate that to stakeholder and understand how important and urgent it is before trying to make perfect. Also realise people don’t necessarily ask: fix this minor issue I’m having. Instead, they’re asking: hey I have this issue - do you know a workaround? And if something seems mundane, can they do a workaround themselves?
- 
-**Take ownership**
-- Be up to date with the tickets and inbox in Notion as well as the Tech tickets, know the team's priorities. 
-- Know the context around what we work on as well as how our work ties in with the wider strategy and what impact the work has. If the context is missing, ask people. 
-- Understand our data model deeply - when questions arise I am able to provide helpful guidance.
-- Don’t be afraid to speak up if I believe there are better ways or if I believe I have context that others don’t. Your job is BI manager and with that come a wide range of responsibilities, not just something you've working on at any given point with a specific team on a specific problem.
-- Being too nice is not going to work long term. Value your time and know your worth and being too soft isn’t good for anyone either.
-- Take more steps back to avoid getting buried down in the day to day
-- Be proactive in onboarding users. Slack manager in advance asking whether new joiner needs access + if they’re willing to intro guide to Looker. Then, send the Looker docs + CC data superhero.
- 
+- Take regular breaks during the week. Am I working on the right thing? Can I make this easier? Am I approaching this in a good way? 
+
+**Context and strategy**
+- Know the context around what we work on as well as how our work ties in with the wider strategy and what impact the work has. 
+- Ask questions and challenge people. Understand why we do things in a certain way. Challenge on doing things differently that's more best practice. If we can't - challenge that, why not? What would change for us to do it that way? Also be clear on implications for us and why it's difficult.
+- Ask stakeholders: 
+  - Context: "I haven't been involved with this, can you give a two minute summary of what we're trying to achieve?" 
+  - Use case and importance: "What is the use case of this and what decisions does it drive?"
+- Tickets: 
+  - What are we trying to achieve?
+  - Why is this important? It needs impact and it needs to relate to strategy
+
+**Requirements gathering**
+- "What are you trying to achieve"? "How do you want to use this?" Try and see if there are ways they can achieve what they want without development work. Always make sure the requirements are specific. If they want an analysis, what exact question are we trying to answer? 
+- "What is the impact of this and what decisions does it drive?" "How important is this and will it change decision making?" If low impact, deprioritize 
+- "When do you need this by?" If urgent, prioritize it 
+- "How big a problem is this?" E.g. data is off by not much, manual work takes some time. If not a big problem, deprioritize. 
+
 **Initiative during meetings**
-- Always go into meetings with context of the problem at hand. Also know the high level things to look for around the problem to be solved. During the meeting, give context and steer people to a decision by asking the right questions or making the right observations. Also, set expectations around timelines and priorities with everything else going on.
-- Understand your role in the situation and take ownership over that. When you don't know, say it. When you don't understand, ask. Know that you are there for a reason. I will not always know everything so I need to be clever around dealing with that. A good question can be: ‘What is a two sentence summary about this as I haven’t heard of this?’ And ‘What are we trying to achieve by doing this?’
-- Ask whatever you want to ask. They know I’m not stupid, I’m just not as knowledgeable about this area perhaps
-- Again, it’s not personal - it’s about doing the best for the company and it’s actually critical for me to speak up as this is what I will be paid for
-- Speak up during (team) meetings.
+- Always go into meetings with context of the problem at hand. If that context is missing, get it first (see Context and Strategy). Also know the high level things to look for around the problem to be solved.
+- Understand my role in the situation and take ownership over that. 
+  - Provide strategic context and importance to projects 
+  - Steer people to a decision by asking the right questions or making the right observations - this come from the preparation done around how I would approach the problem
+  - Set expectations around timelines and priorities with everything else going on.
+  - Guide the meeting: focus on getting to impact quickly without getting bogged down with details.
+- Speak up during these meetings: 
+  - Ask whatever you want to ask. They know I’m not stupid, I’m just not as knowledgeable about this area perhaps
+  - It’s not personal - it’s about doing the best for the company and it’s actually critical for me to speak up as this is what I will be paid for
  
 **Management**
-- When communicating, focus on adding the strategy, impact and context - don't just focus on the transaction of the work. Why do we do certain things? How does it relate back to our goals? What is the so what? This is true for team, stakeholders, partners, Lookerpaps - always focus on impact and so what. 
+- Be up to date with the tickets and inbox in Notion as well as the Tech tickets, know the team's priorities. 
 - Have an idea around how you'd solve things that the team is working on when asked the question.
 - Try to have them answer the questions:
- - What have you tried so far?
- - What do you think the best approach is?
- - What next steps do you recommend?
- - Did you ask the stakeholder?
+  - What have you tried so far?
+  - What do you think the best approach is?
+  - What next steps do you recommend?
+  - Did you ask the stakeholder?
 - Think about whether the suggested approach is a good one from a high level - is there a simpler or more scalable way of doing things?
 - When I don't know, say that and look into it
 - When something doesn't work, ask them to provide an example
+- In PR reviews, build an opinion on things based on best practices and instill this into the team
  
 **Stakeholder relationships**
-- Rather than answering questions, find out what we are trying to achieve and empower people to do things themselves. This requires confidence of the data and our data models so make sure I have this first.
-- Be confident in push back: I cannot deal with everything at once and need to prioritize. I am responsible for my job holistically, not just solving other team's priorities
-- Be firm and clear. Know what matters, what is an FYI and what needs a decision from their end.
-- Set expectations: when they need to fix things things, clarify this.
+- Be confident around the scope of your role and project your own time - your job is BI manager not just fixing fires. 
+  - Push back: we have a lot of projects. This is not highest priority - will work on it later - I will get back to you once I had a chance to work on it. Taking on all work with urgency will lead to an unhappy time at work
+  - Set expectations: when they need to do something, set these expectations clearly and avoid taking things on myself.  
 - Speaking with execs: deal with uncertainty around not knowing details - often kickoffs are required first. Things might not not to be done at all, they may sit with Tech etc.
- 
+- Keep stakeholders in the loop
+  - Inform them when I'm looking into something 
+  - If something will likely take longer than expected, communicate that 
+  - If we are pending on tech, communicate the status of the tech work
+
 **Approach projects**
 - Spend time defining a good plan of attack that is quick to build, easy to test, easy to replicate and should help answer the question. Aim to find the easiest way of doing things. Validate the approach with others. Really think through what our options are - this comes from a deep understanding of what you want to achieve
+- Always work on the highest priority projects at any given time 
+- Build incrementally - don't aim for perfection from the get-go; aim for impact with speed. 
 - Ask yourself what the goal is and whether it's worth solving in the first place
 - Build things incrementally and make sure there is a good way to measure impact of what you're working on.
 - Go step by step with regular checks during the process
- 
-**Other development goals**
-- Communication: answer first - what is the most important thing people to make aware of? What is the impact and how are they affected? Then provide additional context for those interested.
+- With ambigious problems: timebox understanding what can be done. 
+
+**Communication**
+- When communicating, focus on adding the strategy, impact and context. Why do we do certain things? How does it relate back to our strategy? What is the so what? This is true for team, stakeholder, partners, Lookerpaps communication. 
+- Written communication - focus on answer first. The amount of context and how upfront the impact is communicated depends on severity of what is being done. 
+  - Context: We have done X. We have done this because of X / this allows Y to do X 
+  - So what: how does it relate to strategy? 
+  - Impact: this changes X 
+  - Additional context 
 - Communication: slow down and structure - avoid umms where possible.
 - Be specific in agendas
+
+**Other development goals**
+- Own BI: it's my team. What's the vision? How can we improve and become best in class? How can we support the business better?
+- Become a business advisor: understand what metrics matter to the business. Know their definitions and calculations. Know the different ways to calculate it and their limitations from our data model. When someone wants to answer an analytics question, I'm able to help answer that question with context and recommendations. 
 - Improve on the commercial side of things. Contracts, legal, pricing, negotiation. Start collecting best practices and templates were using at work
 - When changing things, ask 'What could go wrong?' then confirm whether that's the case before making a change
 - Manage upwards: Clarify to Will what works and what doesn’t, where I need support or context or whether I want to do something. And keep a log of feedback I have for Will so I'm not empty handed when it comes to upward feedback reviews.
+- Constantly learn from best practices. A good email, a good PR review, a good comment. Save it and learn from it. 
+- Be proactive in onboarding users. Slack manager in advance asking whether new joiner needs access + if they’re willing to intro guide to Looker. Then, send the Looker docs + CC data superhero.
  
 **Dealing with hard challenges at work**
-- When dealing with complexities (e.g. when stuck, something looks complex or time consuming), remain relaxed at first and don't go into panic model, rushing to an outcome. Take a step back (potentially put it completely aside and sleep on it). Be kind to yourself. Sometimes it just doesn't work. Put it away, go for a walk or check again in the morning.
-- Do things step by step starting with the foundation. Make sure you have thought well about the approach and check things from the start to avoid going down a wrong path. Understand the root of the problem first. Break projects down into attaintable steps. Try to find the easiest and least constraining way of doing things.
-- Timebox something I know is challenging. Make sure I work on multiple projects at the same time; allocate a certain amount of time to the challenge and beyond that, 'time's up' and work on something else that is easier to progress. This also helps avoiding getting stale in progress. I will be pulled into solving the challenge - try to resist that urge and lean into the pain.
-- Remember past experiences/evidence of when you have been able to solve hard challenges. It just takes time - keep that evidence in the back of your mind at all times.
-- If things take longer than expected, then that's how it is - take your time and nobody is putting unrealistic pressure on you. Keep open and honest communication with your stakeholders to take some pressure away.
-- Keep the growth mindset: Embrace the challenges with confidence and optimism and realize there's something to learn
-- Nobody demands perfection and have no expectations of perfection yourself - gradually I will increase my experience and I don't know everything perfectly - not even close. But by calmly solving problems we encounter, we can achieve a lot. And if mistakes happen, that's okay.
+- The more senior I become, the harder the problems become. Get comfortable around this
+- Keep the growth mindset. Embrace the challenges with confidence and optimism and realize there's something to learn and be curious about solving it
+- When dealing with complexities (e.g. when stuck, something looks complex or time consuming), remain relaxed at first and don't go into panic model, rushing to an outcome. When we rush to an outcome and it doesn't work, the anxiety will increase. 
+- Instead, take a step back. Focus on process and work step by step.
+  - Am I approaching this well? Do I have a good way of testing the data? Am I breaking it down in small steps or am I doing too much at once? 
+  - Speak to a rubber duck around what your code is doing, step by step. Think about how this might relate to the issue you see. 
+- Timebox trying to solve the problem. 
+- If I can't work it out within the time, work on something else that is easier. Force this - otherwise achievements of the week will be lacking - lean into the pain of trying to solve the problem, this will get easier over time
+- By putting it aside (going for a walk, sleeping on it, working on something else) we allow our subconscious mind to work on it. Look at it again with fresher eyes 
 - After taking a step back I can’t figure it out, involve others. ‘Hey I’m stuck on X. I’ve tried a few things and I spent another 3 hours on it this morning but this is important and I don’t see any next steps. Can we look at this collaboratively?
-- Check yourself four or five times a day, and say to yourself: "Am I making my work harder than it actually is?
-- I tend to make early decisions without having the full understanding or knowledge. Calmy work on things from the foundation and the answer will ultimately present itself. 
+- If things take longer than expected, then that's how it is: 
+  - Communicate with stakeholders it's difficult and we need more time. 
+  - If the business puts pressure, don't work there. Hard problems cannot be pushed
+- Other tips 
+  - Be kind to yourself
+  - You know when you stop being mindful - try to take a break, continueing work will lead to worse results and unhappiness 
+  - Force yourself to smile and just say: 'I love this' - take the seriousness of the situation. Remind yourself how amazing the world is and refocus on other people to lower your own expectations. 
+  - Remind yourself of all the times when you successfully managed to solve problems. With the right process and patience, I’ve always been able to fix them - remind yourself of this evidence
+  - Nobody demands perfection and have no expectations of perfection yourself - gradually I will increase my experience and I don't know everything perfectly - not even close. But by calmly solving problems we encounter, we can achieve a lot. And if mistakes happen, that's okay.
+  - Check yourself four or five times a day, and say to yourself: "Am I making my work harder than it actually is?
+  - I tend to make early decisions without having the full understanding or knowledge. Calmy work on things from the foundation and the answer will ultimately present itself. 
  
 **Team meetings**
 - I accept anxiety that comes and I don't identify with it (“I” am not anxious – I just experience an anxious episode). I let anxiety come, I observe it (“here comes anxiety”) whilst it passes through and eventually disappears as it takes care of itself. Let whatever happens happen. Once it happened, we'll understand. These are feelings and they cannot be controlled or fixed - even we as humans always try to. The more we identify with them, try to fight or control them, the more power we give them and the harder it gets. 
@@ -174,11 +213,29 @@ Things I actively pay attention to and work on:
 ## Social
 I am a social creature. I'm interested in others, want to know them better and I enjoy conversation as a way of making potential friendships. In one on one conversations, I go deep into topics of interests of both parties and in larger group settings, I want to be part of the conversation and to share my thoughts and experiences because it adds value to everyone involved: people can respond to my thoughts.
 
+**Social at work**
+- The office is a social environment. When stuck in my head, step back and recenter that being good at and enjoying work is more than being stuck in my head. 
+- Engage and speak with people and take the initiative in this. 
+- "Hey", "How's it going", "Hey I don’t think we’ve met yet. I’m Dave. Great to meet you - what team are you working in?"
+
 **Prepare things to talk about**
-- What topics do people care about? Raise those questions
-- What do people say? What would I want to know from that? What are peoples experiences with that? What is happening in the world lately? Did I capture anything new and interesting to share?
-- What is the context of the people in their current life? What can I ask about around that?
- 
+- Get to know other people, their life situation and interests. Ask them about that (Family, Occupation, Recreation, Dreams/aspirations)
+- Safe bets: 
+  - Travelling
+  - Books/series/films/documentaries/music
+  - Pets
+  - Food/drinks 
+  - Sports
+  - Recent world events - 'Did you hear about'
+  - My experiences / anything new I discovered. Book I read, film I saw etc. 
+- Listen and engage to what they say - be curious 
+  - Focus on the basic questions: Who/what/where/how/why
+  - Simply show emphathy: ‘That’s amazing’ ‘That sucks’
+  - How did things make people feel?
+  - Hook into a topic: 'that remind me of when'
+  - Ask for opinions: What do you think about X? 
+- Always be prepared to answer return questions - 'How are you' 'What about you?'
+
 **I love and care for my friends**
 I make sure I reach out regularly to my friends. I think about them regularly and I aim to meet. I show that I care.
  
@@ -197,8 +254,6 @@ Because I am confortable with who I am, I can handle questions of others and I a
 **Whatever I say is okay**
 Stop trying to be perfect and just say the things that come up without thinking whether it’s good enough. Just be you. Personal questions are personal to me, so just be vulnerable. In group conversations, it mainly doesn't matter what you say - you just need to say whatever you think as the topic will move on quickly.
 Nobody demands perfection - that's just in my head. I'm not as important as to never be allowed to make mistakes. I do and I will continue to and that's okay - Expose yourself as this non perfect human being
-
-
 
 ## Rituals 
 **Mornings**

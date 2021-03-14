@@ -61,6 +61,7 @@ Hoover skirting boards
 
 *Every 4 weeks* 
 Go over surfaces with all purpose polish 
+Clean wall skirts and electricity panels 
 
 ### General maintenance 
 Clean cupboards and fridge from the inside every 3 months 

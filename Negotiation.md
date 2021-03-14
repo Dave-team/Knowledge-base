@@ -99,6 +99,7 @@ Meeting
 
 
 ## Templates
+### Looker contract renewal
 Hi Philip, 
  
 Great meeting you last Friday and excited to see what’s ahead in the roadmap! 
@@ -170,4 +171,37 @@ The final cost is $60K a year, (~ £53K), paid quarterly.  We negotiated no addi
 Cheers, 
 Will
 
+### Fivetran contract renewal 
+Hi Lynn, 
+
+I reviewed our historic MAR and forecasted budget.  
+ 
+I believe the two scenarios you should draft for the renewal proposal are:
+- The exact same MAR & credits we bought last year 
+- What the next tier up would look like.  What MAR, credits, and efficiencies do we gain by purchasing more upfront?I would expect the proposal for scenario 1) to look a lot like last year's.  We can weigh that against the efficiencies we would gain on the next tier up.
+ 
+When do you believe you can have a draft ready for review?
+ 
+Let me know if you have any questions or need any more from me,
+Will
+
+
+Hi Lynn, 
+
+Thanks for kicking off the process and sending the proposal over.  This prompted a few additional questions for me though.  
+- You mentioned 28,000 credits is double our usage, but as of May, I would estimate we use ~21,000 credits.  Am I miss interpreting the data at all?
+- Is there any additional cost to buying incremental credits in the year?  More specifically from your pricing options .ppt, if we purchased 25,333 credits for $20K.  Would we be able to increase to 28,000 credits for an additional $3K in the year? 
+- Do you know why there is such a dramatic increase from last year's contract?  I have us purchasing 26,000 for $12,000 in 2020. I would hope similar discounting would be available?
+Cheers, 
+Will
+
+
+
+This is great, thanks.  
+
+Can we grab 30min sometime next week?  
+
+I'm still having a hard time understanding the MAR vs credits for our projections, so I think it will be easier to talk through it in person.  Also, I'd like to talk about the price increase and if there is any room to negotiate (without the same level of heavy discount).
+
+Will
 

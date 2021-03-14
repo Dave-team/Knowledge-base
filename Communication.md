@@ -54,7 +54,6 @@
 - Always follow up on the answers received 
 - Rather than focusing on the issue you're having, describe the goal. The issue you're having might be because you're taking the wrong approach in the first place. 
 - Be willing to say what you don’t understand - if someone explains something to do - feel free to stop them and ask "Hey, what does that mean?"
-- 
 
 ## Asnwering questions good
 - If they’re not asking clearly, help them clarify
@@ -84,6 +83,12 @@
   - Anticipate future problems
 - Next steps: Propose next steps (what, who, when)
 - More info: Include relevant background context for future reference
+
+## Post mortem structure 
+- What happened
+- Why did this happen?
+- How did we fix it?
+- What are the next steps? 
 
 ### Email example snippets
 - 'I imagine you’re all over this but wanted to double check'

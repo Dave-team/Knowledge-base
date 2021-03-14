@@ -58,7 +58,7 @@ As you watch your thoughts, you realize how many of them are fear based. The mom
 Start the day with mindfulness When you open your eyes, gently pause before taking five deliberate breaths. 
 
 **Mindful affirmations**
-Bring an affirmation/reflection/visualization to the mindfulness session and think only about that topic. 
+Bring an affirmation/reflection/visualization/mantra to the mindfulness session and think only about that topic. 
 
 **Mindful daydreaming**
 Deliberately daydream more. Stare out the window and dream. 

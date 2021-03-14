@@ -10,7 +10,7 @@
 - Whilst developing, break it down and build incrementally so it's easy to spot where things break. If things break, perform unit tests. 
 - Check the data multiple ways - does this make sense and does this answer the question?
 - When in doubt, ask others too
-- Communicate a lot with the stakeholder throughout the analysis - the goal is impact. Don't go all rough 
+- Communicate a lot with the stakeholder throughout the analysis - the goal is impact.
 - Follow up with the stakeholder and close the loop 
 - When making important changes, e.g. in LookML, consider making multiple versions (old and new) of the metric until this is checked by the business (e.g. v0 and v1)
 
@@ -37,6 +37,22 @@
 - Regular check-ins during the incremental build 
 - Check-in prior to final delivery to ensure required impact is delivered. Always close the BI cycle. Remember to answer questions: 'So what' and 'Now what'? The end result should not be a deck summarizing findings, the end result should be recommendations or action items that lead to real impact. Closing the loop means pushing action items through, and following up after implementation to measure real impact.
 - When data doesn’t line up - inform stakeholders before they find out about the differences themselves 
+
+### Tickets
+**What are we trying to achieve?** 
+1. The PM team needs detailed ad data for Facebook (more granular than campaign level).
+2. We want to report on our affiliate partner like we report on other channels
+3. We launched Digital Foil as a new product in December and we want to add it into our Product reporting 
+4. We want to create team wide KPI dashboards in Looker. 
+
+**Why is this important?** It needs impact and it needs to relate to strategy
+1. This will help them have more accurate reporting and make more detailed decisions to optimise our marketing 
+2. Affilliate channels are a focal point of PM's strategy to grow marketing spend (and thus Papier's topline growth)
+3. Since launch, digital Foiling has had early success, and is part of our future strategy to sell Stationery products and "Own the Desk".
+4. The data team wants "Data at the heart of every decision".  It has been difficult to onboard new hires to our Looker data-culture, but we believe a KPI dashboard will help give more examples of Papier KPIs and how to use Looker
+
+Suggested approach 
+Checklist where appropriate
 
 ### Dashboard checklist
 - Good design: 
@@ -164,6 +180,7 @@ Example is here:
     - In explore join design, aim to have all joins going to the initial explore to limit joins required to get data 
     - Keep in relevant IDs so that end users can troubleshoot where required
     - Always keep a number of measures for easy troubleshooting as well 
+    - Add good comments to the code 
 - End users find Looker easy to use 
     - Naming conventions are applied
     - Explores are as short as possible, with groupings applied. Each explore answers specific questions
@@ -197,6 +214,8 @@ Example is here:
     - What are you changing 
     - Why are you changing it? 
     - Link to the source ticket of the feature - e.g. in Notion
+- What is the impact and the so what of the change? 
+- If it's changing data, is it communicated and approved with the stakeholder? 
 - Screenshot of updated part of the DAG
 - Validation of models: 
     - include output that confirms model does what is expected. E.g. link to in development Look, or a query that compares the data. 
@@ -244,6 +263,20 @@ Arrive in the morning and data isn't up to date
   - Do we send it somewhere else in their system?
   - Can they confirm the structure is the same?
   - Do we have the right connection details? 
+
+### Stakeholder notices differences against source data 
+- What results do we expect to see? 
+- Understand what data is being compared - are the different sources supposed to be comparable? Are we looking at the same definitions? 
+- Is this a recent change? What is correct in the past?
+- Does this happen across all segments? 
+- Did anything change that could be the cause of it? 
+- If that didn't answer it, consider whether it is a problem worth investigating - timebox an initial look into it. If it'll take more time, communicate and ask for importance first. 
+- Look at our own data: 
+  - Does the logic make sense? I.e. is the logic used the correct logic to answer the question at hand? 
+  - Is our data correct? I.e. can we show it does what it's supposed to do, accurately? (no duplicates, etc.)
+- Compare the outcome between sources at a low granularity 
+- It's possible that data is captured differently between different tools. 
+- Sometimes, we simply don't know why something happens. And that should be okay too. 
 
 ## Changing important models
 - Be clear on timelines with stakeholders: clarify that something is priority + when you expect to be able to show something 

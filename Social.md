@@ -1,82 +1,105 @@
 # Social
 
-## Principles
-- Start by having a deep and intense desire to increase your ability to deal with people. Do this by reminding yourself how much richer and better your life will be if you’re able to properly deal with the people around you. 
-- It’s something that takes work: you can’t just be passive. Instead, force yourself to be in social settings, face yourself to say things and take initiative. If we want to make friends, let’s put ourselves out to do things for others. Things that require time, energy, unselfishness  and thoughtfulness.
-- Be genuinely interested in people and want to meet and find out about them. People are unique and we all have stories to tell. Focus on finding out about their story: focus on their past experiences, their hobbies, their ambitions and their feelings and emotions and motivations. 
-- What people want: 
-    - Have fun: do fun things
-    - Feel important: give them compliments 
-    - Feel liked and valued: be there for them.   
-- Give without expecting anything in return 
-- A human touch often goes a very long way, don’t be afraid to touch. Especially when meeting someone and saying goodbye: shake hands, hug, kiss 
-- A social interaction takes preparation:  consider who you want to talk about, what you’d and the other person would likely want to talk about  
-- Don’t judge people. Don’t criticize, condemn or complain. Don’t criticize or judge people: ‘they are just what we would be under similar circumstances’. ‘Any fool can criticize, condemn and complain and most fools do but it takes character and self-control to be understanding and forgiving. A great man shows his greatness by the way he treats little men. Instead of condemning people, let’s try to understand them. Let’s try to figure out why they do what they do. 
-- Be kind
-- Consider the other person's point of view. There is a reason behave and are the way they are. Figure that out 
-- When going to a social event, make it worthwhile or don't go at all 
-- Thank people for the impact they’ve had on your life: teachers, early managers. Track them down and write a genuine note
-- Remember peoples names and make you note when you find out their name. Then study to not forget
-- Everybody is either a potential friend or we can help one another out in some way 
-- Be enthusiastic, show interest and want to get to know others and also allow them to get to know me. Take the initiative and just speak to people - absolutely nothing to lose
-- Realize that everyone has issues, good/bad experiences, dealt with shitty jobs, break-ups, good and bad times and together we make things just a bit better
+## Interaction principles
+- A human touch often goes a very long way, so don’t be afraid to touch. Especially when meeting someone and saying goodbye: shake hands, hug, kiss.  
+- Use people's names during interactions. 
 - Send more random things to friends. It’s not always about catching up and meeting. It’s about being top of mind and regular contact. Send them things they also like and give them things of value
-- A most effective way of developing an attractive personality in being able to stand on your feet and speak convincingly. Put feeling and emotion into your words as you speak and develop a deep, rich tone of voice. Also be interested in people and give praise. 
-- Give honest and sincere appreciation. Appreciate people for who they are. Therefore, focus on the positive. It should be a goal to show appreciation throughout everything. If a meal was good, give compliments. If the service was good, mention it. Show appreciation and gratitude.   
-- In addition to being grateful for the positives in our lives, another way to activate and support our new positive core beliefs is to do kind things for other people. Examples include opening the door for someone, buying lunch for a friend, smiling at a stranger, letting someone go ahead in a line, visiting an ill friend, giving a compliment, and helping a neighbor with shopping or home repairs
+- Take the initiative and just speak to people - absolutely nothing to lose
+- People don't care about what you say but they'll remember how you make them feel: 
+  - When interacting, speak convincingly, articulate well, speak with volume, confidently and with a good deep voice. 
+  - Make them feel good about themselves 
+  - Try to engage all their senses when speaking / we remember visuals better than words. 
+- When giving a compliment, be specific and sincere. 
+- When given a compliment, stop, absorb and pause, show thankfulness on your face. Say: thank you very much
+- Practice in daily life: 
+  - If a meal was good, give compliments. 
+  - If the service was good, mention it.
+- Focus on having an open, relaxed body lanuage. 
+
+## Start a conversation
+- Comment on the context (Situations, news, setting, people)“This coffee place has a nice nostalgic interior, don’t you agree?”
+- Give a real compliment “I really like those sneakers, where did you get them?”
+- Ask an opinion: “So what do you think about velvet slacks?”
+- Ask about general information: “Can you tell me what time it is?”
+- Talk about shared experiences: “That was an amazing game, that last goal! Wow, what did you like?”
+- Talk about the social context: “So who invited you to the party?”
+- Mention common interests: “Are you going to watch the game tonight?”
+
+## Social interactions at work
+- Regular mindful breaths and remind yourself you’re in an office - it’s a social environment and you can’t just be stuck in your mind on your own work. Work is more than that - use the mindfulness to recenter 
+- When passing people in the office, look at them and say ‘Hey - how are you?’
+- New people - Hey I don’t think we’ve met yet. I’m Dave. Great to meet you - what team are you working in? 
+- When others are speaking, just listen. If you want to say something, say it. This is mainly situations where I’m just at my desk 
+- If someone does something for the team or for you, take a moment to thank them sincerely and show that you appreciate what they’ve done. 
+
+## Things to say/ask 
+- Focus on asking about the basics
+  - FORD: 
+    - Family
+    - Occupation
+    - Recreation
+    - Dreams/aspirations
+  - Travelling
+  - Books/series/films/documentaries/music
+  - Pets
+  - Food/drinks 
+  - Sports
+  - What is happening in people's lives
+- Understand what the other person is interested in and ask questions regarding that topic. Ideally, it's an interest you have in common. 
+- What is going in the other person's life these days? Ask about that. 
+- What is going on in the world recently? Ask about that. 'Did you see that X video?' 
+- What did I experience lately that I want to share? Personal experiences, something I read, book/series I watched, etc.: So I was doing X and Y happened - crazy right?' 
+- Prepare and share some interesting facts - generally be more knowledgeable about things people tend to talk about 
+- Always be prepared to answer return questions - 'How are you' 'What about you?'
+
+## How to converse
+- Be aware and listen during the conversation - be curious. They say something, what would I want to know about that?
+- Focus on the basic questions: Who/what/where/how/why
+- Simply show emphathy: ‘That’s amazing’ ‘That sucks’
+- Sometimes there is a hook for you to start speaking. E.g.: 'That reminds me of a time when' - relate their experiences within something you've experienced yourself.
+- Ask for opinions: What do you think about X? 
+- Make sure to have an opinion about what you're talking about. 
+- A great segway are what-if questions: what if X would happen? 
+- Speak to something you've done/are thinking about and ask if they can relate in any way. “I’m trying to learn Chinese, preparing for our new overlords. Do you speak any
+second languages?”
+
+## Preparation
+- A social interaction takes preparation - this is the key to any successfull social event 
+- It’s something that takes work: you can’t just be passive. Instead, force yourself to be in social settings, face yourself to say things and take initiative. It requires time, energy, unselfishness  and thoughtfulness.
+- Consider who you want to talk about, what you’d and the other person would likely want to talk about  
+
+## Social basic principles to live by 
+- Give without expecting anything in return 
+- Be kind
+- Be enthusiastic and energetic
+- Focus on the positive and on appreciation 
+- Don’t judge, criticize, condemn or complain. People are just what we would be under similar circumstances. 
+- Consider the other person's point of view and be empathetic 
+- What people want: 
+    - Have fun: do fun things, engage with good stories. 
+    - Feel important: give them compliments 
+    - Feel liked and valued: be there for them. 
+- Do good deeds to others: open the door for others, smile at a stranger, help your neighbour / friend. 
+- Try to mimic their body language to enhance trust and rapport. 
+- Be authentic and genuine. The more open you are, the more people can relate and the safer it is for them to express themselves / the more they trust you. 
+- Smile 
+- Be curious
+- Talk in terms of the other person’s interests. 
+- Don't take it all too seriosuly and just have fun. 
+
+## Other
+- Thank people for the impact they’ve had on your life: teachers, early managers. Track them down and write a genuine note
+- Everybody is either a potential friend or we can help one another out in some way 
+- Realize that everyone has issues, good/bad experiences, dealt with shitty jobs, break-ups, good and bad times and together we make things just a bit better
 - People like others who are like themselves. 
 - People love talking about themselves.
-- People don't care about the things you said but about how you made them feel. So make people feel good about themselves. Create strong positive associations – focus on what is right and what is good about other people. When given a compliment, stop, absorb and pause, show thankfulness on your face. Say: thank you very much
-- We remember visuals better than words. Try to speak in pictures and try to engage as many of the 5 senses as possible. 
-- Remember that when you’re speaking to someone, you are taking their time and attention. Make sure to be worth it and give them value back. Give them: entertainment, information or good feelings. Aim to bring high value for low effort 
-- In your interactions with others, try to mimic their body language to enhance trust and rapport. 
-- The more authentic and genuine we are, especially around personal experiences and even self doubt, the more people can relate and the safer it is for them to express themselves. 
-- If someone sees something different, ask them to clarify how they see the situation
-- Smile - it shows warmth. A smile says: I am happy to see you, I like you and you make me happy. This is invaluable. You can’t expect people to come to you. You have to go out and meet them. 
-- Talk in terms of the other person’s interests. 
-- Get the other person saying ‘yes, yes’ immediately. When talking with people, make sure to start emphasizing things on which you agree, not the points on which you differ. 
 - If someone does something bad to us, hold off. “You can always tell the man off tomorrow, if it’s such a good idea”. 
 
-## Things to talk about 
-- What topics do people care about? Raise those questions
-- What do people say? What would I want to know from that? What are peoples experiences with that? What is happening in the world lately? Did I capture anything new and interesting to share?
-- What is the context of the people in their current life? What can I ask about around that?
+## Principles
+- Be genuinely interested in people and want to meet and find out about them. People are unique and we all have stories to tell. Focus on finding out about their story: focus on their past experiences, their hobbies, their ambitions and their feelings and emotions and motivations.   
 
 ## Storytelling 
 TO DO 
-
-## Ice breakers
-- Since I’m onto my second one for the day… How do you like your coffee? (Be specific)
-- What is the oldest item of clothing in your wardrobe?
-- What word do you always struggle to pronounce/say?!
-- What is your favorite film?
-- What would you be doing if you weren’t working in tech/data? 
-- What is your favorite tv show? extra points if its british!
-- What was your first AIM name / email address etc?
-- What is the weirdest outfit you have worn while working from home?
-- What is hobby have you picked up over the last few months?
-- If you had a combo-shopfront (has to be two things, unrelated, but perhaps complements) what would it be?
-- What song have you been playing on repeat this year?
-- What is your favorite (or least favorite) interview question?
-- Share a picture of your pet! Or tell us what ur dream pet is!
-- If you were to go on a reality tv show, which would it be?
-- What small item did you buy that surprisingly improved your quality of life?
-- What song would you crush at karaoke?
-- If you were a raindrop, where would you fall
-- What is the most mundane super power that you would wish you had
-- What was the first band you saw live in concert?
-- Share a picture of your favorite piece of art! 
-- What animal best represents you?
-- Dream Destination?
-- Favorite recipe you have mastered during the pandemic/take out spot 
-- What is your favorite alcoholic or non-alcoholic beverage?
-- If you could have an endless supply of one food item, what would it be?
-- Be nice to people, give compliments and never judge people nor give them the option to dislike you. Always look for the best in people. 
-- Who's someone in your life you should say thank you to? 
-- What's something you've been overthinking lately? 
-- What's your favorite thing about yourself? 
-- What something you lie about regularly? 
-- TEll us about a recent turning point in your life
 
 ## 1-1 Conversations
 - A good conversation consists of: 
@@ -146,6 +169,19 @@ Remember that a person’s name is to that person the sweetest and most importan
 
 ## Listening 
 - Cornerstone to this is being present. Good listeners never interrupt – they just wait and remember what they want to say next. Allow others to interrupts you – the point is to make others feel right. 
+- Use verbal acknowledgment that you listen
+  - “Interesting”
+  - “Sounds cool”
+  - “Yes, go on”
+  - "Seriously?"
+  - "Tell me more"
+- Use nonverbal acknowledgment that you listen
+  - “Nodding”
+  - “mmmmm” / “uhuh”
+- Ask follow-up questions to keep people talking?
+  - “How did that make you feel?”
+  - “And then what?”
+  - “What were you thinking when that happened?”
 - Rephrase what they said
 - Reflect feeling. Reflect to them how they’re feeling. ‘I’m done with school!’ > ‘You’re frustrated’
 - Encourage people to talk about themselves. 
@@ -183,3 +219,35 @@ Other tips:
 - The negative feeling is in you. Someone else might be perfectly calm under the same circumstances. 
 - When you don’t want to, say no. That’s not selfish – it’s selfish to assume you should live your life as someone else sees fit. Don’t feel obligated to be with someone
 
+## Ice breakers
+- Since I’m onto my second one for the day… How do you like your coffee? (Be specific)
+- What is the oldest item of clothing in your wardrobe?
+- What word do you always struggle to pronounce/say?!
+- What is your favorite film?
+- What would you be doing if you weren’t working in tech/data? 
+- What is your favorite tv show? extra points if its british!
+- What was your first AIM name / email address etc?
+- What is the weirdest outfit you have worn while working from home?
+- What is hobby have you picked up over the last few months?
+- If you had a combo-shopfront (has to be two things, unrelated, but perhaps complements) what would it be?
+- What song have you been playing on repeat this year?
+- What is your favorite (or least favorite) interview question?
+- Share a picture of your pet! Or tell us what ur dream pet is!
+- If you were to go on a reality tv show, which would it be?
+- What small item did you buy that surprisingly improved your quality of life?
+- What song would you crush at karaoke?
+- If you were a raindrop, where would you fall
+- What is the most mundane super power that you would wish you had
+- What was the first band you saw live in concert?
+- Share a picture of your favorite piece of art! 
+- What animal best represents you?
+- Dream Destination?
+- Favorite recipe you have mastered during the pandemic/take out spot 
+- What is your favorite alcoholic or non-alcoholic beverage?
+- If you could have an endless supply of one food item, what would it be?
+- Be nice to people, give compliments and never judge people nor give them the option to dislike you. Always look for the best in people. 
+- Who's someone in your life you should say thank you to? 
+- What's something you've been overthinking lately? 
+- What's your favorite thing about yourself? 
+- What something you lie about regularly? 
+- TEll us about a recent turning point in your life?

@@ -207,6 +207,7 @@ include window functions as a check and ensure PDT == dbt
 - Make sure the config for each model is complete and accurate. E.g. materialize as incremental for incremental models. 
 - Incremental 
   - Make sure to run incremental models on the columns you know works 
+  - Make sure to update all parent tables when running an incremental model - this avoids joining old to new data. 
 
 ## Updates from Papier
 When people don't know the data yet: 

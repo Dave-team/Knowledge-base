@@ -100,7 +100,7 @@ Anticipating feelings that we fear and having a plan on how to cope with them.
 I race towards future solutions. It’s better to solve problems as they come up and start with the fundamental first steps executed well. The future often will present itself. 
 
 *Dealing with uncertainty*
-Anything that is uncertain: is there a way I can know? Are there steps I can take? If not, realise that life is a mystery and it'll unfold itself. If there are things I can do, focus on doing those. 
+Anything that is uncertain: is there a way I can know? Are there steps I can take? If not, realise that life is a mystery and it'll unfold itself. If there are things I can do, focus on doing those. Accept the fact that I cannot know everything all the time. The more I realize this the more comfortable I'll be - it'll get rid of a lot of self imposed pressure. 
 
 *Team meetings*
 - I judge and label the work I’ve done as good or bad. However, what I’ve done isn’t good or bad. It’s simply a result of the effort I put in during that week. What myself and others think of that is a reflection of thoughts, understanding of the situation and our mood. What is 'good' to someone can be 'bad' to someone else. We should look at it from outside ourselves and not label it because there isn't anything to label because nobody can know. 

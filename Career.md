@@ -107,11 +107,12 @@ Imposted Syndrome is not feeling good enough in what I do. I am stuck on somethi
     - First impressions are important 
     - Use an org chart to help familiraize with the company 
 - Promote yourself. Have a goal in mind around how you'd like to be perceived. This includes having a pitch 
+- Get to know what people care about and how communication works 
+  - Get a good understanding of the most important metrics used in the business. Look at existing dashboards and analysis 
+  - Understand the roadmap
+  - Become very familiar with the tools 
+  - Look into previous PRs and Slack announcementss 
 - When starting a new role, first understand why things are done a certain way. Only then consider whether the business would be positively impacted by a change. Don’t come in and change things because you have seen something done a certain way in the past. Rather, learn about the current processes long enough to identify its pains and strengths. Then work with the team to evaluate whether change is required. This will massively increase credibility. Really stop and listen to what is happening and go on the learning curve as quickly as possible. Potentially make a learning plan for this. Ask ‘how did you get to this point’? Why are things done this way? Are these reasons still valid? Are things changing such that we might need to change to meet current requirements?   
-- Get a good understanding of the most important metrics used in the business 
-- Understand the roadmap
-- Become very familiar with the tools 
-- Get to know the wider business 
 - The skills and ways of working of previous roles don't always transfer to a new role. You need to adept. 
 
 ### Tech to set up

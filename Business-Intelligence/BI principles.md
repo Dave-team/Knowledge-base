@@ -20,7 +20,7 @@ Think about BI as if it's a SaaS product and the users are your customers. Appro
 - Data is well documented 
 - Automate as much as possible 
 - As much as possible is defined in code
-- DAta is version controlled
+- Data is version controlled
 
 ### Process principles
 - Great support, documentation, onboarding / training
@@ -348,6 +348,22 @@ The most efficient way to inform your stakeholders is through the platforms / me
 
 When you catch a problem and correct it, notify the stakeholders in case they also saw something funny and didn’t mention it, and to demonstrate the pro-active monitoring to build trust.
 
+**Fixing issues with Tech**
+- What is the challenge
+- What are the next steps to fix the issue
+- How could we have captured it proactively rather than retroactively 
+- If this went wrong, what else could have gone wrong? Perform a health check
+- Backfill the data. 
+  - Create a backup of data you’re trying to change
+  - Only change what really needs changing (e.g. only the orders affected)
+  - Test changing a few orders first - then roll it out to the rest
+- Impact analysis 
+- Post mortem
+- When communicating:
+  - High level alert: we noticed this is an issue - we’re looking into it 
+  - When providing more context: Flesh out the impact and context with Tech first and then communicate the scope of the issue: This impacts X&Y, but it doesn’t touch anything else. Next steps are YY and we’ll keep you updated here 
+
+
  ## Other
  ### Data readiness
 - Strong business sponsorship
@@ -399,173 +415,3 @@ When explaining differences, use the language and the tools people know, use and
 Looker is great for static reporting, less so for ad hoc and generally it isn't great at really understanding our customers - we'd need more web analytics and survey data for this. Mapping the customer journey and understanding all steps within the process. Asking the why rather than the what. 
 
 Some data models like attribution model are built over time and gotten larger and larger. Over time, different challenges are overcome and build in the code. This repeats and the model gets build iteratively. Now everything may be fine, but you'd still want to account for the historical data that cannot be changed. It's a difficult balance of consistency, simplicity and scalability. 
-
-## Email templates
-**Roadmap invitation**  
-Hi Tony,
-
-Booking in 30 minutes to go through BI requirements/implications from your 2021 roadmap and any additional data needs you may have.  We are specifically wondering:
-
-- Do you have any additional needs outside of what we have listed below?
-- Do you have any pain points in your current work with data that you wish were improved?
-- Longer term is there anything we should keep in the back of our mind?
-
-The projects we have on our list are:
-- Payment processor (stripe) Q1/Q2
-- LTV model (Q1)
-
-**Roadmap follow-up**
-PM <> BI 2021 roadmap
-
-HI, 
-
-To follow up on our roadmap session last week, these are the PM projects we believe should go in the BI 2021 roadmap: 
-Thanks for your time yesterday. These are the PM projects we believe should go in the BI 2021 roadmap: 
-
- A few questions around these:
-Is there anything missing that we haven't listed above? 
-Can you indicate when you'd like these done by (Q1, Q2, H2) and if there are any timeline dependencies and/or other priorities we need to consider? 
-
-Let me know if you have any questions!
-
-Thanks, 
-
-Dave 
-
-Hey Molly, 
-
-To follow up on our roadmap session yesterday, these are the projects that we believe should go in the BI 2021 roadmap:
-
-More + better insights from qualitative data (with a focus on demographic data). This project is depending on the successful hire of the Customer Insights role. 
-A 'Product Performance Grid' dashboard. We can look into what the possibilities are for this - either within Looker or with Tech. Do you have any timeline in mind for this? 
-
-
-Let me know if anything is missing from the list above! 
-Let me know if this looks good and if anything is missing.
-
-
-Thanks, 
-
-Dave 
-
-**Roadmap reminder**
-Hi Gaby,
-
-Can you confirm the projects below look good on your end? We’re building the roadmap now and I want to make sure we don’t miss anything.  
-
-Thanks, 
-
-Dave 
-
-**BI monthly invitations**
-Hi Nikita, 
-
-We are planning towards our next Looker BImontly session in February and wonder whether you would be up for presenting how you use Looker? These are a few use cases that would be great to cover (in addition to anything else you may want to present):
-
-- KPI Reporting dashboard including the period comparisons and the annotations
-- Experiments mega boards and how this plays a role in the A/B testing framework/process
-- Conversion funnel report 
-
-Let me know if you have any questions around this; if you could let me know soon, that would be ideal as we can start booking in a timeslot. 
-
-Thanks, 
-
-Dave 
-
-Hey Nikita, 
-
-Booking in an hour (might not need the full hour) to go through your slides for next week's BI monthly meeting. The plan is to speak for 15 minutes about: 
-- An intro to the CRO team 
-- What are CROs KPIs and why 
-- A few examples of how CRO uses data. Some ideas I thought of (feel free to present on anything else you would like though):
-- KPI Reporting dashboard including the period comparisons
-- Experiments mega boards and how this plays a role in the A/B testing framework/process
-- Conversion funnel report 
-
-Let me know if you have any questions! 
-
-Dave 
-
-**Quarterly roadmap email**
-Hey Neil and Nikita, 
-
-For tomorrow's check-in, I'd love to use the time to 1) see how the Looker introduction sheets have worked, and 2) do a quarterly review on the BI roadmap.  
-
-Below is what we had planned for Q4, a few extra projects on my list to discuss are:
-- Web KPI kickoff reporting (Neil)
-- Bytedance A/B integration
-- Remove Digitbrew reporting from Looker
-- SEO & Search Reporting
-
-A few questions on my mind are:
-- Are there any projects we had planned we can de-prioritize?
-- Is there anything additional I'm missing for Q4?  
-- Looking ahead to 2021, when do you think you will start planning the digital product roadmap?
-
-Cheers!
-Will
-
-
-Hey Neil and Nikita, 
-
-Can you confirm this looks good on your end?
- 
-I updated our BI Q4 roadmap to reflect our conversation last week.  
- 
-I deprioritised App and Product Performance reporting due to strategic priorities, kept the user journey reporting, and added Bytedance and Web KPI reporting.  
- 
-SEO and on-site search reporting are Q1 2021 top priorities.
- 
-Cheers!
-Will
-
-Fwd: BI / Finance Quarterly Review
-Hi Tony, 
-
-Since you're on holiday, I thought it was easier to send your quarterly review by email.  I'm happy to catch up in person on this if you want to discuss anything in more detail.
- 
-BI was able to complete everything we had on the Finance roadmap for Q3, including the Checkout.com reporting ahead of schedule.  
- 
-For Q4, the additional priorities from team Finance are Papier KPIs, Kickoff Inventory and Finance ERP (this will carry into 2021), finalise Emma's tax metrics, and help Alice transition trading over to the Exec explore.
- 
-For Q1 2021, we'll work on incorporating freight and import duty.  
- 
-Let me know how this looks and if there's anything I missed,
-Will
-
-**Company wide roadmap email** 
-Hi all, 
-
-The BI 2021 Roadmap can be found below (PDF version attached for reference).
-
-Our biggest priority this year remains to support you with the data you need to make better decisions. In addition, we will be working on: 
-- Building a data infrastructure that can accommodate our growth 
-- Answering difficult questions using advanced analytics
-
-We’ll regularly update the roadmap to stay in line with changing priorities of the business and to track the progress of projects. The most recent version of the roadmap will be on our Notion page.
-
-Let me know if you have any questions! 
-
-Dave
-
-(Add a well sized image to the email - people are less likely to open attachments. Still do add an attachment as PDT so people can reference and store it should they want to.)
-
-Answer first update in Slack
-Really Important FYI: 
-
-This evening at 6pm, we will resize our data warehouse to add more space.  Looker can continue to be used from this evening at 6pm. However, our underlying data sources will not update until the resize job is completed. This means that data will be only as recent as it is tonight around 6pm until the job is completed.
-
-We expect the job to not take too long (although there aren’t any guarantees) and we’ll provide updates here on the progress. By Monday morning, we aim to have all source data updated again. 
-
-Let me know if you have any questions on this!  More details on why we are doing this to our data warehouse below for those interested:
-
-What has been done so far
-We have been optimising our data tables over the last ~4 weeks and have been able to measure significant performance improvements in Redshift (our data warehouse) following these efforts. We have also continued to move transformation jobs over from Looker to dbt which we believe will be the single biggest factor in making our data infrastructure future proof. 
-
-What’s next
-We are now ready to test moving over the most troublesome transformation, which has often resulted in Redshift running out of disk space. In order to test this transformation, we need more space in the data warehouse to: 
-Compare the dbt model against the table in Looker
-Ensure the current Looker tables remain usable and update overnight, minimising user disruption
-
-What’s required to get there
-With the increase in data from our new Facebook Dynamic Ads reporting and to effectively quality check this changeover, we need more space in our data warehouse to facilitate this work. We will resize our data warehouse cluster and add another 320gb of storage to Redshift.

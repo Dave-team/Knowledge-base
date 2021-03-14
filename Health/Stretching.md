@@ -22,24 +22,31 @@
 ### Chest
 - One arm straight and hook into the other arm 
 - Chest stretch - arms back rested against something whilst you lean your body forwards 
+- Hands up hooked in a doorway and body tilted forwards 
 
 ### Upper back
 - Upper back stretch: straight legs, bend through the hips and place hands on something (you're body is exactly 90 degress with arms straight in front)
 - Rear hand clasp – touch your hands, the right arm coming from the top, and the left arm coming from the bottom. Reach as far as you can and you can use a towel or similar to help reaching
 - Standing position - left arm to left upper corner and right arm to right lower corner 
 
+### Spine 
+- Spine lumbar twist stretch - lie on floor. Fold one leg over the other. Arm and head directed to the other side
+- Seated side bend: left/right arm up and then bending to the sides
+- Seated spinal twists
+- Torso twists 
+
 ### Lower back
 - Upward dog / cobra stretch - lie on the floor and curl the spine and look up to the ceiling 
 
 ### Neck
 - Neck roll – roll your neck one way and then other way but very relaxed
-- Neck excercise from 10 minute yoga 
+- Side neck stretch: left arm pulling right side of head to shoulder and the other way around 
 
 ### Forearms and wrist
 - Forearms / wrist stretch - sit on hands and knees whilst pointing fingers forwards. Also, sit in the same position but point your fingers backwards 
 
 ### Arms
-- Arms stretch - one hand overhead behind the neck and then the other arm on top if the elbow to further stretch down 
+- Triceps stretch - one hand overhead behind the neck and then the other arm on top if the elbow to further stretch down 
 
 ### Core 
 - Standing side stretch. Feet shoulder width apart - arms overhead (as if holding a stick) and lean to the sides whilst holding the stick to stretch the oblique (again for 15 seconds)
@@ -48,28 +55,34 @@
 - Downward dog – the feet and hand are placed on the floor and then you raise your butt up high, keeping your back and neck in the same line 
 - Cat and cow stretch: on hands and knees. Round the back and look down (cat stretech) than arch the lower back and look upwards (cow) 
 - Lying twist – lie on your back with the arms stretched out either side (as if in a cross). Then, place your legs 90 degrees in a square on the floor (to either side), whilst keeping your upper body as low to the floor as possible  
+- Childs pose 
 
 ### Hips
 - Hip flexor stretch - go into lunge position - then put the back leg on floor and feel the stretch in your rear leg. Place the front leg quite to the front to increase the stretch and lift your chest
 - Pigeon stretch
 - Holding the deep squat position
+- Runners lunge: elbows on floow inside of front leg. Rear leg flat on the floor 
+- Hip rotation 
 
 ### Hamstrings
+- Dynamic leg stretch: lunch position: one leg bend one lef straight and toes upward 
 - Good morning with one leg in front of the other 
 - Standing pike: touch your toes 
 - Hamstring stretch - sit down and stretch one leg out in front of you, toe pointing towards the ceiling. Tuck other foot inside your leg and reach forward with your arm and touch your toe. Keep back straight and fold from the hips. 
-- Boxing stretch – lie on the floor and have one leg up in the air. Stretch it – possibly also using an elastic for more flexible stretching 
+- Supine hamstring stretch – lie on the floor and have one leg up in the air. Stretch it – possibly also using an elastic for more flexible stretching 
 
 ### Groin stretches
 - Lie on floor and pull knees to chest
-- Groin stretch - sit down with the soles of feet together. Pull them in as close to the bum as possible. Get your knees as close to the floor as possible. Can push down on thighs to help and hold for 15 seconds 
+- Dynamic frog pose: knees wide and feet together. Rock backwards and forwards 
+- Groin stretch (seated butterfly stretch) - sit down with the soles of feet together. Pull them in as close to the bum as possible. Get your knees as close to the floor as possible. Can push down on thighs to help and hold for 15 seconds 
 - Cossack squat – stand with your feet quite wide apart. Then squat into one leg whilst keeping the other leg straight to the sides – go as deep as you can 
+- Wide legged forward fold. Legs as wide as possible. Hinge hips and get fingertips to the ground. 
   
 ### Glutes
 - Glute stretch - like in boxing with one foot over the other knee and then holding the shin
 
 ### Quads
-- Quad stretch - lie on your belly., take a foot and pull heel to ass. Knees need to be close together and hips pushed forward 
+- Quad stretch - take a foot and pull heel to ass. Knees need to be close together and hips pushed forward 
 
 ### Calves
 - Calf stretch: lean forwards with hands resting against a wall, foots flat on the ground and then stretching out the calves muscle, at least 30 seconds a piece (by lifting heels off ground)

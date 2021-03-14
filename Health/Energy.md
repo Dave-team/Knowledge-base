@@ -26,4 +26,7 @@
 - Do something else entirely that switches the brain
 - Breathing excercises
 - Do some physical excercises 
+- Mindful breaths
+- Get away from the screen and e.g. sit in the kitchen, on your phone, reading a book etc. 
+- You want stable distractions from work. Eg Reddit Twitter Instagram - they actually do a good job with this
 
