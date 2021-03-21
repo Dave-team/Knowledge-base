@@ -16,7 +16,7 @@ Pick up good habits from the knowledge base and make these my own. This is not a
 - **Remember the positives**. Build confidence by remembering what I've achieved and accomplished so far and some of the amazing things I've had a change to experience and now have memories of.  I studied in Hong Kong, worked in Berlin, got a job in London and are now a BI Manager at a great company. Remind yourself of how awesome this is and how grateful you are you’ve done this. It’s easy to forget what we have. When remembering something negative, think back about when it was actually positive.
 - **Approach the future with curiosity and optimism** - what else is in store for me?
 - **Surrender** Life is random and most things are not in my control. Surrender to whatever will happen and just enjoy the ride. Try not to have any expectations. Flow like water, ride the waves and open your heart.
-- **Be curious** Approach things with childlike curiosity and look at things as learning experiences without our preconceived notions.
+- **Be curious** Approach things with childlike curiosity and look at things as learning experiences without our preconceived notions. Life is amazing to the curiously minded
 - **Deal with reality** Shit does happen. We can wish things were different but we often just need to deal with reality and work with what we have left. This is what defines us, helps build self confidence and character.
 - **Acceptance** I am human. I make mistakes. I have feelings and thoughts will always pop up. Accept myself and things the way they are. Don't force things. It's okay - I am good enough. It's okay whatever the outcome is. I'm not perfect and that's ok.
 - **Exposure** As we do the things we fear / we don't like, we have an opportunity to increase our confidence in our ability to cope with the situations that frighten us. Notice fears, take them for what they are just do it. To make the process as easy as possible, don't think about it until you are experiencing it. Accept the pain for what it is and it'll be over before you know it.
@@ -81,10 +81,28 @@ Things I actively pay attention to and work on:
   - Why is this important? It needs impact and it needs to relate to strategy
 
 **Requirements gathering**
-- "What are you trying to achieve"? "How do you want to use this?" Try and see if there are ways they can achieve what they want without development work. Always make sure the requirements are specific. If they want an analysis, what exact question are we trying to answer? 
-- "What is the impact of this and what decisions does it drive?" "How important is this and will it change decision making?" If low impact, deprioritize 
-- "When do you need this by?" If urgent, prioritize it 
-- "How big a problem is this?" E.g. data is off by not much, manual work takes some time. If not a big problem, deprioritize. 
+- "What are you trying to achieve"? "How do you want to use this?" 
+  - Always make sure the requirements are specific. If they want an analysis, what exact question are we trying to answer? 
+  - If this isn't clear, don't start until it is - jump on calls
+- "What is the impact of this and what decisions does it drive?" "How important is this and will it change decision making?" 
+  - If low impact, deprioritize 
+- "When do you need this by?" 
+  - If urgent, prioritize it 
+  - If not, backlog it 
+- "How big a problem is this?" E.g. data is off by not much, manual work takes some time. 
+  - If not a big problem and still a lot of work, deprioritize. 
+
+**Answering questions**
+- Avoid development work 
+  - Did someone else already do this? Point them to those locations and people first
+  - Can this be a simple solution in Looker or even Excel initially?
+- Be pragmatic: 
+  - If something isn't obvious but also not much impact, communicate to stakeholders and put it aside because its low priority. 
+  - Think about scalability: can someone else use this again? Avoid manual spreadsheets as much as possible 
+  - How would I do this in a simple way? 
+  - Focus on what matters and drives the needle. It's impossible to understand every small detail - trust that this will come with time. Be comfortable saying you don't know at this stage and it's difficult. 
+- Advise
+  - Provide additional context that may change the output. Be an advisor towards business impact 
 
 **Initiative during meetings**
 - Always go into meetings with context of the problem at hand. If that context is missing, get it first (see Context and Strategy). Also know the high level things to look for around the problem to be solved.
@@ -119,6 +137,7 @@ Things I actively pay attention to and work on:
   - Inform them when I'm looking into something 
   - If something will likely take longer than expected, communicate that 
   - If we are pending on tech, communicate the status of the tech work
+- Build stronger stakeholder relationships - e.g. quarterly check-ins
 
 **Approach projects**
 - Spend time defining a good plan of attack that is quick to build, easy to test, easy to replicate and should help answer the question. Aim to find the easiest way of doing things. Validate the approach with others. Really think through what our options are - this comes from a deep understanding of what you want to achieve
@@ -131,6 +150,7 @@ Things I actively pay attention to and work on:
 
 **Communication**
 - When communicating, focus on adding the strategy, impact and context. Why do we do certain things? How does it relate back to our strategy? What is the so what? This is true for team, stakeholder, partners, Lookerpaps communication. 
+- Make sure to shoutout to people involved in the projects.
 - Written communication - focus on answer first. The amount of context and how upfront the impact is communicated depends on severity of what is being done. 
   - Context: We have done X. We have done this because of X / this allows Y to do X 
   - So what: how does it relate to strategy? 
@@ -139,14 +159,23 @@ Things I actively pay attention to and work on:
 - Communication: slow down and structure - avoid umms where possible.
 - Be specific in agendas
 
+**BI vision**
+- Build towards a longer term strategic vision of the BI team of becoming best in class in supporting the business with data. 
+- What should we do now that isn't asked for but that will help solve future challenges or answer questions that will be asked in the future? 
+- Where do we want to go towards? What will be needed in 2-5 years? What can we do now to get there?
+- Start to prioritize working on this - balanced with priority projects. Less transactional, more strategy. 
+  - Start reading, writing things up, speaking to other Data people. 
+  - What is the recommendation? When? How? Why?
+  - Start to evangelize to others 
+
 **Other development goals**
-- Own BI: it's my team. What's the vision? How can we improve and become best in class? How can we support the business better?
+- Develop to a really high level of code: high quality, scalable, fast, clean, business-focused, well commented and tested. Improve everything that doesn't look good. 
 - Become a business advisor: understand what metrics matter to the business. Know their definitions and calculations. Know the different ways to calculate it and their limitations from our data model. When someone wants to answer an analytics question, I'm able to help answer that question with context and recommendations. 
 - Improve on the commercial side of things. Contracts, legal, pricing, negotiation. Start collecting best practices and templates were using at work
 - When changing things, ask 'What could go wrong?' then confirm whether that's the case before making a change
 - Manage upwards: Clarify to Will what works and what doesn’t, where I need support or context or whether I want to do something. And keep a log of feedback I have for Will so I'm not empty handed when it comes to upward feedback reviews.
 - Constantly learn from best practices. A good email, a good PR review, a good comment. Save it and learn from it. 
-- Be proactive in onboarding users. Slack manager in advance asking whether new joiner needs access + if they’re willing to intro guide to Looker. Then, send the Looker docs + CC data superhero.
+- Be proactive in onboarding users. Slack manager in advance asking whether new joiner needs access + if they’re willing to intro guide to Looker. Then, send the Looker docs + CC data superhero. Also, consider this entire process: how is it going to skill with more senior stakeholders starting to join the business. 
  
 **Dealing with hard challenges at work**
 - The more senior I become, the harder the problems become. Get comfortable around this

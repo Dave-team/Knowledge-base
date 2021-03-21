@@ -170,7 +170,9 @@ If this was a migration:
 ### PDT to dbt migration
 - We always test dbt in a dev schema. Incremental models are compared between two models in dbt dev
 - Create a new dev branch 
-- Limit the data in parent tables. I.e. in the CTE selecting from source data, limit the data to e.g. only data for the last month
+- Limit the data in parent tables. 
+  - Limit parents models to data for e.g. last month only - this avoids rebuilding full parents tables in the dev schema 
+  - Limit data is source CTE to also e.g. data of last month
 - Set up two versions of the model to test where both versions ultimately select from the parent table with limited data: 
 Incremental model and Full model 
 - First run the two models. Both models will be built as a full table at first as it's the first time the incremental model is run. 
@@ -180,7 +182,7 @@ Incremental model and Full model
   - dbt run --models int_webapp_pages_session_full --target dev. No need to update the parent models again 
 - Compare the two tables in Redshift / Looker 
 - Delete the additional logic from the dev branch and create a PR 
-include window functions as a check and ensure PDT == dbt 
+- Include window functions as a check and ensure PDT == dbt 
 - Compare output of dbt model next the PDT. Look out for:
   - Total table count 
   - Count of IDs by day 

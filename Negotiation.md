@@ -97,6 +97,14 @@ Meeting
 - We can map out our expected growth for the next year, calculating MAR by different months (e.g. accounting for peak period) 
 - If we’d need to top up our credits, we’d be able to do so during the year (the price per credit would be fixed) 
 
+- Price goes up quickly. From X to Y. We’ve been a customer for a long time - is there anything we can do to make this a bit easier to sell to CFO?
+- Really understand their pricing structure. What if we need more in between? Can we price lock? 
+- What are the terms? 
+- Projection of growth: 
+  - Look at our YoY performance and extend this out to this year 
+  - Add in a small buffer
+
+
 
 ## Templates
 ### Looker contract renewal
@@ -204,4 +212,18 @@ Can we grab 30min sometime next week?
 I'm still having a hard time understanding the MAR vs credits for our projections, so I think it will be easier to talk through it in person.  Also, I'd like to talk about the price increase and if there is any room to negotiate (without the same level of heavy discount).
 
 Will
+
+
+
+Hi Lynn,
+ 
+We reviewed our MAR projections and believe that 15M MAR (25,333 credits) will suffice. In terms of seasonality, we expect to see 2X the average MAR in the months of November, December, and January (see our monthly projection in the screenshot below). 
+ 
+Could you provide us with a 1 and a 2-year proposal based on this?
+ 
+Let us know if you need any more details.
+ 
+Thanks,
+ 
+Dave
 

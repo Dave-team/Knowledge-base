@@ -13,6 +13,9 @@
 - Communicate a lot with the stakeholder throughout the analysis - the goal is impact.
 - Follow up with the stakeholder and close the loop 
 - When making important changes, e.g. in LookML, consider making multiple versions (old and new) of the metric until this is checked by the business (e.g. v0 and v1)
+- Change things at close as possible to the source to avoid inconsistencies and different definitions
+  - Don’t create new logic in a CTE when that logic can also be build into a source view. Join it in instead. 
+  - Aim to have logic in SQL rather than dimensions if data is being repeated across files 
 
 ### Requirements gathering
 - What is the question we are trying to answer / problem we're trying to solve?
@@ -28,6 +31,15 @@
     - Are we testing if something is even possible at all? Should we MVP? 
     - How important is it to get perfect? 
     - Any downstream effects? 
+
+### Anlytics questions 
+Finding out what analytics is possible:
+- What data do we have / can we easily get / would be more difficult to get but still possible. 
+- Understand and communicate the context of the data 
+  - What does this data mean and what does it capture? 
+  - What can we then do with this data - any metrics? 
+  - What can we not do with this data that they might want to see? Explain what it would take to get to that level of analysis - e.g. modelling, work with Tech etc. 
+  - Always close of by asking what KPI’s does the stakeholder want to see? 
 
 ### Delivery process
 - Have ticket with requirements. Potentially detailed with:
@@ -81,6 +93,8 @@ Checklist where appropriate
 
 ### Testing
 - Never assume data to be correct – check it and be confident its correct. Check it when it is in the source as the source might be wrong. Check manual input from other. Check own logic. 
+- Don't just check most recent data, go back in time too 
+- Test for nulls in final table
 - Ideal scenario: proof that data is in line with source 
 - If we can’t check vs source, does the data make sense? 
     - Look at the graph itself 

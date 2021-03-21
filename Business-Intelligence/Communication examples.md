@@ -383,3 +383,17 @@ Looker has built the Google Sheets Looker Action through which we can send or sc
 *How do we use this?*
 We set up this doc with instructions on Looker Actions and a suggested approach on how to migrate existing reporting from custom functions to Looker Actions. Alice has started doing the migration for Trading materials and so far it’s working as expected. 
 There will be some initial set-up effort but this solution will be more reliable and scalable than other alternatives. Do let me or Alice if there are any questions / concerns. @Rupert @Alice Morris @Gaby @anthony
+
+## Escalation emails
+Hi Brian and George,
+
+Sorry to reach out directly, but I need to escalate the urgency of this issue.
+
+The broken Stripe fee reporting is causing mismanagement of our business.  We are over-reporting our profit per order, senior leadership does not have the right data, and as a result, we are not hitting our financial goals.
+
+This has been broken since February.  The "expected" change in reporting was not articulated as part of the contract negotiation and not known to us.  Because of this, our CFO is very frustrated with the result.  I don't believe this issue is being met with the urgency we need.
+
+Can you please escalate this ticket internally?  And help coordinate a faster resolution?  I recommend we set up a call with technical support on Stripe and our side to solve this more quickly.
+
+Cheers,
+Will

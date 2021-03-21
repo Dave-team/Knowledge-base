@@ -1,5 +1,10 @@
 # Management 
 
+Papier notes
+New joiner: lots of easy wins that don’t have time pressure. Don’t do these yourself 
+
+
+
 ## Role of the manager
 -	Managers function: not to make people work, but to make it possible for people to do work
 -	Management in 3 steps: 
