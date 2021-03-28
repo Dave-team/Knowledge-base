@@ -91,7 +91,7 @@ Set up training sessions specific to the requirements of the end user to be trai
 - In bigger team, team managers can be responsible for onboarding. BI preps a training doc for the high level Looker overview and then the data champion in the team guides through Looker - which is often specific by team  
 
 ### Evangelize BI
-Monthly updates with new data / features in Looker Main purpose here is that people find common things they weren’t aware of and now can use. Example framework of such a newsletter: 
+Monthly updates with new data / features in Looker. Main purpose here is that people find common things they weren’t aware of and now can use. Example framework of such a newsletter: 
 - What’s new
 - How can you find and use it?
 - What's coming by when?

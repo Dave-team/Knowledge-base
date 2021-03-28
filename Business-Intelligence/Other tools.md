@@ -67,7 +67,7 @@
 - Segment: great way to have the same tags to prod, GA, mixpanel and all it’s integrations 
 - Snowplow: for high volume and real time – this is more intense to set up compared to Segment
 
-**Why use Segment / Snowplow **
+**Why use Segment / Snowplow**
 - Tools like GA and Mixpanel are limited to their front end reporting. Put the data in warehouse and you decide what to report on + you can join data to all other data available. 
 - Data cleaning Especially when things change over time, data transformations can ensure the data is still accurate, whereas the front end tools will have a hard time stitching the data together. 
 - Joining datasets. In the front end tools you miss the rest of your data. E.g. you don’t track spent in GA / Mixpanel 

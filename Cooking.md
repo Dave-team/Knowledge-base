@@ -15,6 +15,7 @@
 - Marinate and allow for the marinade to be juiced up in teh meat 
 - Thaw meat by putting it in warm water within a ziplock bag and refreshing the water when it gets cold 
 - Beef mince can be defrosted in the microwave
+- Russets or Yukon golds to roast potatoes
 
 ## Organization 
 Clean whilst cooking - put items in the dishwasher and wash dishes whilst things are happening on the hob 

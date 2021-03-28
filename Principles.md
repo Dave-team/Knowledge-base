@@ -237,6 +237,7 @@ How to achieve awareness
 -	Every negative feeling is an opportunity to be aware – to observe it from the outside. It won’t go away but as you understand it, it will happen less frequently. 
 -	When we have certain thoughts (for example distorted) or we’re hard on ourselves – just be aware of it. Don’t try to change it – observe it as if it were happening to someone else 
 -	Learn what it means to experience each moment fully, then drop it and move on to the next moment, uninfluenced by the previous one. 
+- Understand that society is made up and all we have is our body, thoughts and surroundings where we can find hapiness. Beyond that, we're just a bunch of monkeys. 
 
 ## Identity
 -	We are not our thoughts – they come and they go. Anxiety comes and goes

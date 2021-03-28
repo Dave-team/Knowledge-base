@@ -227,3 +227,30 @@ Thanks,
  
 Dave
 
+Hi Lynn, 
+ 
+Thanks for this. We appreciate you bringing the price down to what you can - I believe we can get this approved with Finance. Can you draw up a renewal proposal on a 2-year contract for us to sign?
+ 
+Thanks, 
+ 
+Dave 
+
+
+Hi Tony, 
+
+I recommend we renew our Fivetran contract set to expire in May. 
+
+We have negotiated them down to $18K (£13K), a ~16% increase from our $15.5K bill last year and £4K under Emma's Fivetran overhead budget.  This new contract is a combination of increased cost from higher forecasted data volume from our fast-growing business and a cost reduction from credits we are rolling over with Fivetran efficiencies we made early last June.
+
+This may increase in the year if we add many new data sources with high volumes of data or forecast-beating performance.  However, we still benefit from the economies of scale, so that should only increase our bill by a few, prorated thousand dollars.
+ 
+I also recommend we sign a 2-year contract.  This locks in our cost per credit rate with an assumed 10% increase in credits and volume, so next year's cost would be $19.8K.  Keep in mind the credits do not scale linearly with data volume.  Fivetran has been:
+Much more reliable this year (except for the one issue we had this week)
+Is still much cheaper than competitors (the lowest I got Stitch, the next cheapest, was $25K at last years volume)
+Is much more cost-effective and reliable than doing this in house through data engineers
+2 years is not too long to stay nimble and switch providers if better software comes out
+Let me know if you approve,
+ 
+Will
+
+

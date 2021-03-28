@@ -7,6 +7,16 @@
 - Considerations when Building Performant Looker Dashboards: https://help.looker.com/hc/en-us/articles/360038233334-Considerations-When-Building-Performant-Looker-Dashboards
 - How to design your Looker explores: https://blog.getdbt.com/how-to-design-your-looker-explores/
 - LAMS style Guide: https://looker-open-source.github.io/look-at-me-sideways/rules.html#t2
+- Looker Blocks: https://looker.com/platform/directory
+- Looker Open Source tools: https://medium.com/@leapingllamas/2019-lookml-open-source-state-of-the-union-d0470012fed0
+- PoP analysis 
+  - https://discourse.looker.com/t/dynamic-date-filter-comparisons/5471
+  - https://discourse.looker.com/t/period-over-period-pop-analysis-for-dashboard-filters/15450
+  - https://discourse.looker.com/t/analytic-block-dynamic-previous-period-analysis-using-date-start-date-end/5361/27
+  - https://discourse.looker.com/t/date-comparison-block/12198
+  - https://discourse.looker.com/t/period-over-period-date-comparisons/12802
+  - https://discourse.looker.com/t/analytic-block-flexible-period-over-period-analysis/4507
+
 
 ## Best practices
 **Performance optimization** 
@@ -69,6 +79,7 @@
 - Alerts e.g. when customer is about to churn
 - Easily share data via Slack 
 - Scheduled dashboards
+- Scheduled Looks into Sheets using Looker Actions 
 - Boards for teams to create curated dashboards and looks 
 - We can add links to different tools from Looker. E.g. each opportunity links to its own opportunities page in Salesforce
 
@@ -158,7 +169,7 @@ Final tip: check what others users can and can’t see by sudo’ing them
 Looker has local branches. Deleting remote still shows up in local Looker. Anyone who interacted with the branch (i.e. checkout by switching to the branch in Looker) will also have the branch locally.  
 To delete local, developers need to clean up their own branches in Looker. 
 
-    By default, we work on our own dev branch in Looker. This personal dev branch is read only to all other Looker users. 
+By default, we work on our own dev branch in Looker. This personal dev branch is read only to all other Looker users. 
 Because dev branch is read only, we’d want to collaborate on different branches that are newly created for each project and based off master. This means that other Looker users can switch to the branch and review changes as well (e.g. compare your newly created branch against prod) 
 
 ## Looker onboarding

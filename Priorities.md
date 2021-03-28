@@ -4,7 +4,7 @@ Relax. Be optimistic. Be present. Have faith in ability to just figure things ou
  
 Pick up good habits from the knowledge base and make these my own. This is not about doing it all at once, pick a few to actively work on for the next weeks/months.
 - Affirm these habits and visualize implementing them in detail on a daily basis, both in relaxing and in stressful times. Visualize being the person of your design and how that person acts in challenging situations. Then practice that (fake confidence if needed) until it becomes natural. 
-- Force regular mindful breaks. When relaxed to change the structure of the brain. When overwhelmed to ground myself, avoid spiralling and to take better next actions.
+- Force regular mindful breaks. When relaxed to change the structure of the brain. When not aware to accept, let go and move on. Be aware and breath.
 - Reflect on my performance against the habits / philosophy regularly and adjust where necessary. How did I behave? Why? What can be done better? What lessons can I learn from this? Potentially journal about this. 
  
 ## General Reminders
@@ -61,10 +61,46 @@ Balance my time between work, development and hobbies more. Perform hobbies for 
 - Picking up on things out of pure curiosity
  
 ## Work
-Things I actively pay attention to and work on:
+As a BI Manager, my north star goal is to make sure that data sits at the heart of every decision. 
+
+*Data* 
+- Accurate through testing in dbt 
+- Reliable through meeting SLAs 
+- Cost efficient through warehouse optimizations - full refresh possible or other recommendation?
+- Future proof with concurrency, data science, full refreshes, more complexity and more volume 
+- Scalable (changes at the source), high quality and well commented code
+
+*Relationships* 
+- Establish strong stakeholder relationships through regular catch-ups 
+- Keep track of relationships with vendors 
+
+*Planning*
+- Setting the yearly roadmap 
+- Quarterly roadmap revisisions 
+
+*People* 
+- Capable of self service through good user onboarding, updates and training 
+- Well supported through quick turnaround times and development updates 
+
+*Tools* 
+- Well organized Looker instance that is easy to use 
+- Fast query performance 
+- Be up to date on tools used and constantly look for improvements 
+
+*Documentation*
+- Technical documentation to facilitate understanding through the team 
+- Business documentation explaining the data models 
+- Looker FAQs 
+- Looker training materials  
+
+*Team*
+- Relentless drive to improve the strategic impact of the team (tools/processes / training etc.) 
+- Improve how we work: monthly sessions 
+- Ticketing system and making it as effective as we can 
+- Development, feedback, and coaching: standups, development sessions
  
 **Balance and track time**
-- Plan in advance what the main priorities are for the week. Set realistic expectations. 
+- Plan in advance what the main priorities are for the week. Set realistic expectations. Focus on high impact projects that make a great BI team. These are the longer term strategic initiatives and the hard challenges to solve. 
 - Work towards those activities in a balanced way making sure the most important ones are completed. When working on something challenging, timebox it and balance it with easier wins. Solve one thing at a time. 
 - Keep a log of what I achieved during the week
 - Maintain a balance between ad hoc, roadmap, and development
@@ -116,6 +152,7 @@ Things I actively pay attention to and work on:
   - It’s not personal - it’s about doing the best for the company and it’s actually critical for me to speak up as this is what I will be paid for
  
 **Management**
+- Take ownership over BI. Have your opinions and provide recommendations. Don't run behind the facts and be proactive. 
 - Be up to date with the tickets and inbox in Notion as well as the Tech tickets, know the team's priorities. 
 - Have an idea around how you'd solve things that the team is working on when asked the question.
 - Try to have them answer the questions:
@@ -149,6 +186,7 @@ Things I actively pay attention to and work on:
 - With ambigious problems: timebox understanding what can be done. 
 
 **Communication**
+- Communicate at all opportunities to increase confidence
 - When communicating, focus on adding the strategy, impact and context. Why do we do certain things? How does it relate back to our strategy? What is the so what? This is true for team, stakeholder, partners, Lookerpaps communication. 
 - Make sure to shoutout to people involved in the projects.
 - Written communication - focus on answer first. The amount of context and how upfront the impact is communicated depends on severity of what is being done. 
@@ -167,8 +205,10 @@ Things I actively pay attention to and work on:
   - Start reading, writing things up, speaking to other Data people. 
   - What is the recommendation? When? How? Why?
   - Start to evangelize to others 
+- Sell this vision to others - get them onboard and excited and aware of what the team is working on. Sell BI with enthusiasm and an understanding of strategic impact
 
 **Other development goals**
+- Take ownerhip over data training. Assuming we keep a bimonthly session, what are the things I want to talk about next? Keep a log of these. 
 - Develop to a really high level of code: high quality, scalable, fast, clean, business-focused, well commented and tested. Improve everything that doesn't look good. 
 - Become a business advisor: understand what metrics matter to the business. Know their definitions and calculations. Know the different ways to calculate it and their limitations from our data model. When someone wants to answer an analytics question, I'm able to help answer that question with context and recommendations. 
 - Improve on the commercial side of things. Contracts, legal, pricing, negotiation. Start collecting best practices and templates were using at work
@@ -176,6 +216,7 @@ Things I actively pay attention to and work on:
 - Manage upwards: Clarify to Will what works and what doesn’t, where I need support or context or whether I want to do something. And keep a log of feedback I have for Will so I'm not empty handed when it comes to upward feedback reviews.
 - Constantly learn from best practices. A good email, a good PR review, a good comment. Save it and learn from it. 
 - Be proactive in onboarding users. Slack manager in advance asking whether new joiner needs access + if they’re willing to intro guide to Looker. Then, send the Looker docs + CC data superhero. Also, consider this entire process: how is it going to skill with more senior stakeholders starting to join the business. 
+- As I become more senior, it's more and more important to keep in touch with the community and have people I can reach out to to talk about data. 
  
 **Dealing with hard challenges at work**
 - The more senior I become, the harder the problems become. Get comfortable around this

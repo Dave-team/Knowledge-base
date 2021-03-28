@@ -1,5 +1,26 @@
 # Communication templates
 
+## Onboarding and access email
+Hi Saneesh, 
+ 
+I hope you're settling in nicely :)
+ 
+I've added you as a user to our BI platform, Looker - the setup email should have landed in your inbox and you'll need to set up 2-factor authentication following this doc. 
+ 
+To help you get started using Looker, we have three intro docs I would highly recommend going through: 
+Introduction to Looker
+Looker Worksheet 
+Looker Worksheet Answer
+In addition, Kiyani (cc'ed) will be able to guide you through Looker and provide context/help with any questions you may have. 
+ 
+Do let me know how you're getting along and just ping me if there are any issues.
+ 
+Thanks, 
+
+Dave
+
+
+
 ## Roadmap 
 **Roadmap invitation**  
 Hi Tony,
@@ -290,6 +311,25 @@ Thanks,
 
 Dave 
 
+## Solving hard data quality questions 
+Hey @Bhavisha Dadhania . I had a look into this - only 5 sessions have the medium 'Paid social prospecting’. These sessions all have an Email campaign referrer AND Facebook UTM parameters. I've seen this behaviour before where sessions start on a nested page (e.g. page = 2 in the URL) with a non-Facebook referrer but with FB or IG UTM parameters (similar to this issue). Do you know what behaviour can result in this structure? 
+
+This Look shows the details of the 5 sessions. With our current attribution logic, these sessions are attributed to Email (following the “utm_medium=email” string in the referrer) rather than Paid Social which is causing the different medium names.
+
+Hey @Bhavisha Dadhania I can see in the URL that you provided: "fbid=6249588409551&page=2&sort=favourite&utm_campaign=%5BUS%5BSOCI%5BSTN_ORG%5BPROS_STANDARD%5BPURCHASE%" So the URL does contain page=2. I don't know why this page 2 would contain UTM parameters though - does it have to do with the campaign that is being run: [US[SOCI[STN_ORG[PROS_STANDARD[PURCHASE]: PAPIER (this campaign applies to all 5 of these session)? 
+
+Hey @Bhavisha Dadhania. I had another look into this to see if it’s a wider problem in our web tracking with implications on attribution. Findings below: - < 0.01% of our sessions start with a nested URL so it’s not something that happens very often. - Of the 26K sessions that do start on a nested URL, 40% have paid social prospecting mediums (main campaigns showing this behavior are: “[UK[SOCI[STN_ORG[PROS_STANDARD[PURCHASE]: PAPIER”, “[US[SOCI[STN_ORG[PROS_STANDARD[PURCHASE]: PAPIER”, “[US[SOCI[STN_STN[PROS_STANDARD[PURCHASE]”) - see this Look with all campaigns showing the behaviour - I pulled the data of these sessions and this behavior started in December 2019, so it’s not something that started only recently - I also confirmed that this structure is what we directly get from our source web tracking data - it’s not something that changes because of how we model the data in the backend. I’m honestly not sure what behavior is causing this but it doesn’t seem to be an issue with how we model the data. Here are a few journeys of users who get Facebook parameters in nested pages (querying our web data so these are a bit slow): - Google > FB (nested) - No referrer > FB (nested) - Email > FB (nested) Do you have more context as to why this might happen based on the above? Perhaps this is a result of how users interact with these specific campaigns? 
+
+Hey @Bhavisha Dadhania Yeah this behaviour is very confusing. The next step would be to involve Joe / Tech to look into why this might happen with their understanding of our web tracking. I think it's important to keep an eye on this and make sure it doesn't become a bigger issue than it is but I don't think the impact is large enough to escalate to Tech at this stage. Let me know if you disagree though!
+
+## Understand which analysis is currently 
+I dug into this and the summary of my findings are below. Let me know if this is helpful, and if you'd want to meet to discuss next steps in more detail. . Currently, we do not have data in Looker (available to users) for Onsite Search. . We do capture data about onsite search. The granularity of this data is the term people search on site. If someone searches many terms, we would record each term once per search. We know what term they searched for, who they are (as best as possible, anonymous vs. signed into an account), what page they were on when searching, what page and events they triggered after searching (more difficult to report dynamically though), and the device and browser they were on. . It would be relatively standard for us to stand this up as it's own explore and connect it to our other web data (Device, Browser, Page, User, and Session information). You could get KPI metrics like conversion rate of search terms. It would be much harder for us to develop Onsite Search specific metrics (like, what % of people bounce after searching vs. clicked on something they wanted to find). Or what was a dynamic user journey of customers after they searched for "cat notebook". . What would also help us is to know what you would want to know. What KPIs from onsite search do you care about? Do you have examples of reports you have looked at in the past that have been helpful?
+
+Hi Will - thanks for looking into this. I was thinking the below to start with: Filters: mobile, customer type, market Overview - % Sessions used internal search - Sessions with Search - Total Unique Search - % Search Exits - Time after Search - Search Depth - % Refinement - Total revenue driven by search - Traffic channel segments (to see % of total search driven by each channels) Search terms Search terms details (currently available I believe)
+
+Hey @Leslie Delaplagne Sorry for the delay on this. A lot of these are already possible in Looker using event description 'Searched Products' and the dimension 'Searched Term'. Metrics possible See below the requested metrics and the corresponding measure names and the Look it's referred in (linked below) - Search term - Events Searched Term (Look 1) - % Sessions used internal search - Sessions Searched Rate (Look 2) - Sessions with Search - Sessions Total Searched Sessions (Look 2) - Traffic channel segments - Look 3 - Total Unique Search: Look 4 Look 1 Look 2 Look 3 Look 4 Workarounds / not sure - % Search Exits: we do collect Exit Rates on a page level. However, the Exit rates after Search are captured on the Search Page Type - see this Look. I'm not sure if that helps at all? - Time after Search: we don't currently have this. A very hacky way of doing this would be to take the Session End Time and subtract the Event Start Time of the event 'Searched Products' as in this Look Planned for later this year - Total revenue driven by search: this is part of a larger project planned where we model event-level data back to order level data, which will help answer questions like these. Not currently possible - Search depth. As I understand this, this would be: how many pages do people visit after having used Search? - % refinement: this would be the % of users who search again immediately after searching? Let me know if this helps to get some initial insights? We can then see which of the other metrics that aren't possible / require workarounds are important to get right and we can plan from there. 
+
+
 
 ## Gathering requirements 
 **Asking for specific questions**
@@ -370,6 +410,10 @@ This explore allows PM to report on dynamic ad spend by category which will also
 improve our category CPA reporting. @Rupert @Bhav
 
 ^ Can be improved: 'Currently, dynamic ads are categorized into Other even though the targeted product are in Categories. PM is doing this manually now. This change allows reporting within Exec explore by category 1. So what: Facebook accounts to 30% of our Spend - understanding how ads perform across categories is critical to achieve top line acquisition targets. 
+
+**Quick update with high impact**
+We now have Stripe Processing Fees since February 8th. 
+This adds £11.5K and £14K fees in February and March respectively, and an equal decrease in GM2.  This is a short-term, hardcoded estimation based on logic provided to us by Finance.  Our logic overstates the actual fees by ~10%, but we believe this is acceptable for now since the actuals would be impossible to replicate perfectly (they are dependent on bank fees, card rates, etc) and we plan to replace these estimations with actuals after setting up a new data pipeline with Stripe over the next month. 
 
 ## Post mortem Lookerpaps
 

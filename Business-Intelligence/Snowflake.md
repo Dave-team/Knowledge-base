@@ -2,7 +2,7 @@
 
 ## Links
 - top 10 cool things I like about Snowflake: https://www.snowflake.com/blog/top-10-cool-things-i-like-about-snowflake/
-- 
+
 ## Principles
 - Separate storage from compute reducing costs. Compute is billed per second that a warehouse is on. Different warehouses have different associated costs 
 - Built in optimizers - no tuning required 

@@ -1,5 +1,17 @@
 # Data Science 
 
+## Notes from Papier
+Think about what variable you use. What could have an impact on e.g. acquisitions? Organic channels could Impact paid display acquisitions 
+
+Once you have data for some channel, compare the model against other channels too. Does it seem realistic across channels? 
+
+Understand the channels deeply before attempting to draw conclusions. Don’t measure acquisitions if you use channels that focus on remarketing. Similarly, make sure to focus on right targeting 
+ 
+Think about the results - is it realistic? If you say that CPA is £3, then that’s simply wrong. That’s fine, that can be communicated but the intention of the meeting is different 
+
+As long as R squared is low - the data shouldn’t be trusted. Again, that’s fine - find ways to improve it 
+
+
 ## Principles
 - The point of data science is to make informed decisions. Decisions to do something. Say you develop a great churn model. If a customer is marked as 'risk of churn,' what are you going to do? Along those lines, think about how this hypothetical very good model is going to work in the actual workflow of the business. How often is it going to be run? Who is running out? Who is reading the output? What are they doing with the output? This needs to be thought out.
 

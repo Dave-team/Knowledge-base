@@ -4,7 +4,7 @@
 - Business reporting. Companies know they need data but don’t have any structure. Export from tools and do analysis in spreadsheet or the tools themselves 
 - Business intelligence. Data warehouse and ETL is in place which combine all data sources centrally and existing reports are automated in a BI tool. This is where data can start having an impact – good drill downs, data is embedded in other tools and data drives specific actions that move the needle
 - Ad hoc analysis / insight. We collect large amounts of good data and people trust the data. This is where we can really start to dig in and start answering new questions that previously couldn’t be answered (using data transformations and python). 
-- Hybrid data teams. Data analysis is sophisticated enough that each team has their own experts. Demand for data is high and most teams can self serve. We can move towards an environment of experimentation and statistical analysis which is what the data team can start focusing on. The company becomes data driven and has the BI tool as frame of mind when doing analysis 
+- Hybrid data teams. Data analysis is sophisticated enough that each team has their own experts. Demand for data is high and most teams can self serve. We can move towards an environment of experimentation and statistical analysis which is what tfhe data team can start focusing on. The company becomes data driven and has the BI tool as frame of mind when doing analysis 
 - Predictive analytics and machine learning. This is where statistical analysis is then being pushed into production. This is where data is automatically making decisions that can help the company – e.g. forecast churn, automate some marketing channel. 
 
 ![Data hierarchy](https://user-images.githubusercontent.com/28791247/93708163-f624e500-fb2b-11ea-911d-dd353e9b9a16.png)
@@ -26,78 +26,125 @@
 - Sharing. Having the ability to easily share data is big. Make sure it’s extremely easy for people to share within the comms tools that are used – e.g. Slack as well as email. 
 - Present companywide on TV 
 
-## Other
-- A/B testing
-- LTV models
-- Process around measuring impact feature changes 
+## Common analytics approaches 
+**Data comparisons**
+- This week vs Last Week
+- This week vs same week last year
+- Performance against budget 
+- Where applicable, against forecast
 
-## Data Science
-Use cases
-- Forecasting: prophet (by Facebook).  
-- Prediction: classification or regression models (see details below). E.g. churn prediction / lead scoring 
-- Recommendation engine: 
-- Marketing attribution: markov chains
-- Measure LTV: Survival analysis 
-- Clustering (e.g. RFM segmentation): K-means or others (see below for details)
-- NLP / sentiment analysis 
-- A/B testing 
-- Scenario planning: Monte carlo simulation 
-- Market basket analysis 
-- Anomaly detection, e.g. fraud analysis 
-- Google: 
-  - Campaign optimization. E.g. different campaign approach depending on likely LTV of a customer
-  - Bidding.
-  - Keyword research
-  - CAC reductions 
+**LTV** 
+- Cohorts = Month of First Purchase, First purchase Category One 
+- LTV = first order GM2 + (number of repeat orders  x average GM2)  
+- Average Repeat GM2 defined by last 6 month average
+- Repeat rate average since 2017
+
+**Cohort/Repurchase analytics**
+- By customer first order month and first product category, what is the cumulative number of orders placed by these customers by months since first order month 
+
+**Mixed basket analysis** 
+- Affinity analysis 
+
+**Conversion analytics** 
+Product conversion counts
+- Add to Cart
+- Checkout started
+- Customize product
+- Orders
+
+Product conversion rates 
+- Add to checkout
+- Checkout conversion
+- Customise to Add
+- View to Customize
+- View to Buy Rate 
+
+Web conversion rates - this is on session level, not necessarily including products 
+- Conversion rate (converted sessions / total sessions)
+- Page analytics (exits, time on page, bounces)
+
+**Attribution**
+- Position based attribution model
+- Checkout surveys
+- Discount codes 
+
+**A/B testing**
+See AB testing file 
 
 ## Metrics by industry
 **Ecommerce**
-- Sales 
-  - Overall 
-  - New customer
-  - Repeat customers 
-- Average transaction value
-- Website visits by channel
-- Conversion rates by channel (shopping cart conversions)
-- Trending product categories
-- Category performance
-- Items per order 
+- Sales: new and repeat customers
+- Orders: Average transaction value, mixed baskets, upsells 
+- Marketing: attribution, CAC 
+- Products: catalogue performance 
+- Retention: repeat rates / churn rates
+- Web: page analytics, conversions
 
 **SaaS**
-- Revenue (ARR)
-  - New 
-  - Existing 
-- Pipeline added 
-- Leads added 
-- Average deal value 
+- Revenue (ARR): new and existing 
+- Sales pipeline: Pipeline added, Leads added 
+- Deals: Average deal value, Deals expecting to close, Deals expecting to churn, Sales cycle
 - Conversion rates
-- Deals expecting to close 
-- Deals expecting to churn 
-- Sales cycle
 - Costs per lead 
-- Everything against target
-- High level overview of rep performance 
-
-**Subscription** 
-- Subscribers
-  - New
-  - Existing
-- Website conversions
-- Conversion to first paid version 
-- Average transaction value 
-- CAC by channel
-- Product performance 
-- Retention / Churn rates 
+- Sales rep performance
 
 **Application** 
 - Downloads
 - Average duration 
 - % that did user behaviour 
 - Milestones achieved
-- CAC by channel 
 - Customer engagement
 
 ## Metrics by team
+**Marketing**
+- ROAS: Return on Ad Spend (revenue/spend)
+- Customer Acquisition Costs (spend/acquisitions)
+- CPO: spend/orders
+- Lifetime Value
+- Attribution 
+- Customer Journey
+- Retention / Churn 
+- Cohort analysis (where a cohort can mean different things - first signup, marketing channel, discounted price, etc. )
+- CTR (clicks/impressions)
+- CPC (spend/clicks)
+- Brand awareness
+- Other
+  - Email metrics  
+  - Social metrics
+  - Keyword performance 
+
+**Product** 
+- Funnel conversions 
+- Usage analytics 
+- Event analytics 
+- User behaviour analysis (pages journey, checkout journey)
+- Page analytics (visits, bounces, exits, time on page, attractiveness rate, scrolls, clicks)
+- A/B testing 
+- Session recordings 
+- NPS
+- CSAT
+
+**Finance** 
+- Gross Margin
+- Contribution: Total Gross Margin 2 - Total Marketing Spend.
+
+**People**
+- Headcount
+- Attrition
+- Satisfaction
+
+**Hiring**
+- Time to hire
+- Employee satisfaction
+- Costs per hire
+- Hiring channel performance
+
+**Customer service**
+- Number of tickets created / resolved
+- First resolve rate
+- Ticket duration
+- Ticket replies
+
 **Sales**
 - Rep performance / ramp
 - Pipeline coverage
@@ -115,63 +162,19 @@ Use cases
 - How often should be touch base by company segment? 
 - Prioritization of opportunities based on likelihood of closing (or slipping) 
 
-**Marketing**
-- Budget and what % of that is spent
-- Ad spent vs the result of that spend – i.e. combine the different ad tools (spend) with Salesforce (result). Also called ROI analysis 
-- Customer segmentation
-- CAC analysis
-- Lifetime Value
-- Channel attribution 
-- Funnel conversions 
-- Customer Journey
-- Retention / Churn 
-- Events 
-- Cohort analysis (where a cohort can mean different things - first signup, marketing channel, discounted price, etc. )
-- Ad spent from all various ad tools
-- Find opportunities in marketing performance - e.g. certain users respond to certain ads. Or better on certain devices etc. 
-- Understand customers and use that to select targets. E.g. well performing vs likely to churn: send an email. Also, treat good customers really well. 
-- How do we allocate our marketing spend?
-- Alerts when ads go wrong 
-- A/B testing 
-- Keyword performance 
-- Duration and pages viewed on website 
-- Visitor data (%new, %existing)
-- Costs per lead
-- Brand awareness
-- Email marketing 
-- Social 
-
-**Finance** 
-- Reduce operational costs by understanding where it all goes to a more granular level (e.g. by customer / module)
-- Forecast vs budget vs actuals
-- Easy to get data from the statements
-- Margins 
-- Sales efficiency 
-
-**People**
-- Headcount
-- Attrition
-- Satisfaction
-
-**Hiring**
-- Better understanding of when a role will be finalized and how that affects commercial metrics 
-- Optimization of channels by role 
-- Healths core by role: is this role likely going to be hired by month X? Then change approach based on the answer
-- Time to hire 
-- Employee satisfaction
-- Costs per hire
-
-**Customer service**
-- Number of tickets created 
-- Number of tickets resolved 
-- First resolve rate
-- Ticket duration
-- Ticket replies
-- NPS
-- CSAT
-
-**Product** 
-- Usage
-- Conversion
-- Behaviour
-
+## Data Science
+Use cases
+- Forecasting: prophet (by Facebook).  
+- Prediction: classification or regression models (see details below). E.g. churn prediction / lead scoring 
+- Recommendation engine: 
+- Marketing attribution: markov chains
+- Measure LTV: Survival analysis 
+- Clustering (e.g. RFM segmentation): K-means or others (see below for details)
+- NLP / sentiment analysis 
+- Scenario planning: Monte carlo simulation 
+- Anomaly detection, e.g. fraud analysis 
+- Google: 
+  - Campaign optimization. E.g. different campaign approach depending on likely LTV of a customer
+  - Bidding.
+  - Keyword research
+  - CAC reductions 

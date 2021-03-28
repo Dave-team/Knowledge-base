@@ -7,6 +7,7 @@
 - How we structure our DBT projects: https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
 - Untangle the SQL mess with Jinja: https://changhsinlee.com/pyderpuffgirls-ep5/
 - DBT coding conventions: https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md
+- 
 
 ## Benefits
 - Version control transformation code 

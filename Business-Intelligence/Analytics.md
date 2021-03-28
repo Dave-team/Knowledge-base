@@ -170,6 +170,17 @@ To pick to one right for the company, consider:
 - Campaign names in a file need to match UTM campaign names that we get from sessions data for the data to go into attribution 
 - When working with partners, the partners are responsible for setting up these parameters. 
 
+**Difficulties with web tracking**
+- Cross device tracking: click on phone then come back to buy something
+- People open multiple tabs from one page 
+- People browse between tabs
+- People leave tabs open and come back after 30 minutes 
+- Other things to be aware of
+  - Retargeting ads appearing on social channels 
+  - View through tracking is difficult: people see Instagram, don’t click and search Papier on Google. 
+
+
+
 **Marketing parameters**
 - “Medium” communicates the mechanism, or how you sent your message to the user. You could include “email” for an email campaign, “cpc” for paid search ads, or “social” for a social network.
 - “Source” communicates where the user came from. This could be a specific web page or a link in an email. Source could also differentiate the type of medium. So if the medium was “cpc” (or “cost per click” paid traffic), the source might be “google,” “bing,” or “yahoo.” If the medium was “email,” the source might be “newsletter”.

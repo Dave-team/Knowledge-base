@@ -292,6 +292,17 @@ Arrive in the morning and data isn't up to date
 - It's possible that data is captured differently between different tools. 
 - Sometimes, we simply don't know why something happens. And that should be okay too. 
 
+### We doubt whether our web tracking data is accurate 
+- Look at examples of journeys - is it something we model or do we specifically attribute it this way? 
+- Segment the data: 
+  - Only recently? 
+  - Why channel, which campaign? 
+  - Any other similarities 
+- Bring this context back to the teams: do they know what's happening? 
+- Look again using the new context and do some deeper research
+- If not solved, involve the Tech team and/or the wider community and/or the vendors/sources directly.
+
+
 ## Changing important models
 - Be clear on timelines with stakeholders: clarify that something is priority + when you expect to be able to show something 
 - Don’t push something when its risky to push. E.g. don’t push Exec Explore changes when the Trading meeting is happening on the same day 
