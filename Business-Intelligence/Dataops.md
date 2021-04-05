@@ -207,6 +207,9 @@ Sometimes, fundamental changes happen to data. E.g. we changed our categories at
   - Correct credentials? 
   - Can we connect through other means? E.g. Fivetran
 
+## Attribution issues 
+
+
 ## Connecting to S3 bucket
 - Create a bookmark 
 - Enter the server name 

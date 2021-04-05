@@ -31,6 +31,7 @@
 - New people - Hey I don’t think we’ve met yet. I’m Dave. Great to meet you - what team are you working in? 
 - When others are speaking, just listen. If you want to say something, say it. This is mainly situations where I’m just at my desk 
 - If someone does something for the team or for you, take a moment to thank them sincerely and show that you appreciate what they’ve done. 
+- When people are leaving, wish them well 
 
 ## Things to say/ask 
 - Focus on asking about the basics

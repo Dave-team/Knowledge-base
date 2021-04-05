@@ -2,9 +2,18 @@
 
 ## Maintenance 
 ### Maintenance general
+- Check how you're plants are doing on a daily basis - the more love they get, the healthier they'll be 
 - Maintain each plant seperately - don't water on a schedule as different plant have different needs
+
+### Watering
+- Water the plants in the mornings such that they are dry by the evenings 
+- Ideally, use filtered water rather than hard water
 - Water a plant and then ensure no more water drips from the drainage holes before placing the plant back in the decorative pot 
-- Check how you're plants are doing on a daily basis 
+- Use room temperature water to avoid a temperature shock for the plant
+- When you can't water a plant from the top, put the plant in a plate of water and let the roots suck the water up
+- When you can't touch the soil, go by the weight of the plant to identify whether it needs watering
+- Plants need less water in the winter
+- Remove old brown leaves
 
 ### Maintenance by plant 
 *Devils Ivy*
@@ -35,11 +44,30 @@
   - When the roots are coming out of the existing soil 
 - How to report: 
   - Take as much soil away without damaging the roots 
-  - Big plants: replace the top layer of the soil
+  - Big plants: replace the top layer of the soil (5-10cm) 
   - Raplace with the soil mixture that works best for the specific plant 
+  - Aim to report in spring/summer
+  - Replace the pot with a slightly larger pot (+5cm) 
 - Do not plant directly in a pot without a drainage hole. So if I buy e.g. succulents, either pot in a pot with hole + saucer or keep it in its nursery pot within the decoration pot 
 - In baskets, put a plastic saucer to avoid mess
 - Sometimes we might need to increase height in decorative pot - pebbles are good for this as they are also a drainage solution
+
+## Signs that maintenance is required
+- When the first 1-2 cm of the soil is dry, it's time to water
+- Brown leaf tips means it's time to mist the plant
+- If underwatered: put in pot of water for 30 minutes
+- If overwatered: remove pot and surround the plant with paper towels 
+
+## Plant feeding
+- Feed a few weeks after plant is home
+- Feed a few months after the plant is repotted
+- In spring / summer
+  - Add liquid food to water once a month. Feed when the plant is already moist to avoid nutrition to drain away 
+- Don't feed plants in the winter
+
+## Plant cleaning
+- Dust leaves with a damp cloth
+- Palms can be under a shower to get rid of dust 
 
 ## Nice plants
 Big plants 

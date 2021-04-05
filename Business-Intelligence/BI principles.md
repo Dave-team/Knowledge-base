@@ -95,6 +95,7 @@ Once I have the context, I can establish myself as a business partner - the goal
 - Meet people who might have something, even if we don’t know specifically yet. The goal is to keep the relationship warm and to make sure people feel heard 
 - Meet with Tech after the roadmap is completed as things will have implications on their team 
 - Be wary of putting too much on our plates 
+- Slack people to get an update on projects on the roadmap 
 
 ### Yearly roadmap planning 
 **Create an initial list of projects from the business's / team's roadmap**
@@ -415,3 +416,11 @@ When explaining differences, use the language and the tools people know, use and
 Looker is great for static reporting, less so for ad hoc and generally it isn't great at really understanding our customers - we'd need more web analytics and survey data for this. Mapping the customer journey and understanding all steps within the process. Asking the why rather than the what. 
 
 Some data models like attribution model are built over time and gotten larger and larger. Over time, different challenges are overcome and build in the code. This repeats and the model gets build iteratively. Now everything may be fine, but you'd still want to account for the historical data that cannot be changed. It's a difficult balance of consistency, simplicity and scalability. 
+
+### Product Analytics tool 
+ContentSquare vs Looker
+- Page types are defined by tags set by Tech 
+- Map definitions between the tools: bounce rate is the same? 
+- Check values: conversions, sessions high level. Are they directionally correct? 
+- Define ways of working: Looker is used for sessions and attribution as the Source of Truth rather than CX - no need to know the differences exactly 
+- Important to make it self service - defining goals, segments, etc. it’s easy to do but needs to be scalable, shared definitions etc. 

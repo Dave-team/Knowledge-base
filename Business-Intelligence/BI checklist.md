@@ -280,16 +280,16 @@ Arrive in the morning and data isn't up to date
 
 ### Stakeholder notices differences against source data 
 - What results do we expect to see? 
-- Understand what data is being compared - are the different sources supposed to be comparable? Are we looking at the same definitions? 
+- Do we pull the right data? Are the different sources supposed to be comparable? Are we looking at the same definitions? 
 - Is this a recent change? What is correct in the past?
 - Does this happen across all segments? 
 - Did anything change that could be the cause of it? 
 - If that didn't answer it, consider whether it is a problem worth investigating - timebox an initial look into it. If it'll take more time, communicate and ask for importance first. 
 - Look at our own data: 
-  - Does the logic make sense? I.e. is the logic used the correct logic to answer the question at hand? 
+  - Does the logic make sense? I.e. is the logic used the correct logic to answer the question at hand? E.g. with attribution - are the UTMs set-up correctly? 
   - Is our data correct? I.e. can we show it does what it's supposed to do, accurately? (no duplicates, etc.)
-- Compare the outcome between sources at a low granularity 
-- It's possible that data is captured differently between different tools. 
+- Compare the outcome between sources at a low granularity. E.g. we can compare our attribution against Google Analytics. 
+- It's possible that data is captured differently between different tools. E.g. attribution is not always position based, sessions are defined differently etc. 
 - Sometimes, we simply don't know why something happens. And that should be okay too. 
 
 ### We doubt whether our web tracking data is accurate 

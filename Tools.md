@@ -152,7 +152,12 @@ Youtube
 Torrents
 - Popcorn Time works great e.g. on laptop and maybe to test whether I like films / series / documentaries. Always make sure VPN is enabled. 
 - Torrent websites 
-  - https://rarbg.to/index37.php
+  - http://www.ebook3000.com/ for magazines
+  - https://rutracker.net/forum/index.php for a large forum with lots of losless music also
+  - https://rarbg.to/index37.php general tracker with decent UI
+  - https://libgen.is/ also for magazines
+  - https://1lib.uk/ for books
+  - https://magazinelib.com/ for magazines
   - https://katcr.to/
   - https://eztv.wf/
 - Always use a VPN!  

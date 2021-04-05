@@ -15,7 +15,7 @@ Pick up good habits from the knowledge base and make these my own. This is not a
 - **Relax and not take myself and life so seriously**. Force yourself to slow down occasionally and just take it easy. Realize that performance and clarity of thought will be best in a confident and calm state.
 - **Remember the positives**. Build confidence by remembering what I've achieved and accomplished so far and some of the amazing things I've had a change to experience and now have memories of.  I studied in Hong Kong, worked in Berlin, got a job in London and are now a BI Manager at a great company. Remind yourself of how awesome this is and how grateful you are you’ve done this. It’s easy to forget what we have. When remembering something negative, think back about when it was actually positive.
 - **Approach the future with curiosity and optimism** - what else is in store for me?
-- **Surrender** Life is random and most things are not in my control. Surrender to whatever will happen and just enjoy the ride. Try not to have any expectations. Flow like water, ride the waves and open your heart.
+- **Surrender** Life is random and most things are not in my control. Surrender to whatever will happen and just enjoy the ride. Try not to have any expectations and don't allow your ego to get too involved. Flow like water, ride the waves and open your heart.
 - **Be curious** Approach things with childlike curiosity and look at things as learning experiences without our preconceived notions. Life is amazing to the curiously minded
 - **Deal with reality** Shit does happen. We can wish things were different but we often just need to deal with reality and work with what we have left. This is what defines us, helps build self confidence and character.
 - **Acceptance** I am human. I make mistakes. I have feelings and thoughts will always pop up. Accept myself and things the way they are. Don't force things. It's okay - I am good enough. It's okay whatever the outcome is. I'm not perfect and that's ok.
@@ -61,7 +61,16 @@ Balance my time between work, development and hobbies more. Perform hobbies for 
 - Picking up on things out of pure curiosity
  
 ## Work
-As a BI Manager, my north star goal is to make sure that data sits at the heart of every decision. 
+As a BI Manager, my north star goal is to make sure that data sits at the heart of every decision. As I become more senior, I'm dealing with more uncertainty and ambigiouty; there isn't one 'correct' wat of doing things. Between all the options, we pick something based on that we believe is the best option based on limited data. 
+
+This causes imposter syndrome and overwhelm but it's the process that everyone goes through as they become more senior. If things are ambigious, they'd be ambigious for us all. Others might appear more confident but that's because they know how to handle this ambigiouity; they don't necessarily have the right answer, but they are resourceful to come to a recommendation and following that recommendation through. 
+
+It's important for me to now manage my own priorities (one at a time), affirm why these projects are important, break the projects down into manageable pieces, provide recommendations without knowing the exact outcome and then following the projects through and moving on to the next. In this process, I will be out of my comfort zone and mistakes will be made. It'll be incredibly important to: 
+- Pause when stuck and work on something else. Always make sure I combine ambigious projects with easier wins so I can switch my mind 
+- Ask for help when overwhelmed or stuck 
+- Prioritize ruthlessly and say no to projects when I have too much on. 
+
+Becoming senior is about having overcome challenges and lessons learned and this takes time, being uncomfortable and making mistakes and all that results in increased confidence. 
 
 *Data* 
 - Accurate through testing in dbt 
@@ -71,7 +80,7 @@ As a BI Manager, my north star goal is to make sure that data sits at the heart 
 - Scalable (changes at the source), high quality and well commented code
 
 *Relationships* 
-- Establish strong stakeholder relationships through regular catch-ups 
+- Establish strong stakeholder relationships through regular catch-ups. 
 - Keep track of relationships with vendors 
 
 *Planning*
@@ -100,14 +109,15 @@ As a BI Manager, my north star goal is to make sure that data sits at the heart 
 - Development, feedback, and coaching: standups, development sessions
  
 **Balance and track time**
-- Plan in advance what the main priorities are for the week. Set realistic expectations. Focus on high impact projects that make a great BI team. These are the longer term strategic initiatives and the hard challenges to solve. 
+- Daily routine: emails, Notion Inbox, Data Quality dashboard, Redshift Dashboard
+- Plan in advance what the main priorities are for the week. Set realistic expectations. Focus on high impact projects that make a great BI team. These are the longer term strategic initiatives and the hard challenges to solve. When overwhelmed or in doubt, make a list of projects, their next step, approach and timeline. Confirm with manager. Overall, the aim is to self-manage these priorities
 - Work towards those activities in a balanced way making sure the most important ones are completed. When working on something challenging, timebox it and balance it with easier wins. Solve one thing at a time. 
 - Keep a log of what I achieved during the week
 - Maintain a balance between ad hoc, roadmap, and development
 - Take regular breaks during the week. Am I working on the right thing? Can I make this easier? Am I approaching this in a good way? 
 
 **Context and strategy**
-- Know the context around what we work on as well as how our work ties in with the wider strategy and what impact the work has. 
+- Know the context around what we work on as well as how our work ties in with the wider strategy and what impact the work has. Understand the scope and full span of the project rather than just jumping into the work directly. Know what things impact the business and work accordingly. Sometimes, this means you'll need to slow down. 
 - Ask questions and challenge people. Understand why we do things in a certain way. Challenge on doing things differently that's more best practice. If we can't - challenge that, why not? What would change for us to do it that way? Also be clear on implications for us and why it's difficult.
 - Ask stakeholders: 
   - Context: "I haven't been involved with this, can you give a two minute summary of what we're trying to achieve?" 
@@ -174,7 +184,7 @@ As a BI Manager, my north star goal is to make sure that data sits at the heart 
   - Inform them when I'm looking into something 
   - If something will likely take longer than expected, communicate that 
   - If we are pending on tech, communicate the status of the tech work
-- Build stronger stakeholder relationships - e.g. quarterly check-ins
+- Build stronger stakeholder relationships - e.g. quarterly check-ins. This helps planning work, understand strategy and it helps understanding how they think.
 
 **Approach projects**
 - Spend time defining a good plan of attack that is quick to build, easy to test, easy to replicate and should help answer the question. Aim to find the easiest way of doing things. Validate the approach with others. Really think through what our options are - this comes from a deep understanding of what you want to achieve
@@ -217,6 +227,7 @@ As a BI Manager, my north star goal is to make sure that data sits at the heart 
 - Constantly learn from best practices. A good email, a good PR review, a good comment. Save it and learn from it. 
 - Be proactive in onboarding users. Slack manager in advance asking whether new joiner needs access + if they’re willing to intro guide to Looker. Then, send the Looker docs + CC data superhero. Also, consider this entire process: how is it going to skill with more senior stakeholders starting to join the business. 
 - As I become more senior, it's more and more important to keep in touch with the community and have people I can reach out to to talk about data. 
+- Regularly revisit my development goals and record my career achievements 
  
 **Dealing with hard challenges at work**
 - The more senior I become, the harder the problems become. Get comfortable around this
