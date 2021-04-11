@@ -66,11 +66,14 @@ As a BI Manager, my north star goal is to make sure that data sits at the heart 
 This causes imposter syndrome and overwhelm but it's the process that everyone goes through as they become more senior. If things are ambigious, they'd be ambigious for us all. Others might appear more confident but that's because they know how to handle this ambigiouity; they don't necessarily have the right answer, but they are resourceful to come to a recommendation and following that recommendation through. 
 
 It's important for me to now manage my own priorities (one at a time), affirm why these projects are important, break the projects down into manageable pieces, provide recommendations without knowing the exact outcome and then following the projects through and moving on to the next. In this process, I will be out of my comfort zone and mistakes will be made. It'll be incredibly important to: 
-- Pause when stuck and work on something else. Always make sure I combine ambigious projects with easier wins so I can switch my mind 
-- Ask for help when overwhelmed or stuck 
-- Prioritize ruthlessly and say no to projects when I have too much on. 
 
-Becoming senior is about having overcome challenges and lessons learned and this takes time, being uncomfortable and making mistakes and all that results in increased confidence. 
+- Own the process as much as possible - follow the process and do the prep work
+- Try to enjoy the process and be enthusiastic about it all. There is overwhelm, there is lack of control, I won't know the perfect answers. It’s an exciting process that I haven't really experienced before and I believe in myself to navigate this scenario. Rather than being hard on myself and trying to control things and demanding perfection, I embrace it all
+- Pause when stuck and work on something else. Always make sure I combine ambigious projects with easier wins so I can switch my mind.
+- Ask for help when overwhelmed or stuck 
+- Prioritize ruthlessly and simplify things (we don't have time nor care for perfection). If still too much, say no to projects. 
+
+Becoming senior is about having overcome challenges and lessons learned and this takes time, being uncomfortable and making mistakes and all that results in increased confidence. Before we have gone through the process, we fake the confidence or we accept that we just try our best, don't know everything and embrace it all and flow in the journey 
 
 *Data* 
 - Accurate through testing in dbt 

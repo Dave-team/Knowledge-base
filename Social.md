@@ -2,6 +2,7 @@
 
 ## Interaction principles
 - A human touch often goes a very long way, so don’t be afraid to touch. Especially when meeting someone and saying goodbye: shake hands, hug, kiss.  
+- The start and ending of an interaction is often key - 'Great to see you - you look good!' and then 'It was great seeing you - let's do it again soon'! 
 - Use people's names during interactions. 
 - Send more random things to friends. It’s not always about catching up and meeting. It’s about being top of mind and regular contact. Send them things they also like and give them things of value
 - Take the initiative and just speak to people - absolutely nothing to lose

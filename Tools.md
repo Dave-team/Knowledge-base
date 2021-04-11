@@ -154,6 +154,7 @@ Torrents
 - Torrent websites 
   - http://www.ebook3000.com/ for magazines
   - https://rutracker.net/forum/index.php for a large forum with lots of losless music also
+  - https://torlook.info/ - for a Torrent aggregator
   - https://rarbg.to/index37.php general tracker with decent UI
   - https://libgen.is/ also for magazines
   - https://1lib.uk/ for books

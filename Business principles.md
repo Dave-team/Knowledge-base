@@ -105,7 +105,8 @@
 - Scout first: Do everything you can to avoid a meeting where you don’t know what the stakeholders expect from you. A quick 5-minute sit-down a few days before the “real” meeting goes a long way to making sure everyone is on the same page when the meeting happens.
 
 **Running meetings**
-- Pre meeting: brief about the goal, agenda
+- Thank the participants for joining the meeting 
+- Re-iterate the goal and agenda of the meeting (they should already know this from my pre-wiring)
 - Start the next meeting with the action items of last meeting
 - Tips to host a good meeting: 
     - Use the whiteboard to brainstorm, keep track of important items discussed

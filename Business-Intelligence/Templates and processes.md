@@ -74,3 +74,13 @@
 **Other notes**
 - Always follow up on tickets, even when it's not entirely your area to fix it. 
 - Always know what's happening in each ticket as you move towards Head of BI role
+
+## Tech tickets
+With Tech, if something isn’t high impact and the cause isn’t too obvious, it’s hard for them to prioritize it. In those cases, it’s easier to just flag to them and see if it can be a quick fix or if it’s not worth looking into at all. In those cases, we can keep an eye on it in our DQ dashboard if the issue becomes larger and we just communicate with the stakeholder. 
+
+- Low priority and clear: add in a ticket
+- Higher priority but clear: ticket + Slack Joe. These shouldn’t wait for the next sprint
+- Ambiguous / requires discussion: Slack and confirm setting up a call is OK. Wouldn’t want to put in a ticket as once it is in the sprint, it might need more fleshing out so that’s not efficient. 
+- Red alerts: Tech - BI channel  
+- Regular catch-ups with CTO to go through tickets and priorities
+

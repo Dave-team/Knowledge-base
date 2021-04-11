@@ -1,5 +1,20 @@
 # Communication templates
 
+## Slack messages 
+We’re looking into X but it’s worth fleshing out what options we have before putting in a ticket. OK if I put in 15 mins to go through this? 
+
+Quick question: I see that Dafne is joining on Monday - do you think she’ll want/need a Looker account? If so, we can create her an account and send her all the relevant intro material in advance
+
+## Executive data quality updates
+Hi both, 
+ 
+Thanks for flagging this. I can see that this is caused by MentionMe campaigns that went live in the last 3 days and that we haven't yet modelled in Looker. I'll follow up with Mathilde and update in Lookerpaps when the fix is live. 
+Also FYI - we are going to implement more rigorous data quality tests this quarter that should help us proactively spot issues like these. 
+ 
+Dave
+
+
+
 ## Onboarding and access email
 Hi Saneesh, 
  
@@ -14,7 +29,7 @@ Looker Worksheet Answer
 In addition, Kiyani (cc'ed) will be able to guide you through Looker and provide context/help with any questions you may have. 
  
 Do let me know how you're getting along and just ping me if there are any issues.
- 
+
 Thanks, 
 
 Dave
@@ -441,3 +456,48 @@ Can you please escalate this ticket internally?  And help coordinate a faster re
 
 Cheers,
 Will
+
+
+## Tech tickets
+Overview
+Now that we show customer's the expected delivery date, it would be great to add this to the reporting. This, in addition to the delivery tracking work in H2, will help us build new Customer SLAs and help improve the customer experience
+
+Problem
+Currently, we show customer's when we expect their order to be delivered. However, we don't record this in the database. We'll want to know this data point to report on.
+I would think this would fit nicely on fulfilment_shipments. And it will be great to start recording this data now since we have it.
+
+Impact
+Improving our operations has a positive impact on Customer NPS. One of our 9 core goals this year is to raise NPS, and having better data and tracking on this will help improve our reporting on printers.
+SLA is typically measured by the customer's experience, i.e. did we get their package to them on time (not just leaving the printers). Knowing when the customer can expect the package is half of this meric.
+
+
+
+
+Overview
+Tech is changing the way Sellables are created to make it better for everyone. This will result in a new field identifying the state a product is in. We'd love to add this field to Looker reporting.
+
+Problem
+Tech are adding an important field for products, we want to make that available to Papier through Looker.
+The recommendation is to add the column publishable_state to the Products ETL for all sellables that have this field (books, products, stock items, photobooks, etc.)
+
+Impact
+This will help Merchandising and Commerical ensure products are live on site the way they should be. Having the products correctly on site increases sales and conversion rate
+
+## Other
+Hi all,
+ 
+Happy friday! Just a reminder that next week the Tech and Product teams will be doing a 'Space to Create' week. The goal is to use some time outside our normal sprint cycle to work on more experimental ideas, with everyone in the team being given complete freedom to work on any project which they think will benefit Papier.
+ 
+We're all really excited to see what we can come up with, the goal is to end up with something that we can ship to customers, whether as an A/B test, new internal functionality, or improvements to existing flows.
+ 
+This will have an impact on other tech/product work during the week, and we won't be working on normal tickets during that time.
+ 
+If you have an urgent request during the week, please let me know directly on Slack and we'll make sure to look at it. For any other requests, please continue to use the Tech Ticket Inbox in Notion as usual.
+ 
+The next two week sprint will start on 19th April, and we'll pick the tickets for that sprint on the Monday morning.
+ 
+If you have any questions, please do let me know!
+ 
+Thanks
+ 
+J
