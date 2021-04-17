@@ -23,16 +23,6 @@
 - We can sometimes select exactly which tables and which fields we’d like to pipeline over
 - When we change data in e.g. a Google Sheet and we want to sync again, Fivetran will do an upsert on the data already in Snowflake. To start with a clean state, drop the table in the raw schema first instead. If not, you’ll end up cleaning a previous state of a graph you made  
 
-## Relationship management
-When working with a vendor, have regular (e.g. monthly catchups). Make sure to track their performance. If and when something looks odd, you’ll have proof and you can ask for refunds when reasonable.
-
-Monthly catchup questions:
-- Does the team have questions?
-- Any performance issues? E.g. connectors not working? 
-- How is MAR looking? Any outliers? Are the MAR in Looker equal to MAR in Fivetran account?
-- Any new projects our end? E.g. new connectors / resyncs, etc
-- Anything else from either side? 
-
 ## When there is no Fivetran connector
 - File replication: get the data into an S3 bucket, SFTP server, some Cloud Drive and pipe using Fivetran 
 - Get the data into the warehouse directly 

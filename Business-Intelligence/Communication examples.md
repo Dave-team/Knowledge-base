@@ -1,5 +1,37 @@
 # Communication templates
 
+## Onboarding kick-off
+Hi all,
+ 
+As Papier’s headcount is growing quickly over the next few months, we want to ensure new Paps experience a seamless Looker onboarding process.
+To facilitate this, we’re reviewing our current Looker onboarding process and as part of that, we want to speak to recent joiners and understand what went well and what can be improved in our onboarding.
+ 
+I’ll be scheduling 30 minutes with each of you over the next few days to talk through your Looker experience. Feel free to suggest a different time if the suggested time doesn’t work.
+ 
+Thanks,
+ 
+Dave
+ 
+ 
+
+
+## Partner meetings
+- What data do we/they need? 
+- How do we extract or send this data? SFTP, S3? 
+- Replication frequency
+- Clarify next steps in an email 
+- Clarify who the main POC is 
+
+## Fivetran meeting 
+When working with a vendor, have regular (e.g. monthly catchups). Make sure to track their performance. If and when something looks odd, you’ll have proof and you can ask for refunds when reasonable.
+
+Monthly catchup questions:
+- Does the team have questions?
+- Any performance issues? E.g. connectors not working? 
+- How is MAR looking? Any outliers? Are the MAR in Looker equal to MAR in Fivetran account?
+- Any new projects our end? E.g. new connectors / resyncs, etc
+- Anything else from either side? 
+
 ## Slack messages 
 We’re looking into X but it’s worth fleshing out what options we have before putting in a ticket. OK if I put in 15 mins to go through this? 
 
@@ -12,8 +44,6 @@ Thanks for flagging this. I can see that this is caused by MentionMe campaigns t
 Also FYI - we are going to implement more rigorous data quality tests this quarter that should help us proactively spot issues like these. 
  
 Dave
-
-
 
 ## Onboarding and access email
 Hi Saneesh, 
@@ -156,6 +186,21 @@ Let me know if you have any questions!
 Dave
 
 (Add a well sized image to the email - people are less likely to open attachments. Still do add an attachment as PDT so people can reference and store it should they want to.)
+
+**Quarterly roadmap revision to Tony**
+Hi Tony, 
+ 
+We've revisited the BI roadmap for Q2. Key points: 
+Re-assigned projects in the 'BI Internal Tracker' - projects assigned to Dave are the highest priority and projects assigned to BI Executive will be great wins when they join - these are all less high priority for the business.
+We have lots on in Q2. We believe what's planned for is achievable as the larger projects (Upsell, Royalties, GM) will roll into H2, and the other projects are scoped to be quicker wins. Anything we don't finish will be re-assessed and rolled over to H2 pending on speed and hiring. 
+Let me know if you have any questions, feedback, or if it helps to run through this in person before circulating more widely. 
+ 
+Thanks, 
+
+Dave 
+
+**Prioritization question Slack**
+Hey Tony. We’re planning Q2 and the two big projects for Finance are Royalties calculation and the GM logic revision. Given how cross-functional these are (especially with Tech) it probably makes most sense to start with one of these. In your mind, which is higher priority and when would be good to kick that off?
 
 
 ## Announcement messages
@@ -482,6 +527,16 @@ The recommendation is to add the column publishable_state to the Products ETL fo
 
 Impact
 This will help Merchandising and Commerical ensure products are live on site the way they should be. Having the products correctly on site increases sales and conversion rate
+
+
+Overview
+In Admin, Product Visibility includes the ‘Merchandised’ option. This is currently not part of the ETL and we’d love to have this field in our Looker reporting.
+Problem
+We want a way to report on products that are actually showing up on the front-end of the website. By adding the ’primary_variant’ field to the Products ETL, we can add this back as a dimension in Looker and enable this reporting functionality.
+Impact
+Growing our category revenues continues to be a big focus in 2021. Accurate reporting on merchandised products allows the Trading team to optimise for this growth.
+
+
 
 ## Other
 Hi all,

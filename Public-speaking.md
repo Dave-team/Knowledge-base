@@ -50,12 +50,14 @@
   - Is there an opportunity for topic feedback? Is the organizer interested in working with you to make your topic great? If not, can they point you to someone in their community who might be interested in helping out?
   - Are there any additional accessibility considerations you should be aware of? Do any audience members use a communication device? Can you share your slides ahead of time to make them easier for audience members to access? Will the event be recorded for those who can’t attend in person?
 - First, write down the high level outline - the high level story you want to tell 
+- Then create the slides you want to present
 - Then write out the entire presentation 
 - Practice: 
     - First practice until you can present a coherent story with the main points. Each time, focus on things you could improve. Always practice out loud > take notes whilst practicing > fix slides/script > repeat. 
     - Then record yourself and practice in front of a mirror. Watch the recording and analyse what you do.
     - Then do a dry run in front of others. Ask them what they got out of it. If not much, back to drawing board  
     - Constantly reiterate and improve during this process and practice in a way that you'd like to present. E.g. include the pauses, sips of water etc. where relevant. 
+- During the practice, you'll want to both revise the Slides and the actual talk and make sure it flows more naturally. 
 - Create cue cards 
 - Really know your topic to be conversational - this also eliminates the need to memorize 
 - Understand the logistics of the presentation: 
@@ -169,7 +171,7 @@ Pratical tips on the day:
 - Distract yourself when others are speaking and you're not up yet: take notes, focus on your breath, engage, use a repetitive mantra
 - A great tactic is to start off with interaction with the audience. This should massively drop the nerves during the rest of the presentation
 
-Experiences BI monthly presentation
+**Experiences BI monthly presentation**
 Days leading to the presentation: fear of fear - fear of my anxiety impacting the presentation. I know now that if I focus on the techniques such as slowing down and breathing, I can ground myself and not let the nerves carry my presentation. And it helps to stay busy as that ensures we don't have the time to dwell on the worries. And just realize that we're going to die anyway so it makes sense to just get the most out of all situations. 
 
 I also spent more time than usual trying to visualize the logitistics. E.g. I can be influenced by seeing senior people or seeing people seemingly not enjoying the presentation. I visualized those instances and my response. Oh - the CFO is here - great he is putting time in this - I expected this. Oh - this person looks bored - he's probably thinking about it. Avoid surprises and avoid getting caried away in this way. 
@@ -185,6 +187,20 @@ When axiety rose, I:
 - When the body was reacting and feelings of nerves increased I changed my body language to be more open and focus on the breath. 
 
 During the presentation, I focused most of all on slowing down and ensuring I paused enough for the content to land. 
+
+## BI monthly process
+Presentation 
+- Do we focus on use cases and impact? 
+- Does it flow? 
+- Does it look good? 
+
+Logistics 
+- Use previous rounds as examples
+- Use the same template - Google Slides
+- Make sure slides are stuck together pre dry-run
+- How are we on time? 
+- Dave presents agenda
+- Alice to present from start and I share from FAQ? 
 
 
 ## Virtual meetings
