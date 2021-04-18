@@ -11,13 +11,14 @@ Think about BI as if it's a SaaS product and the users are your customers. Appro
 
 ## Principles
 ### Data principles
-- Data is correct and quality controlled. Shipping out bad data quickly destroys the team's credibility. The business needs to trust the data 
-- Data is available to answer relevant questions 
-- Data is current 
-- Data is consistent when looking at it in different ways 
+- Data is correct/accurate and quality controlled. Shipping out bad data quickly destroys the team's credibility. The business needs to trust the data 
+- Data is available/accesible to answer relevant questions 
+- Data is current and timely (e.g. up to date with no gaps)
+- Data is consistent/coherent when looking at it in different ways and there are SSOT 
+- Data is complete (i.e. no missing data)
 - Data tools are fast and easy to use 
 - Data is democratized and the BI tool is self service
-- Data is well documented 
+- Data is well documented and defined with a clear, unambigious meaning 
 - Automate as much as possible 
 - As much as possible is defined in code
 - Data is version controlled

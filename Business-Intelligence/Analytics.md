@@ -206,13 +206,22 @@ A lag indicator is the thing you care about (like monthly revenue), but can only
 - Never show data that looks off/raises questions. Either remove these things or have a clear simple explanation ready. Where required, make clear that things are an outlier.  
 - Conversion rates should be tracked at point in time - e.g. conversion rate within 30 days after first visit
 - Make sure to define success metrics for new projects and how these are expected to be influenced  
-- A good analyst has:
-  - Customer empathy: feeling the customer's stories and motivations. Be in touch with the customer to gain this
-  - Stakeholder empathy: knowing your audience, knowing how they will use and impact using your data. Knowing how to deliver the data to them. Sit down with them to understand their goals and challenges. E.g. join their meetings
-  - Product knowledge: know the ins and out of the product. What are all of the features in the product? What can users do? What is a typical work flow like? Gain this by actually using the project and by putting yourself through the hard training. Ask yourself: 
-    - Do you know your product’s work arounds and shortcuts?
-    - Do you know which things are “annoying” in your own product?
-    - If you could add any new feature, what would it be?
+
+## A good analyst 
+- Numerate and analytical mind 
+- Detail oriented and methodical: data drives decisions so triple check on the small details rather than sending out wrong data 
+- Sceptical and critical around data 
+- Confidence to stand by their work even when challenged by HIIPO 
+- Curious: willingness to dive deeper and understand more - coming from a love of data 
+- Communication skills: for the findings to drive decisions, the analyst needs ability to tell a story, recommendation and inspire others to act and follow up on it. 
+- Patience: their work can be pending on others. Sometimes work is binned because it doesn't drive the desired results. This requires patience. 
+- Pragmatic and business savy: You have to focus on the right questions. It can be all to easy to get sucked down a rabbit hole and spend too much time digging into a sub-1% edge case that has no real impact to the business. Like good editors, they have to keep the bigger picture in mind and know when to kill a story and move onto something else that is a better use of time. 
+- Customer empathy: feeling the customer's stories and motivations. Be in touch with the customer to gain this
+- Stakeholder empathy: knowing your audience, knowing how they will use and impact using your data. Knowing how to deliver the data to them. Sit down with them to understand their goals and challenges. E.g. join their meetings
+- Product knowledge: know the ins and out of the product. What are all of the features in the product? What can users do? What is a typical work flow like? Gain this by actually using the project and by putting yourself through the hard training. Ask yourself: 
+  - Do you know your product’s work arounds and shortcuts?
+  - Do you know which things are “annoying” in your own product?
+  - If you could add any new feature, what would it be?
 
 
 ### Marketing understanding

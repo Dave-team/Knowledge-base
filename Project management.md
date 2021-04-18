@@ -53,9 +53,20 @@ Before a project, map out all the different stakeholders and their roles in the 
   - Future team focus
 
 ## Project kickoff
-- Write email to relevant stakeholders that we want to kick off. These are the open questions. If they agree, we can book something next week.
-- If there are any concerns, check in with those people. Are these things we’d need to figure out before kick-off? Some people hold the power to block a project - these are 'grenades' and you don't them to explore 
-- Those who didn't respond, quickly reach out over Slack and ask if they're okay for the kickoff 
+- Check in with business stakeholder over Slack
+  - Is this project high priorty still?
+  - Is now a good time to kick it off? 
+  - Who should be involved? 
+- Check in with other critical stakeholders over Slack 
+  - We want to kick-off this project - does this week work for you? Who else should be involved from your team? Fundamentally, you want to check in with key stakeholders who are critical to the project's success and you don't want them to explode as that would blow up the project. 
+- Write up email to all stakeholders: 
+  - We want to kick of project X. The goal is to achieve Y and we're doing this because of Z, it likely involves X
+  - This meeting is to discuss X - what we discuss is always pending on the project in question. 
+  - Let me know if any questions or concerns beforehand. 
+  - This email helps pre-wiring, makes people feel included and avoids questions when an invite pops in their inbox suddenly. 
+- Schedule meeting + agenda in description
+- If there are any concerns, check in with those people. Are these things we’d need to figure out before kick-off? 
+- Those who didn't respond to the invite, quickly reach out over Slack and ask if they're okay for the kickoff 
 
 ## Scrum
 The most popular project management methodology that follows agile principles. 

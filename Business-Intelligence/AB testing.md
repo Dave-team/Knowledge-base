@@ -1,4 +1,9 @@
 # A/B testing
+## New notes
+- Run A/A test – this should indicate issues in assignment and event tracking. 
+- There is different behaviour depending on day of week. So always run a test at least a full week 
+- It is crucial for customers to have the same experience when they use the website. 
+- Run an experiment at least until the minimal sample size has been achieved. 
 
 ## Process
 ### Ideation for A/B tests
@@ -10,7 +15,7 @@
 - Surveying existing users
 
 ### Preparation
-Define when a change will be implemented. So pick a main metric and if all else is equal, launch if success metric X is true 
+Define when a change will be implemented. So pick a main metric and if all else is equal, launch if success metric X is true. Clearly define success metrics prior to the start of the test 
 
 Understand your metrics better by trying to predict how changes will impact them. But if you have to make a prediction beforehand, you’re forced to consider all of the factors. In this example, what do our email conversion rates typically look like? Is it 0.5% of 2% of 5%? Have we tried something similar in the past? Are there other channels that we can learn from? Do we expect this new campaign to have higher or lower conversion rates?
 
