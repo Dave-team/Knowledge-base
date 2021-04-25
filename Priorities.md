@@ -2,7 +2,7 @@
 This is a list of things I am actively working on to develop myself.
 Relax. Be optimistic. Be present. Have faith in ability to just figure things out.
  
-Pick up good habits from the knowledge base and make these my own. This is not about doing it all at once, pick a few to actively work on for the next weeks/months.
+Pick up good habits from the knowledge base and make these my own. This is not about doing it all at once, pick a few to actively work on for the next weeks/months. In general, there is no how-to for everything in life so stop looking. Instead trust yourself figure shit out and do what works for me.
 - Affirm these habits and visualize implementing them in detail on a daily basis, both in relaxing and in stressful times. Visualize being the person of your design and how that person acts in challenging situations. Then practice that (fake confidence if needed) until it becomes natural. 
 - Force regular mindful breaks. When relaxed to change the structure of the brain. When not aware to accept, let go and move on. Be aware and breath.
 - Reflect on my performance against the habits / philosophy regularly and adjust where necessary. How did I behave? Why? What can be done better? What lessons can I learn from this? What are the upcoming challenges and how will I approach these? Journalling and weekly review sessions could help get in this habit
@@ -303,7 +303,7 @@ Becoming senior is about having overcome challenges and lessons learned and this
 - I cannot take these problems personally and I cannot be so affected by them. It might be that I get into work and 9 things are broken - trying to fix everything all the time will only lead to burnout and I won't be able to see the bigger picture and e.g. support the team.
  
 ## Social
-I am a social creature. I'm interested in others, want to know them better and I enjoy conversation as a way of making potential friendships. In one on one conversations, I go deep into topics of interests of both parties and in larger group settings, I want to be part of the conversation and to share my thoughts and experiences because it adds value to everyone involved: people can respond to my thoughts.
+I am a social creature. I'm interested in others, want to know them better and I enjoy conversation as a way of making potential friendships. In one on one conversations, I go deep into topics of interests of both parties and in larger group settings, I want to be part of the conversation and to share my thoughts and experiences because it adds value to everyone involved: people can respond to my thoughts. My brain works best when prepared - to perform well at social interactions I need to be prepared and in the right mindset. Similarly, visualize being a good social person more often (centre of attention and saying witty things and sharing stories)
 
 **Social at work**
 - The office is a social environment. When stuck in my head, step back and recenter that being good at and enjoying work is more than being stuck in my head. 
@@ -311,7 +311,13 @@ I am a social creature. I'm interested in others, want to know them better and I
 - "Hey", "How's it going", "Hey I don’t think we’ve met yet. I’m Dave. Great to meet you - what team are you working in?"
 
 **Prepare things to talk about**
-- Get to know other people, their life situation and interests. Ask them about that (Family, Occupation, Recreation, Dreams/aspirations)
+- When meeting people I already know, recall what's happening in their life and to ask about. Take notes if that helps. Also touch base on their interests. 
+- When meeting new people, get to know their life situation and interests. Ask them about Family, Occupation, Recreation, Dreams/aspirations. 
+- Share my own experiences
+  - New discoveries: Book I read, series I saw, etc. 
+  - My experiences in life 
+  - Any hook from a conversation: think more often about the various things in my life so I have some form of prep to speak about my life
+- Always be prepared to answer questions. 'How are you', 'What about you?' (when they return a question) and any other often asked questions. 
 - Safe bets: 
   - Travelling
   - Books/series/films/documentaries/music
@@ -319,14 +325,15 @@ I am a social creature. I'm interested in others, want to know them better and I
   - Food/drinks 
   - Sports
   - Recent world events - 'Did you hear about'
-  - My experiences / anything new I discovered. Book I read, film I saw etc. 
 - Listen and engage to what they say - be curious 
   - Focus on the basic questions: Who/what/where/how/why
   - Simply show emphathy: ‘That’s amazing’ ‘That sucks’
   - How did things make people feel?
   - Hook into a topic: 'that remind me of when'
   - Ask for opinions: What do you think about X? 
-- Always be prepared to answer return questions - 'How are you' 'What about you?'
+
+**Share stories**
+When sharing something, be enthusiastic and try to share things in the form of a story. Belief it's interesting because it is interesting to you as a person. Whether others think it's interesting doesn't matter. Attempt to own the room more - with curiosity, no expectations and no ego. Break the shell. 
 
 **I love and care for my friends**
 I make sure I reach out regularly to my friends. I think about them regularly and I aim to meet. I show that I care.
