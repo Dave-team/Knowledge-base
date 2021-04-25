@@ -9,7 +9,6 @@
 - Focus on quality to minimize defects 
 - Risk management - keep small problems from turning into big unrecoverable problems
 
-
 ## Stakeholder management
 - Pre-wire a project. Don’t go into a project without knowing what people think of it and without people having thought about it. Any presentation or kick-off should not cover anything new. Instead, ensure you have checked in with the stakeholders in advance. Avoid people being surprised and have tonnes of questions during the actual meeting - premise of no surprises 
 - The people best at stakeholder relationships are diplomats. They are charismatic and take you for a coffee 
@@ -41,32 +40,6 @@ Before a project, map out all the different stakeholders and their roles in the 
 - After a big project, there is a cross functional retrospective (whiteboard with sticky notes)
 - More ad-hoc feedback: Slack stakeholder and ask how they thought that went
 - Once a while there will be a more informat catch-up with key stakeholders where you can reflect on progress, how things are going and what’s good/could be better 
-
-## Stakeholder intro meetings
-- Introductions: role, focus, how long at company, previous experience
-- Overview of data stack and tools
-- Team structure: centralized supporting the business 
-- Operating model with the business - we collect requirements, deliver incremental, collect feedback and repeat
-- How we work:
-  - Ticketing system
-  - Quarterly reviews
-  - Future team focus
-
-## Project kickoff
-- Check in with business stakeholder over Slack
-  - Is this project high priorty still?
-  - Is now a good time to kick it off? 
-  - Who should be involved? 
-- Check in with other critical stakeholders over Slack 
-  - We want to kick-off this project - does this week work for you? Who else should be involved from your team? Fundamentally, you want to check in with key stakeholders who are critical to the project's success and you don't want them to explode as that would blow up the project. 
-- Write up email to all stakeholders: 
-  - We want to kick of project X. The goal is to achieve Y and we're doing this because of Z, it likely involves X
-  - This meeting is to discuss X - what we discuss is always pending on the project in question. 
-  - Let me know if any questions or concerns beforehand. 
-  - This email helps pre-wiring, makes people feel included and avoids questions when an invite pops in their inbox suddenly. 
-- Schedule meeting + agenda in description
-- If there are any concerns, check in with those people. Are these things we’d need to figure out before kick-off? 
-- Those who didn't respond to the invite, quickly reach out over Slack and ask if they're okay for the kickoff 
 
 ## Scrum
 The most popular project management methodology that follows agile principles. 
@@ -187,7 +160,6 @@ Issue pointing captures the complexity of an issue, not the time it takes to com
 - Criteria for success / what happens if the project fails? 
 - Scope and constraints
 - What will it take? (people)
-- 
 
 ## Project approach
 1. Define the problem
@@ -219,20 +191,3 @@ Issue pointing captures the complexity of an issue, not the time it takes to com
 
 ## Kanban
 Kanban is an agile methodology – things are separated by Backlog – In Progress and Done. It is about doing incremental development but unlike scrum, it focused on less meetings and less on deadlines. The Kanban cards should be users stories with a checklist to sign things off. The cards are ordered in terms of priority 
-
-## Email templates 
-Thanks for your time earlier this week - just sharing recap of what we agreed & then some key actions:
-
-What I believe we agreed...
-- Exit survey should help us understand what marketing activity brought the customer back to place that specific order
-- This order-level data can then be fed into attribution model, with a view that it will likely reduce the amount of existing orders attributed to 'Direct' 
-- We can explore adding a new post-purchase survey into customer journey to understand who they were buying their most recent order for
-
-Follow Up Actions
-- Propose the complete set of answers that we'll ask, the chosen question & which attribution bucket the answers belong to (SA - w/c 14th Dec)
-- Put in time with Tech to discuss implementation for Q1 & align on how we can future proof this data (SA/WH - w/c 14 or 21 Dec)
-- Find out from Tech if we can 'hide' some of the existing survey answers for New Customers (SA)
-- Update copy for answers of existing survey to be more uniform (SA)
-- Discuss other survey options for post-purchase flow to help with commercial insight (GF & LH)
-
-Let me know if I've missed off anything.

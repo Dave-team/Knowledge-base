@@ -5,8 +5,8 @@ Relax. Be optimistic. Be present. Have faith in ability to just figure things ou
 Pick up good habits from the knowledge base and make these my own. This is not about doing it all at once, pick a few to actively work on for the next weeks/months.
 - Affirm these habits and visualize implementing them in detail on a daily basis, both in relaxing and in stressful times. Visualize being the person of your design and how that person acts in challenging situations. Then practice that (fake confidence if needed) until it becomes natural. 
 - Force regular mindful breaks. When relaxed to change the structure of the brain. When not aware to accept, let go and move on. Be aware and breath.
-- Reflect on my performance against the habits / philosophy regularly and adjust where necessary. How did I behave? Why? What can be done better? What lessons can I learn from this? Potentially journal about this. 
- 
+- Reflect on my performance against the habits / philosophy regularly and adjust where necessary. How did I behave? Why? What can be done better? What lessons can I learn from this? What are the upcoming challenges and how will I approach these? Journalling and weekly review sessions could help get in this habit
+
 ## General Reminders
 - **Remember the insignifance of it all** We are a blip in the grand scheme of history. We are evolved monkeys that will evolve into something else. We are simply creatures in the universe. 
 - **Choose happiness** The main overarching goal is happiness and the biggest win in this is having a consistent calm mind. Happiness is a choice - we can choose to dance, smile and remember that the world is an amazing place. Be the person who is happy and grateful regardless of anything else. If we're too caught up we stop seeing the positive and life just passes by. When life flashes by, make sure its worth watching - “how was the trip, man?”
@@ -113,7 +113,11 @@ Becoming senior is about having overcome challenges and lessons learned and this
  
 **Balance and track time**
 - Daily routine: emails, Notion Inbox, Data Quality dashboard, Redshift Dashboard
-- Plan in advance what the main priorities are for the week. Set realistic expectations. Focus on high impact projects that make a great BI team. These are the longer term strategic initiatives and the hard challenges to solve. When overwhelmed or in doubt, make a list of projects, their next step, approach and timeline. Confirm with manager. Overall, the aim is to self-manage these priorities
+- Plan in advance what the main priorities are for the week. Set realistic expectations. To help this prioritization: 
+  - Do we have anything on that is blocking something or is timely? This is priority. 
+  - If not, do we have high impact projects that will be hard and take time (e.g. require work with Tech also)? If yes, start moving this forward as the right time to start these is when there is some flexibility 
+  - If not, what projects have the highest potential impact (releted to business strategy)? Make sure to consider both impact for the data team and the business. Often, these are the longer term strategic initiatives and the hard challenges to solve. Another rule of thumb to consider is whether the business would benefit from projects now or more in the future? Focus on more immediate impact projects.
+  - When overwhelmed or in doubt, make a list of projects, their next step, approach and timeline. Confirm with manager.
 - Work towards those activities in a balanced way making sure the most important ones are completed. When working on something challenging, timebox it and balance it with easier wins. Solve one thing at a time. 
 - Keep a log of what I achieved during the week
 - Maintain a balance between ad hoc, roadmap, and development
@@ -150,6 +154,7 @@ Becoming senior is about having overcome challenges and lessons learned and this
   - Think about scalability: can someone else use this again? Avoid manual spreadsheets as much as possible 
   - How would I do this in a simple way? 
   - Focus on what matters and drives the needle. It's impossible to understand every small detail - trust that this will come with time. Be comfortable saying you don't know at this stage and it's difficult. 
+  - Consider when something needs to be done by - only work on it when it's relevant if it's not a huge impact.
 - Advise
   - Provide additional context that may change the output. Be an advisor towards business impact 
 
@@ -163,6 +168,9 @@ Becoming senior is about having overcome challenges and lessons learned and this
 - Speak up during these meetings: 
   - Ask whatever you want to ask. They know I’m not stupid, I’m just not as knowledgeable about this area perhaps
   - It’s not personal - it’s about doing the best for the company and it’s actually critical for me to speak up as this is what I will be paid for
+- Key principles: 
+  - Break difficult projects down into phases of delivery 
+  - Aim for minimal development effort
  
 **Management**
 - Take ownership over BI. Have your opinions and provide recommendations. Don't run behind the facts and be proactive. 
@@ -338,49 +346,3 @@ Because I am confortable with who I am, I can handle questions of others and I a
 **Whatever I say is okay**
 Stop trying to be perfect and just say the things that come up without thinking whether it’s good enough. Just be you. Personal questions are personal to me, so just be vulnerable. In group conversations, it mainly doesn't matter what you say - you just need to say whatever you think as the topic will move on quickly.
 Nobody demands perfection - that's just in my head. I'm not as important as to never be allowed to make mistakes. I do and I will continue to and that's okay - Expose yourself as this non perfect human being
-
-## Rituals 
-**Mornings**
-Directly after waking up 
-- 5 mindful breaths 
-- Repeat mantras as written in Notes
-- Go over the things I am grateful for
-- Important habit to break: no phone
-
-Health 
-- Workout / Stretching / Yoga
-- Minimum 10 minutes meditation 
-
-Time left (optional)
-- Reading / drawing 
-- Mindfulness: drinking tea, making a nice breakfast 
-- Journal. Be grateful for what I have and have done and reflect on strenghts and past successes 
-- Breathing excercise 
-
-Getting ready 
-- Take supplements
-- Cold shower: a bit longer each time
-- Skincare routine
-
-**Work**
-- Start by setting / reviewing goals for the day
-- Regular mindful breaths / mindful breathing spaces. Especially when feeling overwhelm 
-- Go for a mindful walk
-
-End of work day: 
-- Review + log achievements for the day 
-- Set goals for the next day
-
-**Evenings** 
-After work
-- Cooking 
-- Reflect on the day / Affirm key philosophy and practice gratefulness / Visualize doing things well, the person I want to be, and/or how I will handle tough upcoming challenges
-- Reading / drawing 
-- Follow curiosity: watch series/film/documentary/YouTube 
-- Depending on mood: more exercise / read from Knowledge Base / just relax
-
-Bedtime routine 
-- Brush teeth + floss 
-- Skincare
-- Once in bed, body meditation: full awareness to the different parts of the body - potentially another round of affirmations and visualization
-- Important habit to break: no phone

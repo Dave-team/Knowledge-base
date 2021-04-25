@@ -1,17 +1,4 @@
 # Hiring
-
-Papier process notes
-- Some people are overqualified for the role - if they have years of experience, it’s not a good fit for the role: 
-  - The role will be more basic than what they’re used to which will ultimately cause issues
-  - They will want a different salary 
-  - They often have quite experience in different types of tools etc. So when they come in, they’d need to get used to a new way of working. This might be hard to those who have done things a certain way for all their lives
-- Look for cultural fit: 
-  - We want someone who is engaged with a company - if they have lots of experience but keep jumping role often, that’s not a good sign 
-  - If they tend to work at big companies and have lots of experience there, that’s a less good fit than a young person who has some experience and wants to experience start-up life 
-  - Fundamentally: does their story makes sense and in line with something we’re looking for? 
-- Even when they live elsewhere, they may want to or plan to relocate - it’s worth shooting a question around this.
-- Evaluate all candidates and decide on yes/no and a one liner as the reason for it 
-
 ## General
 3 key questions:
 - Are they smart? Have a casual conversation with them
@@ -35,6 +22,18 @@ Desire for the role
  
 Match
 - Can we help them achieve their career goals?
+
+**Notes from interviews**
+- Even when they live elsewhere, they may want to or plan to relocate - it’s worth shooting a question around this.
+- If someone has done something really well and enjoyed it - make sure they'd enjoy doing something a bit different too and whether that fits what they're looking for
+- Some people are overqualified for the role - if they have years of experience, it’s not a good fit for the role: 
+  - The role will be more basic than what they’re used to which will ultimately cause issues
+  - They will want a different salary 
+  - They often have quite experience in different types of tools etc. So when they come in, they’d need to get used to a new way of working. This might be hard to those who have done things a certain way for all their lives
+- Look for cultural fit: 
+  - We want someone who is engaged with a company - if they have lots of experience but keep jumping role often, that’s not a good sign 
+  - If they tend to work at big companies and have lots of experience there, that’s a less good fit than a young person who has some experience and wants to experience start-up life 
+  - Fundamentally: does their story makes sense and in line with something we’re looking for? 
  
 ## Hiring process
 - Think through the assignment – what is this job to do in the next 90 days but also the next 24 months? As the hiring manager, write out a 90 day plan for the position you need to fill. This roadmap includes all the goals that the new team member will be expected to hit within the first ninety days of joining. This is critical for successful onboarding. During the interview process, share this roadmap with the candidate to make sure that she is excited about these goals.
@@ -44,7 +43,7 @@ Match
 - Set up a Job Description
 - Align the JD with the recruiters - often companies use few recruiters they have experience with and can hire for culture as well
 - Create a scorecard for the role (see below for notes). This is about thinking hard about how to look at the candidates. How can we qualify the skills of a candidate against the role?
-- Discuss each candidate with several people who have worked with them
+- Discuss each candidate with several people who have worked with them. Evaluate all candidates and decide on yes/no and a one liner as the reason for it 
 - Make sure the appointee understands the job and is sold on the company
 - Make sure a mutual match exists
  
@@ -146,12 +145,14 @@ It is far better to get the candidate to pre-agree in full detail before making 
 - Interviews must end on a positive note. Its an incredibly vulnerable experience for candidates, and there’s no easier way to burn goodwill and gain a reputation than to have asshole interviewers. We all know which companies are assholes. It doesn’t take much to receive this label.
 - Communicate the vision of the company and what team/role the people will be part of. The best people are looking for challenges.
 - Redirect the conversation as needed - you are in charge of keeping the conversation focused and timely
+- Even if an interview doesn’t go too well - still ask the questions you want to ask 
+- Challenge people a bit more - they're looking for more ownership. That's great - what would that look like? 
 - Reference questions:
  - What was it like working with them?
  - Would they hire them again?
  
 **Interviewing well**
-It is important to go deeper. Throughout the interview, get curious. Ask follow-up questions that start with “What”, “How” or “Tell me more.” Especially with behavoutial questions, we want to detail the exact contributions a candidate has made to an effort which led to results. The key to go deeper is to ask What, Why, How, and Who at each step of the process. This will let the candidate paint a very clear picture of the situation, their ownership of the idea/solution, and their decision process in key pivotal moments.
+It is important to go deeper. Throughout the interview, get curious. Ask follow-up questions that start with “What”, “How” or “Tell me more.” Especially with behavourial questions, we want to detail the exact contributions a candidate has made to an effort which led to results. The key to go deeper is to ask What, Why, How, and Who at each step of the process. This will let the candidate paint a very clear picture of the situation, their ownership of the idea/solution, and their decision process in key pivotal moments.
  
 Make sure to repeat the important things they say about their goals, challenges, and ideal solutions back to them to show them that you are listening and build trust. Often, we need to interpret what the candidate says rather than demanding they explain it better. Tell the candidate what you understood, repeat the story, and let them correct you as needed.
  
@@ -195,6 +196,65 @@ Pull. “My biggest client hired me.” “My old boss recruited me to a bigger 
  - Share these notes and store them centrally after an interview - document them quickly after an interview
  
 ## Interview questions
+**Phone interview questions Papier**
+Experience
+- Can you speak to some of the projects you were involved with at X? 
+- What tools did you work with? Like / dislike?
+- Did you develop or did you focus on using the tools as an end user? 
+- High bar in SQL - what are some harder things you've built? 
+- How was your team organized and how was work divided? 
+
+Career path
+- What did you like and dislike in particular about this role? 
+- Why are you looking to change? 
+- What are you looking for? (if not answered already)
+- Why did you apply to this role in particular?
+
+Behaviour  
+- Are you comfortable working directly with more senior stakeholders? 
+- We have a lot of projects going on - tell us of a time when you had a lot going on and how dd you approach this? 
+- Especially in the beginning, a lot of work is ambiguous - are you comfortable around this and how would you get started? 
+- Startup life is different - how do you feel about that? 
+
+Logistics 
+- What is your notice period?
+- What are your salary expectations?
+- Location - requiring a visa 
+
+**Round two interview questions Papier**
+*SQL questions: 5-10 minutes* 
+
+Easy 
+Can you explain what a join is? 
+What types of joins do you know and what is the difference between them? 
+What is the difference between a join and a union? 
+And the difference between a union and a union all? 
+Can you explain what a primary key is? Why would we need these? 
+How would you find out if you have duplicates in your table?
+
+Medium  
+Can you explain the difference between a WHERE and a HAVING clause? 
+Can you tell us what a window function is? 
+Which window functions do you know and what do they do? 
+
+*Test runthrough: 20 minutes* 
+
+*Behaviour  / role questions: 20 minutes* 
+Data projects
+Describe a project you had the most fun doing. What was the part that you personally found the most exciting?
+Describe a project you found the most frustrating. What were the issues you ran into and how did you deal with them?
+
+Behaviour questions
+Because we are a small team supporting many teams, we often work on many projects at the same time. We juggle between complex SQL projects, ambiguous problems that need to be clarified with stakeholders and smaller ad-hoc tasks. Can you tell us how you would multitask and prioritise between projects? 
+One of the consequences of working in a fast paced environment is that we all make mistakes. Can you tell us of a time when you made a mistake (e.g. delivered incorrect data)? (probe to understand what happened, how did they handle it and what did they learn from it)
+
+Situational questions
+Marketing tells you that the Spend for Facebook is off by 10%. What do you do? 
+From what you know about the role and what we do, what do you think are some of the biggest challenges you’ll face? 
+
+*Candidate questions + buffer: 15-20 minutes*
+
+**Other questions**
 Behaviour questions - look for STAR - What was the situation and how did you handle it?
 - Tell me of a time you were under strong pressure.
 - Tell me about a time when you realized that you built something and you realized the data is wrong afterwards. What did you do to fix this issue? (Look for: how did they communicate, how did they solve the root cause, how would they present the final improved results) 
@@ -257,41 +317,9 @@ Match
 - What are their reasons for joining a company as like ours?
 - Why did you apply to this role in particular?
 - How did you hear about the position?
-- What do you know about who we are and what we do?
- 
-Hey! How are you doing? 
-Thanks for taking the time today. Let's start with a quick round of intros. So my name is Dave. I joined Papier in July last year as a BI Manager. My role at Papier is two-fold: first and foremost I work on building data solutions in Looker that allow decision making. And secondly, I am working a lot of improving the data infrastructure and make it more future proof. Will do you want to introduce yourself quickly? And Adetoun?  
+- What do you know about who we are and what we do? 
 
-Great. Now, we'll talk a bit more about Papier and the role. We'll then ask a few questions to understand your background a bit better and get a feel for what you're looking for. In the end, we'll have some time left for any questions you may have. Sound good?
 
-Great. So Papier is a fast-growing ecommerce business delivering beautifully designed stationairy products, such as personalised greeting cards and stationery. We were founded in 2015 and we're now about 70 people with a beatiful office in Camdem. We have a very data driven culture with over 75% of the business using Looker on a weekly basis. With such a data driven culture, we have a lot of projects to tackle and we're looking for someone who can come in and help develop these data solutions. We're a very small BI team so there's lots of opportunity to support different teams across diverse data sets.
- 
-This is a very high level overview - do you have any questions on that so far?
- 
-Ok now we'd like to know a bit more about you - can you tell a bit about yourself - what you have done so far in your career and what you're looking for? 
-(I'm really looking for the storyline of the career - what jobs you had, why you choose them, high level what you did)
- 
-Questions to ask during the body of the interview
-- What are you looking for? (if not answered already)
-- What type of projects were you involved with at X? What type of data was involved in these?
-- What tools did you work with? Like / dislike? (potentially other questions around tooling)?
-- What did you like and dislike in particular about this role? 
-- How was your team organized and how was work divided? Did you work directly with stakeholders?  
-- Why do you want to leave X?
-- Why did you apply to this role in particular?
-- What is your notice period?
-- What are your salary expectations?
-
-High bar in SQL - what are some harder things you've built? 
-Startup life is different - how do you feel about that? 
-What was a time when you disagreed with something? 
- 
-Ok great - Do you have any questions for me?
- 
-Great. We will go back and discuss internally. FYI - if there is a fit, the next step is a technical test for you to do. Then there's a more in depth interview and if all goes well, there will be a final interview with an executive.
- 
-Thanks again for your time today!
- 
 ## Technical test 
 Ideas
 - Google Doc: orders, products with some null values in the data
@@ -324,7 +352,7 @@ What to look for
  
 The most important part of the technical test is the discussion about the test post interview.
  
-Questions that can be asked
+## Candidate questions that can be asked
 BI
 - History
 - What is the history of using data in your company
@@ -397,35 +425,8 @@ Company experience
 - What do you not like about working here?
 - What do you wish you had known when you joined the company
 - Why did you join the company? And what keeps you here now?
- 
-## Other
-Hiring is important because the wrong decision decision wastes: 
-- 4-5 months of salary
-- Hiring / recruiter costs
-- People need to train these new hires
-- New hires are unproductive at first
- 
-Positive email template
- 
-Hi,
- 
-Thanks for your interest in the role X. We're excited about your profile and would like set up a 15-30 minutes call to get to know you a little better. During the call, we’ll talk a bit more about the role, your experience and expectations and you’ll be able to ask us any questions you might have.
- 
-Could you please confirm your availability for this and next week?
-(To help us schedule this, please let us know when you're available by selecting the online calendar link below.)
- 
-Thanks/Best
- 
- 
-Rejection email template
-Hi,
- 
-Thanks for your interest in the role X. Unfortunately, on this occasion, we’ve decided not to move forward with your application.
-That being said, we’re scaling quickly this year, and may have a role that better matches your skill sets in the future. Thank you again for your interest and best of luck in your search.
- 
-Regards,
 
-## Answers to questions
+## Answers to candidate questions
 **What are the tasks I would do on a usual day?**
 We work primarily in two ways: roadmap projects and ad hoc. Ad hoc can vary. Roadmap are large projects - scoping with stakeholders, developing in Looker / writing SQL, testing, closing the loop with the stakeholder 
 
@@ -433,7 +434,7 @@ We work primarily in two ways: roadmap projects and ad hoc. Ad hoc can vary. Roa
 Build high impact data solutions across the teams 
 
 **What are the biggest challenges in this role?**
-Taking ownership of multiple end to end projects simultaneously. Mapping requirements with the stakeholders, coming up with a creative solution to hard problems whilst doing multiple things at the same time 
+Taking ownership of multiple end to end projects simultaneously. Mapping requirements with the stakeholders, coming up with a creative solution to hard problems whilst doing multiple things at the same time. And striking the balance between high quality scalable code and speed and complexity and keeping this scalable to maintain a data driven culture. 
 
 **What are the future perspectivist of this role in say the next 2 years?**
 We are a growing team and the complexity of the data increases - we support career development very much - where would you want it to be? 
@@ -450,6 +451,222 @@ It's a growing business. This means that process is not the most evolved. E.g. w
 
 **What are the company's biggest challenges?**
 - Will to answer. I'd say becoming profitable, growing USA and growing stationary
+
+**What is personal development and training like?**
+- Ownership over projects and opportunities to develop this way
+- We're always looking to implement great things - if there is a good use case and you want to train, we encourage that 
+- However, it's hard to balance getting work done and training simultaneously 
+
+**What are the working hours like?**
+Work hard play hard. 40 hour weeks but highly involved in those 40 hours. 
+
+**How would you describe BI and the impact the team has?**
+BI is a centralized team that works with the different teams in the business and allow them to make decisions from insights. To give you an idea of data: 
+- Marketing: improve channel performance and optimize Spend and it's allocation - e.g. through our internal attribution model
+- Finance: SSOT of our key financial metrics used throughout the business, for executive and board reporting. 
+- Web data: to track conversion rates and spot outliers, events reporting, A/B testing 
+- Ecommerce data: which products sell well, mixed baskets, upsells etc. 
+
+## Interview scripts 
+**Phone interview**
+Hey! How are you doing? 
+Thanks for taking the time today. Let's start with a quick round of intros. So my name is Dave. I joined Papier in July last year as a BI Manager. My role at Papier is two-fold: first and foremost I work on building data solutions in Looker that allow decision making. And secondly, I am working a lot of improving the data infrastructure and make it more future proof. Will do you want to introduce yourself quickly? And Adetoun?  
+
+Great. Now, we'll talk a bit more about Papier and the role. We'll then ask a few questions to understand your background a bit better and get a feel for what you're looking for. In the end, we'll have some time left for any questions you may have. Sound good?
+
+Great. So Papier is a fast-growing ecommerce business delivering beautifully designed stationairy products, such as personalised greeting cards and stationery. We were founded in 2015 and we're now about 70 people with a beatiful office in Camdem. We have a very data driven culture with over 75% of the business using Looker on a weekly basis. With such a data driven culture, we have a lot of projects to tackle and we're looking for someone who can come in and help develop these data solutions. We're a very small BI team so there's lots of opportunity to support different teams across diverse data sets.
+ 
+This is a very high level overview - do you have any questions on that so far?
+ 
+Ok now we'd like to know a bit more about you - can you tell a bit about yourself - what you have done so far in your career and what you're looking for? 
+(I'm really looking for the storyline of the career - what jobs you had, why you choose them, high level what you did)
+
+Ok great - Do you have any questions for us?
+ 
+Great. We will go back and discuss internally. FYI - if there is a fit, the next step is a technical test for you to do. Then there's a more in depth interview and if all goes well, there will be a final interview with an executive.
+ 
+Thanks again for your time today!
+
+**Second round script**
+Hey Noelle - how are you? 
+Great thanks! Are you excited for the Easter weekend? 
+
+Great - Thanks for taking the time today to speak with us. The agenda is: 
+We’ll start with some quick SQL questions 
+We’ll then walk through your test 
+Then we’ll ask a few more questions about your experiences
+We’ll end with any questions you may have. Sounds good? 
+
+Great - let’s get started with some SQL questions 
+
+Awesome - thanks again. Will and I will have a chat and the next step would be to meet someone from the executive team. Have a good one! 
+
+## Hiring email templates 
+**Invite to technical test**
+ 
+Hi,
+ 
+Thanks for your interest in the role X. We're excited about your profile and would like set up a 15-30 minutes call to get to know you a little better. During the call, we’ll talk a bit more about the role, your experience and expectations and you’ll be able to ask us any questions you might have.
+ 
+Could you please confirm your availability for this and next week?
+(To help us schedule this, please let us know when you're available by selecting the online calendar link below.)
+ 
+Thanks/Best
+ 
+ 
+**Rejection after application** 
+Hi,
+ 
+Thanks for your interest in the role X. Unfortunately, on this occasion, we’ve decided not to move forward with your application.
+That being said, we’re scaling quickly this year, and may have a role that better matches your skill sets in the future. Thank you again for your interest and best of luck in your search.
+ 
+Regards,
+
+**Rejection after interview**
+Hi Cyril, 
+
+It was great meeting you yesterday. Unfortunately, we decided not to progress you to the next stage for the Business Intelligence Executive role. We are looking for someone with a few years of professional experience in BI and at least 1 year of hands-on experience with SQL. 
+Having said that, we really enjoyed speaking with you and would love to get in touch again for any future data opportunities at Papier! 
+
+All the best, 
+
+Dave 
+
+**Good candidate rejection email**
+Hi Ruby, 
+
+Sincere apologies for the lack of response on our side! Unfortunately, we decided not to move forward with your application.
+
+Our feedback is that you were an incredibly strong candidate with great personality, presence, and communication skills. However, we have spoken with a few other candidates that are more experienced in SQL and at this stage, we believe those candidates to be better suited for this specific role. 
+
+I want to emphasize that Papier is growing fast and so will our BI team. Both Will and I would be very keen to get in touch again with you for future data opportunities at Papier. 
+
+All the best, 
+
+Dave 
+
+
+**Invite to the next round**
+Hi Ruby, 
+
+Thanks for this! We would like to progress to the next round, which will be a one hour Zoom call with Will and myself. During this call, we’ll discuss your SQL case in more detail and we’ll chat more generally about the role. 
+
+Could you please share your availability in the next two weeks?
+
+Thanks, 
+
+Dave
+
+**Offer email**
+Hi Eve, 
+
+Congratulations! We would like to offer you the BI Executive role at Papier and would be very excited for you to join the team. 
+
+Your annual gross salary would be £45K alongside all other Papier benefits (monthly cultural allowance, a fully stocked fridge, free Friday lunches when we get back to the office, 25 annual vacation days, etc.). The role also offers lots of opportunities for growth and development. 
+
+Should you accept the role, an official offer letter will be provided to you. 
+
+I would like for us to catch up and discuss your thoughts by the end of this week - we can then also pick up on the start date. Please let me know if that works for you and I am happy to answer any questions you may have in the meantime. 
+
+Thanks, 
+
+Dave
+
+**Sending offer letter**
+Hi Eve, 
+ 
+Attached is your official offer letter. Could you please confirm that you are happy to accept the offer on the terms and conditions outlined? 
+ 
+Once you've formally accepted the offer, we can get started on the contract. For this, we'll need your home address as well as the start date (we can catch up on the start date tomorrow). 
+I'm cc'ing Simon, our Head of HR, onto the email chain. He can help answer any more detailed questions you have about the contract and/or working at Papier.  
+ 
+Feel free to reach out with any questions you may have! 
+ 
+Thanks, 
+
+Dave 
+
+**Candidates summary to Execs**
+Hey Tony,
+ 
+I've summarized the main feedback of Evelyn below. Let me know if you need more context to pre-wire Taymoor? 
+ 
+What we’re looking for: Someone who can own BI projects from start to finish - from requirements gathering with stakeholders to developing creative technical solutions. 
+ 
+Why we think Eve is a great fit for the role:
+Technical Eve’s SQL skills are very strong as shown in interviews and the technical test. She also has a lot of intellectual curiosity - she revisited the test, learned more about attribution modeling, and answered the questions she couldn’t answer the first time around. This gives us confidence that she can independently take on challenging technical projects. In addition, Eve is a great professional fit as she seemed genuinely excited about the type of work we do and wanted to learn more about the different technology, business challenges, and data.
+Cultural fit Eve is extremely nice, loves the Papier brand and everyone agreed she would fit well within the Papier culture.
+Stakeholder management and communication Joe, Tony, and BI agree communication and presence isn't Eve's current strength and she will need coaching in this area. However, we believe she communicates well enough to work with stakeholders effectively and independently, and we have already seen that she communicates more strongly as she gets more comfortable in interviews. 
+Thanks, 
+ 
+Dave
+
+**Selling the candidate to execs**
+Hi all, 
+ 
+Thanks for this Taymoor. The feedback is in line with the impressions that Tony, Joe, Will and I got which is that Eve is technically very strong whilst communication/presence isn't Eve's current strength. 
+The BI Executive will need to collaborate with stakeholders on an ad-hoc "creative problem solving" basis and we are confident that Eve's verbal communication skills are strong enough to satisfy this requirement. Over time, we will work to develop her communication skills further so she can eventually lead larger meetings and projects with more confidence, but we do not believe this would hinder her current role or contributions. 
+ 
+Will and I are still very excited about Eve and we recommend having her join the team. @Anthony Rawlinson Are you OK for us to move ahead and offer Eve the budgeted £45k annual salary? Happy to discuss the feedback or other questions/concerns in person. 
+ 
+Thanks, 
+ 
+Dave 
+
+
+## Other
+Hiring is important because the wrong decision decision wastes: 
+- 4-5 months of salary
+- Hiring / recruiter costs
+- People need to train these new hires
+- New hires are unproductive at first
+
+What execs tend to focus more on: 
+- Career ambitions
+- Communication
+- Working with stakeholders
+- Getting people out of their shell 
+- Leadership
+- Owning a room
+
+## Job description
+Description
+Founded in May 2015, Papier is a fast-growing, London based start-up, which has raised ~£18.5 million since launch and is changing the face of online personalisation. Papier offers a sophisticated user experience and delivers beautifully designed products, on-demand and all over the world, from personalised greeting cards to wedding invitations and stationery.
+
+Papier is looking for an experienced Business Intelligence Executive who will report into the Business Intelligence Manager. The role will support the business in achieving profitable growth by developing best in class analytics solutions that put data at the heart of every decision. You will join a small, centralized BI team supporting 15 different teams across the company where over 75% of the business use our BI tool, Looker, on a weekly basis. The role is ideal for an ambitious self-starter who is interested in developing analytics solutions across diverse data sets in a cross-functional and fast-paced environment. 
+
+Responsibilities 
+Translate complex data into insightful, actionable and strategic data solutions which empower Papier to make data-driven decisions
+Maintain and improve our reporting to maximise effectiveness and accuracy
+Collaborate with stakeholders to understand their challenges, priorities, and deliver creative solutions
+Develop new approaches and methodologies that challenge and improve our current thinking and reporting and support the long term strategic goals of the BI team
+Support internal stakeholders with reports and ad-hoc data requests 
+Educate and train users on our data and analytics tools 
+
+Requirements
+2+ years of relevant experience in a BI (or similarly transferable) role 
+Advanced SQL ability
+Comfortable multi-tasking, prioritizing and managing multiple projects
+Outstanding critical thinking and problem-solving skills with great attention to detail
+Strong interpersonal and communication skills - comfortable working directly with business teams and tech teams alike 
+Experience developing in BI tools (Looker preferred)
+Experience with modern data tools such as a cloud data warehouse (Redshift/Snowflake/Bigquery), Github, dbt, Python are all a plus but not required 
+Experience and/or knowledge of ecommerce and website data desirable 
+Motivation to work in a fast-moving entrepreneurial environment
+Quantitative degree
+
+Benefits 
+Competitive Salary
+Camden office location (the team are currently working from home due to Government restrictions)
+Enrolment into Papier Pension
+Enhanced Parental Leave Policies
+Cycle to Work Loan Scheme
+£40 per month cultural allowance
+Personal Stationery Allowance
+Generous Staff Discount
+Access to Mental Health & Wellbeing Resources
+Team Lunches & Trips (including delicious lunches sent to our homes to share together when we can't meet in person)
+Friendly and fantastic team!
 
 
 

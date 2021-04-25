@@ -14,34 +14,7 @@ What does “self-serve” in analytics mean to you?: https://discourse.getdbt.c
   - We can then work on it.
   - Let them know they can always reach out with small questions we can help with 
 
-## Onboarding more senior stakeholders 
-They will be less likely to want to simply learn Looker - they need answer fast. Get them to ask specific questions they can't find the answer to even when asking people e.g. in their team. 
-- Set up a call and ask questions. What are you trying to achieve? 
-- Know a lot about the context - there’s different ways of doing this. This will show X but has these caveats. This is another way of doing it
-- By jumping on a call rather than just answering the question, we can teach at the same time 
-
-## BI introduction call 
-- Hi - How are you? 
-- How have your first few weeks/days been? 
-- Introductions: 
-  - Joined the BI team in July last year as a BI manager 
-  - My main focus in that is working with stakeholders across the business and develop data solutions - primarily in our BI tool, Looker. And secondly, I am working a lot to improve the data infrastructure and make it more future proof. 
-- Their intro: 
-  - What will they be focusing on? 
-  - Where were you before this role? 
-  - What is your BI experience? 
-- Let’s talk a bit about BI 
-  - We’re two people: me and Will Huntoon who is Head of BI. Today Ibu is leaving and we’re actively hiring for a backfill. 
-  - Our main goal is simply to enable decision making through the business using data
-- Let me share my screen to give you more of an idea of what that looks like in practice. 
-  - Data infrastructure: we have all these tools used by teams. We get this raw data into our data warehouse. We transform it into usable analytics tables and then we model it to be used in Looker for the business
-  - The way we work is that we meet every start of the year with key stakeholders and we create a 12 months BI roadmap that we work on within the team. We allocate projects into quarters and each quarter we work on either roadmap projects or ad-hoc projects. These ad-hoc projects come to use through a ticketing system called Notion. 
-  - That’s roughly how we work - I don’t know if that all made sense? 
-
-
-
 ## Elements of user adoption
-
 ### Data availability
 Make sure that Looker has the data available for end users so they can answer their questions. This often means helping the business out by building initial dashboards. It also consists of ensuring the data is complete and current  
 

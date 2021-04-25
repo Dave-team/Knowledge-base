@@ -23,6 +23,8 @@
   - Snowflake Inspector
   - Permifrost
 - Data visualization: Dash, plotly, bokeh
+- Hightouch reverse ETL 
+- Census reverse ETL
 
 ### Stitch
 - Free plan based on row counts 

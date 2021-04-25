@@ -92,6 +92,11 @@ Once I have the context, I can establish myself as a business partner - the goal
 - Good / Better next time 
 - Review content validator 
 
+## Quarterly Sprint revision
+- Duplicate current sprint
+- Move duplicate to Archive
+- Rename current sprint to the right quarter 
+
 ## Roadmap 
 - Meet people who might have something, even if we don’t know specifically yet. The goal is to keep the relationship warm and to make sure people feel heard 
 - Meet with Tech after the roadmap is completed as things will have implications on their team 
@@ -283,7 +288,7 @@ Data Analyst: Data Analysts perform deep insight work, such as determining the r
 
 ### Sources for work 
 - Communication with the business - both formal and informal that can lead to projects or insights. Ask them what they have in the roadmap, whether I can support in that or whether there is something else I can help with during catch-ups. 
-- Being up date on business initivates can spark investigations where data can help. Work closely with the business team to understand priorities, changes made and strategy of the business. Know the marketing calendar so data peaks won’t surprise you. Instead, you can be proactive and directly measure the impact a certain campaign had to then report this back to marketing. 
+- Being up date on business initivates can spark investigations where data can help. Work closely with the business team to understand priorities, changes made and strategy of the business. Know the marketing calendar so data peaks won’t surprise you. Instead, you can be proactive and directly measure the impact a certain campaign had to then report this back to marketing. E.g. the business starts to hire a Head of Retention or a business focus is Brand Awareness - advise on how data can support. 
 - Explore something that could lead to insights. Look where no one else is looking. People often don't know what's available until you show it to them
 - BI platform optimization - testing, automation, documentation, identify best practices and new tools
 - Constantly keep your ears open for things that people want built and add these items to the backlog
@@ -366,6 +371,47 @@ When you catch a problem and correct it, notify the stakeholders in case they al
   - High level alert: we noticed this is an issue - we’re looking into it 
   - When providing more context: Flesh out the impact and context with Tech first and then communicate the scope of the issue: This impacts X&Y, but it doesn’t touch anything else. Next steps are YY and we’ll keep you updated here 
 
+## Onboarding
+BI introduction call script
+- Hi - How are you? 
+- How have your first few weeks/days been? 
+- Introductions: 
+  - Joined the BI team in July last year as a BI manager 
+  - My main focus in that is working with stakeholders across the business and develop data solutions - primarily in our BI tool, Looker. And secondly, I am working a lot to improve the data infrastructure and make it more future proof. 
+- Their intro: 
+  - What will they be focusing on? 
+  - Where were you before this role? 
+  - What is your BI experience? 
+- Let’s talk a bit about BI 
+  - Team structure: centralized supporting the business 
+  - We’re two people: me and Will Huntoon who is Head of BI. Today Ibu is leaving and we’re actively hiring for a backfill. 
+  - Our main goal is simply to enable decision making through the business using data
+  - Operating model with the business - we collect requirements, deliver incremental, collect feedback and repeat
+- Let me share my screen to give you more of an idea of what that looks like in practice. 
+  - Data infrastructure: we have all these tools used by teams. We get this raw data into our data warehouse. We transform it into usable analytics tables and then we model it to be used in Looker for the business
+  - The way we work is that we meet every start of the year with key stakeholders and we create a 12 months BI roadmap that we work on within the team. We allocate projects into quarters and each quarter we work on either roadmap projects or ad-hoc projects. These ad-hoc projects come to use through a ticketing system called Notion. 
+  - How we work:
+    - Ticketing system
+    - Quarterly reviews
+    - Future team focus
+  - That’s roughly how we work - I don’t know if that all made sense? 
+
+## Partner meetings
+- What data do we/they need? 
+- How do we extract or send this data? SFTP, S3? 
+- Replication frequency
+- Clarify next steps in an email 
+- Clarify who the main POC is 
+
+**Fivetran meeting**
+When working with a vendor, have regular (e.g. monthly catchups). Make sure to track their performance. If and when something looks odd, you’ll have proof and you can ask for refunds when reasonable.
+
+Monthly catchup questions:
+- Does the team have questions?
+- Any performance issues? E.g. connectors not working? 
+- How is MAR looking? Any outliers? Are the MAR in Looker equal to MAR in Fivetran account?
+- Any new projects our end? E.g. new connectors / resyncs, etc
+- Anything else from either side? 
 
  ## Other
  ### Data readiness

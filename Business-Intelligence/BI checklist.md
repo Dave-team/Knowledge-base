@@ -17,11 +17,37 @@
   - Don’t create new logic in a CTE when that logic can also be build into a source view. Join it in instead. 
   - Aim to have logic in SQL rather than dimensions if data is being repeated across files 
 
+## Project kickoff
+- Check in with business stakeholder over Slack
+  - Is this project high priorty still?
+  - Is now a good time to kick it off? 
+  - Who should be involved? 
+- Get the required context prior to sending a kickoff email as you want to include the relevant context in the email. Ideally: 
+  - They send existing reporting and why it doesn't work. If they do something manually now, understand what they do and how important is it to get this right vs nice to have. Ideally get a copy of their reports. This saves me from making assumptions and spending lots of time going down initial rabbit holes.  
+  - I get a clear sense of impact from this which needs to be communicated
+  - I look into the data structures and form an initial opinion
+  - Catch-up call to confirm it all makes sense and ask whether there are any curveballs/additional complexity to be aware off prior to the session. Goal is to have as few as possible surprises. 
+- Check in with other critical stakeholders over Slack 
+  - We want to kick-off this project - does this week work for you? Who else should be involved from your team? Fundamentally, you want to check in with key stakeholders who are critical to the project's success and you don't want them to explode as that would blow up the project. 
+- Write up email to all stakeholders: 
+  - Validate the email makes sense with key stakeholder
+  - We want to kick of project X. The goal is to achieve Y and we're doing this because of Z, it likely involves X
+  - This meeting is to discuss X - what we discuss is always pending on the project in question. 
+  - Let me know if any questions or concerns beforehand. 
+  - This email helps pre-wiring, gives people time to think about it, involve others who might need to be there and generally avoids questions and speeds up the project.
+- Schedule meeting + agenda in description
+- If there are any concerns, check in with those people. Are these things we’d need to figure out before kick-off? 
+- Those who didn't respond to the invite, quickly reach out over Slack and ask if they're okay for the kickoff 
+- Follow-up with what I believe we agreed and the follow up actions. Be very explicit in follow up and make sure that everything is obvious and can’t be worked around
+- For recurring meetings (e.g. quarterly roadmap updates) - email people saying when we're doing these rather than individually Slacking people. This adds context to when they get an invite in their inbox. 
+- With Tech, aim to not put in a ticket and Slack Joe first - he might know an easier solution and a ticket won't be looked at for a while. 
+
 ### Requirements gathering
 - What is the question we are trying to answer / problem we're trying to solve?
 - What is the impact of this question and how will it help the company? (This can be different from what's asked for)
-- How big is the problem? E.g. how long does it take for you to do this? How is that time spend? Is it in the analysis or something else? 
-- Clarify what it'll take for us to build this and what the consequences of that could be. There might be better ways and sometimes, the current solution isn't half bad. 
+- How big is the problem? E.g. how long does it take for you to do this? How is that time spend? Is it in the analysis or something else? Confirm whether it's a nice to have or really important and impactful. Priroritize and plan for accordingly. 
+- When do they need this by? 
+- Clarify what it'll take for us to build this and what the consequences of that could be. There might be better ways and sometimes, the current solution isn't half bad. Key also is to think if someone else already has this - that should be the first direction too. 
 - How and when will you use the data? E.g. in a dashboard shown in weekly meeting, to import into email tool, to put in slides, to send as schedule, to create alerts from, to put into spreadsheet that then does further transformation?
 - Predict what can be build in Looker within certain timeframes and confirm whether that would be a good solution for the stakeholder. 
 - Who will be interested in the data and needs access? 
@@ -32,6 +58,12 @@
     - How important is it to get perfect? 
     - Any downstream effects? 
 
+## Senior execs analytics support
+They will be less likely to want to simply learn Looker - they need answer fast. Get them to ask specific questions they can't find the answer to even when asking people e.g. in their team. 
+- Set up a call and ask questions. What are you trying to achieve? 
+- Know a lot about the context - there’s different ways of doing this. This will show X but has these caveats. This is another way of doing it
+- By jumping on a call rather than just answering the question, we can teach at the same time 
+
 ### Anlytics questions 
 Finding out what analytics is possible:
 - What data do we have / can we easily get / would be more difficult to get but still possible. 
@@ -40,6 +72,13 @@ Finding out what analytics is possible:
   - What can we then do with this data - any metrics? 
   - What can we not do with this data that they might want to see? Explain what it would take to get to that level of analysis - e.g. modelling, work with Tech etc. 
   - Always close of by asking what KPI’s does the stakeholder want to see? 
+
+## Working with Tech
+- Think from the perspective of the production database
+- They'll work hard to do as little as possible 
+- They tend not to consider backfills so consider what options we have and if we need something from Tech
+- Think about the data structure - e.g. point in time fact tables vs dimension tables that would reflect all instances (i.e. if change happens, everything updates rather than keeping accurate historical records)
+- If something isn't obvious and not too high impact, it's hard to get prioritized 
 
 ### Delivery process
 - Have ticket with requirements. Potentially detailed with:

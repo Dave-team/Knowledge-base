@@ -4,7 +4,6 @@
 - Amazon shareholder letters
 - Berkshire Hathaway shareholder letters
 
-
 ## My guidelines
 - Speed matters: work fast and do things right now - don't delay. Don't say you will do, just do first. 
 - Quality matters: never assume and always check
@@ -106,7 +105,9 @@
 
 **Running meetings**
 - Thank the participants for joining the meeting 
-- Re-iterate the goal and agenda of the meeting (they should already know this from my pre-wiring)
+- Re-iterate the goal and agenda of the meeting (they should already know this from my pre-wiring). This is a summary of the email/agenda description
+- Quickly validate that people agree with the context 
+- Move onto the open questions
 - Start the next meeting with the action items of last meeting
 - Tips to host a good meeting: 
     - Use the whiteboard to brainstorm, keep track of important items discussed
