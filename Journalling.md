@@ -1,4 +1,5 @@
-## Journal
+# Journalling
+## System
 - Sublime text txt file that is backed up to Github 
 - Each month is a different .txt file 
 - Top of file: focus of things I need to work on 
@@ -8,6 +9,17 @@
 - Each month I might summarise the main findings in a Markup file and push to the knowledge base
 - Alternative app: Day One 
 
+## Five minute journal 
+Morning 
+- I am grateful for
+- What would make today great? 
+- Daily affirmations. I am... 
+
+Night
+- 3 amazing things that happend today 
+- How could I have made today even better?
+
+## Questions
 Questions to answer in a journal: 
 - How do I feel today? This can be split between happiness levels, stress and energy. Rate between 1-10 and provide notes. Go deep and ask why 
 - What am I grateful for? (a good proxy is to aim for 3 things each though to force the thinking)

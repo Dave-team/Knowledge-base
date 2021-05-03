@@ -145,21 +145,6 @@ Speaking with execs: they won’t know the details so avoid forcing them to give
 - What needs to happen? Have a high level understanding of how I'd solve this. 
 - When does it need to happen? 
 
-**Prioritization**
-- Often coming from when certain projects happen / when other teams work on projects. This is based on meetings.
-- Some things are nice to haves and are put in where there is a gap. 
-- For high impact and time sensitive teams, ask them to fill in the timelines. Often, it doesn't really matter and it's more a case of when people can work on it. 
-- If needed, set up a call with the team and prioritize the projects. 
-- Sometimes, projects are depending on e.g. Tech and then they are also likely to be pushed back
-- Anything we don’t really know how to do / anything that is unclear- move towards later 
-- Between projects that are not urgent or clearly high priority, make an estimate on what could have larger impact and prioritize this after confirming with manager. Can also help to think about timelines: what can be more useful now versus what would be more useful in the future? 
-
-If someone wants to move a project forward: 
-- Are you working on it?  
-- What you could get easily, is that not enough?
-- What does that not allow you to do? The business case and impact needs to be high to change our priorities
-- We can squeeze it in if it's small - set up a ticket and we can scope. 
-
 **Plot projects on an excel BI roadmap by quarter**
 - Anything we’d want to do, but not sure how: italics 
 - When a project is likely to take longer (e.g. tech) - extend to the next period 

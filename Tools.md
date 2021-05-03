@@ -163,6 +163,14 @@ Torrents
   - https://eztv.wf/
 - Always use a VPN!  
 
+## Streaming websites
+- https://www5.himovies.to/ movies and docus
+- https://rainierland.to/ movies and docus
+- https://soap2day.to/ also series
+- https://123moviesfree.net/
+- https://documentaryaddict.com/
+- 
+
 Spotify 
 - Save albums 
 - Save artists for references 

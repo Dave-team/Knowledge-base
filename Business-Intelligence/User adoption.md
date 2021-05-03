@@ -114,10 +114,21 @@ These questions are rated on 1-5 scale:
 5. Strongly Agree
 
 **How do you use data today?** 
--	I rely on data to make decisions in my job
--	I can easily and independently answer my own questions with data
--	I am confident that I understand the meaning of the metrics and the data fields I use
--	I trust the data 
+- I rely on data to make decisions in my job
+- I can easily and independently answer my own questions with data
+- I am confident that I understand the meaning of the metrics and the data fields I use
+- I trust the data 
+- I am satisfied with my ability to use Looker
+- Looker has reports that are useful to me
+- Looker has reporting on everything I want
+- It’s easy to find reports on specific things in Looker
+- I am confident that I understand the meaning of the metrics and data fields I use
+- I trust the accuracy of the reporting in Looker
+- I am satisfied with the speed that my data questions are answered
+- If you could wave a magic wand and change one thing about our data work at Help Scout, what would it be? (optional)
+- Anything else you would like to add? (optional)
+- What department are you in? (optional)
+- What’s your name? (optional)
 
 **How is the analytics team doing?** 
 -	The analytics team is a reliable resource of information about our data 

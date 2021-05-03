@@ -317,6 +317,7 @@ I am a social creature. I'm interested in others, want to know them better and I
   - New discoveries: Book I read, series I saw, etc. 
   - My experiences in life 
   - Any hook from a conversation: think more often about the various things in my life so I have some form of prep to speak about my life
+  - My opinions on topics
 - Always be prepared to answer questions. 'How are you', 'What about you?' (when they return a question) and any other often asked questions. 
 - Safe bets: 
   - Travelling

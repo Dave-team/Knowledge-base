@@ -1,32 +1,33 @@
-# Engery
-## General
-- Aim to have energy after work. It's often not because of our mental energy we put into work, it's because of how we've done it. A measure of success is how tired we are NOT at the end of the day. Tiredness comes from stress, tension, worry and frustation. 
-- Rest is recharge and repaid - not doing nothing 
+# Energy
+## How to minimize tiredness
+**Approach work calm**
+We tend to not be tired because of how much we do, but how we do it. Tension, stress, worry and frustation cause mental fatigue. The best solution therefore is to remain calm during the day - meditation and mindful breaks can help. In addition, don't purely sprint at work where I do a 3 hour nonstop highly productive session. We can only be productive for so long in a day. Doing a big sprint will cause tiredness earlier (before end of day). Instead, work according to the Pomodoro technique - work on something for 25 minutes and then take a 5 minute break. Think of this as recharging to have a more productive overall day, not as doing nothing. 
 
+**Diet**
+Drink lots of water during the day. 
+Decrease carbs, increase fats. 
+Eat more fruits and vegetables.
+Regular healthy snacks that keep a consistent flow of energy?
 
-## Eliminate tiredness in afternoon
+**Change of scenery**
+Go for a walk outside - also gives fresh air and sunlight (vitamin D)
+
+**Social interactions**
+Speak to people at work not about work. This change of topic is refreshing for the brain. 
+
+**Visualize yourself being energetic and enthusiastic**
+
+## How to combat tiredness
 - Nap
 - Drink a lot of water at once
-- Drink green tea
-- Eat less carbs and more fats for lunch 
 - Listen to motivating music
-- Go for a walk
-- Meditate 
-- Do breathing excercises 
-- Do some physical activity 
-- Stretch
-- Bulletproof coffee
-- Change environment for inspiration
-- Drink coffee around peaks of productivity. Aim for higher peaks rather than trying to fight the tiredness
-
-## Solutions to tiredness
-- Nap
-- Drink lots of water at once
-- Go for a walk
-- Do something else entirely that switches the brain
-- Breathing excercises
-- Do some physical excercises 
-- Mindful breaths
-- Get away from the screen and e.g. sit in the kitchen, on your phone, reading a book etc. 
-- You want stable distractions from work. Eg Reddit Twitter Instagram - they actually do a good job with this
+- Excercise: 
+  - Go for a walk
+  - Push-ups, burpees etc. 
+  - Strech
+- Meditating / breathing excercises 
+- Caffeine 
+- Do something else:
+  - Change environment for inspiration
+  - Chat with a friend, read a book, clean, do laundry, read Reddit/Instagram/blogs etc. The goal here is to get the mind off work and focused on something else entirely. 
 

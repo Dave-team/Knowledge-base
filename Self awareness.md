@@ -81,6 +81,10 @@ I find it hard to understand my own feelings and find that I'm am often slightly
 - I tend to consider what I say deeply - by the time I'm ready to speak the topic has moved on - I need more time to speak up
 - I don’t want to interrupt others 
 - It's easy for me to just listen in and become a passive observer of the conversation
+- Group dynamics are hard to manage
+- Fast pace in topic changes
+- Less depth of topics
+- Happy to listen and feel fine but aware that I'm not necessarily contributing much and there is a feeling that this lack of input causes people to not engage 
 
 Believing that other people are more important and therefore always doing what others wanted and putting their needs above our own. And then avoiding conflict because she felt bad when others are upset with her.
 

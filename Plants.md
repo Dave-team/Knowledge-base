@@ -37,6 +37,20 @@
 - Only water when the soil is completely dry
 - Don't allow the plant to stay wet 
 
+*Succulents*
+- Water sparingly - only when entirely dried out. When watering, give them loads as they'll then quickly dry out again. When it's hard to water because of the shape of the plant, pot in a pot of water instead. 
+- They want lots of light - full sunlight is also just fine
+- Turn the plants regularly such that each side gets a similar amount of sunlight
+
+
+
+*ZZ plant*
+- Light room outside of direct sunlight 
+- Needs little watering - the soil needs to be just moist and the top 5 cm should be dry between waterings
+- Feed once a month from spring to late summer
+- Dust the leaves to allow sunlight in
+
+
 ## Potting 
 - When receiving a plant, let it get climatized
 - After a few weeks, check the roots
@@ -102,6 +116,8 @@ Small plants
   - Hortology - would probably prefer Patch
   - Conservatory Archives 
   - Leaf Envy - smaller than Patch but seems well priced
+  - surrealsucculents
+  - cactusshop
   - Papaya Plants
   - The Stem
   - Beards and Daisies

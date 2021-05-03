@@ -17,6 +17,49 @@
   - Don’t create new logic in a CTE when that logic can also be build into a source view. Join it in instead. 
   - Aim to have logic in SQL rather than dimensions if data is being repeated across files 
 
+## Prioritization
+BI work on a high level is split between ad hoc requests and roadmap projects. These different types of work need to be balanced. 
+
+**Data errors / bugs** 
+Highest priority. When someone knows something is broken, it means they look at it and fixing it will have positive impact. These also tend to be quick fixes 
+
+**Ad-hoc tickets**
+These are the smaller requests you need to knock out day by day to get people the numbers they need. Could be a small, one off report, an update to a dashboard or a simple Excel analysis. These tend to not be particularly difficult, but if you aren’t careful they can eat up all of your time.
+
+The key here is to challenge the use case: 
+- Can they ask someone who has built something similar in the past? 
+- What does the current solution not allow them to do? 
+  - Is it better to just do this manually for now (e.g. lots of development work or doesn't fit in current structure)?
+  - Is this worth doing (impact vs effort)? We'd only want to do things that are high impact.
+- Do they need this now or can it wait? 
+
+If we still want to do it: 
+- Scope out how long they should take first thing in the morning. 
+- If it's <2 hours, do it first thing.  
+- If it takes more research, consider the urgency, otherwise put it in the backlog and communicate with stakeholder. Particularly chunky projects can also move back into the backlog.  
+
+**Roadmap projects**
+The projects you actually want to be working on as they are working towards the business's strategic priorities. Could be a new dashboard for a team that hasn’t been getting as much attention as you’d like, incorporating a new data source into your data model or a comprehensive deep dive into a question the business needs to answer. This is the non urgent but very important aspect of the job. This is where your team can have the most leverage and highest impact. Try to keep this to 80/20, whenever there is nothing urgent, allocate time for the team to work on these projects. Prioritizations: 
+
+- Following timelines of the business: e.g. marketing running campaigns in month X > make sure data is ready by then
+- Dollar impact: potentially influencing important decisions vs nice to have (these can be quick wins to push between projects)
+- Following data teams strategy: the ultimate goal of the BI team is to allow people to make decisions. Reliable infrastructure is crucial in this 
+- Think about timeline of usefulness: is this important now or will it be more important in the future? 
+
+If it isn't obvious: 
+- Make a recommendation and discuss with manager
+- Ask the team to fill in the timelines. E.g. PM to fill in timelines as they work according to a schedule. Finance has a clear view too. Often, it doesn't really matter and it's more a case of when people can work on it. 
+- If too much on the roadmap across teams, cross functional prioritization session. 
+
+**Data governance**
+This is the stuff you do to keep the lights on and data flowing through all your systems. This can mean debugging an ETL error, optimizing your Redshift cluster or performing manual csv uploads. Data governance is the kind of work that no one notices when you do well, but EVERYONE notices when you don’t. To that extend, make sure the necessary work is done on this front and communicate the efforts more widely. 
+
+**Other guidelines**
+- Projects that require cross functional project management will take long and should start early, if they're high impact. Large ambigious projects should be pushed back if the need isn't large enough as they're unlikely to get anywhere otherwise. 
+- Projects without a clear goal should be pushed back - they rarely lead to impact and take up iterations of work. 
+- Anything that we don't really know how to do - either put in a scoping ticket or move it towards later 
+- Set priorities but also be realistic and flexible - we may not always have the full context and then the teams will reach out. And priorities change within the business so we need the ability to change approach. 
+
 ## Project kickoff
 - Check in with business stakeholder over Slack
   - Is this project high priorty still?
@@ -45,10 +88,11 @@
 ### Requirements gathering
 - What is the question we are trying to answer / problem we're trying to solve?
 - What is the impact of this question and how will it help the company? (This can be different from what's asked for)
-- How big is the problem? E.g. how long does it take for you to do this? How is that time spend? Is it in the analysis or something else? Confirm whether it's a nice to have or really important and impactful. Priroritize and plan for accordingly. 
-- When do they need this by? 
-- Clarify what it'll take for us to build this and what the consequences of that could be. There might be better ways and sometimes, the current solution isn't half bad. Key also is to think if someone else already has this - that should be the first direction too. 
-- How and when will you use the data? E.g. in a dashboard shown in weekly meeting, to import into email tool, to put in slides, to send as schedule, to create alerts from, to put into spreadsheet that then does further transformation?
+- How big is the problem / How important is this? Does knowing the result of this analysis materially affect the company? Do we have an estimate of how much? E.g. how long does it take for you to do this? How is that time spend? Is it in the analysis or something else? Confirm whether it's a nice to have or really important and impactful. Priroritize and plan for accordingly. 
+- When do they need this by? If there is a deadline, that will impact priority. Here, also try to get to know whether there are dependencies involved 
+- How accurate do you need the answer to be? Making something approximately correct can save lots of time
+- How feasbile is this to be implemented as requested? Clarify what it'll take for us to build this and what the consequences of that could be. There might be better ways and sometimes, the current solution isn't half bad. Key also is to think if someone else already has this - that should be the first direction too. 
+- What type of end result are you looking for? How and when will you use the data? E.g. in a dashboard shown in weekly meeting, to import into email tool, to put in slides, to send as schedule, to create alerts from, to put into spreadsheet that then does further transformation?
 - Predict what can be build in Looker within certain timeframes and confirm whether that would be a good solution for the stakeholder. 
 - Who will be interested in the data and needs access? 
 - Any visualization requirements? 
@@ -57,6 +101,23 @@
     - Are we testing if something is even possible at all? Should we MVP? 
     - How important is it to get perfect? 
     - Any downstream effects? 
+
+## PR review checklist 
+- Does the table run? 
+- Does primary key constraint hold? : count(*), count (distinct PK should be the same)
+- Check the joins: how many rows in the newly created table? Make a comment of that. Then, start with the FROM table. How many rows? Comment that. Then add each join to it and keep commenting the rows to see if something changes. 
+    - If there are differences in row count, it could be a timing issue. Look into data quality dashboard and see if the tables are up to date. Perhaps the DQ dashboard shows a potentially different reason why the data might be out of sync? Otherwise, look into the cases that are different and see what characteristics they have 
+- Go into the explore and run the data - does this make sense?
+- Segment the data, compute aggregates and compare between dev and prod. This might mean we’d need to get this data into Excel to compare more accurately 
+- Are the row counts and min and max values between prod and dev the same or explainable? 
+- Spot check a few values to sanity check the logic of the model  
+- Depending on the changes introduced, stress test these changes and see if anything breaks anywhere. 
+- Never allow untested code to go into production. If you don’t have existing reports to replicate, talk to the end- user and ask about their feelings of the data 
+- Be critical in the review - if something looks weird - mention it. Look for: 
+  - consistency
+  - good user experience
+  - understand how it fits in the model and if there are better ways 
+  - check that there are no downstream effects 
 
 ## Senior execs analytics support
 They will be less likely to want to simply learn Looker - they need answer fast. Get them to ask specific questions they can't find the answer to even when asking people e.g. in their team. 
@@ -74,6 +135,10 @@ Finding out what analytics is possible:
   - Always close of by asking what KPI’s does the stakeholder want to see? 
 
 ## Working with Tech
+- Tech often thinks about outliers and edge cases that complicate things. Key is to keep it simple and my role is to put it back on track to feasible solutions that could potentially be implemented relatively rapidly. 
+- Think through what a simple solution could be - if historic data by default isn’t accurate, then don’t complicate it and aim for simple logic that can be communicated and assumed without too much complexity. 
+- Make more use of Coaching questions in these technical sessions - ask for context: what do these things mean? Why do we need them? Can’t we just do X? 
+- Also, use coaching questions back to Tech: what do you think what a good solution could be given these complexities? Try to avoid going down a rabbit hole
 - Think from the perspective of the production database
 - They'll work hard to do as little as possible 
 - They tend not to consider backfills so consider what options we have and if we need something from Tech
@@ -85,7 +150,7 @@ Finding out what analytics is possible:
     - List of fields
     - Mock-up/wireframe of dashboard
 - Sign this ticket off with the stakeholder prior to development
-- Regular check-ins during the incremental build 
+- Regular check-ins during the incremental build. Key is to keep your stakeholders informed. Both on what you're doing with ad-hoc projects and during longer term projects. They might feel that a project for example shouldn't quite take as much time and we might overcomplicate it / it is not as high a priority to take so much time. 
 - Check-in prior to final delivery to ensure required impact is delivered. Always close the BI cycle. Remember to answer questions: 'So what' and 'Now what'? The end result should not be a deck summarizing findings, the end result should be recommendations or action items that lead to real impact. Closing the loop means pushing action items through, and following up after implementation to measure real impact.
 - When data doesn’t line up - inform stakeholders before they find out about the differences themselves 
 
@@ -340,7 +405,6 @@ Arrive in the morning and data isn't up to date
 - Bring this context back to the teams: do they know what's happening? 
 - Look again using the new context and do some deeper research
 - If not solved, involve the Tech team and/or the wider community and/or the vendors/sources directly.
-
 
 ## Changing important models
 - Be clear on timelines with stakeholders: clarify that something is priority + when you expect to be able to show something 

@@ -99,6 +99,51 @@ Let me know if you agree and if I'm missing anything!
 
 Dave 
 
+**Onboarding follow-up**
+Hi all,
+
+I wanted to follow up with key insights and next steps following the onboarding review.
+ 
+First of all, a massive thank you for sharing your onboarding experience and ideas for improvement. Your feedback has given us lots of inspiration; below are the key onboarding challenges you shared and our next steps.
+ 
+Key onboarding challenges  
+It’s not easy to find existing reports. As a new joiner, these existing reports help to understand the business and its key metrics. In addition, existing reports will speed up the time to insights, as most reporting use cases already exist somewhere.
+Current Looker docs don’t cater to all learning styles. Some prefer visual aids/screen share, others learn by exploring from existing reports.
+It’s challenging to build initial reports and insights - specific hurdles that arise:
+Which Explore/fields/filters should be used?
+How can we be confident the data answers the question accurately?
+Next steps
+There are a lot of follow-up actions from the onboarding review.
+ 
+In the short term, we will revise the BI introduction meeting with the new joiner and focus more on introducing Looker and available training resources. We’ll also create concise Looker onboarding docs, covering the business’s key metrics, an overview of our Explores, a glossary of key Looker terms, and an introduction to filters in Looker.
+ 
+In the short-to-medium term, we will introduce BI Office Hours. These are recurring opportunities to book 15-30 minutes with the BI team during which we can cover e.g. training, scoping of a data use case or validation of a report. In addition, we will set up centralized, validated Looker KPI dashboards with key Looks per team.
+ 
+In the longer term, we are planning to introduce a centralized space with key reporting use cases and corresponding reports, a BI newsletter, training videos, and an improved FAQ.
+ 
+We will also be sharing a recommended onboarding strategy to all Paps following the learnings soon.
+ 
+ 
+As we start to roll out these changes I'll be in touch with some of you to align on the onboarding process and to get a feeling for the effectiveness of the new initiatives. In the meantime, feel free to reach out with any questions or suggestions you may have.
+ 
+Thanks, 
+
+**Following up on open questions**
+Hi all, 
+ 
+There were two open questions from this week's session around attributing checkout answers to organic and paid:
+What is the 6 month average ratio between paid and organic session conversions across search and social mediums?
+Social: 36% of converted sessions are coming from an organic social medium
+Search: 28% of converted sessions are coming from an organic search medium
+How many sessions were converted by the different Search mediums in the last 6 months? This should inform whether we'd want to split current orders allocated to the 'Paid Search Non-Brand' medium between 'Paid Search Shopping' and 'Paid Search Brand' mediums as well.
+See the table below for the distribution of converted sessions in the last 6 months
+ 
+Let me know if this answers the open questions; whether you'd be happy for us to push the current proposed changes (following the slides) to live and whether we should add a ticket as a next step to further split the allocation of paid search orders. 
+ 
+Thanks, 
+
+Dave 
+
 
 ## Lookerpaps delivery 
 **LTV model**
@@ -416,6 +461,47 @@ Please let me know if there are any questions or concerns before we push this li
 Thanks, 
 
 Dave 
+
+**Changes to Executive Explore sign-off over Slack 1**
+Hey Tony - re the May campaign. We recommend keeping the Executive Explore as is. Manually excluding the Spend probably defeats the purpose of the Exec Explore being a source of truth for all Spend and adding a filter for Brand Spend would be a complex exercise with our current Exec Explore logic. 
+Impact on Trading 
+The Brand related Spend will be categorised in the ‘Other’ category 1. Because the campaigns target Stationery & Accessories products, we expect to see a drop in CPA for Stationery & Accessories Category 1 (as the Spend isn’t categorised into Stationery & Accessories Category 1). 
+The Campaign Performance explore can be used for more context around the Brand Spend - PM will be able to pull this data by filtering on ‘Brand’ Campaign Category 2. 
+Let me know if you agree with this approach and I’ll share it more widely in an email.
+
+**Changes to Executive Explore sign-off over Slack 2**
+Hey both, 
+Tony confirmed that we want to exclude the Brand campaign Spend from the Executive Explore. I think a good way of doing this is by creating a new Campaign Group 2 called ‘Brand Awareness’ (open to other suggestions)
+Currently, these campaigns would be categorised into ‘Brand’ campaign group 2. The issue with ‘Brand’ campaign group 2 is that this also includes e.g. Google spend on brand related keywords. By creating the new Campaign Group 2, we can easily filter out the relevant campaigns from the Executive Explore whilst still having the ability to report on them individually in e.g. Campaign Performance. 
+I double checked with Bhav and confirmed that the below naming conventions capture all relevant Brand campaigns - including those we ran in 2019 (which we’ll also exclude from the Executive Explore):
+YouTube -campaign name contains “Brand Video” 
+Facebook - campaign name contains “[SOCI[BRAND”
+Let me know if you think this is a sensible approach and if you any questions/concerns around it? 
+
+**Dynamic Ads changes approval**
+
+Hi all, 
+ 
+I've been working on changing how Spend (and Clicks) is categorized in the Executive Explore. This change will increase Spend by category and negatively impact blended metrics, such as CPA, in the Executive Explore. Even though I believe this is expected, I want to check if there any implications/concerns around this. See below for more details. 
+ 
+Change in the logic 
+In the current Executive Explore, all campaigns are categorized into Category 1's based on their Campaign Name. However, this doesn't accurately represent how Facebook metrics should be categorized. The updated Executive Explore will follow the logic:  
+Non-Facebook channels are categorized into Category 1's based on their Campaign Name 
+For Facebook: 
+If a Facebook ad is 'Dynamic', then Category 1 equals the Product Category 1
+If a Facebook ad isn't 'Dynamic' then the ad is categorized into Category 1's based on the Ad Name 
+This logic is similar to PM's In Week reporting; I worked with Bhav and Grace to compare the data and In Week matches the Executive Explore. 
+ 
+Impact 
+In February 2021, 'Other' Spend decreased by 67% because of this Spend now moving into categories. This has a knock-on effect on blended metrics such as CPA - see the table below for the CPA impact between new and old Executive Explore. Note that global metrics (i.e. not split by Categories) remain flat. 
+ 
+Let me know if there are any concerns and/or questions around this. 
+ 
+Thanks, 
+
+Dave
+
+
 
 ## BI development delivery 
 **Delivery of explore**
