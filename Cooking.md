@@ -9,11 +9,28 @@
   - Be mindful when eating 
 - Food becomes better with love: give it time to develop. Let it simmer for long. Let it marinade for long. 
 
-## Diet
+## Diet - vegetables
 - Add pickles to a dish for a acidid taste
-- A great way to increase veg intake is to simply roast or stir fry some veg. E.g. brussels sprouts, tenderstem brocolli, red onions, bell peppers, cauliflower
+- A great way to increase veg intake is to simply roast or stir fry some veg. 
 - Just save some cucumber and tomatoes on the side of a dish
 - A bigger salad on the side
+- Veg I like: 
+  - Brussels sprouts - season is all except summer
+  - Tenderstem brocolli
+  - Onions (red, brown) 
+  - Bell peppers
+  - Cauliflower - season is January - April
+  - Aspargus - UK season May - July 
+
+## Diet - fruits
+- Grapes - also nice frozen
+- Blueberries - main season in summer
+- Strawberries - it's a summer fruit
+- Watermelon - it's a summer fruit 
+- Tangerine - November to April
+- Orange - season is January - March
+- Banana 
+- Pears (especially in bakes)
 
 ## Cutting 
 **General** 

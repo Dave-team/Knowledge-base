@@ -60,3 +60,9 @@ General
 - Use Perspirex 3X a week
 - Use chalk powder for the feet to avoid sweaty feet 
 - Don't frown
+- Applying fragnance - where the body produces the most heat: 
+  - Spray wrist - lightly press them together- don't rub as that will cause the heat to waste
+  - Dab the wrists against the neck under the chin or jaw
+  - Chest if needed: only when it's suitable and not overwhelming
+  - 1 or 2 sprays 20 cm from skin
+  - Not on clothing
