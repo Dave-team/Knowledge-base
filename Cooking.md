@@ -9,6 +9,33 @@
   - Be mindful when eating 
 - Food becomes better with love: give it time to develop. Let it simmer for long. Let it marinade for long. 
 
+## Diet
+- Add pickles to a dish for a acidid taste
+- A great way to increase veg intake is to simply roast or stir fry some veg. E.g. brussels sprouts, tenderstem brocolli, red onions, bell peppers, cauliflower
+- Just save some cucumber and tomatoes on the side of a dish
+- A bigger salad on the side
+
+## Cutting 
+**General** 
+- Waving/rocking motion starting from top of knife
+- Hold with index and thumb on the steel  
+
+**Onion** 
+- Cut in half through root and peel
+- Cut once or twice horizontally until 1 inch from the root 
+- Slice in towards the root using tip of knife  
+- Turn the onion and cut into dice
+
+**Garlic** 
+- Cut the root off
+- Splash the garlic using the knife and peel 
+- Start chopping small 
+
+**Potatoes**
+- Cut a small piece on one side to make it flat 
+- Cut into slices 
+- Stack slices and cut into dice 
+
 ## Tips
 - Thaw meat by putting it in warm water within a ziplock bag and refreshing the water when it gets cold 
 - Beef mince can be defrosted in the microwave
@@ -40,3 +67,8 @@
 - Use koshet or sea salt
 - Only use flakey salt as final garnish on a dish 
 
+## Other
+At restaurants, focus on picking foods that are hard to make at home. E.g.: 
+- Pho
+- Sushi
+- Fried chicken

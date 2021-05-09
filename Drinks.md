@@ -1,8 +1,63 @@
 # Drinks
 
-## Whiskey / Bourbon
+## Whisky / Bourbon
+### My whisky reviews
+**Buffalo Trace**
+Not an actual review - great sweet light sipping bourbon and very affordable. Should be a staple. 
+
+**Wild Turkey 101**
+Color: 
+Nose: 
+Taste: 
+Finish: 
+
+**Glenmorangie Original**
+No actual review. I liked it - very much a soft entry whisky
+
+**Old Pulteney**
+Color: 
+Nose: 
+Taste: 
+Finish: 
+
+### Whiskies to try
+**Bourbon**
+- Makers Mark
+- Bulletin 
+- Woodford Reserve
+
+
+**Blends**
+- Monkey Shoulder
+
+**Light whiskies**
+- Dalwhinnie 15
+- Balvenie Doublewood 12 
+
+**Light but added complexity**
+- Aberlour 12 
+- Glenfiddich 15
+- Glenfarclas 12
+- Macallan 12 
+
+**Light peat/smoke**
+- Bunnahabhain 12 
+- Highland Park 12
+- Cragganmore 12
+
+**Peat/smoke**
+- Talisker 10 
+- Laphroaig 10 
+- Ardbeg 10
+- Caol Ila 12
+
+**Citrus whiskies**
+- Glenlivet 12
+- Glenfiddich 12
+
 ### Terminology
-- “Scotch”, properly called ‘Whisky’, is a whiskey that has been distilled and aged in Scotland.  
+- “Scotch”, properly called ‘Whisky’, is a whisky that has been distilled and aged in Scotland. The Scots spell it whisky and the Irish spell it whiskey, with an extra 'e'. This difference in the spelling comes from the translations of the word from the Scottish and Irish Gaelic forms. Whiskey with the extra 'e' is also used when referring to American whiskies.
+- Age - Tthe number just means the youngest age of any whiskey mixed to make that bottle.
 
 **Types of Whisky**
 - Single Malt Scotch Whisky means a Scotch Whisky produced from only water and malted barley at a single distillery by batch distillation in pot stills.
@@ -88,11 +143,12 @@ for not having it for a year it's pretty much how I remember it. 18 is still my 
 ### Other
 **How to drink whiksy**
 - Neat - probably best way overall
-- Iced - melting ice will result in a lot of water
+- On the ricks - melting ice will result in a lot of water
 - Few drops of water - this can be helpful to get some aromas out of the whisky or to make a particularly whisky a bit lighter
+- Straight up: shaken with ice and then poured into a glass.
 
 **Glassware**
-Key is to concentrate the nose for full aromas. Only use a tumbler when adding ice or when you don't care about tasting the whiskey. Otherwise, use: 
+Key is to concentrate the nose for full aromas. Only use a tumbler when adding ice or when you don't care about tasting the whisky. Otherwise, use: 
 - Glencairns
 - Copta
 - Brandy snifter
@@ -113,9 +169,17 @@ Key is to concentrate the nose for full aromas. Only use a tumbler when adding i
 - Glenlivet 12, Glenfiddich 12, other citrusy whiskys - palate cleansers. like chewing on a lemon in between bites. great to make a contrast instead of pairing, but also go well with grilled veggies or avocados. Corn on the cob.
 
 ## Rum
+### Rums I like
+- El Dorado 12
+- Diplomatico 
+
 
 ## Wine
-
+- Rioja: Campo Viejo
+Aldi: 
+  - Animus Douro
+  - Argentina Malbec - not great by itself only. Malbecs should go with food instead. 
+- Toto Loco
 
 ## Beer
 Lager
