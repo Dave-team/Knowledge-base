@@ -1,59 +1,6 @@
 # Drinks
 
 ## Whisky / Bourbon
-### My whisky reviews
-**Buffalo Trace**
-Not an actual review - great sweet light sipping bourbon and very affordable. Should be a staple. 
-
-**Wild Turkey 101**
-Color: 
-Nose: 
-Taste: 
-Finish: 
-
-**Glenmorangie Original**
-No actual review. I liked it - very much a soft entry whisky
-
-**Old Pulteney**
-Color: 
-Nose: 
-Taste: 
-Finish: 
-
-### Whiskies to try
-**Bourbon**
-- Makers Mark
-- Bulletin 
-- Woodford Reserve
-
-
-**Blends**
-- Monkey Shoulder
-
-**Light whiskies**
-- Dalwhinnie 15
-- Balvenie Doublewood 12 
-
-**Light but added complexity**
-- Aberlour 12 
-- Glenfiddich 15
-- Glenfarclas 12
-- Macallan 12 
-
-**Light peat/smoke**
-- Bunnahabhain 12 
-- Highland Park 12
-- Cragganmore 12
-
-**Peat/smoke**
-- Talisker 10 
-- Laphroaig 10 
-- Ardbeg 10
-- Caol Ila 12
-
-**Citrus whiskies**
-- Glenlivet 12
-- Glenfiddich 12
 
 ### Terminology
 - “Scotch”, properly called ‘Whisky’, is a whisky that has been distilled and aged in Scotland. The Scots spell it whisky and the Irish spell it whiskey, with an extra 'e'. This difference in the spelling comes from the translations of the word from the Scottish and Irish Gaelic forms. Whiskey with the extra 'e' is also used when referring to American whiskies.

@@ -394,6 +394,26 @@ Hey Tony. We’re planning Q2 and the two big projects for Finance are Royalties
 
 
 ## Announcement messages
+**Modeling issue in Looker**
+Hi all,
+
+The inaccurate Conversant Spend was caused by a data modeling fault in Looker. I will push the code fixes live EOD today to avoid Looker disruption. More context below.
+
+What happened
+A code change was made in March that reintroduced legacy Conversant code to Looker. This resulted in all Conversant metrics duplicating (including all historic Conversant data).
+The code change was introduced as part of a complex project involving many dependencies - it’s hard to replicate exactly what happened, but it’s a reminder that our current code review process isn’t watertight and needs improving.
+
+How will we avoid similar issues going forward?
+dbt data quality checks will allow us to spot issues like these before making changes to the code. This is still a WIP but remains a high priority.
+Improving our processes around managing and reviewing complex code changes. I’ll pick up the specifics around this with Will once he’s back.
+Apologies for the inconvenience this has caused - I’m aware this had had a large impact and a lot of time went into the investigation. 
+
+Let me know if there are any questions/concerns,
+
+Dave
+
+
+
 **Important FYI in Slack**
 Really Important FYI: 
 

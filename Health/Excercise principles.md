@@ -1,5 +1,10 @@
 # Muscle building 
 
+## Programs
+- Starting Strenght
+- Stronglifts
+- Kettlebell routines - Pavel Tsatsouline
+
 ## Principles
 - Lift consistently heavier, eat correctly and sleep well 
 - How muscles grow: by lifting, you are causing tiny tears in the muscle fibres. The body then repairs these (with enough rest and nutrients), and thereby adapts the muscles to better handle the stimulus that caused the damage (also called hypertrophy).

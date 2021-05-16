@@ -157,6 +157,8 @@ Becoming senior is about having overcome challenges and lessons learned and this
   - Consider when something needs to be done by - only work on it when it's relevant if it's not a huge impact.
 - Advise
   - Provide additional context that may change the output. Be an advisor towards business impact 
+- When working with people on an analysis, Think in terms of possibilities, workarounds and good approximations. It may not be perfect, but how can we help?
+- Go into a meeting prepared. What are they trying to do? Where did they get to? Provide higher level context, Review whether that’s ok, what the limits are, what better solutions could be, what workarounds are and next steps. Rather than judging something as not usable, take a step back and do some required analysis.
 
 **Initiative during meetings**
 - Always go into meetings with context of the problem at hand. If that context is missing, get it first (see Context and Strategy). Also know the high level things to look for around the problem to be solved.

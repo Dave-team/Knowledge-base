@@ -9,7 +9,7 @@
   - Be mindful when eating 
 - Food becomes better with love: give it time to develop. Let it simmer for long. Let it marinade for long. 
 
-## Diet - vegetables
+## Vegetables
 - Add pickles to a dish for a acidid taste
 - A great way to increase veg intake is to simply roast or stir fry some veg. 
 - Just save some cucumber and tomatoes on the side of a dish
@@ -22,7 +22,7 @@
   - Cauliflower - season is January - April
   - Aspargus - UK season May - July 
 
-## Diet - fruits
+## Fruits
 - Grapes - also nice frozen
 - Blueberries - main season in summer
 - Strawberries - it's a summer fruit
@@ -31,6 +31,44 @@
 - Orange - season is January - March
 - Banana 
 - Pears (especially in bakes)
+
+## Snacks 
+- Fruits (see Fruits section). E.g. bananas + peanut butter or cinamon + honey
+- Vegtables (see Vegetables section). E.g. raw veg with hummus
+- Salad
+- Nuts - e.g. with raisins
+- Greek yoghurt with fruits, granola, 
+- Rice cakes - e.g. with peanut butter
+- Oat bars 
+- Oatmeal with peanut butter
+- Crackers with cheese slices 
+- (dry roasted) Edamame beans
+- Roasted chickpeas
+
+## Meals to cook for friends
+**Dinner**
+- Roast
+- Lasagna with garlic bread and salad
+- Pasta (carbonara) 
+- Chili con carne
+- Baked mac & cheese
+- Baked ziti
+- Fajitas / tacos
+- Homemade pizza
+- Risotto
+
+**Breakfast**
+- Ham/Cheese quesadillas 
+- Big omelette variant
+- Pancakes
+- French toast casserole
+- Shakshuka 
+
+**Date meals**
+- Basically something I can cook and she enjoys
+- Salmon and asparagus
+- Homemade pizza
+- Pasta
 
 ## Cutting 
 **General** 

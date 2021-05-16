@@ -59,3 +59,14 @@ Yearly planning:
 - What challenges am I likely to face?
 - What needs to change for me to realistically achieve my goals?
 - What does this day, next year look like? 
+
+## List of things to be grateful for
+- Being healthy
+- Atomic muscle development genetics 
+- Living in Lodon - e.g. food options, exploration options, job options, art etc. 
+- Caring and loving family 
+- Small group of great friends
+- Living in the time that we do - being at such a turning point in history 
+- Available technology 
+- Being able to do a job I enjoy
+- Things I’ve done in the past - e.g. Hong Kong
