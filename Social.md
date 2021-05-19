@@ -1,6 +1,7 @@
 # Social
 
 ## Interaction principles
+- Goal is to learn about the other person and find common interests you can talk about
 - A human touch often goes a very long way, so don’t be afraid to touch. Especially when meeting someone and saying goodbye: shake hands, hug, kiss.  
 - The start and ending of an interaction is often key - 'Great to see you - you look good!' and then 'It was great seeing you - let's do it again soon'! 
 - Use people's names during interactions. 
@@ -10,65 +11,88 @@
   - When interacting, speak convincingly, articulate well, speak with volume, confidently and with a good deep voice. 
   - Make them feel good about themselves 
   - Try to engage all their senses when speaking / we remember visuals better than words. 
-- When giving a compliment, be specific and sincere. 
-- When given a compliment, stop, absorb and pause, show thankfulness on your face. Say: thank you very much
+- When giving a compliment, be specific and sincere. Stop, absorb and pause, show thankfulness on your face. Say: thank you very much
 - Practice in daily life: 
   - If a meal was good, give compliments. 
   - If the service was good, mention it.
 - Focus on having an open, relaxed body lanuage. 
 
-## Start a conversation
-- Comment on the context (Situations, news, setting, people)“This coffee place has a nice nostalgic interior, don’t you agree?”
-- Give a real compliment “I really like those sneakers, where did you get them?”
-- Ask an opinion: “So what do you think about velvet slacks?”
-- Ask about general information: “Can you tell me what time it is?”
-- Talk about shared experiences: “That was an amazing game, that last goal! Wow, what did you like?”
-- Talk about the social context: “So who invited you to the party?”
-- Mention common interests: “Are you going to watch the game tonight?”
+## Conversations
+**Preparation**
+- Prepare answers to questions that always come up in social interactions
+  - How am I?
+  - How is my day going / how was my day? 
+  - How was my weekend?
+  - Do I have any plans for the next weekend? 
+  - Have I been up to anything exciting? 
+- Prepare this list of openers before social interactions so it's easier to remember and to put myself in the right mood. Remember that it takes work to become better at this.
+- Who are you likely to meet today? Spend some time thinking about anything specific you want to say/ask. Ideally something happening in their lives or shared interests to catch up on. 
+- If I have lots going on in life, I will naturally have more to share. So get out there doing stuff. 
+- Once I have an opinion about things - I can share them. So be curious about lots of topics, the news, dive deeper into things, collect facts and build opinions to share and discuss.  
+- Prepare stories to tell. What did I experience? What am I up to? Then prepare a story around the topic
+- One way to invoke my own stories is to look at ice breakers, table questions, conversations starters and practice answering them in my head. 
+
+**Random chit chat with colleagues**
+- Comment on the context
+  - "How did you like lunch"? "Did you try the chocolates?"
+  - "Are you joining to the pub / party"?
+  - "Are you excited about the Brand launch?"
+  - Mention generic things happening in the world: “Are you going to watch the game tonight?” "Did you hear about event X in the news?"
+- How are you?
+- How was your weekend?
+- Do you have any plans next weekend? 
+- Give a compliment on something - “I really like those sneakers, what are they?"
+- What are you working on? / How is project X going? 
+
+**Moving a conversation along**
+- Be aware and listen during the conversation - be curious. They say something, what would I want to know about that?
+- Give people engaging answers ('hooks') to jump in a conversant. As part of this, be prepared to answer the 'How about you?' question
+- Focus on the basic questions: Who/what/where/how/why
+- Simply show emphathy: ‘That’s amazing’ ‘That sucks’
+- Hooks 
+  - Relate their experience to something I experienced: "That reminds me of a time when..."
+  - “That was an amazing game, that last goal! Wow, what did you like?” 
+  - Speak to something you've done/are thinking about and ask if they can relate in any way. “I’m trying to learn Chinese, preparing for our new overlords. Do you speak any
+second languages?”
+- Statements
+  - Share random interesting facts
+- Experience sharing: What did I experience lately that I want to share?
+  - I read this article 
+  - I met this friend in the pub and X happened 
+- Small talk questions
+  - Any books your read / movies / series you saw? 
+  - Any travelling plans?
+  - Question around situation: e.g. in news, at the office. "Did you hear about X" 
+  - Ask for opinions: What do you think about X? 
+
+**New joiner at work**
+- Hey I don’t think we’ve met yet. I’m Dave. Great to meet you. 
+- What team are you working in? 
+- What are some of the challenges you'll be tackling?
+- Where were you before?
+- It's great having you - let's catch up soon? 
+
+**Passing people in the office**
+- Hey - how are you? 
+
+**When I know the person / speak with friends**
+- Speak about a topic you're both interested in 
+- Ask about what's happening in their lives
+- Anything new / exciting in their lives
+
+**Unkown people**
+- Comment on the context (Situations, news, setting, people)
+  - “This coffee place has a nice nostalgic interior, don’t you agree?”
+  - “So who invited you to the party?”
+  - "How do you the host?"
+  - "What brought you here?"
+  - "Do you know many people here?"
 
 ## Social interactions at work
 - Regular mindful breaths and remind yourself you’re in an office - it’s a social environment and you can’t just be stuck in your mind on your own work. Work is more than that - use the mindfulness to recenter 
-- When passing people in the office, look at them and say ‘Hey - how are you?’
-- New people - Hey I don’t think we’ve met yet. I’m Dave. Great to meet you - what team are you working in? 
 - When others are speaking, just listen. If you want to say something, say it. This is mainly situations where I’m just at my desk 
 - If someone does something for the team or for you, take a moment to thank them sincerely and show that you appreciate what they’ve done. 
 - When people are leaving, wish them well 
-
-## Things to say/ask 
-- Focus on asking about the basics
-  - FORD: 
-    - Family
-    - Occupation
-    - Recreation
-    - Dreams/aspirations
-  - Travelling
-  - Books/series/films/documentaries/music
-  - Pets
-  - Food/drinks 
-  - Sports
-  - What is happening in people's lives
-- Understand what the other person is interested in and ask questions regarding that topic. Ideally, it's an interest you have in common. 
-- What is going in the other person's life these days? Ask about that. 
-- What is going on in the world recently? Ask about that. 'Did you see that X video?' 
-- What did I experience lately that I want to share? Personal experiences, something I read, book/series I watched, etc.: So I was doing X and Y happened - crazy right?' 
-- Prepare and share some interesting facts - generally be more knowledgeable about things people tend to talk about 
-- Always be prepared to answer return questions - 'How are you' 'What about you?'
-
-## How to converse
-- Be aware and listen during the conversation - be curious. They say something, what would I want to know about that?
-- Focus on the basic questions: Who/what/where/how/why
-- Simply show emphathy: ‘That’s amazing’ ‘That sucks’
-- Sometimes there is a hook for you to start speaking. E.g.: 'That reminds me of a time when' - relate their experiences within something you've experienced yourself.
-- Ask for opinions: What do you think about X? 
-- Make sure to have an opinion about what you're talking about. 
-- A great segway are what-if questions: what if X would happen? 
-- Speak to something you've done/are thinking about and ask if they can relate in any way. “I’m trying to learn Chinese, preparing for our new overlords. Do you speak any
-second languages?”
-
-## Preparation
-- A social interaction takes preparation - this is the key to any successfull social event 
-- It’s something that takes work: you can’t just be passive. Instead, force yourself to be in social settings, face yourself to say things and take initiative. It requires time, energy, unselfishness  and thoughtfulness.
-- Consider who you want to talk about, what you’d and the other person would likely want to talk about  
 
 ## Social basic principles to live by 
 - Give without expecting anything in return 
@@ -132,7 +156,6 @@ TO DO
   - Don't be too much in your own head thinking about my performance in the setting. Let go of the feeling that I need to speak. Just accept things as they are. Stop trying and stop worrying - it'll not help performance and it will decrease happiness. As long as youfocuses on themselves, they really can't contribute anything of substance to a group, and hence you don't get the attention. 
   - Trust the people around you and allow your heart to open and be vulnerable 
   - Don't care as much about how they may interpret or judge what I say 
-
 - Visualize yourself as being someone who loves being right in the centre of attention because everybody is keep on listening to you and understand what it is you have to say. Be more influential and funny 
 
 ## Making friends
