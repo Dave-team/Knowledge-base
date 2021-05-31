@@ -16,6 +16,7 @@
   - If a meal was good, give compliments. 
   - If the service was good, mention it.
 - Focus on having an open, relaxed body lanuage. 
+- The best way to get into a flow state? Have multiple conversations throughout your day
 
 ## Conversations
 **Preparation**
@@ -140,6 +141,7 @@ TO DO
 - Always be prepared to answer the ‘what about you?’ question
 
 ## Group conversations 
+- Visualize yourself as being someone who loves being right in the centre of attention, sharing stories and opinions.  Because everybody is keep on listening to you and understand what it is you have to say. Be more influential and funny 
 - Realize that group conversations are about shallow, fun conversation rather than sharing information. Stupid things are being said, laughed at and nobody cares.  
 - People want you to be open. They want to know you, trust and feel comfortable around sharing things themselves. By not sharing yours, people don't feel good sharing about their lives as they might think I judge them. 
 - You want to engage because you could make friends. If you're closed and invicible, people wouldn't want to know more / invite you to activities etc.  
@@ -156,7 +158,6 @@ TO DO
   - Don't be too much in your own head thinking about my performance in the setting. Let go of the feeling that I need to speak. Just accept things as they are. Stop trying and stop worrying - it'll not help performance and it will decrease happiness. As long as youfocuses on themselves, they really can't contribute anything of substance to a group, and hence you don't get the attention. 
   - Trust the people around you and allow your heart to open and be vulnerable 
   - Don't care as much about how they may interpret or judge what I say 
-- Visualize yourself as being someone who loves being right in the centre of attention because everybody is keep on listening to you and understand what it is you have to say. Be more influential and funny 
 
 ## Making friends
 - Go to places you enjoy being. This is where you'll meet like minded people
@@ -276,3 +277,5 @@ Other tips:
 - What's your favorite thing about yourself? 
 - What something you lie about regularly? 
 - TEll us about a recent turning point in your life?
+
+

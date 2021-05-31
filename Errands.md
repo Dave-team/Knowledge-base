@@ -20,7 +20,7 @@ Cleaning mirrors with window cleaner
 
 *Every 2 weeks* 
 Inside of toilet with bleach 
-Mop floor with Flash all purpose clear
+Mop floor with Flash all purpose8 clear
 
 *Every 4 weeks* 
 Shower window with vinegar and window cleaning 

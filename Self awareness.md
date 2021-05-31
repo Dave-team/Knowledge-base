@@ -1,4 +1,5 @@
 # Self awareness
+
 ## Principles
 - Three questions to answer
     - Who am I?
@@ -13,6 +14,59 @@
 - A simple life is a good life but it’s hard to achieve with all sensory overload and availability of content 
 - Bring back some of the childlike imagination and curiosity 
 - Many people lead life on automatic pilot, rarely stopping to ask themselves what supports and sustains them. Make a list of all the things you do in a typical day and then highlight those that support and sustain you and those that deplete and exhaust you. Are there any changes you need to make? Because our minds tend to focus on threats and problems, we often ignore all the good things in our lives. It can be helpful to pause regularly to think about three things that you enjoyed, that went well, or that you are simply grateful for. Writing them down can be a good reminder that it’s “not all bad” when you start to feel stressed. It can also highlight what is important to you and what you enjoy.
+
+### About me 
+**Interesting facts**
+- I’m allergic to most fruits and nuts
+- I once wanted to become a bodybuilder
+- I once went jungle trekking on flip flops after it rained. Needless to say, it was slippery
+
+**Hobbies**
+Working out, cooking, reading, exploring cities/London (travelling), music 
+
+**Other**
+- Type A personality 
+
+## Memories and experiences
+### Early memories 
+- Monaco yachts
+- Caramel vla
+- Play football in garden
+- Seeing the house develop 
+- Mike ‘hole in head’ in the small park
+- Xbox with Luuk 
+- Kiss in back of truck with Sharon
+- Kinder party with Amanda and Jessy 
+- When dad would say that I played football well 
+- Chats with mom in kitchen
+- Playing football with Sten 
+- Play fighting with Mike 
+- Champions with Venlosche Boys
+- Being a mascot with Twente
+- VVV games with dad
+
+### Hong Kong 
+- Sports sessions with David in HK
+- Golf sessions with Omar in HK
+- Sessions staring at he HK skyline with Jithen, David and Asbed
+- How peaceful the fisher’s islands in HK were
+- The food experience at Chaing May night market 
+- The bar experience in Chiang May
+- Getting drunk in Shanghai with Fabian and Enrun at Fedde LeGrand whilst having a promotor and free drinks
+
+### Travels
+- Getting drunk on a boat in Ibiza
+- Pool party in Vegas
+- Driving in Yosemite Valley
+- Riding the bike in Barcelona 
+- Smoking cigar and drinking rum with Matthias on balcony
+
+### Other 
+- My previous relationships
+- Learnings sessions with Federico
+- Getting drunk at carnival 
+- Nights at Dutch bars with Sam / Funs / Ricky 
+- Sleepovers at Sam after a night out, eating ‘kaassoufles’
 
 ## Findings 
 ### Action on life rather than procrastinate by consuming content 
@@ -46,8 +100,6 @@ I tend to put really high pressure on myself constantly. Very high standards and
 
 I’m on the train with different stops along the way. Public speaking, data science, management and I want to know everything about it because otherwise i feel like im not making the most of it and miss out. All these things on my list I would feel like they absolutely must be done even though they probably don’t. And then I feel as if I regret it and blame myself for not putting in the effort. 
 
-
-
 ### Let go of control
 I tend to want to control things. When I have to wait or when I don't know the next steps, I become very anxious as I'm not steering the direction. This might come from a fundamental lack of trust - it is probably okay to just trust the process and action things when they go out of hand and let go of things in the meantime. 
 
@@ -56,7 +108,6 @@ I always feel as if I am meant to be this hustler, always on the move, always pr
 
 ### Everything needs a purpose
 I always had this idea that everything I do needs a purpose. Learning guitar? Why, what does it bring me? I only ever wanted to do things that would get me further in life - they were logical and practical. I am in the race. This might be related to a fear of regret. When I'm 50, I want to look back and be happy at what I did. I have been searching for what that contentment looks like but probably that contentment is just from enjoying the moment. 
-
 
 ### Don't overthink / think obsessively
 I have a strong tendency to overthink things. This is split between: 
@@ -73,8 +124,35 @@ Examples where overthinking is intense:
 ### Be aware of feelings and emotions and communicate them
 I find it hard to understand my own feelings and find that I'm am often slightly out of touch with my feelings. Even when I do feel them, I often don't share them and just keep being closed. Any relationship is based on us understanding ourselves and sharing our feelings openly and honestly. 
 
+### Judging
+- When I see people, I judge: e.g. fat/skinny
+- When someone does something I don't really agree with, I judge: this is good/this is bad. And often I then portray that to myself and put a value judgement on it.
+- Why do I judge others? I judge because I think black and white. I have a fixed path in my mind of what everyone should be like so when someone is different, I consider that bad. 
+- I judge everything. This is good, this is bad. I shouldn’t think this, I should think this. I shouldn’t watch a series at night but an educational youtube video. 
+
+### Relationship findings
+- I fear being rejected - particularly feeling as if I'm not good enough which hits my self esteem. If I am confident enough, I don't care when one person rejects me - there are many others who are happy to be with me. And even if not, I am happy with my independent life. The goal here is to be outcome independent 
+- I fear losing those I love. People die, people change. Losing those we love is a major part of life that everyone needs to deal with. 
+- I tend to see the positives only. When I'm comfortable and relatively happy it's hard for me to see negatives. Instead, have regular critical check-ins with yourself and ask yourself how it's going and where it's going. And don't fall in the trap of loving someone just because they love you and that feels good. Value yourself more than that. 
+- I am a people pleaser and probably wouldn't quickly reject/break up with someone purely out of fear. Instead, realise this is your one life - know what you want out of it. If something doesn't sit right, become aware of it. Then communicate it. Then fix it. If it can't be fixed, you need to be strong for the both of you to break things of now rather than waiting any longer. You both deserve better. 
+- I am anxious about the future - will I be able to get a new SO when I have been single for so long? Instead, approach life with curiosity - who knows what will happen? Just be happy - then you won't need anyone else.
+- I tend to become dependant and complacent during a relationship. Instead, keep living my own life, chase my goals and keep my social cirlce and hobbies. And beyond that, invest in the relationship if it's worthwhile: initiate things, show that you care, communicate honestly, etc.
+- I fear being lonely. Don't be lonely - fill your life with purpose, family, friends, hobbies  
+- I fear making the wrong decisions - we often make only a few major decisions in our lives and I fear regretting the decision. Decisions are not forever. Give things a chance when it feels right, be in touch with feelings and if it turns out to have been the wrong decision, be strong enough to end things. 
+- I crave a strong sense of belonging and validation. I want someone to care about me and I want to know that someone will reply and just be there for me. I want to feel loved and this validation made me feel good about myself; if I don't feel loved this hits my self esteem and makes me not feel good about myself. Seeking external validation from someone you don't fundamentally control is not good. Enjoy it when you have it but be aware that you can't rely on validation that isn't coming from within. 
+- At times I felt like my worth was determined by whether I was in a relationship or not. Being with someone is what I’d consider a successful life whereas being single is a sign that my life isn’t complete. This has been amplified by e.g. how family approaches us. Instead, be entirely happy independently first. 
+- I have controlling tendencies. I wasn't happy when she would prioritize doing other things over spending time with me during the relationship. It felt as it we had our weekends and she'd always have to spend it with me because I expected it and I probably wouldn't know what else to do with myself. I felt rejected when she would do something else and that hurt my validation and made me fear losing her which made me unattractive. 
+- I have an anxious attachment style. I tend to put the relationship on a pedestal, see the partner as something greater. I have a strong need for affirmation.  
+
+### Privileged
+Extremely lucky being white male and grew up in Netherlands. Worst thing that can happen isn’t that bad - could always go back to Netherlands
+
+### Minimalism
+I know that watches (or any materialistic things for that matter) ultimately won't bring happiness. They are a risk to keep for theft or damage, they need to be serviced, the search for watches is time consuming that perhaps could be better spent elsewhere. It's a constant race to reach the next thing. I'm also keen to keep as little things as possible in my life avoid clutter.   
+
 ### Social
 #### Personality 
+- Type A
 - I am introverted 
 - It's hard for me to speak up when a conversation jumps from one topic to another - I need time to think before speaking
 - Conversations in social group settings are often not quite the ones I enjoy most - they are about very superficial topics that I don't have much to share on
@@ -117,81 +195,3 @@ I feel anxiety around presenting what I've done and what I'll be working on. The
 
 #### Work: non team meetings 
 I don't speak up in meetings much as I am afraid of asking stupid questions, give obvious recommendations. I am 'just' the data person - everyone know surely would already have thought of what I'm thinking? Who am I to have an opinion here? The conversations tend to flow fast and everyone speaks up - it's hard to follow and I'm not someone who very bluntly cuts someone off. I also think I wouldn't be listened to as someone else would already have overspoken me which reduces me enthusiasm around speaking further. And then I'm anxious around saying something stupid or generally something that doesn't add value. 
-
-### Judging
-- When I see people, I judge: e.g. fat/skinny
-- When someone does something I don't really agree with, I judge: this is good/this is bad. And often I then portray that to myself and put a value judgement on it.
-- Why do I judge others? I judge because I think black and white. I have a fixed path in my mind of what everyone should be like so when someone is different, I consider that bad. 
-- I judge everything. This is good, this is bad. I shouldn’t think this, I should think this. I shouldn’t watch a series at night but an educational youtube video. 
-
-### Relationship findings
-- I fear being rejected - particularly feeling as if I'm not good enough which hits my self esteem. If I am confident enough, I don't care when one person rejects me - there are many others who are happy to be with me. And even if not, I am happy with my independent life. The goal here is to be outcome independent 
-- I fear losing those I love. People die, people change. Losing those we love is a major part of life that everyone needs to deal with. 
-- I tend to see the positives only. When I'm comfortable and relatively happy it's hard for me to see negatives. Instead, have regular critical check-ins with yourself and ask yourself how it's going and where it's going. And don't fall in the trap of loving someone just because they love you and that feels good. Value yourself more than that. 
-- I am a people pleaser and probably wouldn't quickly reject/break up with someone purely out of fear. Instead, realise this is your one life - know what you want out of it. If something doesn't sit right, become aware of it. Then communicate it. Then fix it. If it can't be fixed, you need to be strong for the both of you to break things of now rather than waiting any longer. You both deserve better. 
-- I am anxious about the future - will I be able to get a new SO when I have been single for so long? Instead, approach life with curiosity - who knows what will happen? Just be happy - then you won't need anyone else.
-- I tend to become dependant and complacent during a relationship. Instead, keep living my own life, chase my goals and keep my social cirlce and hobbies. And beyond that, invest in the relationship if it's worthwhile: initiate things, show that you care, communicate honestly, etc.
-- I fear being lonely. Don't be lonely - fill your life with purpose, family, friends, hobbies  
-- I fear making the wrong decisions - we often make only a few major decisions in our lives and I fear regretting the decision. Decisions are not forever. Give things a chance when it feels right, be in touch with feelings and if it turns out to have been the wrong decision, be strong enough to end things. 
-- I crave a strong sense of belonging and validation. I want someone to care about me and I want to know that someone will reply and just be there for me. I want to feel loved and this validation made me feel good about myself; if I don't feel loved this hits my self esteem and makes me not feel good about myself. Seeking external validation from someone you don't fundamentally control is not good. Enjoy it when you have it but be aware that you can't rely on validation that isn't coming from within. 
-- At times I felt like my worth was determined by whether I was in a relationship or not. Being with someone is what I’d consider a successful life whereas being single is a sign that my life isn’t complete. This has been amplified by e.g. how family approaches us. Instead, be entirely happy independently first. 
-- I have controlling tendencies. I wasn't happy when she would prioritize doing other things over spending time with me during the relationship. It felt as it we had our weekends and she'd always have to spend it with me because I expected it and I probably wouldn't know what else to do with myself. I felt rejected when she would do something else and that hurt my validation and made me fear losing her which made me unattractive. 
-- I have an anxious attachment style. I tend to put the relationship on a pedestal, see the partner as something greater. I have a strong need for affirmation.  
-
-### Privileged
-Extremely lucky being white male and grew up in Netherlands. Worst thing that can happen isn’t that bad - could always go back to Netherlands
-
-### Minimalism
-I know that watches (or any materialistic things for that matter) ultimately won't bring happiness. They are a risk to keep for theft or damage, they need to be serviced, the search for watches is time consuming that perhaps could be better spent elsewhere. It's a constant race to reach the next thing. I'm also keen to keep as little things as possible in my life avoid clutter.   
-
-## Interesting facts about me:
-- I’m allergic to most fruits and nuts
-- I once wanted to become a bodybuilder
-- I once went jungle trekking on flip flops after it rained. Needless to say, it was slippery
-
-## Hobbies
-Gym, reading, eating out and exploring London, travelling, music 
-
-## Personality 
-- Type A 
-
-## Memories and experiences
-### Early memories 
-- Monaco yachts
-- Caramel vla
-- Play football in garden
-- Seeing the house develop 
-- Mike ‘hole in head’ in the small park
-- Xbox with Luuk 
-- Kiss in back of truck with Sharon
-- Kinder party with Amanda and Jessy 
-- When dad would say that I played football well 
-- Chats with mom in kitchen
-- Playing football with Sten 
-- Play fighting with Mike 
-- Champions with Venlosche Boys
-- Being a mascot with Twente
-- VVV games with dad
-
-### Hong Kong 
-- Sports sessions with David in HK
-- Golf sessions with Omar in HK
-- Sessions staring at he HK skyline with Jithen, David and Asbed
-- How peaceful the fisher’s islands in HK were
-- The food experience at Chaing May night market 
-- The bar experience in Chiang May
-- Getting drunk in Shanghai with Fabian and Enrun at Fedde LeGrand whilst having a promotor and free drinks
-
-### Travels
-- Getting drunk on a boat in Ibiza
-- Pool party in Vegas
-- Driving in Yosemite Valley
-- Riding the bike in Barcelona 
-- Smoking cigar and drinking rum with Matthias on balcony
-
-### Other 
-- My previous relationships
-- Learnings sessions with Federico
-- Getting drunk at carnival 
-- Nights at Dutch bars with Sam / Funs / Ricky 
-- Sleepovers at Sam after a night out, eating ‘kaassoufles’

@@ -196,8 +196,9 @@ Checklist where appropriate
   - Are axes labelled correctly? 
 
 ### Testing
-- Never assume data to be correct – check it and be confident its correct. Check it when it is in the source as the source might be wrong. Check manual input from other. Check own logic. 
+- Never assume data to be correct – check it and be confident its correct. Ask yourself: what could go wrong in this logic? How could this be incorrect? What could be edge cases? What if there are nulls? And then run the data in different ways. Are you seeing similar results? Check it when it is in the source as the source might be wrong. Check manual input from other. Check own logic. 
 - Don't just check most recent data, go back in time too 
+- Compare the data pre and post change. 
 - Test for nulls in final table
 - Ideal scenario: proof that data is in line with source 
 - If we can’t check vs source, does the data make sense? 

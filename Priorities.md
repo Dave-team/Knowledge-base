@@ -219,6 +219,10 @@ Becoming senior is about having overcome challenges and lessons learned and this
   - Additional context 
 - Communication: slow down and structure - avoid umms where possible.
 - Be specific in agendas
+- Phrase things from a position of confidence, understanding and belief that it's a good practice. Much more than stating something as if we're not sure and it may not be best practice. 
+- Give people the relevant context. Be more strategic and high level. Why do we do something the way we do? E.g. how should the Customers Explore look like? Provide some guiding principles. It’s complex now, we want to self serve, not used much mainly these basic things. First we want to revamp it to make it work for what we have and then we will expand. 
+- We’re very busy / we’re behind > we have a lot of high priority projects and are currently just one person. We need to pick projects to work on - how important would you say this is? 
+- Once we have a recommendation, be assertive in stating it. 
 
 **BI vision**
 - Build towards a longer term strategic vision of the BI team of becoming best in class in supporting the business with data. 

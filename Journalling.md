@@ -19,6 +19,31 @@ Night
 - 3 amazing things that happend today 
 - How could I have made today even better?
 
+## Week in review template
+**Review**
+- What great things happened last week? 
+- Did I accomplish the goals I set out?
+- Review the week against the things I’m focusing on (principles / philosophy) and my work development plan. What could I have done to have an even better week?  
+- Log learnings and key achievements in Knowledge Base
+- Quick check-in: am I living the live I want to live? 
+
+**Goal setting**
+- Based on the review, set goals and focus points for the week - see ‘To Do’ in Notes. General topics to focus on: 
+  - Awareness - mindfulness, visualisation, habits, affirmation, reflection, and planning process
+  - Social - people to meet, call, text
+  - Health - diet and exercise  
+  - Exploration 
+  - Rest
+
+**Visualisation**
+What challenges are coming up and how will I approach them? Potentially write these thoughts down to keep them as a reference during the week
+
+**Longer term planning**
+- Think about longer term goals that are set (e.g. monthly or yearly goals) Are they still relevant? Am I on track? 
+- Plan activities to do in the next weekend. Avoid going through the workweek not having activities planned for the weekend. And then prior to weekend, review and confirm that the weekend is well planned 
+- Think about longer term things I want to do - gigs, holidays, bucket list, things to try and other things in Notion already.
+
+
 ## Questions
 Questions to answer in a journal: 
 - How do I feel today? This can be split between happiness levels, stress and energy. Rate between 1-10 and provide notes. Go deep and ask why 

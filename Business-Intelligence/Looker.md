@@ -165,13 +165,6 @@ In the folder access within Looker, the idea is to:
 
 Final tip: check what others users can and can’t see by sudo’ing them
 
-## Looker and Github 
-Looker has local branches. Deleting remote still shows up in local Looker. Anyone who interacted with the branch (i.e. checkout by switching to the branch in Looker) will also have the branch locally.  
-To delete local, developers need to clean up their own branches in Looker. 
-
-By default, we work on our own dev branch in Looker. This personal dev branch is read only to all other Looker users. 
-Because dev branch is read only, we’d want to collaborate on different branches that are newly created for each project and based off master. This means that other Looker users can switch to the branch and review changes as well (e.g. compare your newly created branch against prod) 
-
 ## Looker onboarding
 - Welcome
 - Looker is out BI tool

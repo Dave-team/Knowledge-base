@@ -133,3 +133,10 @@ General rule: apply where the body produces the most heat. How much and where to
 - Not on clothing
 - Weak fragrances can be reapplied during the day using e.g. travel atomiser. 
 
+## Smells
+- Build my own reed diffuser: oil, fragrance oils
+- Try incense with rice in a bowl
+- Use fragrance oil with the diffuser
+- Use the oil burner
+
+
