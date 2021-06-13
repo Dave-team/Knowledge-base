@@ -32,6 +32,15 @@ My evaluation on this:
 - A lot of the time, our mind is telling us we 'should' do something. Where is that voice coming from? Should for whom? Why? What if we don't? It's easy to go into auto pilot. It is easy for us to go into autopilot and our thinking becomes very narrow. 
 - When comparing events to what happened in the past, remember that any events in the past are context dependent and the current context is always changing. 
 - When comparing ourselves to others, it doesn't matter what others do as long as we achieve what we set out to achieve ourselves in the first place. 
+- Deal with anxiety 
+  - Ride it out - it will pass
+  - Question the thinking and break it down
+  - Distract yourself 
+  - Deep breathing exercises 
+  - Progressive muscle relaxations 
+  - Exercise
+  - Use the energy in a useful way 
+
 
 ## Dealing with things
 **Accepting our thoughts**

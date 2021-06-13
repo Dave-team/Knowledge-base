@@ -108,6 +108,7 @@ With these principles, think hard about them, implement them, make mistakes and 
 - Honest
 
 ## Reduce worry 
+- Do the thing that worries you. 
 - Focus on other things 
   - Get busy doing other things - this allows you no time to worry 
   - Focus on caring about other people - your worries will reduce in magnitude. 
@@ -133,6 +134,10 @@ With these principles, think hard about them, implement them, make mistakes and 
   - What is the cause of it? 
   - What can I do about it? (if nothing, forget about it - ride the wave - be aware and curious. If it has to be, it has to be) Think about multiple possible solutions 
   - Pick the best solution
+- “If I’m getting upset, I’m probably wrong.”
+- Stress: instead of being preoccupied about things, try to take care of them. During stressful situations, enjoy the small things of life, like eating or drinking a glass of wine, or playing with your daughter.
+- When I'm annoyed at myself or somebody else and I notice it, I do somebody a five-minute favor. At the office, it can be answering a question, being the duck in talk-to-the-duck debugging, getting somebody coffee or even tidying up the restroom. Even answering a question on SO or Hacker News qualifies. Shifts my mindset out of "annoyed."
+- Sometime I imagine myself watching myself as another person, (like I'm doing a thing, but seeing myself as somebody else) so I can try to think about how others can see me in some situations, what I do how would it look in the eyes of others. This helps me behave more appropriate in some situations and helps me see myself more objectively.
 
 ## Awareness
 We’re wired to believe we need money, status etc. This makes us chase these things and in the pursuit of it, we forget to appreciate what we already have. The tragic thing is we give up on living because we chase something that is different from what we have right now. Everything we need, we already have it up for taking. We seldom think of what we have but always of what we lack. So rather than wanting more, focus on appreciating what we already have and the here and now - we have a lot to be thankful for. 

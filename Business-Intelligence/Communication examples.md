@@ -347,6 +347,24 @@ Thanks,
  
 Dave 
 
+Hi Tony,
+
+I wanted to provide an update on our roadmap progress, outlined in the 'BI Internal Tracker' tab of the attached BI Roadmap Tracker. We project to complete ≈60% of our prioritised Q2 projects this quarter. These are split between high-priority projects currently in progress (light blue), and high-priority projects not started but expected to be completed this quarter (darker blue).
+
+Can you let me know if you agree with the prioritised projects planned? Once we're on the same page, I will update the relevant stakeholders. 
+We intend on doing our H2 planning in the beginning of July per usual. The aim is to be conservative in what we’re signing up for as:
+A large chunk of time will be dedicated to getting Eve up to speed
+We’ll still have Q2 projects to complete
+We need to have the flexibility to support new joiners’ onboarding and their data requests. From initial conversations, we expect requests from Leslie’s team, Product, and Retention / Insights
+Not being able to keep up with demand of the business and missing the roadmap isn't sustainable and it isn't the quality we strive for in BI. In addition to new hires joining this year, Will is doing a post mortem on the first half of the year to see if there are any lessons and signals we can use to better plan for the future. 
+
+Let me know if you have any questions, or if it helps to run through this in person.
+
+Thanks,
+
+Dave 
+
+
 
 **Company wide roadmap email** 
 Hi all, 
@@ -443,6 +461,26 @@ Looker has built the Google Sheets Looker Action through which we can send or sc
 *How do we use this?*
 We set up this doc with instructions on Looker Actions and a suggested approach on how to migrate existing reporting from custom functions to Looker Actions. Alice has started doing the migration for Trading materials and so far it’s working as expected. 
 There will be some initial set-up effort but this solution will be more reliable and scalable than other alternatives. Do let me or Alice if there are any questions / concerns. @Rupert @Alice Morris @Gaby @anthony
+
+
+**Mistakes our end**
+Hi all,
+
+The inaccurate Conversant Spend was caused by a data modeling fault in Looker. I will push the code fixes live EOD today to avoid Looker disruption. More context below.
+
+What happened
+A code change was made in March that reintroduced legacy Conversant code to Looker. This resulted in all Conversant metrics duplicating (including all historic Conversant data).
+The code change was introduced as part of a complex project involving many dependencies - it’s hard to replicate exactly what happened, but it’s a reminder that our current code review process isn’t watertight and needs improving.
+
+How will we avoid similar issues going forward?
+dbt data quality checks will allow us to spot issues like these before making changes to the code. This is still a WIP but remains a high priority.
+Improving our processes around managing and reviewing complex code changes. I’ll pick up the specifics around this with Will once he’s back.
+Apologies for the inconvenience this has caused - I’m aware this had had a large impact and a lot of time went into the investigation. 
+
+Let me know if there are any questions/concerns,
+
+Dave 
+
 
 ## Requesting stakeholder input
 **How to do sessionization**

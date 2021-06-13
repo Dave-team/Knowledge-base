@@ -198,9 +198,13 @@ Incremental model and Full model
 
 ## Updates from Papier
 When people don't know the data yet: 
-- Quick sessions to understand high level requirements
+- Quick sessions to understand high level requirements. 
+  - What are you trying to do? 
+  - Do you need it in Looker? Why? 
+  - What reporting do you currently have? 
+- Load all data as we don't understand the structure yet and we have 2 weeks Fivetran trial. 
 - BI team to develop what makes sense as we understand roughly what the business is looking for 
-- This gets sent to the stakeholder for review 
+- This gets sent to the stakeholder for review. If things are definitely not needed, the code and tables can be deleted. 
 
 When there is existing data: 
 - Quick sessions to understand high level requirements, KPIs

@@ -122,6 +122,13 @@ Solving merge conflicts
 - Usually done in Looker by selecting which parts of the code to keep - can also be done in Github by deleting the irrelevant code 
 - Even if there are no merge conflicts, never merge a branch that has updated changes as you'll likely lose all the new changes you made. Instead, pull and merge and deal with conflicts as they pop up. 
 
+Branching
+- Base dev branch 
+- Independent pieces of work as separate PRs that are merged into the Base dev branch 
+- If dependencies, it’s hard because you’d have to wait to wait until things are approved and merged. Instead, do 1 PR unless something is incredibly hard. 
+- You can still branch from a branch to create nested versions of the branch. 
+
+
 ### Looker and Github 
 Looker has local branches. Deleting remote still shows up in local Looker. Anyone who interacted with the branch (i.e. checkout by switching to the branch in Looker) will also have the branch locally.  
 To delete local, developers need to clean up their own branches in Looker. 

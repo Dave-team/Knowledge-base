@@ -59,6 +59,9 @@
     - Implications and consequences – "What effect would that have?". Examining consequences and implications (What if I am wrong? What are the consequences if I am?)
     - Different viewpoints – "What would be an alternative?". Considering alternative perspectives (What might others think? How do I know I am correct?)
     - Questioning the original question – "What was the point of this question?" Questioning the original questions (Why did I think that? Was I correct? What conclusions can I draw from the reasoning process?)
+- Suspension of judgement: The way I do this is by thinking through an opposing argument or two, and using language like "it seems" or "it appears" rather than "I know", "I think", etc. This technique saves time and energy by helping me avoid getting wrapped up in opinion-based thinking and helps me develop equanimity.
+- Suspension of value-judgements: I do this by shifting the language in my mind from "that is bad" to "I feel this way because..."
+- Awareness of the mode of thinking I'm in and action accordinly 
 
 ![Scientific Method](https://user-images.githubusercontent.com/28791247/107872472-7add1a80-6ea2-11eb-83be-41c39f39facf.png)
 
@@ -144,6 +147,8 @@
 
 ## Problem solving / Decision making
 - Make sure to fully understand the issue instead of making assumptions. Research everything you don't know. Write things down as you learn them to get a full picture of the problem 
+- Something that is easy to procrastinate on? Use artificial deadlines 
+- 10/10/10 rule: How will he feel about the outcome 10 minutes from now? How about 10 months from now? How about 10 years from now? E.g. dentist won't matter tomororow.
 - Think about the real problem to solve. This is can be different from what others say - don't just parrot people.
 - Understand how important it is - "How important is this, really?" 
 - Do we have the solution or something similar from the past already? 

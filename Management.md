@@ -3,8 +3,6 @@
 Papier notes
 New joiner: lots of easy wins that don’t have time pressure. Don’t do these yourself 
 
-
-
 ## Role of the manager
 -	Managers function: not to make people work, but to make it possible for people to do work
 -	Management in 3 steps: 
@@ -33,6 +31,12 @@ New joiner: lots of easy wins that don’t have time pressure. Don’t do these 
   - Timeline: protect your team 
   - Priority: how urgent is this compared to other projects? 
   - What is the simplest thing we can do to make it better, realising it won’t be perfect
+- Learn: 
+  - Learn how to say "no."
+  - Learn how to say "I was wrong."
+  - Learn how to say "I don't know."
+  - Realize it's ok to change your mind
+
 
 ## Principles
 - Believe in yourself. You can’t lead a cavalry charge if you think you look funny on a horse.
@@ -288,6 +292,8 @@ To resolve conflict, you only need to get each person to state their deepest, da
   - Tailor your approach to your style, the recipient’s style and your relationship
 
 **Noviolent communication template**
+When I observe Z, I feel Y emotions because I need Z. Would you be willing to do X to help me meet my need(s) for Y?
+
 1. Ask for permission. Give the receiver a little heads-up of what’s coming. It can be enough to say “I have something to communicate to you, is now a good time?” 
 2. State the trigger behavior or event. Try to be factual (“When you are late to meetings...”) as opposed to interpretative (“When you disrespect me...”). 
 3. State how that trigger behavior makes you feel. This is perhaps the hardest part for many founders to do. Talking about your feelings might not be something you are used to, so it might be challenging at first. However, doing so is crucial for the other person to truly understand where you are coming from and to take your feedback to heart. 

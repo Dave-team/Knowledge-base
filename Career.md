@@ -5,6 +5,7 @@ Seperate your value as a person from your what is going on at work. Detach mysel
 
 ## Overcoming imposter syndrome 
 Imposted Syndrome is not feeling good enough in what I do. I am stuck on something - surely I should be able to fix this quickly? This is taking me so long, they'll think I don't my stuff. 
+- Wherever we are, we will feel some level of imposter syndrome. Otherwise we're not challenged enough. Simply trust that over time, I will get better at all the things and will be able to figure it out / perform better. 
 - Be confident and belief in own performance:
   - My work has high impact and I'm working on the right priorities at the right time. If I feel like I'm not doing the right thing, then I might need to take a step back and refocus to the highest priority work that needs doing. If something is taking me a long time, it's because it's complex and I care about quality - I will have informed the stakeholders.
   - I have the technical ability and when I don't, I know that I have the ability to pick it up rapidly or I can ask others for help.

@@ -20,14 +20,16 @@ What we need to achieve goals:
 **Goal setting** 
 Set goals but break them down and be practical around the goal. 
 - What does the end result of the goal look lik? (e.g. learning how to cook: be able to make reciples comfortably)
-- What needs to be done to reach that goal? (cook new reciples, not really reading books or watching videos - they're a supplement to actually making recipes)
-- What is the simplest first step that puts me in the right direction? Make 1 new recipe this weekend. Finding a recipe takes 10 minutes and it puts me on the path towards the goal. Then I hold myself accountable to these small goals/habits which will ultimately lead to reaching the goal. - What is the easiest first step to do? Forget about planning the optimal way to do things, take the first step and be fine if things don't go exactly as planned. This type of overthinking is essentially procrastination
+- What needs to be done to reach that goal? (cook new reciples, not really reading books or watching videos - they're a supplement to actually making recipes) Breawk it all down into chunks that ideally are fairly independent from one another. 
+- What is the simplest first step that puts me in the right direction? Make 1 new recipe this weekend. Don’t try to work on everything at once and don't compare what you're doing against the perfect end result you're striving for. That'll come from step by step actions. Finding a recipe takes 10 minutes and it puts me on the path towards the goal. Then I hold myself accountable to these small goals/habits which will ultimately lead to reaching the goal. - What is the easiest first step to do? Forget about planning the optimal way to do things, take the first step and be fine if things don't go exactly as planned. This type of overthinking is essentially procrastination
 - Do that first step for 1 hour today and see how that goes. By blocking this time, you know that you will still have time for everything else in life. It's all about balancing different 'priorities' and this avoids obsessiviness. Take things step by step and don’t try to do everything at once.  I can think about what I want to do, I can spend some time trying a hobby for 30 minutes a day and build on top of that. And make sure to do this method rather than overthinking what the best hobby is that I can spend all my time with. Things don’t need to happen from today onto tomorrow. Take your time. 
 
 **Goal achievement** 
 It is essential that you approach this process in a clearheaded, rational way, looking down on yourself from yourself and by being ruthlessly honest. If your emotions are getting the better of you, step back and take time out until you can reflect clearly. Seek help from calm, thoughtful people when necessary. 
 
-- Have clear goals – what are you going after? Design a plan to achieve these goals
+- Have clear goals – what are you going after? Design a plan to achieve these goals. Set aside time to figure out what you really want.
+- The key is momemtum gained by simply starting. 
+- Expectations: don't care about the outcome of your work, as long as you tried to put a lot of good efforts into it. Focus on trying to do the thing instead of focusing on the result it will have, or what people will think.
 - Identify and don’t tolerate the problems that stand in the way of your achieving those goals. 
 - Accurately diagnose the problems to get at their root causes. Be calm and analytical
 - Design plans that will get around them
@@ -67,9 +69,11 @@ Aim to be relaxed at all times. It is impossible to feel anything negative when 
   - Remember past successes, great things you have done, your strenghts and how great you are. We are often so caught up within ourselves that we forget about all the ways we should be grateful and we’re great. Make this a habit 
   - Visualize success
   - Only engage in positive self talk. Recognize negative automatic thoughts and write it down or think about it - see CBT. 
+  - Portray confidence with body language (fake it until you make it) and dress up 
+  - Threat yourself
 
 ## Self esteem
-Belief and confidence in your value and that you're good enough - just the way you are. Feeling comfortable in own skin and not needing others for validation. 
+Belief and confidence in your value and that you're good enough - just the way you are. Feeling comfortable in own skin and not needing others for validation. Realizing that it’s all right to be a regular human who makes mistakes and isn’t perfect. Being nice and compassionate to yourself. Accepting yourself means being on your own side. If you mess up, you can look at the situation with an understanding eye, rather than tearing into yourself.
 
 **How to improve self esteem**
 Accepting yourself

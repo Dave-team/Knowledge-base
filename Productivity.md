@@ -20,6 +20,10 @@
 - The shorter the list of things to do / to work on, the more likely it is to focus on things that matter.
 - Granny’s rule: do the unpleasant before the pleasant
 - Work on one task at a time
+- Work on something "easy" end of day but don't finish it. You'll then have something easy to pick up and gain momemtum in the next day. 
+- Productivity: every day do at least one measurable thing that puts forward your project, even if very small.
+- The key is to get started with projects, that'll get you in the right momenemtum 
+- Start the day with an unpleasant task, to get it out of the way ("eat the frog")
 
 ## Process
 **Weekly**

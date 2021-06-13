@@ -123,6 +123,8 @@ Let your samples rest for a week as the transit might have influenced the smell.
 Initial test is on the wrist/elbow. Smell frequently to understand how it develops and longevity.  
 Test a perfume over more than one wear. So don't judge too quickly. Give it a few days and then try again. 
 
+I spray few sprays of my new colognes to drapes of my living room. Then leave the room. After sometime I pass by the drape and try to feel what other people smell when I spray the perfume in my cloths. 
+
 
 **Applying fragnance**
 General rule: apply where the body produces the most heat. How much and where to spray is depending on occassion and intensity of the fragrance. 

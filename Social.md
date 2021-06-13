@@ -1,6 +1,26 @@
 # Social
 
+## Practice socializing: 
+-	Spend more time doing it. Volunteer, speak to service staff, join a club, participate online. 
+-	Set social goals (speak to 5 new people each week). And then reward yourself when you reach the goals. However, don’t be too hard on yourself and focus on the positives or just try better next time. Writing these things down often helps getting them clearly in my head. 
+-	Take improv / public speaking courses
+-	It’ll be rough in the beginning but it’ll go smoother as you get more experience. But you need to push through it – like everything in life. 
+
+## Fundamentals to becoming better at socializing 
+- Going into a social situation, you have the option to be however you want to be.
+-	You want to be able to converse about a range of topics. It’s often about putting in some effort to keep up with the main things happening in the world to know just enough to converse about topics. 
+-	Become more well-rounded, knowledgeable, interesting. If you realize you don’t have an opinion on a topic, do a little reading so you’re more prepared next time. Be up to date with current events. 
+-	It’s much easier to talk to people when you have a rough idea of where you should try to take the interaction. If you find yourself blanking, you can quickly remind yourself of one of the goals, and that should help you think of something to say.
+-	Key is to keep an open mind and don’t judge topics too soon and consider other people’s POV. Be open and you may find things you enjoy too. Try to relate to people even when you don’t seem to have anything in common. Learn about and respect different worldviews. 
+
 ## Interaction principles
+- Goals of socializing: 
+  -	Interactions that are rewarding for everyone involved 
+  -	Learn about the other people and find common ground. Be interested and curious and make it a goal to find what’s fascinating and unique about them
+  -	Share things about yourself. Others want to know what makes you tick. 
+-	Don’t sit back and be a passive observer
+- It’s okay to push the conversation in a direction you’d like to go into. Once you talk about a topic I like and can talk about, it’ll obviously be easier to converse. 
+-	Don’t censor yourself too much when saying things. Don’t try to be perfect and saying something is better than nothing. 
 - Goal is to learn about the other person and find common interests you can talk about
 - A human touch often goes a very long way, so don’t be afraid to touch. Especially when meeting someone and saying goodbye: shake hands, hug, kiss.  
 - The start and ending of an interaction is often key - 'Great to see you - you look good!' and then 'It was great seeing you - let's do it again soon'! 
@@ -26,12 +46,19 @@
   - How was my weekend?
   - Do I have any plans for the next weekend? 
   - Have I been up to anything exciting? 
+  - What do I do?
+  - Where am I from? 
 - Prepare this list of openers before social interactions so it's easier to remember and to put myself in the right mood. Remember that it takes work to become better at this.
 - Who are you likely to meet today? Spend some time thinking about anything specific you want to say/ask. Ideally something happening in their lives or shared interests to catch up on. 
 - If I have lots going on in life, I will naturally have more to share. So get out there doing stuff. 
 - Once I have an opinion about things - I can share them. So be curious about lots of topics, the news, dive deeper into things, collect facts and build opinions to share and discuss.  
 - Prepare stories to tell. What did I experience? What am I up to? Then prepare a story around the topic
+- What topics do I want to talk about? E.g. read the news and bring up topics during a conversation. 
+- Prepare topics to bring up when a dull moment hits. ‘Has anyone seen any good films lately?’
 - One way to invoke my own stories is to look at ice breakers, table questions, conversations starters and practice answering them in my head. 
+- Prepare a strategy to socialize: meet buddies, ask them to intro, go up to groups of people and intro myself. 
+- Before a social event, socialize with someone else to get into the right mind/mood
+-	Feel psyched – listen to music, exercise, reframe the situation. 
 
 **Random chit chat with colleagues**
 - Comment on the context
@@ -46,10 +73,31 @@
 - What are you working on? / How is project X going? 
 
 **Moving a conversation along**
-- Be aware and listen during the conversation - be curious. They say something, what would I want to know about that?
-- Give people engaging answers ('hooks') to jump in a conversant. As part of this, be prepared to answer the 'How about you?' question
-- Focus on the basic questions: Who/what/where/how/why
+- Do your fair share to keep the conversation going. It isn’t fair to let the other person do all the work. 
+- You want to give responses that give insight into who you are as a person and that can keep the conversation flowing because it contains conversational sparks. 
+- Sometimes we don't know much about the topic. Use that to your advantage! Ask 'beginner' questions. Don't think that you need to have a fully fleshed out perfect opinion that everyone agrees with all the time. What matters is that you care about the other person and are genuinely interested. 
+- Make it a goal to say something every few minutes to avoid going completely mute. Once you’ve been silent for a while, it’s hard to pick up again. Usually, people want you to contribute to the topic, simple as that. In my mind, I wouldn’t say anything unless valuable but that’s simply not realistic. Give your 2 cents. 
+- Make little contributions: “Yeah, I heard the same thing”, “No way. Then what happened?”, laughing when appropriate, or making little listening noises like “Oh” or “Hmm.”
+- Share an experience of your own 
+-	Clarify their feelings are normal 
+-	Rephrase what they told you to validate understanding 
+- Show that you care – ask for clarification, get more details, provide insightful comments and ask good questions
+- Be aware and listen during the conversation - be curious. They say something, what would I want to know about that? Ask questions. 
+- Give people engaging answers ('hooks') to jump in a conversant. As part of this, be prepared to answer the 'How about you?' question. Make a statement that should them to want to say something in response. Give reasons why you like a book, share what you did during the weekend etc. Let your interests, values, and personality show. For example, if you ask them what they do for fun, and they say they like watching movies, ask them which ones they’ve seen recently and what they thought of them, or make a comment on a good film you’ve seen yourself.
+- Get better at jumping points (hub and spoke conversations). Respond to what people say – there are often many topics that you can pick up on. E.g. when talking about fragrances: 
+  - what have I been up to? New hobbies
+  - Sense of smell - which do I like? 
+  - What does a fragrance mean to them? 
+  - Relate to fashion
+  - What are some of your favorites?
+  - How to know what to pick? 
+  - What are you wearing now?
+- Open ended questions: It’s like you’re a late night talk show host and you’ve got multiple guests on your show. Focus on the basic questions: Who/what/where/how/why
 - Simply show emphathy: ‘That’s amazing’ ‘That sucks’
+- Conversational spark
+  - Ask for their opinion - 'would you rather?'
+  - What if...
+  - What would you do in that situation? 
 - Hooks 
   - Relate their experience to something I experienced: "That reminds me of a time when..."
   - “That was an amazing game, that last goal! Wow, what did you like?” 
@@ -60,11 +108,13 @@ second languages?”
 - Experience sharing: What did I experience lately that I want to share?
   - I read this article 
   - I met this friend in the pub and X happened 
+  - I want to see X - have you heard of it? 
 - Small talk questions
   - Any books your read / movies / series you saw? 
   - Any travelling plans?
   - Question around situation: e.g. in news, at the office. "Did you hear about X" 
   - Ask for opinions: What do you think about X? 
+- To move deeper in conversation, exchange info that is more personal. The people in the conversation need to match the level of details they share. Otherwise the other person feels exposed. If you tell someone about your vulnerabilities and display a calm, self-assured attitude about them, they’ll often respond to your lead and feel they’re fine as well.
 
 **New joiner at work**
 - Hey I don’t think we’ve met yet. I’m Dave. Great to meet you. 
@@ -72,6 +122,7 @@ second languages?”
 - What are some of the challenges you'll be tackling?
 - Where were you before?
 - It's great having you - let's catch up soon? 
+- How long have you been working here?
 
 **Passing people in the office**
 - Hey - how are you? 
@@ -81,13 +132,33 @@ second languages?”
 - Ask about what's happening in their lives
 - Anything new / exciting in their lives
 
-**Unkown people**
+**At events people**
+- Introduce yourself: “Hi, I’m Dave”
+- Give them a compliment 
 - Comment on the context (Situations, news, setting, people)
   - “This coffee place has a nice nostalgic interior, don’t you agree?”
   - “So who invited you to the party?”
   - "How do you the host?"
   - "What brought you here?"
   - "Do you know many people here?"
+  - "Do you know what's on the menu?"
+  - "Do you know what song is playing?"
+  - "Is it your first time at these events?"
+- Questions when we've spoken a little longer: 
+  - What do you do in spare time? 
+  - What do you do for work? 
+  - What do you think of… (a popular topic)
+  - Where are you from? 
+  - Travelling
+  - Have you seen/read X? 
+
+**Strangers / staff**
+- Intro with a statement around what the person is doing, wearing or something in the setting you're both in. 
+- "Planned anything exciting for the day?"
+- Literally just say anything you want. It's not about what sets this up for a great conversation? And it's not about saying something perfect. It's about saying something because you want to say and interact with the other person. What they do with that it's up to them. 
+
+**Leaving a conversation**
+- "I've got to run, it was nice meeting you"
 
 ## Social interactions at work
 - Regular mindful breaths and remind yourself you’re in an office - it’s a social environment and you can’t just be stuck in your mind on your own work. Work is more than that - use the mindfulness to recenter 
@@ -141,6 +212,7 @@ TO DO
 - Always be prepared to answer the ‘what about you?’ question
 
 ## Group conversations 
+-	Realize that everyone is competing for spotlight time in group settings. It’s dog eat dog. Make it a game to get your share of the spotlight. Be assertive, cut people off, be loud, and just repeat yourself
 - Visualize yourself as being someone who loves being right in the centre of attention, sharing stories and opinions.  Because everybody is keep on listening to you and understand what it is you have to say. Be more influential and funny 
 - Realize that group conversations are about shallow, fun conversation rather than sharing information. Stupid things are being said, laughed at and nobody cares.  
 - People want you to be open. They want to know you, trust and feel comfortable around sharing things themselves. By not sharing yours, people don't feel good sharing about their lives as they might think I judge them. 
@@ -165,7 +237,19 @@ TO DO
 - Take the initiative in suggesting something to do based on a similar interest
 - Always say yes to things other people suggest to do 
 - If possible, invite more people to do something
-- Exchange contact details
+- Exchange contact details soon after meeting 
+- Come up with something to do
+  - Coffee / Restaurant / Pub
+  - Pub garden when the weather is nice
+  - Dinner party / whisky / wine night / BBQ
+  - Picnic / chill at park / lakes
+  - Hiking 
+  - Shopping
+  - Bike ride 
+  - Gig/movie/play
+  - Activity (bowling, darts, archery etc.)
+  - Exploring / daytrip / travelling (i.e. the beach)
+-	Invite someone. Likewise, when invited try to always accept. Take the initiative here. It’s often a lot of hassle so don’t always let others let do the heavy lifting 
 
 ## Remembering names
 Remember that a person’s name is to that person the sweetest and most important sound in any language. 
@@ -194,6 +278,10 @@ Remember that a person’s name is to that person the sweetest and most importan
 - When exiting a conversation, try to give them something of value and then say it was a pleasure meeting you and move on. 
 
 ## Listening 
+-	Key is to want to listen. 
+-	Think about what they say 
+-	Take their perspective 
+-	Be non-judgemental 
 - Cornerstone to this is being present. Good listeners never interrupt – they just wait and remember what they want to say next. Allow others to interrupts you – the point is to make others feel right. 
 - Use verbal acknowledgment that you listen
   - “Interesting”
@@ -218,6 +306,13 @@ Remember that a person’s name is to that person the sweetest and most importan
 - Immediately into a conclusion and a label and this is how it is. Instead take time to explore and ask questions
 - We often only hear what we already think. We should try to listen to discover something new. Challenge what people say from a position of openness 
 - Don’t seek the truth, just drop your opinions 
+
+## Managing energy levels
+-	Have some caffeine
+-	Eat something
+-	Take breaks – e.g. bathroom breaks 
+-	Consciously throw yourself into another gear and try to re-engage with everyone. Literally up your energy and be excited, even when you're not actually. 
+-	Take a nap beforehand 
 
 ## Charisma 
 It's about presence, power and warmth:
