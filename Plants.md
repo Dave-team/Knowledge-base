@@ -20,29 +20,33 @@
 - Not fussy about light 
 - Light watering when the soil has dried out 
 - Occasional misting
+- Repot in spring 
+- Fertilize monthly in growth season 
 
 *Boston fern*
 - Loves humidity - mist her a few times a week
 - Loves being moist - water when the top inch feels fry. Let excess water drain. Never allow the soil to get dry
 - Ideal for a room with limited light 
 - Don’t touch her much as she’ll turn brown 
+- Fertilize once a month during growth season 
 
 *Dragon tree*
 - Low maintenance on water - stick a finger in the soil and if dry, give it some water
 - Mist every few days
 - Happy to be in most light conditions, just not harsh raw sunlight
+- Fertilize once every 3 months during growth season 
 
 *Cactus*
 - They prefer sun
 - Only water when the soil is completely dry
 - Don't allow the plant to stay wet 
+- Fertilize once every 3 months in growth season 
 
 *Succulents*
 - Water sparingly - only when entirely dried out. When watering, give them loads as they'll then quickly dry out again. When it's hard to water because of the shape of the plant, pot in a pot of water instead. 
 - They want lots of light - full sunlight is also just fine
 - Turn the plants regularly such that each side gets a similar amount of sunlight
-
-
+- Fertilize once every 3 months in growth season 
 
 *ZZ plant*
 - Light room outside of direct sunlight 
@@ -50,6 +54,19 @@
 - Feed once a month from spring to late summer
 - Dust the leaves to allow sunlight in
 
+*Heart of Jesus*
+- Indirect sunlight 
+- Watering each week or when the top 3 cm has dried out. Water until the soil is fully saturated 
+- Fertilize once a month during growth season
+
+*Elephants Ears*
+- Partial sunlight to full shade
+- Watering each week or when the top 3 cm has dried out. Water until the soil is fully saturated 
+
+*Rubber plant*
+- Full to partial sun
+- Average water needs when top 3 cm has dried out 
+- Fertilize once a month during growth season
 
 ## Potting 
 - When receiving a plant, let it get climatized

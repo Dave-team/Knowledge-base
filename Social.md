@@ -239,16 +239,14 @@ TO DO
 - If possible, invite more people to do something
 - Exchange contact details soon after meeting 
 - Come up with something to do
-  - Coffee / Restaurant / Pub
-  - Pub garden when the weather is nice
-  - Dinner party / whisky / wine night / BBQ
-  - Picnic / chill at park / lakes
-  - Hiking 
-  - Shopping
-  - Bike ride 
-  - Gig/movie/play
-  - Activity (bowling, darts, archery etc.)
-  - Exploring / daytrip / travelling (i.e. the beach)
+  - Eat / drink out: Restaurant / Coffee / Pub (garden) / Winebar
+  - At home gathering: Dinner (BBQ) / whisky, wine tasting
+  - Chill outside: Picnic / park / lakes
+  - Culture: go to gig / club night / festival / day rave / movie / play
+  - Regular activity: Hiking / Bike ride
+  - Exploring activity: bowling, darts, archery
+  - Exploring: daytrip / travelling (i.e. the beach)
+  - Other: Shopping
 -	Invite someone. Likewise, when invited try to always accept. Take the initiative here. It’s often a lot of hassle so don’t always let others let do the heavy lifting 
 
 ## Remembering names
