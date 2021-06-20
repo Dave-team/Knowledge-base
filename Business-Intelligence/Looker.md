@@ -92,6 +92,8 @@
 - We can change Looker dashboards and pages using HTML. E.g. adding custom HTML / CSS headers in dashboard, adding links to a WIKI on each employee’s Looker homepage 
 - Use iLooker to track how users use Looker and to delete non relevant content 
 - Remember that we can literally name / alias anything: dimension,measure,view,explore and we can so differently between different explores (e.g. a view can be called differently between different explores). Similarly, we can give two views the same name and they will be consolidated in the Looker explore 
+- Always view uncommitted changes before putting in a PR 
+- 
 
 ## Looker common gotchas
 - Remember that Looker is case sensitive – e.g. strings should be single quotes, as per Snowflake SQL. However, case sensitivty can be turned off  
@@ -165,23 +167,6 @@ In the folder access within Looker, the idea is to:
 
 Final tip: check what others users can and can’t see by sudo’ing them
 
-## Looker onboarding
-- Welcome
-- Looker is out BI tool
-- X is your superuser who will support you throughout your journey and can answer any questions 
-- We have a Slack ‘Lookerpaps’
-- There are 3 relevant intro docs to using Looker: Looker intro, Looker worksheet and worksheet answers
-
-Looker training: 
-- Kickoff: intro of me, and overview of what we’re going to do and get an understanding of how users want to use the data  
-- Introduction: what is Looker and how is it helpful? 
-- Looker demo: tour of what we have built so far in Looker  
-- Essentials of Looker - dimension, measures, filters, pivots 
-- Practical exercises for users to try. One can be guided by me and then they try themselves. Make sure they save it in own dashboard
-- Explanations of different Looker use cases and how this relates to what the users wanted to get out of the session  
-- Table calculations, scheduling
-- Building dashboards 
-
 ## Looker tips
 Option + click a field and it takes you the place in LookML 
 Command - J to navigate to files 
@@ -211,6 +196,40 @@ Fold LookML by adding the code between curly brackets
 - Grant Looker access to Redshift table: 
   - GRANT USAGE ON SCHEMA facebook TO looker;
   - GRANT SELECT ON ALL TABLES IN SCHEMA facebook TO looker;
+
+**Querying LookML fields directly**
+with first_orders_inc_samples as (
+select 
+  orders_facts.order_id, 
+  orders_facts.user_id,
+  order_sequence_with_guest_ex_samples
+from ${orders_facts.SQL_TABLE_NAME} as orders_facts
+inner join ${items.SQL_TABLE_NAME} as items on orders_facts.order_id = items.order_id
+inner join ${products.SQL_TABLE_NAME} as products on items.product_id = products.product_id
+where order_sequence_with_guest_ex_samples = 1
+  and contains_sample = true
+group by 1,2,3
+having count(distinct products.category_one) > 1
+order by random()
+limit 100 )
+
+
+select 
+  first_orders_inc_samples.order_id, 
+  first_orders_inc_samples.user_id,
+  first_orders_inc_samples.order_sequence_with_guest_ex_samples,
+  products.category_one as first_order_category_one,
+  ${items.items_primary_key},
+  ${items.is_sample},
+  first_order_product_category_1,
+  acquisition_product_category_1
+from first_orders_inc_samples
+inner join ${orders_facts.SQL_TABLE_NAME} as orders_facts on first_orders_inc_samples.order_id = orders_facts.order_id
+inner join ${items.SQL_TABLE_NAME} as items on orders_facts.order_id = items.order_id
+inner join ${products.SQL_TABLE_NAME} as products on items.product_id = products.product_id
+inner join ${users_orders_facts_dev.SQL_TABLE_NAME} as users_orders_facts on orders_facts.user_id = users_orders_facts.user_id
+order by order_id, ${items.items_primary_key}
+
 
 
 

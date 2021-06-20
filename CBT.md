@@ -40,6 +40,7 @@ My evaluation on this:
   - Progressive muscle relaxations 
   - Exercise
   - Use the energy in a useful way 
+  - When stressed, worried or anxious, think about and reach out to someone else
 
 
 ## Dealing with things

@@ -1,6 +1,6 @@
 # Communication templates
 
-## Gathering requirements 
+## Gathering requirements and project management 
 **Asking for specific questions**
 I do think it'd be possible to put something together. What would be really helpful is to have a few really targeted questions for us to work off of. An example could be "What web pages do customers visit after they land on /account/orders from an email" or "What are customers that follow this path buying? (sample to full order, the same product, etc.)".  
 
@@ -14,6 +14,28 @@ Dealing with uncertainty
 I couldn't find these web pages in our internal reporting. I might be searching for them the wrong way, but I can't reproduce what is in GA. I will follow up with Joe when he is back next week and see if I can get more information
 
 For the second example, Abandon Cart, I can't honestly say. I'm looking at our UTM data and it seems like Looker is reporting the raw data the right way. Is there anything different about how the UTMs used to be set up? Does Looker match GA for most recent months?
+
+**Pushing back for others to do analysis**
+Hey @Mathilde Dechansiaud. Thanks for this. 
+The % credit Look looks good to me.
+
+To confirm the next steps:
+
+Contribution comparison
+This is the Look with First Order Contribution by channel. As discussed, it is worth thinking about how to split this data over time and category given the implications on CPA. It should be easy to change this to all orders rather than first orders using filters.
+I think PM already report on first order contribution in the In Week reporting which is worth using as a reference. 
+
+Mention Me customers flag
+We should be able to create this flag soon. We will assume that any customer that got issued refer a friend credit is a Mention Me Customer who received credit.
+
+Customer analysis
+I’d recommend speaking to Louise and/or Faye to understand what is possible in Looker and how to approach the analysis. Happy to support/validate any reports coming out of this exercise.
+
+@Rupert Griffiths  @Will (Danger) Huntoon let me know if you agree with the next steps above. 
+
+**Clarifying next steps from meeting**
+Hey @Nikita Kursov. Following up with what I believe the outcome of yesterday’s meeting. Sessions A point to check is how Kameleoon reports on sessions related to the experiment. I believe you mentioned that filtering on Homepage page types only in Looker brings the data a lot more in line - could this be the cause of the discrepancies? In addition, Will provided this Custom Filter. @Will (Danger) Huntoon can you confirm what the intended behaviour of this is? From my understanding, this filter would only exclude sessions in which all events happened at the same time as the session start time (e.g. this session gets excluded). Conversions If a user converted during a session, that gets counted as a conversion in Looker - regardless of whether that was pre or post being part of the experiment. This will be different from Kameleoon where the conversion only counts after being part of the experiment (I assume?). We could do a scoping exercise on our end to see if it’s possible to more dynamically count conversions in experiments but the scope of that is likely a roadmap project given the complexity. Let me know if the above makes sense of if I've missed anything. 
+
 
 ## Project management 
 **Getting context pre kick-off**
@@ -216,6 +238,26 @@ improve our category CPA reporting. @Rupert @Bhav
 We now have Stripe Processing Fees since February 8th. 
 This adds £11.5K and £14K fees in February and March respectively, and an equal decrease in GM2.  This is a short-term, hardcoded estimation based on logic provided to us by Finance.  Our logic overstates the actual fees by ~10%, but we believe this is acceptable for now since the actuals would be impossible to replicate perfectly (they are dependent on bank fees, card rates, etc) and we plan to replace these estimations with actuals after setting up a new data pipeline with Stripe over the next month. 
 
+**Customer Explore update**
+The revamped Customer Explore is live
+Why we’ve done this
+There is an increased focus on retention and repeat behaviour analysis across the business. To facilitate this need, we want users to be able to easily create accurate reporting in the Customers Explore. The previous Customers Explore didn’t allow for this as it was not user-friendly, confusing and often caused inaccurate data. 
+What’s changed
+We’ve removed the ‘First Item’, ‘First Order’, First Product’, ‘Most Recent Order’, ‘Reviews’, and ‘SKUs’ views from the Explore. We have taken the most relevant fields from these views and modelled them directly in the Customer view.
+We’ve updated relevant, recently used existing reports
+We’ve done this by pointing fields we’ve deleted to the updated fields. This means that existing, saved Looks using the Customer should be updated and working as per usual. Please reach out if this is not the case. 
+We recommend changing existing Customer Explore reports
+The new Customer Explore makes it easier to report on Acquisition Product Category and Acquisition Date, two very common use cases of the Customers Explore. We recommend using the designated fields for this, rather than recreating this logic using multiple filters as that sets us up for inaccurate, inconsistent data. Please reach out if you have questions around updating existing Looks. 
+Answers to FAQs:
+Why is {field} missing? 
+We have kept the Customer Explore as simple as possible at this stage, only including fields we know are used and relevant based on past Looker usage data. As we increase the complexity of our Customer analysis, we will likely want to add additional fields. We believe we’ve modelled the code in ways that should be this fairly straightforward to do. 
+How do I use the Customer Explore
+We have created this short Slide deck outlining how to use some of the most common fields / use cases in the Customer Explore. 
+Next steps
+In making these changes, we have centralised logic in our code, making it more scalable and reducing the chance of inconsistencies. We will now prioritise changing the references in our code such that everything points to single sources of truth. 
+Please reach out directly if you have questions, see anything that doesn’t look right or need help transitioning existing reports!
+
+
 ## Roadmap 
 **Roadmap invitation**  
 Hi Tony,
@@ -383,6 +425,7 @@ Dave
 
 (Add a well sized image to the email - people are less likely to open attachments. Still do add an attachment as PDT so people can reference and store it should they want to.)
 
+
 **Quarterly roadmap revision to Tony**
 Hi Tony, 
  
@@ -405,6 +448,22 @@ We believe that projects allocated to Dave in the BI Internal Tracker are the hi
 Feel free to distribute this more wildly to anyone that may be interested.
 
 Dave 
+
+Hi all, 
+ 
+I wanted to provide an update on our Q2 roadmap. We project to complete ≈60% of our prioritized Q2 projects this quarter. These are split between high-priority projects currently in progress (light blue), and high-priority projects not started but expected to be completed this quarter (darker blue).
+ 
+Not being able to keep up with the demand of the business and missing the roadmap isn't the quality we strive for in BI. Realistically, we'll be constrained on resources for a while longer as Eve will join us at the end of July as a BI Executive and will need time to ramp up. 
+ 
+In the meantime, we will continue to work on the highest impact projects only. We will do our H2 planning at the beginning of July, where we will plan projects for the rest of the year and reprioritize unfinished Q1/Q2 projects. 
+ 
+Please let me know if any of our priorities should be switched around or if there are any questions. 
+ 
+Thanks, 
+
+Dave 
+
+
 
 
 **Prioritization question Slack**
@@ -709,6 +768,42 @@ Do let me know how you're getting along and just ping me if there are any issues
 Thanks, 
 
 Dave
+
+**Sharing onboarding recommendations**
+Hi all, 
+ 
+Below is the summary of the Looker onboarding review we've done in Q2. This is especially relevant to recent new joiners as well (soon to be) managers whose teams use Looker. 
+ 
+Objective: Papier is growing fast and we want to ensure that new joiners can self-serve their analytics needs within Looker quickly and easily. 
+ 
+Approach: We have spoken to recent new joiners as well as 'Looker Superheroes' to understand current onboarding processes and challenges, resulting in the recommendations below.
+ 
+Recommended onboarding process
+Looker Docs 
+The Looker Docs continue to be the best place to start to learn about Looker - we've added new and improved existing docs to better accommodate common challenges faced by new joiners. Our new Start here - Looker onboarding doc is a comprehensive overview of all our Looker onboarding docs.
+ 
+Looker Superhero support
+Functional knowledge and expertise remain key to getting new joiners up to speed. We recommend Superheroes to: 
+Provide an intro to existing KPIs, reports, dashboards, and relevant Explores in Looker
+Act as the first line of support for any questions and data validation
+BI intro call 
+We recommend new joiners set up a 30 minutes call with the BI team to get a higher-level intro to BI at Papier, ways of working, and to discuss any questions.
+ 
+Future planned onboarding improvements
+The recommendation above is essentially how we've been onboarding users for a while and we know that it comes with challenges, including 1) it doesn't account for different learning styles, 2) it's not easy for new joiners to see which reports are available already, 3) it's difficult to transition from the docs to insights, 4) there isn't much support to transition into Looker experts. Below are the main initiatives planned to accommodate these challenges; we will adapt our priorities and approach as we learn about what works and what doesn't.  
+Data Office Hours (Q3): 15-30 minute slots with the BI team to provide training, scope a data use case, or validate a report
+Centralized Looker KPI dashboards (Q3/Q4): dashboards with key reports by team which are validated and maintained by BI
+Looker FAQ (TBD): a central space with well-documented answers to frequent questions
+BI newsletter (TBD)
+Looker training videos (TBD)
+For a more comprehensive overview of our onboarding review and next steps, please refer to Looker onboarding doc. 
+ 
+Please reach out directly if you have any questions, would like more info, or need help with Looker/data in general. 
+ 
+Thanks, 
+ 
+Dave
+
 
 ## Other
 **Clarifying team priorities**

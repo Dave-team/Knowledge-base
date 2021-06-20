@@ -37,32 +37,69 @@ Provide great support to end users.
 - Emphasize that people can reach out for more training, check their work or sit together and build something 
 
 ### Onboarding
-Set up training sessions specific to the requirements of the end user to be trained. Train early and often to make sure Looker is directly ingrained in their habits and workflows. When a tool is hard to use, they'll go back to the tools they know 
-- Train end users
-    - Kickoff: intro of me, and overview of what we’re going to do and get an understanding of how users want to use the data  
-    - Introduction: what is Looker and how is it helpful? 
-    - Looker demo: tour of what we have built so far in Looker 
-    - Essentials of Looker - dimension, measures, filters, pivots 
-    - Practical exercises for users to try: 
-        - Explore an existing dashboard 
-        - Build a relevant use case from scratch and save it to a dashboard  
-    - Explanations of different Looker use cases and how this relates to what the users wanted to get out of the session. Show ‘Looker Blocks’ with dashboards that relate to their function
-    - Table calculations, scheduling
-    - Building dashboards 
-- Provide great documentation (training recordings / slides, FAQs, data dictionary) and make this easily available to end users. For developers, have a best practice LookML document 
-- Regularly check in with new users as they go through the change curve to ensure they remain enthusiastic and positive about what Looker can provide them. Track their usage in iLooker.
-- Hold regular office hours where people can book a slot to go through something data related
-- Always leave them with training docs that explain the Looker basics 
+### Intro meeting
+- Hi - How are you?
+- How have your first few weeks/days been?
+- Introductions:
+  - Joined Papier in July last year as a BI manager which translates into being responsible for all things BI. Very high level about BI it that we are a centralized team, supporting the different functions at Papier. We aim as much as possible for a self-service model and we use Looker as our BI tool which fits the self service goals quite well. Right now, I am the only person in BI - we have a new BI Executive joining in July this year. 
+- Their intro
+  - What will they be focusing on? How does data / Looker relate to this? 
+  - Where were they before this role?
+  - What is your BI experience?
+- Let’s talk a bit about BI - we have a presentation that we can use to guide 
+  - The mission of the BI team is to enable execution of Papier’s strategy by empowering better decisions, faster through data.
+  - At Papier, we believe we have a very data driven culture, where we use data to inform decision making. To give you an idea, over 75% of the business are active users in Looker. We believe that being data driven will help Papier achieve its goals.  
+  - The benefits of being data driven include: 
+    - Framework for performance: we measure the performance of the business through data
+    - Common language: we try to create a common language for all our reporting, in particular around definitions and KPI calculations. 
+    - Framework for decision making: as already mentioned, we want data to be used to inform decision making
+  - How do we build a data culture? 
+  - Data infrastructure: we have all these tools used by teams across the business. We get this raw data into our data warehouse. We transform it into usable analytics tables and then we model it to be used in Looker for the business 
+  - The way we work is twofold: 
+    - Roadmap: we meet every start of the year with key stakeholders and we create a 12 months BI roadmap that we work on within the team. BI is a support function meaning that we build the roadmap after the business’s priorities are known. We allocate the projects into quarters and we revise our roadmap each quarter and alter it based on changing business priorities  
+    - Ad-hoc: the majority of our time is spend on these strategic roadmap projects. In addition, we also spend a decent amount of time on ad-hoc requests that are usually smaller in size and not planned for. 
+  - Operating model with the business - we prioritize projects, allocate across the team, engage with stakeholders to collect requirements, deliver incremental, handover to the user and then review if the requirements are met. 
+  - Finally, we primarily work within Notion for users to add tickets and for us to track our work. We have a BI Inbox which is where requests come in and then we have our sprint board where we track our projects. Usually, the Inbox is the best place to add a ticket if you want something done! 
+  - In terms of your onboarding: 
+    - Session with Superhero 
+    - LookerDocs - show this
+    - Office Hours 
+    - LookerPaps Slack channel with all updates
+
+### Looker training session 
+Looker training: 
+- Kickoff: intro of me, and overview of what we’re going to do and get an understanding of how users want to use the data  
+- Introduction: what is Looker and how is it helpful? How does it fit in, compare to other tools? 
+- Looker demo: tour of what we have built so far in Looker  
+- Essentials of Looker - dimension, measures, filters, pivots 
+- Practical exercises for users to try. One can be guided by me and then they try themselves. Make sure they save it in own dashboard
+  - Explore an existing dashboard 
+  - Build a relevant use case from scratch and save it to a dashboard  
+- Explanations of different Looker use cases and how this relates to what the users wanted to get out of the session. Show ‘Looker Blocks’ with dashboards that relate to their function
+- Table calculations, scheduling
+- Building dashboards 
+- Dates
+- Search for fields
+- Caches
+- Explore from here
 
 #### Onboarding / training tips
+- The goal of the intro meeting should really be for people to bring their own agenda primarily. 
+- With new joiners, have them prepare a list of questions / list of things they'd like and then go through it with them rather than them asking ad hoc questions. 
+- Set up training sessions specific to the requirements of the end user to be trained. Train early and often to make sure Looker is directly ingrained in their habits and workflows. When a tool is hard to use, they'll go back to the tools they know 
 - Really get people involved
-    - Allow lots of time for questions 
+    - Generally slow down and allow lots of time for questions 
     - Make the data related to their daily life
     - Ask them to show for something and check what they've done - e.g. a completed dashboard
 - Answer their business questions live - focus on their specific use cases
 - Make sure they are set up will all the right access prior to the session 
-- In bigger team, team managers can be responsible for onboarding. BI preps a training doc for the high level Looker overview and then the data champion in the team guides through Looker - which is often specific by team  
-- With new joiners, have them prepare a list of questions / list of things they'd like and then go through it with them rather than them asking ad hoc questions. 
+- In bigger team, team managers and Superheroes can be responsible for onboarding. BI preps a training doc for the high level Looker overview and then the data champion in the team guides through Looker - which is often specific by team  
+- Provide great documentation (training recordings / slides, FAQs, data dictionary) and make this easily available to end users. For developers, have a best practice LookML document 
+- Regularly check in with new users as they go through the change curve to ensure they remain enthusiastic and positive about what Looker can provide them. Track their usage in iLooker.
+- Hold regular office hours where people can book a slot to go through something data related
+- Always leave them with training docs that explain the Looker basics 
+- Hold 'Show and Tell' sessions where someone presents a use case they've used Looker for successfully. Especially around relevant types of questions that people are answering
+- Short videos showing common use cases. E.g. video embedded on Notion. Description: In this lesson, we'll cover:
 
 ### Evangelize BI
 Monthly updates with new data / features in Looker. Main purpose here is that people find common things they weren’t aware of and now can use. Example framework of such a newsletter: 
@@ -136,63 +173,3 @@ These questions are rated on 1-5 scale:
 -	The analytics team helps me understand our data and how to access it 
 -	The analytics team is responsive to my requests 
 -	I am satisfied with the performance of the analytics team overall 
-
-## Onboarding
-BI introduction call script
-- Hi - How are you? 
-- How have your first few weeks/days been? 
-- Introductions: 
-  - Joined the BI team in July last year as a BI manager 
-  - My main focus in that is working with stakeholders across the business and develop data solutions - primarily in our BI tool, Looker. And secondly, I am working a lot to improve the data infrastructure and make it more future proof. 
-- Their intro: 
-  - What will they be focusing on? 
-  - Where were you before this role? 
-  - What is your BI experience? 
-- Let’s talk a bit about BI 
-  - Team structure: centralized supporting the business 
-  - We’re two people: me and Will Huntoon who is Head of BI. Today Ibu is leaving and we’re actively hiring for a backfill. 
-  - Our main goal is simply to enable decision making through the business using data
-  - Operating model with the business - we collect requirements, deliver incremental, collect feedback and repeat
-- Let me share my screen to give you more of an idea of what that looks like in practice. 
-  - Data infrastructure: we have all these tools used by teams. We get this raw data into our data warehouse. We transform it into usable analytics tables and then we model it to be used in Looker for the business
-  - The way we work is that we meet every start of the year with key stakeholders and we create a 12 months BI roadmap that we work on within the team. We allocate projects into quarters and each quarter we work on either roadmap projects or ad-hoc projects. These ad-hoc projects come to use through a ticketing system called Notion. 
-  - How we work:
-    - Ticketing system
-    - Quarterly reviews
-    - Future team focus
-  - That’s roughly how we work - I don’t know if that all made sense? 
-
-## Intro meeting
-- Hi - How are you?
-- How have your first few weeks/days been?
-- Introductions:
-  - Joined Papier in July last year as a BI manager which translates into being responsible for all things BI. Very high level about BI it that we are a centralized team, supporting the different functions at Papier. We aim as much as possible for a self-service model and we use Looker as our BI tool which fits the self service goals quite well. Right now, I am the only person in BI - we have a new BI Executive joining in July this year. 
-- Their intro
-  - What will they be focusing on? How does data / Looker relate to this? 
-  - Where were they before this role?
-  - What is your BI experience?
-- Let’s talk a bit about BI - we have a presentation that we can use to guide 
-  - The mission of the BI team is to enable execution of Papier’s strategy by empowering better decisions, faster through data.
-  - At Papier, we believe we have a very data driven culture, where we use data to inform decision making. To give you an idea, over 75% of the business are active users in Looker. We believe that being data driven will help Papier achieve its goals.  
-  - The benefits of being data driven include: 
-    - Framework for performance: we measure the performance of the business through data
-    - Common language: we try to create a common language for all our reporting, in particular around definitions and KPI calculations. 
-    - Framework for decision making: as already mentioned, we want data to be used to inform decision making
-  - How do we build a data culture? 
-  - Data infrastructure: we have all these tools used by teams across the business. We get this raw data into our data warehouse. We transform it into usable analytics tables and then we model it to be used in Looker for the business 
-  - The way we work is twofold: 
-    - Roadmap: we meet every start of the year with key stakeholders and we create a 12 months BI roadmap that we work on within the team. BI is a support function meaning that we build the roadmap after the business’s priorities are known. We allocate the projects into quarters and we revise our roadmap each quarter and alter it based on changing business priorities  
-    - Ad-hoc: the majority of our time is spend on these strategic roadmap projects. In addition, we also spend a decent amount of time on ad-hoc requests that are usually smaller in size and not planned for. 
-  - Operating model with the business - we prioritize projects, allocate across the team, engage with stakeholders to collect requirements, deliver incremental, handover to the user and then review if the requirements are met. 
-  - Finally, we primarily work within Notion for users to add tickets and for us to track our work. We have a BI Inbox which is where requests come in and then we have our sprint board where we track our projects. Usually, the Inbox is the best place to add a ticket if you want something done! 
-
-- Onboarding 
-  - Docs
-  - We are reviewing our process currently - TBC. If you have questions, let’s schedule calls and I can train as there isn’t an obvious person to help you perhaps and we don’t have centralized locations as of yet.  
-- That’s roughly how we work - I don’t know if that all made sense? 
- 
-To add: 
-- X is your superuser who will support you throughout your journey and can answer any questions 
-- We have a Slack ‘Lookerpaps’
-- Intro to our Lookerdocs 
-- Self service model - centralized helping the business

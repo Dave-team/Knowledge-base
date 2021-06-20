@@ -384,7 +384,7 @@ Arrive in the morning and data isn't up to date
   - Do we have the right connection details? 
 
 ### Stakeholder notices differences against source data 
-- What results do we expect to see? 
+- What results do we expect to see? Why do we think it's wrong? Ideally, get comparable data at low granularity. 
 - Do we pull the right data? Are the different sources supposed to be comparable? Are we looking at the same definitions? 
 - Is this a recent change? What is correct in the past?
 - Does this happen across all segments? 
