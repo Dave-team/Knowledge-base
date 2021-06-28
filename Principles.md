@@ -261,6 +261,9 @@ The goals we should strive for are those that have no endpoint, just continuous 
 - In every situation, no matter how bad it is, ask yourself: in which way can I turn this around to make it positive for me? Or: why is this a good thing? Interpret everything as positively for yourself. Remember that the brain doesn’t distinguish between imagination and reality 
 - Sometimes there are uncomfortable situations and you just need to delve into them. E.g. at an airplane with babies shouting in both ears. Really feel the emotions and study them objectively. You will quickly get used to being in discomfort. Get out of your comfort zone
 - Each day is day one and each breath is a new arrival
+- Two questions: 
+  - Is what he’s doing now the right thing to be doing? 
+  - Does he accept and welcome what he’s been assigned?
 
 ## To live by: 
 - What's important in life: 
@@ -283,6 +286,7 @@ The goals we should strive for are those that have no endpoint, just continuous 
     - Every hour more in your life is but a privilege so make the very best of it, for time is limited in our lives. Threat time with others as possibly the last time you have with them. We will all be gone soon and so will the ones we love the most. 
     - Simply realize that none of this ultimately matters at all. Once you realize that, you can see through the game and relax. 
     - The best armour against old age is a life well spend preceding it
+    - To make life a story and at the end you'll back at the story - what will you see? It's the people and struggles that matter most. 
 - You and you alone are responsible:     
     - No one owes you anything and nobody gives a fuck about your feelings 
     - Own your life, no one else will. You are responsible for how you handle everything that happens to you. You just pick yourself up, learn and go on. 
@@ -314,6 +318,15 @@ The goals we should strive for are those that have no endpoint, just continuous 
 - After breakup message: I’m 27. There really is more than enough time to find someone and settle down, get married and have kids. And before that, enjoy your time being single. Focus on advancing your career, become this more social person, make new friends, pursue new hobbies and just generally really be more of an independent man with character who is happy with who he is. Someone who isn’t obsessed around getting a response from someone else. Someone who lets go of things he doesn’t control. Someone who leads by example. You cannot depend on a relationship for happiness because one way or another, things will mess up. So ALWAYS live an independent happy life - then if someone joins that life, all the better. Just do not change for anything or anyone
 
 ![Memex](https://user-images.githubusercontent.com/28791247/104088013-9594f180-525b-11eb-8d04-1eaf6c8d109f.jpg)
+
+## Subtle art of not giving a fuck
+- Focus only on what's important in life. Cut out the rest. It doesn't matter. Simlify life. 
+- It's okay to feel shit, anxious, sad, stressed. It will pass, just move on. As part of being human, life sucks sometimes. 
+- Be open, express your needs and feelings, set boundaries and show your vulnerabilities around others. Don't run away from conflict. It will draw them in closer to you. And if they respond badly, that's fine too. It's up to them how to interpret me. I just do what I believe is right to do and I'm being who I am, past experiences, imperfections and asll and I'm comfortable with that/ I accept that. 
+- Overcome struggles in going after what you value. If you care about it, you will have to face fear and adversity.  But you chose to care about it so it's worth struggling for. You have to not care about the pain - struggle through it - that's when you'll overcome the biggest challenges. It's practical enlightenment. So if I want to play the guitar: am I willing to struggle through the pain involved? If you want everything in life to be smooth sailing, you will shy away from the slightest challenges. You try to control everything to be perfect and see everything as a threat to this viewpoint. Surrender and open up to life's beauty. 
+- We behave according to our paradigms / how we view ourselves. And these are set from childhood, influences of those around us etc. The more something conflicts with this 'identity' the more we avoid it. To break this, deliberately view things from a different angle, let that guide your behaviour and see what happens. And 'knowing yourself' then is not great - nobody knows themselves, we're constant change. Don't identify with something as you cement yourself in a position and set unneccessary expectations and everything becomes a threat to your identity.  Keep discovering yourself. Let go of the stories you tell about yourself or that you imagine others tell about you. 
+- Relationships: You won't get a good relationship without rejection and setbacks. It's a game: you don't win if you don't play. And being in a relationship is great, but comes with challenges of being a good partner and dealing with changes to a partner that you can't control. It's having hard conversations, setting boundariesconflicts, hurt feelings and rejection. At no point is a relationship 'fixed' and 'secure'. It's constant change of two independent people who are trying to get their needs met. 
+
 
 ## Life experiment framework
 - Observations—What are you observing in your life or business that you want to improve?

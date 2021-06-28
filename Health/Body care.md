@@ -93,6 +93,7 @@ As with everything, take a break. Be free from distractions and be intentional t
 Become better at smelling: 
 - Intentionally smell everything in life: flowers, food, drinks, candles, essential oils. 
 - Smell a fragrance and refer to the reviews. Can you recognize some smells? 
+- Google: what does X (insert any note here) smell like? 
 
 - Overall rating 
 - General smell

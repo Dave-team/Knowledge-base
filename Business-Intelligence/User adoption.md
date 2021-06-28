@@ -13,6 +13,7 @@ What does “self-serve” in analytics mean to you?: https://discourse.getdbt.c
   - Let them figure out specifics that are missing and present that back to us 
   - We can then work on it.
   - Let them know they can always reach out with small questions we can help with 
+- When helping people, let them do most of the work themselves. That's the best way for them to learn. 
 
 ## Elements of user adoption
 ### Data availability

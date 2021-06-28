@@ -35,12 +35,13 @@ My evaluation on this:
 - Deal with anxiety 
   - Ride it out - it will pass
   - Question the thinking and break it down
-  - Distract yourself 
+  - Distract yourself / focus on e.g. learning something new
   - Deep breathing exercises 
   - Progressive muscle relaxations 
   - Exercise
   - Use the energy in a useful way 
   - When stressed, worried or anxious, think about and reach out to someone else
+- To feel self importance, distress or anxiety should be seen in the face of how short our lives is 
 
 
 ## Dealing with things

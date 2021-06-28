@@ -12,6 +12,7 @@
 ## Focus on what we can control, let go of the rest
 - Focus on what you can control and don’t even think about what you can’t control 
 - Life is a game we’re in. Although we don’t control everything we choose to play to the best of our ability
+- We also don't really have an influence onthe behaviour of others: So other people hurt me? That’s their problem. Their character and actions are not mine. 
 
 ## Reflect on life 
 - We will become a more thoughtful observer of our own life. We will watch ourselves as we go about our daily business and will later reflect on what we saw, trying to identify the sources of distress in our life and thinking about how to avoid that distress.

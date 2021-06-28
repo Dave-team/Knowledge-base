@@ -50,7 +50,7 @@ A good way to visualize picking up / breaking habits:
 - Now fantasize yourself in that same moment without e.g. the bad habit that you developed and with al the advantages that come with it 
 
 **Master Mind**
-Each night, envision being sat at a table with people you greatly admire whose traits you’d like to encompass within yourself and then you start speaking to them about what you would like to make your personality. You speak about the challenges your facing and imagine them giving advice - have a discussion with them. 
+Each night, envision being sat at a table with people you greatly admire whose traits you’d like to encompass within yourself and then you start speaking to them about what you would like to make your personality. You speak about the challenges your facing and imagine them giving advice - have a discussion with them. When you need encouragement, think of the qualities the people around you have: this one’s energy, that one’s modesty, another’s generosity, and so on. Nothing is as encouraging as when virtues are visibly embodied in the people around us, when we’re practically showered with them.
 
 ## Affirmations
 - Use affirmations to convince yourself that you can do it. A good affirmation has five basic ingredients: it's personal, it's positive, it's present tense, it's visual, and it's emotional. The benefit of affirmations is that they go into the subconscious mind. 
