@@ -358,6 +358,20 @@ Example is here:
 - Data returns expected results 
 - Continiuosly integrate PRs. Don't wait to complete a project. Instead, break the project down to manageable pieces that get their individual PRs
 - Overall, focus on the positives in a PR review. “quick comment on X - all else looks great to me."
+- Include QA queries - e.g. final dashboards and also a more granular unit level sanity check such as the below. 
+
+select *
+from ${orders_repurchase_facts.SQL_TABLE_NAME} 
+where user_id in(
+--customer who got acquired and then bought sample
+101852, 
+--cusotmer whose first order was sample only 
+1000988,
+--customer whose first order was non-sample only 
+1020596)
+order by user_id, date asc
+
+
 
 ## Trouble shooting checklist 
 Overall, just eliminate all simple options that could go wrong first. Wherever possible, put the work on someone else and protect your own time. 

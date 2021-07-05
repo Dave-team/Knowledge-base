@@ -166,6 +166,96 @@ Thanks,
 
 Dave 
 
+**Upsells kick-off email**
+Hi all, 
+ 
+A high-priority Q2/Q3 project is the restructuring of our Upsell reporting and we're keen to kick this off soon. I've added context below and will book 45 minutes next week to discuss this in more detail (still arranging calendars).
+ 
+Let me know if there are any questions or concerns beforehand. 
+ 
+Thanks, 
+ 
+Dave
+ 
+Problem Our current upsell reporting is limited as upsell 'items' are SKUs, attached to items in our data structures. This doesn't allow easy and accurate reporting on the performance of upsells - both in terms of units sold and revenue generated. This Look illustrates the difficulties in our current reporting. 
+ 
+Requirements
+Ability to track individual upsells as additional "items" in the basket. 
+Keep the link between items/orders and upsells to report on attachment rates.
+Record the "value" of individual upsell items.
+Ability to differentiate between items sold as upsells vs as standalone items.
+Ability to group upsell items into different upsell "groupings".
+Open questions
+Upsell data structure: 
+What could this look like? Our initial recommendation would be a one-to-many relationship between items and upsells. 
+Are there prohibitive negative consequences to having one-to-many relationships for both items to upsells and items to skus? 
+How do we allocate upsells to items in mixed basket orders? 
+Upsell values
+What upsell "values" can we / do we want to track? 
+If we report on upsell "value", how do we ensure our financial reporting doesn't duplicate, considering the upsell "value" is already part of the Item revenue?
+Categorisation 
+How do we differentiate between upsells and standalone items? Currently, standalone items (e.g. a pen) have a Product Category Four. Do we use similar groupings for upsells, now and in the future? 
+What is the impact of this categorisation on our financial modeling, which currently happens on a Category One level?
+
+
+
+**Upsells kick-off intro**
+Hi all, 
+
+Thanks for joining this meeting. The objective is to discuss our future Upsell reporting structure as our current structure doesn’t allow us to easily and accurately report on the performance of Upsells. 
+We want to kick this off now because Upsells is a big part of Papier’s strategy and they will be an increasingly large budget item going forward. 
+
+Without going into too much detail, the problem with our current structure is that upsells are reported as SKUs attached to an item and this structure doesn’t allow us to capture all upsell data we need, nor does it allow flexibility in our reporting. 
+
+In the kick-off email, I have listed some requirements that are worth reiterating: 
+Ability to track individual upsells as additional "items" in the basket. 
+Keep the link between items/orders and upsells to report on attachment rates.
+Record the "value" of individual upsell items.
+Ability to differentiate between items sold as upsells vs as standalone items.
+Ability to group upsell items into different upsell "groupings".
+
+I have listed some initial open questions that can guide this discussion. Before going there, does everyone agree with or want to add anything to the objective and requirements? 
+
+Ok great. The open questions we came up with fall into 3 categories: actual data structures, what upsell values should be and finally categorisation. I think it makes sense to start with the data structures as those are the most fundamental to this discussion. Joe - perhaps you already have some ideas following the requirements we have? In our minds, it makes sense to have a one-to-many between items and upsells but keen to hear your thoughts. 
+
+Upsell data structure: 
+What could this look like? Our initial recommendation would be a one-to-many relationship between items and upsells. 
+Are there prohibitive negative consequences to having one-to-many relationships for both items to upsells and items to skus? 
+How do we allocate upsells to items in mixed basket orders? 
+
+Upsell values
+What upsell "values" can we / do we want to track? 
+If we report on upsell "value", how do we ensure our financial reporting doesn't duplicate, considering the upsell "value" is already part of the Item revenue?
+
+Categorisation 
+How do we differentiate between upsells and standalone items? Currently, standalone items (e.g. a pen) have a Product Category Four. Do we use similar groupings for upsells, now and in the future? 
+What is the impact of this categorisation on our financial modeling, which currently happens on a Category One level?
+
+**Logical replication kick-off**
+Hi Joe and George, 
+ 
+Our Fivetran Heroku Postgres connector does not reflect, nor allows us to identify, deleted rows in the database. As a result, we have reporting issues on our end as deleted values are showing up whereas they shouldn't. We're keen to understand how we can make sure that our reporting reflects deletes in the source databases accurately. I've added additional context below. 
+ 
+Let me know if you need more details, a ticket, or if it helps to discuss over a call. 
+ 
+Thanks, 
+ 
+Dave 
+ 
+Examples of reporting issues
+Inaccurate products in Website Categories (see this Look and the screenshot below) - we're seeing Christmas products listed under Fathers Day Web Categories even though these aren't categorised as such in Admin. 
+We have duplicate shipments in our fulfilment_shipments table when one of the shipments was deleted. We discussed this briefly in this ticket. 
+It's worth noting that I can imagine us having many more similar errors that simply go unnoticed, making this an important thing to get right. 
+ 
+Fivetran's recommendation
+ 
+We've spoken to Fivetran and the conclusion was that Heroku Postgres doesn't support logical replication, which makes it impossible to automatically reflect deletes. Instead, Fivetran suggests:
+Creating an auxiliary table to hold deleted items
+Creating a trigger that writes to that table before every deletion
+Creating a transformation that handles the table of deleted items
+I think that solution would work but there might be easier solutions or even workarounds that we can implement? 
+
+
 
 ## Lookerpaps delivery 
 **LTV model**
@@ -620,8 +710,20 @@ Dave
 
 
 
-**Repeat definitions**
+**Issues with Zendesk reporting**
+Hey @ Had a look at the logic in Looker: SLA hours are set based on ticket priorities like so: when ${priority} = 'urgent' then 2 when ${priority} = 'high' then 4 when ${priority} = 'normal' then 6 If the reply time in hours (which is the “Full Resolution (Business)" dimension in Looker) is within those SLA hours, it is part of 'within_sla'. Some points that could be worth checking: - Are any other metrics different between Zendesk and Looker or just SLA? - Are we comparing the same time frames (e.g. by ticket created date for the same number of days?) - Does Zendesk report SLAs on an hour or minute basis? - Is it possible to see which tickets meet the SLA criteria in Zendesk on a by-ticket level? That would be the easiest way to directly compare the data against Looker. 
 
+**Issues with session-level reporting**
+Hey @Nikita Kursov I double-checked the filter and it should filter out sessions that took place before the experiment. Do you have a benchmark of what the session counts should be? Another idea is to pull the data on a more granular level - i.e. looking at a few users with the custom filter applied vs not applied, comparing events and sessions, and validating whether the filter is behaving as expected. 
+
+**Push back on new projects**
+Thanks Faye - this is really helpful! 
+ 
+These are all substantial pieces of work that require a lot of exploration and often result in additional work we didn't foresee when we dive deeper in and learn more about the data. Given the scope, we will want to add these projects to our H2 roadmap and prioritise them alongside other business priorities. I am planning to kick off the H2 roadmap sessions early in July - let's pick up the planning and prioritisation in more detail then? 
+ 
+Thanks, 
+
+Dave 
 
 
 
@@ -882,3 +984,9 @@ Booking in an hour (might not need the full hour) to go through your slides for 
 Let me know if you have any questions! 
 
 Dave 
+
+## Management feedback template
+I wanted to share a few pieces of feedback with you:
+I've heard from many people you've been doing an exceptional job.  Fielding questions well, great attitude, collaborating  well...you've quickly become the go-to person for all things BI.  You've been working really hard and it shows, keep up the great work
+Your ability to communicate and prioritize has been fantastic.  Despite a growing backlog, everyone has been getting the business critical things they need, and there isn't any discussion at the top of BI holding up key work.  The customer explore is a good example, you correctly are focused on key projects (customer, upsells) and not chasing the roadmap
+You're looking ahead, not just focused on what's in front.  Thinking about prepping for Eve, maintaining tickets, etc.  It's great to see you balance both what's going on now but also prepping ahead of big pieces of work

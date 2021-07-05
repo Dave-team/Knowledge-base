@@ -31,6 +31,7 @@
     - Really important: send email and directly follow up in Slack 
 - A big part of the job is managing expectation. You have responsibilities but so do their team. Make sure this is clearly defined. 
 - Always keep your stakeholders up to date on any changes in the state of your tickets. 
+- Write an email first so people can think about things and then make a recommendation rather than meeting about it directly 
 
 Mendelows Matrix: 
 Before a project, map out all the different stakeholders and their roles in the project with a plan as to how each of these stakeholders will be kept informed throughout the project. 

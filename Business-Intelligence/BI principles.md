@@ -432,3 +432,52 @@ ContentSquare vs Looker
 - Check values: conversions, sessions high level. Are they directionally correct? 
 - Define ways of working: Looker is used for sessions and attribution as the Source of Truth rather than CX - no need to know the differences exactly 
 - Important to make it self service - defining goals, segments, etc. it’s easy to do but needs to be scalable, shared definitions etc. 
+
+## Analytics project checklist
+Company
+Start at the top level. Think how the use of data fits within your company goals.
+- What are you trying to achieve with the data and why?
+- What are the current top level business objectives?
+- What are the metrics behind these objectives and how are those defined?
+- Does everyone agree on those definitions?
+- What are the use cases for the data “today”?
+- How do you imagine data being used in your company in the midterm and in the long term?
+
+Use case
+Probably most important set of questions to answer. You would be surprised how common it is to skip this. Do not make that mistake.
+- What is the problem you are trying to solve?
+- What is wrong with the solution that is currently in place?
+- What is the urgency to solve that problem?
+- Do you see any pieces of the problem that are potential “low hanging fruits”? (Hint: these will make a good case for a proof of concept)
+
+Data consumer
+This will determine the necessary steps before the data is accessible to people in the company as well as the level of possible interaction and the structure around the access.
+- Who are the data consumers?
+- What are they trying to achieve?
+- What is their level of data literacy and how much attention will they require?
+  - Can they ask good questions?
+  - How likely it is they will be able to get the answers on their own?
+  - How well structured and pre-shaped data would they need for that?
+
+Decision making velocity
+Before you start insisting on having access to real time data, take a moment to think about these.
+- How frequently is the data being looked at?
+- How quickly are you able to act upon it?
+- Are you planning to automate certain decisions / actions either for your customers or for internal purposes based on the calculated metrics? If yes, what are the actions and what kind of data calculations do they need?
+
+Data sources and volume
+This set can be tricky to answer in full or even partially. But these questions are extremely helpful to determine buy vs build strategy for your source connectors.
+- What are your data sources?
+- How unique to your business are they?
+- How critical to your business is the data behind them? In other words, how much control around data acquisition are you willing to give up?
+- How many of them do you have?
+- How frequently the data schema behind them changes?
+- How many do you anticipate adding soon and what are those?
+- What is the volume of your data currently? How much do you process every day?
+- Do you know if that is expected to grow and how quickly?
+- What is your general tech stack in the company? Are you using Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, something else?
+
+Value
+Finally, having answers to the questions from the other themes will help you answer the last two, namely:
+- Given your goals, current challenges and how badly, and quickly, you want to solve them, how much is this worth to you? Aka what is your budget?
+- What is your success metric for your data stack? How will you know whether what you decided to do works or doesn’t?

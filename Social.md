@@ -197,7 +197,11 @@ second languages?”
 - Be genuinely interested in people and want to meet and find out about them. People are unique and we all have stories to tell. Focus on finding out about their story: focus on their past experiences, their hobbies, their ambitions and their feelings and emotions and motivations.   
 
 ## Storytelling 
-TO DO 
+Story telling consists of three essential parts:
+1. Set up: set the scene for what you’re about to say
+2. Content: actual content of the story. It should cause tension and expectancy. It has to be intriguing and hook people into wanting to know what will happen next. 
+3. Resolution: release the tension from the content and finish the story
+
 
 ## 1-1 Conversations
 - A good conversation consists of: 

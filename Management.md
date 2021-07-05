@@ -1,7 +1,18 @@
 # Management 
+New joiners:
+- lots of easy wins that don’t have time pressure. Don’t do these yourself 
+- Push on day 1
+- Give them things to learn rather than teaching them. Don’t be too involved and let them figure stuff out 
+- 4 week plan. Weekly check ins on what they’re learned 
 
-Papier notes
-New joiner: lots of easy wins that don’t have time pressure. Don’t do these yourself 
+Projects: 
+- Get used to saying no
+- Don’t do too many things - most things don’t matter that much 
+
+Management
+- Use developer productivity tools. It’s worth it. 
+- Actual pairing sessions working through something to have the context on why something is done a certain way, see how we code, and make sure PRs don’t cause any surprises
+- Try things. Try Snowflake - it’s better, great! 
 
 ## Role of the manager
 -	Managers function: not to make people work, but to make it possible for people to do work

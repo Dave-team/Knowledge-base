@@ -14,18 +14,45 @@
 - A simple life is a good life but it’s hard to achieve with all sensory overload and availability of content 
 - Bring back some of the childlike imagination and curiosity 
 - Many people lead life on automatic pilot, rarely stopping to ask themselves what supports and sustains them. Make a list of all the things you do in a typical day and then highlight those that support and sustain you and those that deplete and exhaust you. Are there any changes you need to make? Because our minds tend to focus on threats and problems, we often ignore all the good things in our lives. It can be helpful to pause regularly to think about three things that you enjoyed, that went well, or that you are simply grateful for. Writing them down can be a good reminder that it’s “not all bad” when you start to feel stressed. It can also highlight what is important to you and what you enjoy.
+- What do I bring to someone's life? 
+- 
 
-### About me 
-**Interesting facts**
+### About me
+**Fun things about me**
 - I’m allergic to most fruits and nuts
-- I once wanted to become a bodybuilder
+- I once wanted to become a bodybuilder and ate 4k calories a day 
+- Can nap everywhere
+- Don't have a sweet tooth 
+- Was in a glider 
+- Make spreadsheets and lists 
+- My name is Dave, not David 
+- Had 5 jobs in 5 years
+- Never lived more than 5 mins from work/school etc. 
+
+**Travel** 
+- Moved in HK, Berlin, London
+- Got stopped by police in Vegas and had no idea where we were
+- Had a gun at my head in Soho 
 - I once went jungle trekking on flip flops after it rained. Needless to say, it was slippery
+
+**What I'm all for**
+- Beach, sun, cocktail, music 
+- Whisky, jazz
+- Dancing everywhere and anytime
+- Cuddles 
 
 **Hobbies**
 Working out, cooking, reading, exploring cities/London (travelling), music 
 
 **Other**
 - Type A personality 
+
+Tell me about you
+- Dutch. Venlo. Everything close. Small family 
+- Dad in marine > travel abroad. Hong Kong, Berlin, London
+- I had no idea what I was doing, 5 jobs. 
+- Found London, found data 
+- 3 year relationship that ended. Cultural differences - she wanted to spend time in her life single. Combined not good timing
 
 ## Memories and experiences
 ### Early memories 
@@ -120,6 +147,7 @@ Examples where overthinking is intense:
 - Deciding between taking a job during COVID (Guardian). I wasn't able to focus on doing anything else than constantly thinking about which path to take
 - Why did someone breakup with me? 
 - How should I go about getting a drivers lincese? After all that thinking, I still hadn't taken a lesson
+- Whether I should have been more involved with a girl e.g. at a party 
 
 ### Be aware of feelings and emotions and communicate them
 I find it hard to understand my own feelings and find that I'm am often slightly out of touch with my feelings. Even when I do feel them, I often don't share them and just keep being closed. Any relationship is based on us understanding ourselves and sharing our feelings openly and honestly. 

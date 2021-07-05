@@ -174,3 +174,19 @@ These questions are rated on 1-5 scale:
 -	The analytics team helps me understand our data and how to access it 
 -	The analytics team is responsive to my requests 
 -	I am satisfied with the performance of the analytics team overall 
+
+Other questions
+- Is all the data you want available?
+- Is it difficult to find the data your want?
+- Do you trust the metrics/calculations presented?
+- Do you ever get confused about what metric or dimension means?
+- Do you know where to go for help with data questions
+- Do you feel like our data platform hinders your job performance?
+- Are you happy with our data platform?
+- How frequent do you use Looker Reports 
+- How much confidence do you have in the accuracy of the Looker reports?
+- Do you feel that the reports at your disposal give you meaningful insights and enable you to do your job better? 
+- Where do you use/view Looker reports the most? 
+- How would you rate Looker as a BI tool
+- Have you ever 'explored' data, or build your own report? 
+- What could be added to improve either your Looker experience or your data experience?

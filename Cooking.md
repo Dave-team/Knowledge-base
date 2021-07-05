@@ -9,6 +9,14 @@
   - Be mindful when eating 
 - Food becomes better with love: give it time to develop. Let it simmer for long. Let it marinade for long. 
 - Reference multiple recipes of the same thing - some might look better or are easier than others. Also look at reviews to understand what people may change things with.
+- Get ideas: 
+  - Cooking shows 
+  - Cooking books
+  - Recipe websites
+  - Buy what's on sale / what looks good and design meals from there
+  - Think about a restaurant - what are the main meals on the menu? Think and work from there
+  - What's in season?
+- Don't crowd the pan. Give each piece a little wiggle room and cook stuff in batches.
 
 ## Vegetables
 - Add pickles to a dish for a acidid taste
@@ -143,7 +151,7 @@ Some spices to always have in stock:
 
 ## Organization
 - Read the recipe before starting and have a rough idea of approach
-- Get the required equipment and ingredients out
+- Get the required equipment and ingredients out and organised 
 - Do the chopping and prep work first 
 - Lay out the ingredients in the order in which they should be used
 - Whilst cooking, start cleaning up in between 
@@ -183,3 +191,15 @@ At restaurants, focus on picking foods that are hard to make at home. E.g.:
 - Pho
 - Sushi
 - Fried chicken
+
+## Cooking chicken
+- Prepare even cuts to avoid pieces cooking unevenly
+- Assuming you have cutlets and pounded them thin, next you will want to sprinkle on the appropriate amount of salt, let it sit on a plate or baking sheet at room temp while you continue prepping the rest of your meal.
+- You want to pre-heat your pan over med-high heat with at least 2 tablespoons of oil in it. 
+- Once that oil begins to shimmer and then you see the first wisps of smoke, it is time to add the chicken.
+- After adding the chicken, you may want to turn the heat up to high, but be ready to turn it back down again if things get too dark, too quickly.
+- Let the chicken cook undisturbed until the edges of the chicken begin to turn white. 
+- It’s probably a good idea to rotate each cutlet 180 degrees so that they brown more evenly.
+- Once each cutlet achieves a deeply browned surface on the one side, then flip it
+- Now keep cooking the second side until you reach a minimum 70C internal temp. 
+- Now pull each cutlet and transfer them to a warmed plate to rest for 5 minutes.
